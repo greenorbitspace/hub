@@ -1,6 +1,6 @@
 ---
 title: Communications Security policy
-linkTitle: 'Communications Security policy '
+linkTitle: Communications Security policy
 date: '2025-05-01T21:06:00Z'
 weight: 0
 description: Establishes guidelines for secure communications at Green Orbit Digital,

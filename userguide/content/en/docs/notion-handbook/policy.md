@@ -1,6 +1,6 @@
 ---
 title: Policy
-linkTitle: 'Policy '
+linkTitle: Policy
 date: '2025-05-10T22:54:00Z'
 weight: 0
 description: Policy outlines purpose, scope, responsibilities, procedures, and compliance

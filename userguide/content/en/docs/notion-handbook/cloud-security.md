@@ -1,6 +1,6 @@
 ---
 title: Cloud security
-linkTitle: 'Cloud security '
+linkTitle: Cloud security
 date: '2025-05-01T20:26:00Z'
 weight: 0
 description: Cloud security guidance includes principles such as data protection,

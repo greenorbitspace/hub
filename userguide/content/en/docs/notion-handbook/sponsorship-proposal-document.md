@@ -1,6 +1,6 @@
 ---
 title: Sponsorship proposal document
-linkTitle: 'Sponsorship proposal document '
+linkTitle: Sponsorship proposal document
 date: '2025-04-29T17:09:00Z'
 weight: 0
 description: Sponsorship proposal outlines partnership opportunities, including tailored

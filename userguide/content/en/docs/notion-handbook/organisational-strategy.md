@@ -1,6 +1,6 @@
 ---
 title: Organisational strategy
-linkTitle: 'Organisational strategy '
+linkTitle: Organisational strategy
 date: '2025-04-29T17:10:00Z'
 weight: 0
 description: Organizational strategy focuses on defining goals, establishing structure,

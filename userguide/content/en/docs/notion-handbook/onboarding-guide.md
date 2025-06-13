@@ -1,6 +1,6 @@
 ---
 title: Onboarding guide
-linkTitle: 'Onboarding guide '
+linkTitle: Onboarding guide
 date: '2025-05-01T20:26:00Z'
 weight: 0
 description: Onboarding includes a welcome message, first-day essentials, team introductions,

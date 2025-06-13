@@ -1,6 +1,6 @@
 ---
 title: Space Sustainability Handbook
-linkTitle: 'Space Sustainability Handbook '
+linkTitle: Space Sustainability Handbook
 date: '2025-05-06T02:19:00Z'
 weight: 0
 description: Guide for space sustainability emphasizing debris mitigation, resource

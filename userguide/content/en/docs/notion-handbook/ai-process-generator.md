@@ -1,6 +1,6 @@
 ---
 title: A.I Process Generator
-linkTitle: 'A.I Process Generator '
+linkTitle: A.I Process Generator
 date: '2025-04-29T16:54:00Z'
 weight: 0
 description: E.V.A is an AI tool designed to help create detailed business process

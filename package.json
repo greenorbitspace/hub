@@ -2,7 +2,10 @@
   "name": "docsy",
   "version": "0.12.1-dev-unreleased",
   "version.next": "0.12.2-dev-unreleased",
-  "repository": "github:google/docsy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/google/docsy.git"
+  },
   "homepage": "https://www.docsy.dev",
   "license": "Apache-2.0",
   "scripts": {
@@ -42,7 +45,10 @@
     "bootstrap": "5.3.6"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.21",
     "cpy-cli": "^5.0.0",
+    "postcss": "^8.5.5",
+    "postcss-cli": "^11.0.1",
     "prettier": "^3.5.3"
   },
   "peerDependencies": {
@@ -58,5 +64,13 @@
   "engines": {
     "node": ">=22"
   },
-  "spelling": "cSpell:ignore docsy hugo fortawesome fontawesome onedark twbs netlify pkgs userguide -"
+  "spelling": "cSpell:ignore docsy hugo fortawesome fontawesome onedark twbs netlify pkgs userguide -",
+  "description": "> **🚧 WARNING 🚧 : `main` is under development and potentially unstable! Use > official Docsy [releases].**",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/google/docsy/issues"
+  }
 }

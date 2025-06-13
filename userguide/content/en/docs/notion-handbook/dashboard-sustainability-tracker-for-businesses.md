@@ -1,6 +1,6 @@
 ---
 title: 'Dashboard: Sustainability Tracker for Businesses'
-linkTitle: 'Dashboard: Sustainability Tracker for Businesses '
+linkTitle: 'Dashboard: Sustainability Tracker for Businesses'
 date: '2025-04-29T16:24:00Z'
 weight: 0
 description: A sustainability tracker for businesses outlines goals and action items

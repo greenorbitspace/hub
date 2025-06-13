@@ -1,6 +1,6 @@
 ---
 title: Web strategy
-linkTitle: 'Web strategy '
+linkTitle: Web strategy
 date: '2025-04-29T17:10:00Z'
 weight: 0
 description: Define website goals to increase brand awareness, generate leads, and

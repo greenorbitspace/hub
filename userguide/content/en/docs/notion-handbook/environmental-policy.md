@@ -1,6 +1,6 @@
 ---
 title: Environmental policy
-linkTitle: 'Environmental policy '
+linkTitle: Environmental policy
 date: '2025-05-01T21:06:00Z'
 weight: 0
 description: Green Orbit Digital commits to environmental stewardship by minimizing

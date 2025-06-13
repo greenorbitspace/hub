@@ -1,6 +1,6 @@
 ---
 title: Customer journey
-linkTitle: 'Customer journey '
+linkTitle: Customer journey
 date: '2025-05-01T20:18:00Z'
 weight: 0
 description: The customer journey for Green Orbit Digital outlines stages from awareness

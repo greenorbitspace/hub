@@ -1,6 +1,6 @@
 ---
 title: Data-Driven Decision Making strategy
-linkTitle: 'Data-Driven Decision Making strategy '
+linkTitle: Data-Driven Decision Making strategy
 date: '2025-04-29T17:10:00Z'
 weight: 0
 description: Implement a data-driven decision-making strategy focusing on establishing

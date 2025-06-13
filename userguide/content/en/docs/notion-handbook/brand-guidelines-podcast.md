@@ -1,6 +1,6 @@
 ---
 title: Brand guidelines podcast
-linkTitle: 'Brand guidelines podcast '
+linkTitle: Brand guidelines podcast
 date: '2025-05-06T02:19:00Z'
 weight: 0
 description: No content

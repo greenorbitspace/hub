@@ -1,6 +1,6 @@
 ---
 title: Electrical Devices policy
-linkTitle: 'Electrical Devices policy '
+linkTitle: Electrical Devices policy
 date: '2025-05-01T21:06:00Z'
 weight: 0
 description: Guidelines for the safe use of electrical devices include encryption,

@@ -1,6 +1,6 @@
 ---
 title: Company Manual/Playbook
-linkTitle: 'Company Manual/Playbook '
+linkTitle: Company Manual/Playbook
 date: '2025-04-27T18:00:00Z'
 weight: 0
 description: Comprehensive operational guide for Green Orbit Digital detailing vision,

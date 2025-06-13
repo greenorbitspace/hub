@@ -1,6 +1,6 @@
 ---
 title: Sales plan
-linkTitle: 'Sales plan '
+linkTitle: Sales plan
 date: '2025-04-29T17:09:00Z'
 weight: 0
 description: Strategic sales plan aimed at sustainable growth through targeted initiatives,

@@ -1,6 +1,6 @@
 ---
 title: Management strategy
-linkTitle: 'Management strategy '
+linkTitle: Management strategy
 date: '2025-04-29T17:10:00Z'
 weight: 0
 description: A comprehensive management strategy focuses on leadership development,

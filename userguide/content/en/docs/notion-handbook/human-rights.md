@@ -1,6 +1,6 @@
 ---
 title: Human Rights
-linkTitle: 'Human Rights '
+linkTitle: Human Rights
 date: '2025-05-01T21:06:00Z'
 weight: 0
 description: Businesses should respect and support human rights by avoiding harm,
