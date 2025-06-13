@@ -38,7 +38,7 @@ Tech Stack Guide Template
 The Tech Stack single source of truth is the Tech Stack YAML and contains more detail about this app.
 
 ```plain text
-<div class="alert alert-warning"><strong>Note:</strong> tech-stack: Application Name</div>
+[Tech Stack Info]
 
 ```
 
@@ -78,7 +78,7 @@ Important Notes:
 
 ```plain text
 The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
-<div class="alert alert-warning"><strong>Note:</strong> tech-stack: Zuora Billing</div>
+[Tech Stack Info]
 
 ```
 
