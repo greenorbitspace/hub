@@ -1,6 +1,6 @@
 ---
 title: Talent Acquisition and Retention strategy
-linkTitle: Talent Acquisition and Retention strategy
+linkTitle: 'Talent Acquisition and Retention strategy '
 date: '2025-04-29T17:10:00Z'
 weight: 0
 description: Comprehensive strategy for talent acquisition and retention includes

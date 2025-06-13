@@ -1,6 +1,6 @@
 ---
 title: Supply Chain Management and Quality Control
-linkTitle: Supply Chain Management and Quality Control
+linkTitle: 'Supply Chain Management and Quality Control '
 date: '2025-05-01T21:06:00Z'
 weight: 0
 description: The policy integrates sustainability in supply chain management, requiring

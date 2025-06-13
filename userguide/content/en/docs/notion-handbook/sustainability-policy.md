@@ -1,6 +1,6 @@
 ---
 title: Sustainability Policy
-linkTitle: Sustainability Policy
+linkTitle: 'Sustainability Policy '
 date: '2025-05-01T21:06:00Z'
 weight: 0
 description: Green Orbit Digital is committed to sustainability through environmental,

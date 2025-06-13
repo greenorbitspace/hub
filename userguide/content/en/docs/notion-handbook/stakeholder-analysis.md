@@ -1,6 +1,6 @@
 ---
 title: Stakeholder analysis
-linkTitle: Stakeholder analysis
+linkTitle: 'Stakeholder analysis '
 date: '2025-04-29T17:10:00Z'
 weight: 0
 description: Green Orbit Digital's stakeholder analysis identifies internal stakeholders
