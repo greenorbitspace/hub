@@ -48,11 +48,15 @@ $font-weight-bold:            700 !default;
 
 $spacer: 1rem !default;
 
-$primary:       $blue !default;
-$secondary:     $gray-600 !default;
+//$primary:       $blue !default;
+//$secondary:     $gray-600 !default;
 $success:       $green !default;
-$info:          $cyan !default;
+//$info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-900 !default;
+
+$primary:   #127780 !default; // Deep Teal
+$secondary: #0fc083 !default; // Bold Turquoise
+$info:      #0c4d53 !default; // Deep Space Green-Blue
