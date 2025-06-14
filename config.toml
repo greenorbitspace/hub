@@ -1,0 +1,7 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Green Orbit Digital Documentation"
+theme = "docsy"
+
+[params.ui]
+  sidebar_menu_truncate = 1300

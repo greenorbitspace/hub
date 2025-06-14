@@ -29,7 +29,7 @@
     {{ $sid := printf "%s%d" $psid $subSection }}
     {{ $subSection = add $subSection 1 }}
 	{{ $params := dict "Page" . "PageNum" $sid "DoPageBreak" $doPageBreak }}
-    {{ partial "print/content.html" $params }}
+    {{ partial "print/_td-content.html" $params }}
 
     {{ if .IsSection }}
       {{ template "recurse-content" (dict "section" . "psid" (printf "%s." $sid) ) }}
