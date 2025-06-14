@@ -8,10 +8,5 @@ description: Steps for conducting an internal audit of the Event Management Syst
   the audit, and follow-up reporting to ensure compliance with ISO 20121 and identify
   areas for improvement.
 draft: false
+ref: procedure-for-event-management-system-internal-audit
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

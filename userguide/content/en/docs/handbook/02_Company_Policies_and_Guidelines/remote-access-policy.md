@@ -7,7 +7,5 @@ description: Establishes guidelines for secure remote access to organizational s
   requiring authorization, encrypted communication, device security, and user responsibilities,
   while ensuring compliance with ISO/IEC 27001 standards.
 draft: false
+ref: remote-access-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

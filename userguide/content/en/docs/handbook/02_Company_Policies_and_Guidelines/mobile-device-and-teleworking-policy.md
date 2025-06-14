@@ -8,7 +8,5 @@ description: The policy outlines guidelines for secure mobile device usage and t
   with ISO/IEC 27001 standards. It applies to all employees and requires approval
   for teleworking arrangements.
 draft: false
+ref: mobile-device-and-teleworking-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

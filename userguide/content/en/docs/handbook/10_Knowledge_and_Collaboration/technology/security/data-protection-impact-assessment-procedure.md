@@ -9,10 +9,5 @@ description: A Data Protection Impact Assessment (DPIA) procedure outlines steps
   processing activities, assessing risks, proposing mitigation measures, consulting
   stakeholders, and obtaining approval.
 draft: false
+ref: data-protection-impact-assessment-procedure
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

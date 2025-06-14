@@ -10,41 +10,5 @@ description: Procedures for creating, storing, and managing company documents in
   version control, and proper archiving and disposal. Applies to all departments involved
   in document handling.
 draft: false
+ref: document-management-procedures-for-creating-storing-and-managing-company-documents-and-records
 ---
-
-
-# Document Purpose
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-
-
-# Document Scope
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-# Definitions and Acronyms
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: child_database -->
-
-# The Process Steps
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-<!-- Unsupported block type: table_of_contents -->
-
-
-
-# Related Resources
-
-<!-- Unsupported block type: divider -->
-
-- .

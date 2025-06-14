@@ -9,7 +9,5 @@ description: The Information Security Policy establishes a framework for managin
   third-party users, ensuring regular reviews, risk assessments, and adherence to
   security protocols.
 draft: false
+ref: information-security-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

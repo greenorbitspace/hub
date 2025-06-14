@@ -7,37 +7,5 @@ description: A UI design system includes templates, themes (light and dark), ico
   (filled and outlined), and native components for iOS and Android, with resources
   available on GitHub. Contact for Figma access if needed.
 draft: false
+ref: ui-design-system
 ---
-
-
-<!-- Unsupported block type: callout -->
-
-# Type
-
-<!-- Unsupported block type: embed -->
-
-<!-- Unsupported block type: divider -->
-
-# Templates
-
-<!-- Unsupported block type: embed -->
-
-# Themes
-
-### Light and Dark Theme
-
-<!-- Unsupported block type: embed -->
-
-
-
-# Icons
-
-### Filled and Outlined Icons
-
-<!-- Unsupported block type: embed -->
-
-# Native components
-
-<!-- Unsupported block type: column_list -->
-
-<!-- Unsupported block type: callout -->

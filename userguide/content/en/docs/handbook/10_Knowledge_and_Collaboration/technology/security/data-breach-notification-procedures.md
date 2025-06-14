@@ -7,7 +7,5 @@ description: Data breach notification procedures are currently under review, wit
   a low priority level and verified status, managed by Ryan Laird. Additional details
   and content enhancements are encouraged for clarity.
 draft: false
+ref: data-breach-notification-procedures
 ---
-
-
-<!-- Unsupported block type: callout -->

@@ -10,10 +10,5 @@ description: 'Follow guidelines for software installation, updates, and maintena
   check for updates, monitor performance, apply security patches, troubleshoot issues,
   and maintain documentation for effective management and compliance.'
 draft: false
+ref: software-installation-and-maintenance-guidelines-for-installing-updating-and-maintaining-software-applications
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -8,10 +8,5 @@ description: Guidelines for working from home include maintaining regular hours,
   setting productivity goals, taking breaks for well-being, and complying with company
   policies. Regular reviews and feedback are encouraged for continuous improvement.
 draft: false
+ref: wfh-guidance
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

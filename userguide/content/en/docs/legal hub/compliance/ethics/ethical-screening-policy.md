@@ -7,7 +7,5 @@ description: Establishes a framework for ethical evaluations in hiring and onboa
   ensuring compliance with ISO 30401 standards, enhancing screening processes, and
   integrating ethical training for new employees to uphold organizational values.
 draft: false
+ref: ethical-screening-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

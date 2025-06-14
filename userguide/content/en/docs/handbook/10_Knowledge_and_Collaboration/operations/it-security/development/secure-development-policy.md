@@ -7,7 +7,5 @@ description: Establishes a framework for secure software development aligned wit
   ISO/IEC 27001, covering all stages of the SDLC, with roles defined for policy owner,
   developers, QA, and management to ensure compliance and mitigate security risks.
 draft: false
+ref: secure-development-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

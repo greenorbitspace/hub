@@ -8,7 +8,5 @@ description: The policy ensures secure disposal of equipment containing sensitiv
   with compliance to ISO/IEC 27001 standards and responsibilities assigned to employees
   and the policy owner.
 draft: false
+ref: secure-disposal-of-equipment-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

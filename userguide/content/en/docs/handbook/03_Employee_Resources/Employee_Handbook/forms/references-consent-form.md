@@ -7,10 +7,5 @@ description: Consent form for individuals to authorize the collection and use of
   references for employment verification, including personal information and a declaration
   of consent for contact by the company.
 draft: false
+ref: references-consent-form
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

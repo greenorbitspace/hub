@@ -8,10 +8,5 @@ description: Procedure for conducting internal audits to ensure compliance with 
   follow-up, and review processes to enhance the organization's information security
   management system.
 draft: false
+ref: internal-audit-procedure
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

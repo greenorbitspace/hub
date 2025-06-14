@@ -7,10 +7,5 @@ description: Organizing a conference involves defining objectives, selecting a v
   and date, developing the program, promoting the event, managing logistics, executing
   the event, and gathering feedback for analysis.
 draft: false
+ref: conference
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

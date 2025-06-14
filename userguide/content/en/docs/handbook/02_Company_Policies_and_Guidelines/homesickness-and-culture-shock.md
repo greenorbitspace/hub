@@ -7,7 +7,5 @@ description: Policy provides guidance for employees facing homesickness and cult
   shock, ensuring support and resources for mental health and cultural integration,
   while aligning with ISO 45001 standards.
 draft: false
+ref: homesickness-and-culture-shock
 ---
-
-
-<!-- Unsupported block type: unsupported -->

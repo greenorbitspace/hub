@@ -7,23 +7,5 @@ description: Impact report created on May 9, 2025, is currently under review wit
   a high priority status. The report date is March 24, 2025, and it includes Bcorp
   scores and other related documents.
 draft: false
+ref: 2024-impact-report
 ---
-
-
-<!-- Unsupported block type: embed -->
-
-
-
-
-
-
-
-<!-- Unsupported block type: child_database -->
-
-
-
-<!-- Unsupported block type: child_database -->
-
-
-
-<!-- Unsupported block type: child_database -->

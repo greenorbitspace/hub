@@ -8,7 +8,5 @@ description: The Online Safety Policy outlines measures to protect information a
   safe online practices, risk management, employee training, and adherence to legal
   requirements to maintain a secure online environment.
 draft: false
+ref: online-safety
 ---
-
-
-<!-- Unsupported block type: unsupported -->

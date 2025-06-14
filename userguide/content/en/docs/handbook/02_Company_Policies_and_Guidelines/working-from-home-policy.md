@@ -8,7 +8,5 @@ description: The policy outlines guidelines for remote work, emphasizing employe
   must approve arrangements and provide support. Compliance with health standards
   and regular reviews are required to ensure effectiveness.
 draft: false
+ref: working-from-home-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

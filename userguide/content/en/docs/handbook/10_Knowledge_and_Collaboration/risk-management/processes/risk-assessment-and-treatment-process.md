@@ -7,10 +7,5 @@ description: Establish a systematic risk assessment and treatment process aligne
   with ISO/IEC 27001, including risk identification, analysis, evaluation, treatment
   options, monitoring, and communication with stakeholders.
 draft: false
+ref: risk-assessment-and-treatment-process
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

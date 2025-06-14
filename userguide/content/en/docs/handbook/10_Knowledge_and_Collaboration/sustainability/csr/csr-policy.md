@@ -8,7 +8,5 @@ description: The CSR policy emphasizes commitment to sustainability, ethical pra
   initiatives, engaging in community goodwill, and ensuring compliance with global
   standards like ISO 14001. Implementation is currently in progress and under review.
 draft: false
+ref: csr-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

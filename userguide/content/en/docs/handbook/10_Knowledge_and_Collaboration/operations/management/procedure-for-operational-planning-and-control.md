@@ -8,10 +8,5 @@ description: Effective operational planning involves defining objectives, identi
   the plan, implementing it, monitoring performance, and reviewing for improvements,
   all aligned with sustainability standards like ISO 20121.
 draft: false
+ref: procedure-for-operational-planning-and-control
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

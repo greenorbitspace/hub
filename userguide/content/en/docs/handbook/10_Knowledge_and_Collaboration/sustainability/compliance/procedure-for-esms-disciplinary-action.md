@@ -8,10 +8,5 @@ description: Establishes a clear process for handling disciplinary actions under
   investigation, corrective action planning, and follow-up to ensure compliance with
   ISO 20121 standards.
 draft: false
+ref: procedure-for-esms-disciplinary-action
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -7,7 +7,5 @@ description: Policy outlines secure use of cryptography to protect sensitive inf
   detailing roles, responsibilities, key management, compliance with ISO/IEC 27001,
   and monitoring procedures to prevent unauthorized access and ensure data integrity.
 draft: false
+ref: policy-on-the-secure-use-of-cryptography
 ---
-
-
-<!-- Unsupported block type: unsupported -->

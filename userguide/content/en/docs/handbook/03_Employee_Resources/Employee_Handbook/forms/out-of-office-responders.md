@@ -8,10 +8,5 @@ description: To create effective out-of-office responders, specify absence dates
   and ensure compliance with company policies. Test the message before activation
   and deactivate it upon return.
 draft: false
+ref: out-of-office-responders
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

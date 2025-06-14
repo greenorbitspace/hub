@@ -7,10 +7,5 @@ description: Organize events by defining objectives, developing a plan, assessin
   risks, allocating resources, marketing, executing, and reviewing post-event feedback
   for improvements.
 draft: false
+ref: procedure-for-event-organization
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

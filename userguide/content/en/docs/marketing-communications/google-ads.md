@@ -7,41 +7,5 @@ description: Internal document outlining the purpose, scope, definitions, proces
   steps, and related resources for Google Ads, currently not started and owned by
   Ryan Laird.
 draft: false
+ref: google-ads
 ---
-
-
-# Document Purpose
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-
-
-# Document Scope
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-# Definitions and Acronyms
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: child_database -->
-
-# The Process Steps
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-<!-- Unsupported block type: table_of_contents -->
-
-
-
-# Related Resources
-
-<!-- Unsupported block type: divider -->
-
-- .

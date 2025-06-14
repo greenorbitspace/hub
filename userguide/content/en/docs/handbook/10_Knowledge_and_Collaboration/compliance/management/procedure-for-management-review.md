@@ -8,10 +8,5 @@ description: The management review process involves planning meetings, collectin
   and following up on action items to ensure alignment with strategic goals and continuous
   improvement.
 draft: false
+ref: procedure-for-management-review
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -7,11 +7,5 @@ description: 'RACI Matrix for X Policy Implementation outlines roles: Responsibl
   Accountable, Consulted, and Informed, with Ryan Laird as the owner and a low priority
   status.'
 draft: false
+ref: raci-matrix
 ---
-
-
-### ✅ RACI Matrix – X Policy Implementation
-
-(Responsible, Accountable, Consulted, Informed)
-
-<!-- Unsupported block type: child_database -->

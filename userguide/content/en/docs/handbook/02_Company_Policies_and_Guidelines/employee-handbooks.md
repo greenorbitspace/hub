@@ -7,7 +7,5 @@ description: Company handbook is in draft status, verified, and owned by Ryan La
   with low priority and internal visibility. Guidelines for social media are also
   included.
 draft: false
+ref: employee-handbooks
 ---
-
-
-Guidelines for social media etc.

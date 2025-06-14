@@ -7,7 +7,5 @@ description: Policy aims to manage workplace stress by identifying stressors, pr
   support, and ensuring compliance with ISO 45001 standards. Key elements include
   work hours management, training, and regular monitoring of stress management initiatives.
 draft: false
+ref: stress-at-work
 ---
-
-
-<!-- Unsupported block type: unsupported -->

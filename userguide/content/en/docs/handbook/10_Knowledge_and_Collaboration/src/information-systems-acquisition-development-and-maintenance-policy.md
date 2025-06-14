@@ -7,7 +7,5 @@ description: Establishes guidelines for acquiring, developing, and maintaining i
   systems, ensuring alignment with business objectives and compliance with ISO/IEC
   27001 standards, with responsibilities outlined for all personnel involved.
 draft: false
+ref: information-systems-acquisition-development-and-maintenance-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

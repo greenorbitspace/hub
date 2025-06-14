@@ -11,10 +11,5 @@ description: Performance management involves setting SMART objectives aligned wi
   and ensuring compliance with standards while incorporating social and environmental
   goals. Regular reviews and updates are essential for effectiveness.
 draft: false
+ref: performance-management-guidelines-for-setting-objectives-conducting-performance-reviews-and-managing-employee-development
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

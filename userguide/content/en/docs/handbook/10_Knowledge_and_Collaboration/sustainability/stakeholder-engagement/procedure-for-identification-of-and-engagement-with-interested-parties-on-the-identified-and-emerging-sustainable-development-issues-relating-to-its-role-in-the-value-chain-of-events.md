@@ -12,10 +12,5 @@ description: A systematic procedure for identifying and engaging stakeholders on
   of issues, engagement planning and implementation, analysis of feedback, and ongoing
   monitoring and review to enhance collaboration within the value chain.
 draft: false
+ref: procedure-for-identification-of-and-engagement-with-interested-parties-on-the-identified-and-emerging-sustainable-development-issues-relating-to-its-role-in-the-value-chain-of-events
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

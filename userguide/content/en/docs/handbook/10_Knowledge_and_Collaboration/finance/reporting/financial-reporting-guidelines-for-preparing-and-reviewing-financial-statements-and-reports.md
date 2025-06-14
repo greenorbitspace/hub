@@ -10,10 +10,5 @@ description: Establish a systematic process for preparing and reviewing financia
   and external audits, while ensuring compliance and confidentiality throughout the
   procedure.
 draft: false
+ref: financial-reporting-guidelines-for-preparing-and-reviewing-financial-statements-and-reports
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

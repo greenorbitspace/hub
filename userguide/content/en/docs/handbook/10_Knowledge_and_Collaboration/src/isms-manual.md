@@ -8,11 +8,5 @@ description: Comprehensive guide to Information Security Management System (ISMS
   monitoring, and the importance of continuous improvement to protect information
   assets and ensure compliance.
 draft: false
+ref: isms-manual
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-
-
-<!-- Unsupported block type: unsupported -->

@@ -8,10 +8,5 @@ description: Establish procedures for proper recycling and waste separation, ass
   to support sustainability goals. Regular inspections and documentation are required
   to monitor effectiveness and address issues.
 draft: false
+ref: procedure-for-recycling-refuse-and-waste-separation
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

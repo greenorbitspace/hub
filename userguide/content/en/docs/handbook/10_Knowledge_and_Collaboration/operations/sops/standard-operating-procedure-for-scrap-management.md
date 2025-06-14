@@ -8,10 +8,5 @@ description: Establish a standardized scrap management process to ensure complia
   documentation, inspection, storage, and proper disposal or recycling of scrap materials
   by all employees. Regular reviews and training are essential for adherence.
 draft: false
+ref: standard-operating-procedure-for-scrap-management
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

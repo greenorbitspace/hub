@@ -7,32 +7,5 @@ description: Action plan for Sustainable Development Goals (SDGs) includes a mes
   from the CEO, guiding principles, and priority SDGs, currently in review with high
   priority status.
 draft: false
+ref: sdg-action-plan
 ---
-
-
-<!-- Unsupported block type: embed -->
-
-
-
-Introduction 
-
-Message from CEO 
-
-Guiding principles 
-
-Priority SDGs
-
-Sdgs
-
-<!-- Unsupported block type: unsupported -->
-
-Untitled 
-
-Untitled
-
-United Nations Sustainable Development Goals (SDGs)
-
-
-
-<!-- Unsupported block type: child_database -->
-

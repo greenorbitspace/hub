@@ -8,10 +8,5 @@ description: Establish a systematic approach for monitoring and evaluating proce
   activities, collecting and analyzing data, conducting audits, and implementing improvements
   for continuous enhancement of the Information Security Management System.
 draft: false
+ref: process-for-monitoring-measurement-analysis-and-evaluation
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

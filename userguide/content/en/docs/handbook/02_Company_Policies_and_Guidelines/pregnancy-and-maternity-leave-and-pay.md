@@ -9,7 +9,5 @@ description: The policy outlines maternity leave and pay provisions for full-tim
   a safe work environment. Responsibilities include HR managing requests and management
   supporting implementation.
 draft: false
+ref: pregnancy-and-maternity-leave-and-pay
 ---
-
-
-<!-- Unsupported block type: unsupported -->

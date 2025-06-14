@@ -8,7 +8,5 @@ description: The policy ensures the security of sensitive information by promoti
   devices when unattended, and outlining responsibilities for compliance and reporting
   breaches.
 draft: false
+ref: clear-desk-and-screen-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

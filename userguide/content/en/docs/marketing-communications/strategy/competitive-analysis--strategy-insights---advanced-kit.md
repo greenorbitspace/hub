@@ -7,26 +7,5 @@ description: Confidential competitive analysis includes market share insights, p
   feature evaluation, SWOT analysis, and pricing comparisons, with a low priority
   status and no current publishing plans.
 draft: false
+ref: competitive-analysis--strategy-insights---advanced-kit
 ---
-
-
-## Quick Link
-
-<!-- Unsupported block type: child_page -->
-
-<!-- Unsupported block type: child_page -->
-
-<!-- Unsupported block type: child_page -->
-
-<!-- Unsupported block type: child_page -->
-
-<!-- Unsupported block type: child_page -->
-
-
-
-<!-- Unsupported block type: child_database -->
-
-
-
-
-

@@ -8,10 +8,5 @@ description: Employees leaving Green Orbit must provide written notice, particip
   to confidentiality agreements. Final pay and benefits will be processed, and a clearance
   process must be completed before departure.
 draft: false
+ref: leaving-green-orbit
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

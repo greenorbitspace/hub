@@ -7,10 +7,5 @@ description: Establish a structured approach for environmental management, inclu
   assessing impacts, setting objectives, implementing controls, monitoring performance,
   and ensuring continuous improvement to comply with ISO 20121 standards.
 draft: false
+ref: procedure-for-general-environmental-management-procedure
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

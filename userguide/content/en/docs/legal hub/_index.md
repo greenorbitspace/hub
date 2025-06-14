@@ -5,5 +5,3 @@ description: Optional guidance and recommendations about organizing, authoring, 
   managing your technical documentation.
 ref: legal-compliance
 ---
-
-Use this section to learn about some of the best practices around creating technical documentation with Docsy.

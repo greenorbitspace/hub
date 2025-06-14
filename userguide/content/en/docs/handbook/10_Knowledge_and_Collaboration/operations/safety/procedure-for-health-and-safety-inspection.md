@@ -8,10 +8,5 @@ description: Establish a systematic approach for health and safety inspections, 
   and continuous improvement, with defined responsibilities for the inspection team
   and management. Regular reviews are required to ensure compliance with regulations.
 draft: false
+ref: procedure-for-health-and-safety-inspection
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

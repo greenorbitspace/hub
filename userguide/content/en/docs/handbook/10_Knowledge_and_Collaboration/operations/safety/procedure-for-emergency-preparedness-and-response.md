@@ -7,10 +7,5 @@ description: Establish a systematic approach for emergency preparedness, includi
   risk assessment, response planning, training, activation protocols, incident management,
   and continuous improvement to ensure safety and operational continuity.
 draft: false
+ref: procedure-for-emergency-preparedness-and-response
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -8,7 +8,5 @@ description: Establishes a framework for an Environmental Management System to p
   involving all employees and stakeholders in environmental initiatives and continuous
   improvement.
 draft: false
+ref: environmental-management-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

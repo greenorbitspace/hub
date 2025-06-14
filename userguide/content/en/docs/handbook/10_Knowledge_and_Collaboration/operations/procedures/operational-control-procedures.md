@@ -9,10 +9,5 @@ description: Outline of operational control procedures to ensure compliance with
   health and safety team, management, and employees. Annual review required for compliance
   verification.
 draft: false
+ref: operational-control-procedures
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

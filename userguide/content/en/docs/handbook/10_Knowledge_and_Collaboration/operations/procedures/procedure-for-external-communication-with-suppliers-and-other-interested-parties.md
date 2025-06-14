@@ -9,10 +9,5 @@ description: Establish a structured procedure for external communication with su
   obtaining approvals, sending messages, documenting interactions, and conducting
   follow-ups, all while ensuring compliance with ISO 20121 standards.
 draft: false
+ref: procedure-for-external-communication-with-suppliers-and-other-interested-parties
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -7,7 +7,5 @@ description: Policies for managing data breaches include identification, reporti
   and mitigation procedures aligned with ISO/IEC 27001 standards, ensuring protection
   of sensitive information and compliance with legal requirements.
 draft: false
+ref: data-breach-policies
 ---
-
-
-<!-- Unsupported block type: unsupported -->

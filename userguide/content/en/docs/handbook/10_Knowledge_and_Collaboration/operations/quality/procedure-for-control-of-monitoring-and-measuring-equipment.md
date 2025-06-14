@@ -8,10 +8,5 @@ description: Procedure outlines steps for controlling, calibrating, and maintain
   detailing responsibilities, equipment identification, calibration schedules, maintenance,
   monitoring, and documentation practices.
 draft: false
+ref: procedure-for-control-of-monitoring-and-measuring-equipment
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

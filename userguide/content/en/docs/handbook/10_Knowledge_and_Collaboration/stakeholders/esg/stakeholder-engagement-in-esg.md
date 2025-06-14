@@ -8,10 +8,5 @@ description: Engage stakeholders in ESG by identifying them, understanding their
   collecting and analyzing feedback, taking action, monitoring effectiveness, and
   reporting outcomes. Regular reviews ensure alignment with evolving priorities.
 draft: false
+ref: stakeholder-engagement-in-esg
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

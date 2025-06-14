@@ -7,7 +7,5 @@ description: The policy establishes a structured approach to managing work perfo
   emphasizing goal setting, regular evaluations, and constructive feedback to foster
   a high-performance culture aligned with strategic objectives and ISO 9001 standards.
 draft: false
+ref: managing-work-performance-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

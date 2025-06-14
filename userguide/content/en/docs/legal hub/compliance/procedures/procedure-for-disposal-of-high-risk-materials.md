@@ -8,10 +8,5 @@ description: Ensure safe disposal of high-risk materials by identifying, segrega
   standards and conducting periodic audits. Retain disposal records for specified
   durations.
 draft: false
+ref: procedure-for-disposal-of-high-risk-materials
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

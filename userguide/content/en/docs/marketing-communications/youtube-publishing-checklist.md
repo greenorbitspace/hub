@@ -7,23 +7,5 @@ description: Checklist for YouTube publishing includes creating a thumbnail, tes
   title variations, uploading video to Nebula and YouTube, ordering captions, setting
   the recording date, and adding descriptions with resource links and sponsor details.
 draft: false
+ref: youtube-publishing-checklist
 ---
-
-
-## Uploading and Publishing
-
-<!-- Unsupported block type: to_do -->
-
-<!-- Unsupported block type: to_do -->
-
-<!-- Unsupported block type: to_do -->
-
-<!-- Unsupported block type: to_do -->
-
-<!-- Unsupported block type: to_do -->
-
-<!-- Unsupported block type: to_do -->
-
-<!-- Unsupported block type: to_do -->
-
-<!-- Unsupported block type: to_do -->

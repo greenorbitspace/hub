@@ -8,7 +8,5 @@ description: The company commits to upholding human rights and fair labour pract
   child labour, promoting diversity, and providing training for employee development,
   with regular reviews for compliance and effectiveness.
 draft: false
+ref: human-rights-and-labour-practice-policies
 ---
-
-
-<!-- Unsupported block type: unsupported -->

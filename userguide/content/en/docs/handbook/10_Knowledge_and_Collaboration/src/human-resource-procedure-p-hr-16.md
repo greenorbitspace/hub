@@ -7,10 +7,5 @@ description: The onboarding process includes pre-onboarding tasks, orientation o
   the first day, training and documentation, integration with regular check-ins, and
   evaluations at 30, 60, and 90 days to enhance employee satisfaction and productivity.
 draft: false
+ref: human-resource-procedure-p-hr-16
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

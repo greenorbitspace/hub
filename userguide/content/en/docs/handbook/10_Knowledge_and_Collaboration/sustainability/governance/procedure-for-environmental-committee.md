@@ -8,10 +8,5 @@ description: The procedure outlines steps for the Environmental Committee, inclu
   and communication to enhance sustainability practices in alignment with ISO 20121
   standards.
 draft: false
+ref: procedure-for-environmental-committee
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

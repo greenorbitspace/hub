@@ -9,10 +9,5 @@ description: Ensure all employees meet information security standards through a 
   include coordination by HR and training delivery by the Information Security Team.
   Regular reviews will maintain relevance and effectiveness.
 draft: false
+ref: information-security-competence-development-procedure
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

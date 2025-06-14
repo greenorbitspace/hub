@@ -8,27 +8,5 @@ description: Company handbook details include low priority status and internal v
   management, risk management, recycling policies, facility management, quality management,
   stress management, time management, and property management.
 draft: false
+ref: related-business
 ---
-
-
-Related Business Templates
-
-Change Management Plan
-
-Crisis Management Plan
-
-Project Management Plan
-
-Risk Management Plan
-
-Workplace Recycling and Waste Reduction Policy
-
-Facility Management Plan
-
-Quality Management Plan
-
-Stress Management Plan
-
-Time Management Plan
-
-Property Management Business Plan

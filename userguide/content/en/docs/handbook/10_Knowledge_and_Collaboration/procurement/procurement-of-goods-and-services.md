@@ -9,7 +9,5 @@ description: The procurement policy emphasizes ethical, sustainable, and efficie
   actions involve enhancing supplier screening and simplifying access to procurement
   information.
 draft: false
+ref: procurement-of-goods-and-services
 ---
-
-
-<!-- Unsupported block type: unsupported -->

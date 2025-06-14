@@ -7,7 +7,5 @@ description: The policy outlines a framework for managing societal risks related
   health, safety, climate, and information security, ensuring compliance with international
   standards and promoting a culture of safety within the organization.
 draft: false
+ref: societal-risk
 ---
-
-
-<!-- Unsupported block type: unsupported -->

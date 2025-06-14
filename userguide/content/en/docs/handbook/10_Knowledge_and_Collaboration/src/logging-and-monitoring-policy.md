@@ -8,7 +8,5 @@ description: Establishes guidelines for logging and monitoring to comply with IS
   defined roles for policy owner, IT team, and all employees. Regular audits and incident
   responses are mandated.
 draft: false
+ref: logging-and-monitoring-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

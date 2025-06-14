@@ -7,7 +7,5 @@ description: Policy outlines responsible management and use of work equipment an
   machinery, emphasizing sustainability, safety compliance, and regular maintenance
   to minimize environmental impact and ensure operational efficiency.
 draft: false
+ref: work-equipment-and-machinery
 ---
-
-
-<!-- Unsupported block type: unsupported -->

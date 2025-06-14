@@ -7,10 +7,5 @@ description: Establish a standardized procedure for managing documented informat
   including creation, review, approval, version control, accessibility, periodic review,
   archiving, and disposal, in compliance with ISO/IEC 27001 standards.
 draft: false
+ref: procedure-for-the-control-of-documented-information
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

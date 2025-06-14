@@ -6,7 +6,5 @@ weight: 1
 description: Timekeeping policies and procedures are currently not started, with ownership
   by Ryan Laird and a dedicated URL for reference.
 draft: false
+ref: timekeeping-policies-and-procedures
 ---
-
-
-<!-- Unsupported block type: image -->

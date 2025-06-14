@@ -9,10 +9,5 @@ description: Procedure for identifying and resolving nonconformities to ensure c
   improvement. Responsibilities outlined for employees, ISMS team, and management.
   Metrics will be tracked for effectiveness.
 draft: false
+ref: corrective-action-procedure
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

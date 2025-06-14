@@ -8,22 +8,5 @@ description: Cloud security guidance includes principles such as data protection
   user management, with resources for choosing a cloud provider and using services
   securely.
 draft: false
+ref: cloud-security
 ---
-
-
-Pages
-
-## Pages
-
-- Cloud security guidance
-
-- Introduction to cloud security
-
-- Understanding cloud services
-
-- Choosing a cloud provider
-
-- Using cloud services securely
-
-- The cloud security principles
-

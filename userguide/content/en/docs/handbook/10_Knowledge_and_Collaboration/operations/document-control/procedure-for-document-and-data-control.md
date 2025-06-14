@@ -7,10 +7,5 @@ description: Establish a procedure for document and data control, including step
   for creation, review, approval, publishing, distribution, maintenance, and archival,
   ensuring compliance with ISO 20121 standards and proper handling of sensitive information.
 draft: false
+ref: procedure-for-document-and-data-control
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

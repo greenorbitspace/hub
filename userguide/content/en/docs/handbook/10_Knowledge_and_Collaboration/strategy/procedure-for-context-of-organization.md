@@ -8,10 +8,5 @@ description: Procedure outlines steps for identifying and analyzing internal and
   developing action plans aligned with sustainability goals, in accordance with ISO
   20121 standards.
 draft: false
+ref: procedure-for-context-of-organization
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

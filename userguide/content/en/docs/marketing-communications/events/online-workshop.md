@@ -7,10 +7,5 @@ description: Conduct an online workshop by planning objectives, preparing materi
   executing the session with interactive elements, and following up with feedback
   and shared resources.
 draft: false
+ref: online-workshop
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

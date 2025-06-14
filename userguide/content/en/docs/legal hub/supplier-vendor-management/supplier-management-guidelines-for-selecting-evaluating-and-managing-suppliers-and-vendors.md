@@ -10,10 +10,5 @@ description: Guidelines for managing suppliers include defining requirements, co
   sustainability, managing risks, fostering relationships, and planning for termination
   and continuous improvement.
 draft: false
+ref: supplier-management-guidelines-for-selecting-evaluating-and-managing-suppliers-and-vendors
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

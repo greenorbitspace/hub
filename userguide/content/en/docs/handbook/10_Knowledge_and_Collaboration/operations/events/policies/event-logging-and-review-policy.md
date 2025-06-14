@@ -8,7 +8,5 @@ description: Establishes a framework for logging and reviewing events to ensure 
   roles, logging requirements, and regular review processes to support incident response
   and protect log data.
 draft: false
+ref: event-logging-and-review-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

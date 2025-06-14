@@ -7,10 +7,5 @@ description: Steps for managing on-call duties include scheduling, incident repo
   response and escalation, resolution documentation, and post-incident reviews, ensuring
   effective incident management and continuous improvement.
 draft: false
+ref: on-call-procedure
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

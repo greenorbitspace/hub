@@ -8,10 +8,5 @@ description: Establish a Health and Safety Committee by forming a diverse group,
   training, and continuously evaluating practices to ensure compliance with ISO 20121
   and promote workplace safety.
 draft: false
+ref: procedure-for-health-and-safety-committee
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

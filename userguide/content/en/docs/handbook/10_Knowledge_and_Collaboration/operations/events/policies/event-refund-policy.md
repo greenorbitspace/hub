@@ -9,7 +9,5 @@ description: The policy outlines clear guidelines for event refunds, emphasizing
   Participants must submit requests by the deadline, with decisions communicated within
   five business days.
 draft: false
+ref: event-refund-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

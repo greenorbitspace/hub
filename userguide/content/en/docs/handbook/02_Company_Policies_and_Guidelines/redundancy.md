@@ -7,7 +7,5 @@ description: The redundancy policy outlines fair and transparent processes for m
   redundancy, ensuring compliance with ISO standards, and providing support for affected
   employees, including consultation and career assistance.
 draft: false
+ref: redundancy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

@@ -7,7 +7,5 @@ description: The organization is committed to preventing radicalization through 
   practices, employee training, and collaboration with stakeholders, ensuring a safe
   and inclusive environment while adhering to ISO standards.
 draft: false
+ref: anti-radicalisation
 ---
-
-
-<!-- Unsupported block type: unsupported -->

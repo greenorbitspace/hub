@@ -8,41 +8,5 @@ description: Guidelines for selecting, evaluating, and managing suppliers includ
   suppliers, negotiating contracts, monitoring performance, providing feedback, and
   reviewing relationships periodically.
 draft: false
+ref: supplier-management
 ---
-
-
-# Document Purpose
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-
-
-# Document Scope
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-# Definitions and Acronyms
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: child_database -->
-
-# The Process Steps
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-<!-- Unsupported block type: table_of_contents -->
-
-
-
-# Related Resources
-
-<!-- Unsupported block type: divider -->
-
-- .

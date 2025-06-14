@@ -8,7 +8,5 @@ description: The compliance policy establishes guidelines to ensure adherence to
   roles, training, monitoring, and documentation to maintain compliance aligned with
   ISO 37301 standards.
 draft: false
+ref: compliance-policy-and-procedures
 ---
-
-
-<!-- Unsupported block type: unsupported -->

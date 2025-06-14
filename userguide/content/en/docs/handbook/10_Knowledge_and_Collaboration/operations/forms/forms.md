@@ -7,21 +7,5 @@ description: List of internal forms including equipment report, training approva
   sick leave certification, expense claim, and event approval forms, managed by Ryan
   Laird.
 draft: false
+ref: forms
 ---
-
-
-- Equipment report and return form
-
-- Request new equipment form
-
-- Training Approval Form
-
-- Sick Leave Self Certification Form
-
-- Expense Claim Form
-
-- Conference and Event Approval Form
-
-
-
-Untitled 

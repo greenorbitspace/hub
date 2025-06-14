@@ -7,10 +7,5 @@ description: This handbook outlines internal processes and standards, emphasizin
   governance, knowledge management, employee responsibilities, and compliance with
   ISO 30401 standards, serving as a central reference for all organizational policies.
 draft: false
+ref: client-introduction-guide
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -9,34 +9,5 @@ description: 'The Johari Window is a tool for enhancing self-awareness and commu
   and team growth, fostering trust and collaboration through shared insights and ongoing
   feedback. Regular updates are encouraged to maintain relevance and effectiveness.'
 draft: false
+ref: johari-window-communication-model
 ---
-
-
-<!-- Unsupported block type: unsupported -->
-
-<!-- Unsupported block type: child_page -->
-
-<!-- Unsupported block type: child_database -->
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: column_list -->
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: column_list -->
-
-<!-- Unsupported block type: divider -->
-
-## Completing the Johari Window as an Individual and as a Team
-
-### Johari Window Database
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: callout -->
-
-©Sean Carney 2024
-
-
-

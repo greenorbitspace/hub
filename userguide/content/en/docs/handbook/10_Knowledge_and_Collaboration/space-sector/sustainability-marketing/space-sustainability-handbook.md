@@ -8,10 +8,5 @@ description: Guide for space sustainability emphasizing debris mitigation, resou
   roles, best practices, and commitment to continuous improvement for responsible
   space operations.
 draft: false
+ref: space-sustainability-handbook
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

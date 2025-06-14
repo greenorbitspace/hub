@@ -9,10 +9,5 @@ description: Collect customer feedback through surveys and interviews, organize 
   in a centralized system, analyze for trends, develop action plans, implement solutions,
   and monitor effectiveness for continuous improvement.
 draft: false
+ref: customer-feedback-procedures-for-collecting-analyzing-and-acting-on-customer-feedback
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

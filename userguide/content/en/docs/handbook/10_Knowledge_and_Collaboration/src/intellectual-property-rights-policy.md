@@ -8,7 +8,5 @@ description: The policy establishes guidelines for managing intellectual propert
   It applies to all employees and contractors, emphasizing responsibilities for reporting
   misuse and promoting awareness, with non-compliance leading to disciplinary actions.
 draft: false
+ref: intellectual-property-rights-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

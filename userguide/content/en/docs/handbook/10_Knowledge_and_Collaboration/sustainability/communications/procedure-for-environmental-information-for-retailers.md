@@ -8,10 +8,5 @@ description: Procedure for managing environmental information for retailers incl
   reports, distributing them, and monitoring feedback for continuous improvement,
   ensuring compliance with ISO 20121 standards.
 draft: false
+ref: procedure-for-environmental-information-for-retailers
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

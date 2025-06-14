@@ -9,7 +9,5 @@ description: Policy outlines guidelines for the security and transmission of per
   with access to sensitive data and mandates encryption for data transmission and
   secure storage practices.
 draft: false
+ref: security-and-transmission-of-personal-confidential-data
 ---
-
-
-<!-- Unsupported block type: unsupported -->

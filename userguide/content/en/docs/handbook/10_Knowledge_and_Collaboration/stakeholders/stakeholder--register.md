@@ -7,6 +7,5 @@ description: List of stakeholders with their roles, interests, and influence for
   communication and engagement, created on May 1, 2025, by Ryan Laird. Status is not
   started with low priority.
 draft: false
+ref: stakeholder-register
 ---
-
-

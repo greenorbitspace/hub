@@ -10,10 +10,5 @@ description: The termination process includes steps for handling resignations an
   exit interviews, asset recovery, final clearance, and follow-up, ensuring compliance
   with legal standards and organizational policies.
 draft: false
+ref: termination-process-steps-for-handling-resignations-terminations-and-exit-interviews
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

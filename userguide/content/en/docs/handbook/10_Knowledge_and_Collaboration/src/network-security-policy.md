@@ -8,7 +8,5 @@ description: Establishes a framework for network security, ensuring confidential
   and a security team, and outlines key requirements like access control, data protection,
   and incident response.
 draft: false
+ref: network-security-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

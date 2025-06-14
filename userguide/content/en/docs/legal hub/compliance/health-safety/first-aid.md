@@ -7,7 +7,5 @@ description: The First Aid Policy ensures workplace health and safety, complying
   ISO 45001 standards. It outlines responsibilities, resources, training, and incident
   reporting procedures to promote a safe environment for all employees and visitors.
 draft: false
+ref: first-aid
 ---
-
-
-<!-- Unsupported block type: unsupported -->

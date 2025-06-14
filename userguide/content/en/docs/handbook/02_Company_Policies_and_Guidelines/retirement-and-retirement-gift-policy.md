@@ -8,7 +8,5 @@ description: The policy outlines the organization's approach to recognizing reti
   gifts, and roles of management and HR in ensuring a respectful process aligned with
   ethical standards and social responsibility.
 draft: false
+ref: retirement-and-retirement-gift-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

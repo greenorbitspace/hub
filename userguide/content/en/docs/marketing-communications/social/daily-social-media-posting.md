@@ -7,10 +7,5 @@ description: Follow a structured procedure for daily social media posting, inclu
   content planning, creation, verification, scheduling, monitoring, performance tracking,
   and continuous improvement to enhance audience engagement and meet marketing goals.
 draft: false
+ref: daily-social-media-posting
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

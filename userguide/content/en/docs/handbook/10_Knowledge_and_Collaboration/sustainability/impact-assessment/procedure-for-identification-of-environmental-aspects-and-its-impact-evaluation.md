@@ -9,10 +9,5 @@ description: Establish a systematic procedure for identifying environmental aspe
   and regular review. Responsibilities include a project team, sustainability manager,
   and all employees contributing to sustainability efforts.
 draft: false
+ref: procedure-for-identification-of-environmental-aspects-and-its-impact-evaluation
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

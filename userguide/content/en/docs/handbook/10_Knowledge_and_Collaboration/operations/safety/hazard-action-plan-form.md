@@ -7,7 +7,5 @@ description: Hazard action plan form created on May 6, 2025, includes sections f
   risk assessment, planned actions, resources, responsibilities, and legal requirements,
   currently in draft status with low priority.
 draft: false
+ref: hazard-action-plan-form
 ---
-
-
-<!-- Unsupported block type: table -->

@@ -8,10 +8,5 @@ description: The change management process involves submitting a Request for Cha
   implementing, testing, and closing the change, followed by a post-implementation
   review to evaluate effectiveness and lessons learned.
 draft: false
+ref: change-process
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

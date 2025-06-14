@@ -7,7 +7,5 @@ description: Establishes a framework for data masking and encryption to protect 
   information, ensuring compliance with ISO/IEC 27001 standards. All employees and
   third parties must adhere to these practices for data handling and security.
 draft: false
+ref: data-masking-and-encryption-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

@@ -8,10 +8,5 @@ description: Establish a structured process for setting and achieving SMART obje
   planning, monitoring progress, and continuous improvement. Responsibilities are
   defined for management, department leads, employees, and the sustainability team.
 draft: false
+ref: procedure-for-objectives-and-targets
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

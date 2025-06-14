@@ -8,7 +8,5 @@ description: Establishes guidelines for acceptable use of company systems, empha
   with ISO/IEC 27001 is required, with disciplinary actions for misuse. Ryan Laird
   is the policy owner responsible for updates and compliance monitoring.
 draft: false
+ref: system-acceptable-use-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

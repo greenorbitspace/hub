@@ -7,10 +7,5 @@ description: A structured process for resolving employment disputes includes ste
   like dispute identification, mediation, formal investigation, and resolution implementation,
   ensuring compliance with ISO 26000 standards and maintaining confidentiality throughout.
 draft: false
+ref: employment-disputes
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

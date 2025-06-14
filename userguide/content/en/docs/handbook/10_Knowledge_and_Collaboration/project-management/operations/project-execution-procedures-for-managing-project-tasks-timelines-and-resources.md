@@ -8,41 +8,5 @@ description: Outlines procedures for managing project tasks, timelines, and reso
   including current status, responsible personnel, and a template for process steps
   that need to be detailed further.
 draft: false
+ref: project-execution-procedures-for-managing-project-tasks-timelines-and-resources
 ---
-
-
-# Document Purpose
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-
-
-# Document Scope
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-# Definitions and Acronyms
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: child_database -->
-
-# The Process Steps
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-<!-- Unsupported block type: table_of_contents -->
-
-
-
-# Related Resources
-
-<!-- Unsupported block type: divider -->
-
-- .

@@ -7,10 +7,5 @@ description: Form for assessing training needs includes sections for employee in
   training details, justification, budget, and approval signatures to ensure effective
   training planning and resource allocation.
 draft: false
+ref: training-needs-form-f-tr-02
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

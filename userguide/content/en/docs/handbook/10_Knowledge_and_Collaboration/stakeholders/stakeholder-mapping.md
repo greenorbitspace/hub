@@ -6,7 +6,5 @@ weight: 1
 description: Stakeholder mapping created by Ryan Laird on April 24, 2025, with low
   priority and not started status. Link to the Figma file is provided.
 draft: false
+ref: stakeholder-mapping
 ---
-
-
-<!-- Unsupported block type: link_preview -->

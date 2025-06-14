@@ -8,7 +8,5 @@ description: Establishes a framework for secure cloud computing use, covering pr
   compliance with ISO/IEC 27001 standards. Non-compliance may lead to disciplinary
   action.
 draft: false
+ref: cloud-computing-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

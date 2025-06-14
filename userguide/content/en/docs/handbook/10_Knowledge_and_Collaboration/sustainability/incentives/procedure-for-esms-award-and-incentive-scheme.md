@@ -8,10 +8,5 @@ description: A structured process for the ESMS award and incentive scheme includ
   an award ceremony, and feedback collection to enhance future iterations, all aligned
   with sustainability goals.
 draft: false
+ref: procedure-for-esms-award-and-incentive-scheme
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

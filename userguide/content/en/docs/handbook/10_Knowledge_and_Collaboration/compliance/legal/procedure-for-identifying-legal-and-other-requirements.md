@@ -8,10 +8,5 @@ description: Establish a procedure to identify, evaluate, and comply with legal 
   responsibilities, and conducting regular audits to ensure compliance with sustainability
   goals.
 draft: false
+ref: procedure-for-identifying-legal-and-other-requirements
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

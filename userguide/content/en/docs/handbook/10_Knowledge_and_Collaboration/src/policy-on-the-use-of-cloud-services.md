@@ -8,7 +8,5 @@ description: Policy outlines guidelines for secure and compliant use of cloud se
   27001, and incident management responsibilities. Non-compliance may lead to disciplinary
   actions.
 draft: false
+ref: policy-on-the-use-of-cloud-services
 ---
-
-
-<!-- Unsupported block type: unsupported -->

@@ -9,7 +9,5 @@ description: The policy outlines measures to protect physical and environmental 
   and incident management procedures are also established to ensure effectiveness
   and resilience.
 draft: false
+ref: physical-and-environmental-security-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

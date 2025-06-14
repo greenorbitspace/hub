@@ -7,10 +7,5 @@ description: The handbook provides guidance on implementing ISO 20121:2024 for s
   event management, emphasizing leadership commitment, stakeholder engagement, and
   continuous improvement to achieve environmental, social, and economic benefits.
 draft: false
+ref: iso-201212024-awareness-training-part-2-training
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

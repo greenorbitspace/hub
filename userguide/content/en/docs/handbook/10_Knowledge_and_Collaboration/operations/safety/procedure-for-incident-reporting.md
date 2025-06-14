@@ -8,10 +8,5 @@ description: Establish a systematic incident reporting procedure that includes i
   findings, and reviewing the incident to ensure compliance with standards and timely
   resolution.
 draft: false
+ref: procedure-for-incident-reporting
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

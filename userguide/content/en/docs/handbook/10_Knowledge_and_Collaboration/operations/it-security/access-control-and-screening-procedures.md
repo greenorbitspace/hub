@@ -8,10 +8,5 @@ description: Standardized access control and screening procedures ensure supply 
   and exit, incident response, and record maintenance. Regular audits and performance
   indicators are established to monitor effectiveness.
 draft: false
+ref: access-control-and-screening-procedures
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

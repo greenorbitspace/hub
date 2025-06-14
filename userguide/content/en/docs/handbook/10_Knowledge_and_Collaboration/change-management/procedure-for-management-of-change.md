@@ -8,10 +8,5 @@ description: Establish a systematic approach for managing changes in processes, 
   identifying changes, submitting requests, conducting risk assessments, and executing
   plans while complying with ISO 20121 standards.
 draft: false
+ref: procedure-for-management-of-change
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

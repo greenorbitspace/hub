@@ -7,7 +7,5 @@ description: The patch management policy outlines procedures for identifying, as
   testing, and deploying patches to maintain system security and compliance with ISO/IEC
   27001 standards, ensuring all systems are up-to-date and minimizing vulnerabilities.
 draft: false
+ref: patch-management-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

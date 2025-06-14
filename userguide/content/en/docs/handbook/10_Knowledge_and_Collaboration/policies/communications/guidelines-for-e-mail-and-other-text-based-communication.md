@@ -7,10 +7,5 @@ description: Guidelines emphasize clarity, professionalism, and compliance in e-
   and text communication, including structuring messages, response times, confidentiality,
   and etiquette across various platforms. Regular reviews will ensure ongoing relevance.
 draft: false
+ref: guidelines-for-e-mail-and-other-text-based-communication
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

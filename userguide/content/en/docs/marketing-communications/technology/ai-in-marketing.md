@@ -6,7 +6,5 @@ weight: 1
 description: AI in marketing is currently not started, with an owner assigned and
   a URL provided for further reference.
 draft: false
+ref: ai-in-marketing
 ---
-
-
-<!-- Unsupported block type: image -->

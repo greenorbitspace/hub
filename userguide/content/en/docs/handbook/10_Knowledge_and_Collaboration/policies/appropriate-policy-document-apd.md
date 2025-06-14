@@ -8,7 +8,5 @@ description: The Appropriate Policy Document outlines strategic directives for i
   framework, and promoting transparency and accountability under the oversight of
   Ryan Laird.
 draft: false
+ref: appropriate-policy-document-apd
 ---
-
-
-<!-- Unsupported block type: unsupported -->

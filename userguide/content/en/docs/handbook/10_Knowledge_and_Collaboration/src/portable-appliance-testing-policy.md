@@ -7,7 +7,5 @@ description: The policy ensures safety for portable electrical appliances throug
   regular testing, employee training, and compliance with ISO 45001 standards, aiming
   to minimize risks and maintain a safe working environment.
 draft: false
+ref: portable-appliance-testing-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

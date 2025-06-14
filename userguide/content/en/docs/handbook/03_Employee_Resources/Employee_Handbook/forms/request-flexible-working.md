@@ -7,7 +7,5 @@ description: Earthwave's flexible working policy allows all employees to request
   arrangements, ensuring a balance between personal needs and business operations,
   with a clear procedure for submission, review, and notification of outcomes.
 draft: false
+ref: request-flexible-working
 ---
-
-
-<!-- Unsupported block type: unsupported -->

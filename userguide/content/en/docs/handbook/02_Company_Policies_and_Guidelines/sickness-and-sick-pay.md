@@ -8,7 +8,5 @@ description: The policy outlines guidelines for managing sickness and sick pay, 
   Employees are entitled to sick pay, must report absences promptly, and will receive
   support during their return to work.
 draft: false
+ref: sickness-and-sick-pay
 ---
-
-
-<!-- Unsupported block type: unsupported -->

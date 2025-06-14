@@ -8,10 +8,5 @@ description: Standardized process for software installation and maintenance incl
   regular maintenance, and decommissioning of outdated software, ensuring compliance
   with ISO/IEC 27001 standards.
 draft: false
+ref: software-installation-and-maintenance
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

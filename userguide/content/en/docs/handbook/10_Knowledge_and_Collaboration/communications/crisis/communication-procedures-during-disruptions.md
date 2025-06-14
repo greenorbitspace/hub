@@ -7,10 +7,5 @@ description: Establish clear communication during disruptions by detecting incid
   assessing impact, notifying stakeholders, providing regular updates, and conducting
   post-incident reviews to enhance operational resilience.
 draft: false
+ref: communication-procedures-during-disruptions
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

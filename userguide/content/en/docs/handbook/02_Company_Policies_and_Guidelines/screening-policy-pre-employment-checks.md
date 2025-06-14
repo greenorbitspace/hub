@@ -8,7 +8,5 @@ description: Pre-employment screening policy outlines identity verification, emp
   for all candidates, ensuring compliance with ISO/IEC 27001 standards while respecting
   privacy and fairness.
 draft: false
+ref: screening-policy-pre-employment-checks
 ---
-
-
-<!-- Unsupported block type: unsupported -->

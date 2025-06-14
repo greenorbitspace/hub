@@ -7,10 +7,5 @@ description: Establish a structured process for internal audits to ensure compli
   with ISO/IEC 27001, detailing roles, responsibilities, and steps from planning to
   closing the audit, including implementing corrective actions and follow-ups.
 draft: false
+ref: procedure-for-internal-audits
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

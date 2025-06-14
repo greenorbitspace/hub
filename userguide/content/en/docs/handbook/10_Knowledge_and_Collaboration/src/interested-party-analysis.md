@@ -8,27 +8,5 @@ description: Analysis of interested parties highlights their needs, expectations
   revenue targets and retain contracts while monitoring costs and ensuring timely
   delivery of goods and services.
 draft: false
+ref: interested-party-analysis
 ---
-
-
-<!-- Unsupported block type: table -->
-
-
-
-<!-- Unsupported block type: table -->
-
-<!-- Unsupported block type: table -->
-
-
-
-Conclusions
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: divider -->
-
-Recommendations
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: divider -->

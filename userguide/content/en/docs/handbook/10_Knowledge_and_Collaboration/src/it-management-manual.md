@@ -8,10 +8,5 @@ description: Comprehensive guide for IT management covering governance, security
   aimed at ensuring effective IT operations and responsibilities for all personnel.
   Regular updates will reflect changes in technology and regulations.
 draft: false
+ref: it-management-manual
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

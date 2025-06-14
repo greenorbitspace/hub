@@ -9,7 +9,5 @@ description: The Ethical Commitment Statement emphasizes transparency, accountab
   training and regular reviews, aiming for sustainable growth and positive community
   impact.
 draft: false
+ref: ethical-commitment
 ---
-
-
-<!-- Unsupported block type: unsupported -->

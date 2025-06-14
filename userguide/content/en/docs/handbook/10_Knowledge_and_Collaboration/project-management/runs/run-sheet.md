@@ -7,10 +7,5 @@ description: Establish a systematic document approval process involving drafting
   review, verification by a Quality Manager, and final approval, ensuring compliance
   with ISO standards and maintaining accurate records for audit purposes.
 draft: false
+ref: run-sheet
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

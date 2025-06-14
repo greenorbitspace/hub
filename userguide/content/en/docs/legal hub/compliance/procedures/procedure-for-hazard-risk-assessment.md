@@ -8,10 +8,5 @@ description: Systematically identify, evaluate, and mitigate workplace hazards t
   involving hazard identification, risk assessment, control determination, implementation,
   monitoring, and documentation.
 draft: false
+ref: procedure-for-hazard-risk-assessment
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

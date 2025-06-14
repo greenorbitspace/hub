@@ -8,10 +8,5 @@ description: Establish a standardized procedure for handling web and phone enqui
   enquiries, with designated responsibilities for the customer service team and department
   heads.
 draft: false
+ref: webphone-enquiries
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

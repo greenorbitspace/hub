@@ -8,7 +8,5 @@ description: Policy outlines procedures for requesting time off, including categ
   well-being and compliance with ISO 45001 standards. Requests must be submitted timely
   and approved by supervisors based on operational needs.
 draft: false
+ref: time-off-work
 ---
-
-
-<!-- Unsupported block type: unsupported -->

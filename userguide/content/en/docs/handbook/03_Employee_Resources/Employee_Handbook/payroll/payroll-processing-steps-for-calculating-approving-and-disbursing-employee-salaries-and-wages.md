@@ -10,10 +10,5 @@ description: Steps for payroll processing include collecting employee data, calc
   maintaining records, and conducting post-payment reviews to ensure compliance and
   accuracy.
 draft: false
+ref: payroll-processing-steps-for-calculating-approving-and-disbursing-employee-salaries-and-wages
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

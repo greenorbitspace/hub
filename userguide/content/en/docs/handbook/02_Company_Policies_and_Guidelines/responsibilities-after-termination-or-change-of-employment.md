@@ -8,7 +8,5 @@ description: Employees must return organizational assets, have their access revo
   Exit interviews will remind them of ongoing responsibilities, and managers will
   oversee the offboarding process.
 draft: false
+ref: responsibilities-after-termination-or-change-of-employment
 ---
-
-
-<!-- Unsupported block type: unsupported -->

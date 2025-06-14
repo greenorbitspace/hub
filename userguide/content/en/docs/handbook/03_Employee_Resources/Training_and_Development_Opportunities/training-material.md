@@ -8,10 +8,5 @@ description: Comprehensive handbook outlines employee roles, company policies, c
   promoting social responsibility and a positive work environment. Grievance procedures
   and benefits details are also included.
 draft: false
+ref: training-material
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -6,7 +6,5 @@ weight: 1
 description: Resources for speakers are being developed, with ownership by Ryan Laird
   and a status of not started. More information can be found at the provided URL.
 draft: false
+ref: speakers-resources
 ---
-
-
-<!-- Unsupported block type: image -->

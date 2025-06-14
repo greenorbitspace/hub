@@ -8,7 +8,5 @@ description: Policy establishes guidelines to prevent and manage workplace viole
   management, employees, and HR, including reporting mechanisms and corrective actions
   for incidents. Regular training and a culture of respect are emphasized.
 draft: false
+ref: workplace-violence
 ---
-
-
-<!-- Unsupported block type: unsupported -->

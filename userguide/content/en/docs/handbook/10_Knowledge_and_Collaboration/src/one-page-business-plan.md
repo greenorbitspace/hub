@@ -8,23 +8,5 @@ description: A one-page business plan template includes sections for business ov
   model, marketing strategy, team resources, and financial summary to guide entrepreneurs
   in outlining their business strategy concisely.
 draft: false
+ref: one-page-business-plan
 ---
-
-
-<!-- Unsupported block type: callout -->
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: child_page -->
-
-<!-- Unsupported block type: child_page -->
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: column_list -->
-
-<!-- Unsupported block type: embed -->
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: divider -->

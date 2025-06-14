@@ -7,7 +7,5 @@ description: The policy outlines the organization's framework for managing serio
   incidents, emphasizing prompt reporting, structured responses, and compliance with
   ISO standards to ensure safety and minimize impacts on employees and operations.
 draft: false
+ref: serious-incident-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

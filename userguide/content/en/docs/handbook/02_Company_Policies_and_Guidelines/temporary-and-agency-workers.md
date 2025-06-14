@@ -8,7 +8,5 @@ description: Policy outlines management and compliance guidelines for temporary 
   monitoring, and termination procedures, ensuring alignment with organizational standards
   and ISO 37301.
 draft: false
+ref: temporary-and-agency-workers
 ---
-
-
-<!-- Unsupported block type: unsupported -->

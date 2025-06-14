@@ -7,7 +7,5 @@ description: The policy establishes a framework for securing company equipment, 
   adherence to protocols for access control, encryption, physical security, and secure
   disposal, in alignment with ISO/IEC 27001 standards to protect information assets.
 draft: false
+ref: equipment-security-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

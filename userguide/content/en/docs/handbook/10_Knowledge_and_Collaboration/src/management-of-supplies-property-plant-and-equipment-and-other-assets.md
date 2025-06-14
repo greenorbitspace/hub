@@ -9,10 +9,5 @@ description: Guidelines for managing supplies, property, plant, and equipment em
   and compliance with ISO 9001 standards. Regular audits and updates are required
   to ensure adherence.
 draft: false
+ref: management-of-supplies-property-plant-and-equipment-and-other-assets
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -7,10 +7,5 @@ description: Establish a waste management procedure for events, including pre-ev
   audits, monitoring during the event, post-event waste segregation, and continuous
   improvement to align with sustainability goals and ISO 20121 standards.
 draft: false
+ref: procedure-for-excessive-refuse-and-waste-at-events
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

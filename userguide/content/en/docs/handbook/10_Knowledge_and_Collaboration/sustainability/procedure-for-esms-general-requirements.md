@@ -8,10 +8,5 @@ description: Establish a structured approach for the Event Sustainability Manage
   monitoring, evaluation, and reporting, with clear responsibilities for owners, department
   heads, and all employees.
 draft: false
+ref: procedure-for-esms-general-requirements
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

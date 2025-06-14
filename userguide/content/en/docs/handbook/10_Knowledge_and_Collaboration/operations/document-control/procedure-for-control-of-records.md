@@ -7,10 +7,5 @@ description: Establishes a systematic approach for record control, covering crea
   identification, storage, access, retention, review, and disposal, ensuring records
   are secure and compliant with ISO 20121 standards.
 draft: false
+ref: procedure-for-control-of-records
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

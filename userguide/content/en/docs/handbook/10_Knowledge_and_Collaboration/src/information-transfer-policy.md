@@ -8,7 +8,5 @@ description: Establishes secure information transfer protocols for employees and
   for internal, external, physical, and verbal transfers, and outlines responsibilities
   and monitoring practices.
 draft: false
+ref: information-transfer-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

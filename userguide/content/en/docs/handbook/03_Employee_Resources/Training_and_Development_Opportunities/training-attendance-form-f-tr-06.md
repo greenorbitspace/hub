@@ -7,7 +7,5 @@ description: Form for training attendance includes sections for employee informa
   training session details, attendance confirmation, optional feedback, trainer confirmation,
   and administrative use.
 draft: false
+ref: training-attendance-form-f-tr-06
 ---
-
-
-<!-- Unsupported block type: unsupported -->

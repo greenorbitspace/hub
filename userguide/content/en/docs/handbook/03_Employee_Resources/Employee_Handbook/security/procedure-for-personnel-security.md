@@ -7,10 +7,5 @@ description: Implement a personnel security procedure that includes risk assessm
   access control, training, incident reporting, and regular monitoring to ensure safety
   in alignment with ISO 20121 standards.
 draft: false
+ref: procedure-for-personnel-security
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

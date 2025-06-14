@@ -12,10 +12,5 @@ description: Define the management system's scope, identify sustainable developm
   obtain approval, and implement action plans for high-priority issues while ensuring
   regular reviews and stakeholder engagement.
 draft: false
+ref: procedure-to-identify-its-sustainable-development-issues-and-to-evaluate-their-significance-associated-with-its-event-related-activities-products-and-services-within-the-defined-scope-of-the-management-system
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

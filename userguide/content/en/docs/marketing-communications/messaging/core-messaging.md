@@ -7,7 +7,5 @@ description: Company Handbook is currently a draft with low priority, edited by 
   Laird, and is intended for internal visibility. Created and last edited on April
   27, 2025.
 draft: false
+ref: core-messaging
 ---
-
-
-<!-- Unsupported block type: child_database -->

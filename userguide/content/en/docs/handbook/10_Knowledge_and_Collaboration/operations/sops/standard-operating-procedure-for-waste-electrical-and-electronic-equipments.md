@@ -8,8 +8,5 @@ description: Establish a procedure for managing Waste Electrical and Electronic 
   and proper disposal, ensuring compliance with ISO 20121 standards and promoting
   sustainability within the organization.
 draft: false
+ref: standard-operating-procedure-for-waste-electrical-and-electronic-equipments
 ---
-
-
-<!-- Unsupported block type: unsupported -->
-

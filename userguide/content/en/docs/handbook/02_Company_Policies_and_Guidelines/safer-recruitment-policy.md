@@ -7,7 +7,5 @@ description: The Safer Recruitment Policy establishes guidelines for secure and 
   hiring practices, emphasizing transparency, background checks, and employer branding
   to attract top talent while adhering to ISO standards.
 draft: false
+ref: safer-recruitment-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

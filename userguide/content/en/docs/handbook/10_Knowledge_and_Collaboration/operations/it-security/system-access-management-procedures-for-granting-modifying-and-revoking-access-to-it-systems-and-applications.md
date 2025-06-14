@@ -10,10 +10,5 @@ description: Standardized procedures for granting, modifying, and revoking acces
   access configuration, notifications, periodic reviews, and revocation under specific
   circumstances, ensuring compliance with ISO/IEC 27001 standards.
 draft: false
+ref: system-access-management-procedures-for-granting-modifying-and-revoking-access-to-it-systems-and-applications
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

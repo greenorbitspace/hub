@@ -8,10 +8,5 @@ description: Training programme application form includes sections for personal 
   instructions. Ensure all fields are accurately filled before submission to HR or
   the Training Coordinator.
 draft: false
+ref: training-programme-form-f-tr-03
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

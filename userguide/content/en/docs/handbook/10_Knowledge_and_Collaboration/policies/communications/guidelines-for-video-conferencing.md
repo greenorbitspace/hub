@@ -8,10 +8,5 @@ description: To ensure effective video conferencing, test equipment, choose a qu
   engaged, and use screen sharing responsibly. Protect meetings with passwords and
   summarize key points afterward.
 draft: false
+ref: guidelines-for-video-conferencing
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

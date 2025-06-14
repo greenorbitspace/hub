@@ -8,10 +8,5 @@ description: Procedure for creating and maintaining a process interaction map to
   defining inputs/outputs, establishing interactions, and ensuring validation and
   updates.
 draft: false
+ref: process-interaction-map
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

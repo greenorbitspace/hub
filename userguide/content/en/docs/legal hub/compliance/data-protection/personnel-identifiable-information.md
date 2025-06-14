@@ -8,10 +8,5 @@ description: Guidelines for handling Personnel Identifiable Information (PII) in
   with consent, proper disposal, breach response protocols, and regular employee training
   to ensure compliance and protect privacy.
 draft: false
+ref: personnel-identifiable-information
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

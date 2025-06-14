@@ -7,10 +7,5 @@ description: Establish a sustainable purchasing and subcontracting procedure ali
   with ISO 20121, including steps for identifying needs, evaluating suppliers, and
   monitoring performance to ensure compliance with sustainability goals.
 draft: false
+ref: procedure-for-purchasing-and-subcontracting
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

@@ -9,7 +9,5 @@ description: The Accounting policy outlines ethical management and compliance wi
   functions. Next steps include assigning roles for policy development and validating
   against ISO standards.
 draft: false
+ref: accounting
 ---
-
-
-<!-- Unsupported block type: unsupported -->

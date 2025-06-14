@@ -7,7 +7,5 @@ description: Establishing an asset management policy aligned with ISO 55001 to o
   asset value, ensure compliance, promote sustainability, and foster continuous improvement,
   with defined roles and responsibilities for stakeholders.
 draft: false
+ref: asset-management-policy-and-strategy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

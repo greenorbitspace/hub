@@ -8,10 +8,5 @@ description: Establish a waste management coordinator, conduct a waste audit, an
   and align with ISO 20121 sustainability standards. Evaluate and improve the process
   post-event to achieve waste reduction goals.
 draft: false
+ref: procedure-for-waste-management-and-recycling-at-events
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

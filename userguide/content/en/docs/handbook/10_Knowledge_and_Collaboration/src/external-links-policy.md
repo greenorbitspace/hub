@@ -8,7 +8,5 @@ description: The policy regulates external links to protect the organization's i
   while prohibiting links to malicious or inappropriate content. Non-compliance may
   lead to disciplinary action.
 draft: false
+ref: external-links-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

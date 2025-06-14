@@ -10,10 +10,5 @@ description: Establish a systematic approach for monitoring and measuring proces
   reporting findings, implementing corrective actions, and periodic reviews. Records
   must be maintained as per policy.
 draft: false
+ref: procedure-for-monitoring-and-measurement
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

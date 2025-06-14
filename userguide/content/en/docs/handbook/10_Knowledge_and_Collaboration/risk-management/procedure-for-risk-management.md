@@ -7,10 +7,5 @@ description: The risk management procedure includes steps for identifying, asses
   mitigating, and monitoring risks, along with documentation and reporting to ensure
   compliance and effective communication with stakeholders.
 draft: false
+ref: procedure-for-risk-management
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

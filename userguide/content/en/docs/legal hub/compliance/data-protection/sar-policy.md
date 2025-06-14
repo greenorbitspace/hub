@@ -8,7 +8,5 @@ description: The SAR Policy establishes a framework for managing Subject Access 
   security and legal compliance while outlining responsibilities and key requirements
   for all personnel involved.
 draft: false
+ref: sar-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

@@ -8,10 +8,5 @@ description: A questionnaire for competence development includes sections for pe
   the current role, and additional comments, aimed at supporting professional growth
   within the organization.
 draft: false
+ref: competence-development-questionnaire
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

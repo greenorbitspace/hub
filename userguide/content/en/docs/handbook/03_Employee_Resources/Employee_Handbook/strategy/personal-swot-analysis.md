@@ -8,24 +8,5 @@ description: A guide for using a Personal SWOT Analysis tool on Notion, detailin
   and utilizing visual charts for effective personal and professional development.
   Regular reviews and action planning are emphasized for ongoing effectiveness.
 draft: false
+ref: personal-swot-analysis
 ---
-
-
-<!-- Unsupported block type: unsupported -->
-
-<!-- Unsupported block type: column_list -->
-
-## My SWOT
-
-<!-- Unsupported block type: child_database -->
-
-<!-- Unsupported block type: toggle -->
-
-<!-- Unsupported block type: toggle -->
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: callout -->
-
-©Sean Carney 2024
-

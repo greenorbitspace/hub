@@ -7,6 +7,5 @@ description: Project brief report indicates a draft status with low priority, ve
   ownership by Ryan Laird, and internal visibility. Risk management and notes sections
   are currently empty.
 draft: false
+ref: project-brief-report
 ---
-
-

@@ -7,10 +7,5 @@ description: Establishes a systematic approach for identifying, documenting, and
   nonconformities within the organization, ensuring continuous improvement in line
   with ISO/IEC 27001 standards through defined responsibilities and procedural steps.
 draft: false
+ref: procedure-for-the-management-of-nonconformity
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

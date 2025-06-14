@@ -8,7 +8,5 @@ description: The policy promotes a fair and respectful workplace, emphasizing ze
   with ISO 26000 standards. It applies to all employees and outlines roles for management
   and HR in maintaining workplace dignity and addressing issues promptly.
 draft: false
+ref: dignity-and-respect-at-work-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

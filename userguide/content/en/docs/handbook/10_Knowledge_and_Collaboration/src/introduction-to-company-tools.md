@@ -6,12 +6,5 @@ weight: 1
 description: Overview of company tools including Notion, HubSpot, and Slack, along
   with IT support contacts. Status is not started with low priority.
 draft: false
+ref: introduction-to-company-tools
 ---
-
-
--  (e.g., Notion, HubSpot, Slack.
-
-- 
-
-- IT Support Contacts
-

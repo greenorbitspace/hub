@@ -9,10 +9,5 @@ description: Steps for offboarding departing employees include notification of d
   managers, and payroll. Ensure all steps are completed before the last working day
   while maintaining confidentiality.
 draft: false
+ref: offboarding-call
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

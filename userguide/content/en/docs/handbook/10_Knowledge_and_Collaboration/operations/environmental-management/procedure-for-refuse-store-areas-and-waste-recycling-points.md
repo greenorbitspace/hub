@@ -8,10 +8,5 @@ description: Implement procedures for managing refuse store areas and waste recy
   documentation, and continuous improvement to comply with ISO 20121 standards and
   promote sustainability.
 draft: false
+ref: procedure-for-refuse-store-areas-and-waste-recycling-points
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

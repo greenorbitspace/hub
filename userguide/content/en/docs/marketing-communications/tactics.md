@@ -7,7 +7,5 @@ description: Launch a visually appealing website, develop a compelling brand sto
   implement email marketing, attend industry events, offer free consultations, and
   utilize CRM software to manage client relationships.
 draft: false
+ref: tactics
 ---
-
-
-1. Tactics:

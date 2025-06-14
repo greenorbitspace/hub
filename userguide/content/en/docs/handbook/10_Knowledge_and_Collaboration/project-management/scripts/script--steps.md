@@ -7,16 +7,5 @@ description: Video script outlines a presentation on plagiarism, emphasizing the
   of avoiding it and how plagiarism checkers can detect copied work. Includes instructions
   for creating engaging thumbnail images with exaggerated expressions.
 draft: false
+ref: script--steps
 ---
-
-
-# Video Title
-
-
-
-<!-- Unsupported block type: callout -->
-
-
-
-<!-- Unsupported block type: table -->
-

@@ -8,10 +8,5 @@ description: Conduct a comprehensive campaign analysis by defining objectives, g
   preparing recommendations, creating a report, and scheduling follow-up actions for
   future improvements.
 draft: false
+ref: campaign-analysis
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

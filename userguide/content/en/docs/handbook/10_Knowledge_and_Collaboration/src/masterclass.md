@@ -7,13 +7,5 @@ description: Standard Operating Procedures (SOPs) provide step-by-step instructi
   to ensure efficiency, quality, and compliance, with sections for purpose, scope,
   definitions, process steps, and related resources.
 draft: false
+ref: masterclass
 ---
-
-
-<!-- Unsupported block type: callout -->
-
-<!-- Unsupported block type: column_list -->
-
-# Related Resources
-
-- 

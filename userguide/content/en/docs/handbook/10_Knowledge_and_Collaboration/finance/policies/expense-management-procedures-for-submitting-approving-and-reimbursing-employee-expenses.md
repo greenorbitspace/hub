@@ -10,10 +10,5 @@ description: Standardized process for submitting, approving, and reimbursing emp
   and compliance with company policies and ISO standards. Claims must be submitted
   within 30 days and require accurate documentation.
 draft: false
+ref: expense-management-procedures-for-submitting-approving-and-reimbursing-employee-expenses
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

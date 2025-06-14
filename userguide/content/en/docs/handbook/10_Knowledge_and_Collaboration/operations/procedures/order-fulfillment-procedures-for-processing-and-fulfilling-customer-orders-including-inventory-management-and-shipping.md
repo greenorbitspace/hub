@@ -9,41 +9,5 @@ description: Procedures for processing and fulfilling customer orders include in
   management, shipping, and related resources, with a focus on internal visibility
   and verification.
 draft: false
+ref: order-fulfillment-procedures-for-processing-and-fulfilling-customer-orders-including-inventory-management-and-shipping
 ---
-
-
-# Document Purpose
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-
-
-# Document Scope
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-# Definitions and Acronyms
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: child_database -->
-
-# The Process Steps
-
-<!-- Unsupported block type: divider -->
-
-<!-- Unsupported block type: unsupported -->
-
-<!-- Unsupported block type: table_of_contents -->
-
-
-
-# Related Resources
-
-<!-- Unsupported block type: divider -->
-
-- .

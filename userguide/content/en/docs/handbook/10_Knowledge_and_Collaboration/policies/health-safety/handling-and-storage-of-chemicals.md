@@ -6,38 +6,5 @@ weight: 1
 description: Guidelines for handling and storing chemicals, created on May 1, 2025,
   with a low priority level and verified status, owned by Ryan Laird.
 draft: false
+ref: handling-and-storage-of-chemicals
 ---
-
-
-COMPANY
-					NAME
-				
-
-					
-
-
-					
-				
-
-					Environmental
-					Instruction
-					
-Environmental
-					Office Practices
-					
-(EI-01)
-				
-
-					
-
-
-					
-				
-
-					Revision No. : 1
-				
-
-					Date : DD
-					–
-					MM –
-					YYYY

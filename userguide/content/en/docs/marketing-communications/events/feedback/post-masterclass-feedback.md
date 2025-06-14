@@ -8,10 +8,5 @@ description: Feedback form for a masterclass includes sections on overall experi
   likelihood to recommend, and additional comments. Participants are encouraged to
   share their insights to enhance future sessions.
 draft: false
+ref: post-masterclass-feedback
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

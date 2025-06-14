@@ -8,48 +8,5 @@ description: Focus on customer feedback, start with a simple product version, ut
   with agile methods. Emphasize continuous learning and creating real value for customers
   to ensure long-term success.
 draft: false
+ref: digital-product-business-roadmap
 ---
-
-
-<!-- Unsupported block type: image -->
-
-<!-- Unsupported block type: child_database -->
-
-
-
-
-
-<!-- Unsupported block type: image -->
-
-<!-- Unsupported block type: child_database -->
-
-
-
-<!-- Unsupported block type: callout -->
-
-
-
-<!-- Unsupported block type: divider -->
-
-
-
-
-
-<!-- Unsupported block type: synced_block -->
-
-<!-- Unsupported block type: synced_block -->
-
-<!-- Unsupported block type: synced_block -->
-
-
-
-<!-- Unsupported block type: column_list -->
-
-
-
-
-
-<!-- Unsupported block type: divider -->
-
-Digital Product Business Roadmap for Notion By Mr. Pugo Via NimbleGot & Pugo’s Studio /  YouTube
-

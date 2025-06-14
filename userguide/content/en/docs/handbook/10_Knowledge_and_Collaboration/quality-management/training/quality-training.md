@@ -8,7 +8,5 @@ description: Quality training policy aims to equip employees with knowledge of I
   success while addressing social and environmental issues. Ryan Laird oversees implementation
   and compliance.
 draft: false
+ref: quality-training
 ---
-
-
-<!-- Unsupported block type: unsupported -->

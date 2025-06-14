@@ -7,10 +7,5 @@ description: Ensure visitor safety at events through risk assessments, safety pl
   development, staff training, clear communication, real-time monitoring, effective
   incident response, and post-event reviews to improve future safety measures.
 draft: false
+ref: procedure-for-visitor-event-safety-rules
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

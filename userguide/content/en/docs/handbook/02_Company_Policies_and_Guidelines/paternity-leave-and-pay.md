@@ -8,7 +8,5 @@ description: The company provides paternity leave and pay benefits to eligible e
   must notify management and HR of their leave intentions, while HR and managers support
   the process and maintain compliance with relevant laws.
 draft: false
+ref: paternity-leave-and-pay
 ---
-
-
-<!-- Unsupported block type: unsupported -->

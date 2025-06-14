@@ -10,10 +10,5 @@ description: Regularly back up critical data by identifying it, defining a backu
   them, documenting recovery processes, and testing recovery procedures to ensure
   data integrity and compliance with standards.
 draft: false
+ref: data-backup-and-recovery-steps-for-regularly-backing-up-data-and-restoring-it-in-case-of-loss-or-corruption
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

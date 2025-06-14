@@ -7,10 +7,5 @@ description: A training record form includes sections for employee details, trai
   specifics, learning objectives, assessment outcomes, and acknowledgments from the
   employee, trainer, and supervisor, ensuring proper documentation of training sessions.
 draft: false
+ref: training-record-form-f-tr-01
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

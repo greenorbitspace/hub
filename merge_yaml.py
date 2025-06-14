@@ -1,83 +1,52 @@
-#!/usr/bin/env python3
-
 import os
 import re
 import yaml
-import unicodedata
-import sys
 
-ROOT_DIR = "userguide/content/en/docs"  # Update as needed
+def fix_ref_underscores(content):
+    # Match YAML frontmatter block at the start of the file
+    match = re.match(r'^(---\n.*?\n---)', content, re.DOTALL)
+    if not match:
+        return content  # no YAML frontmatter, return original content
 
-def slugify(value):
-    """Generate a URL-friendly slug from a string"""
-    value = str(value)
-    value = unicodedata.normalize('NFKD', value)
-    value = re.sub(r'[^\w\s-]', '', value.lower())
-    return re.sub(r'[\s_]+', '-', value).strip('-')
+    frontmatter = match.group(1)
+    rest_of_file = content[len(frontmatter):]
 
-def format_title(title):
-    """Format title by replacing underscores and capitalizing words"""
-    return title.replace('_', ' ').strip().title()
+    try:
+        data = yaml.safe_load(frontmatter)
+    except yaml.YAMLError:
+        return content  # invalid YAML, skip file
 
-def merge_yaml_blocks(content):
-    blocks = re.findall(r'^---\n(.*?)\n---', content, re.DOTALL | re.MULTILINE)
-    body = re.split(r'^---\n.*?\n---\n', content, maxsplit=len(blocks), flags=re.DOTALL | re.MULTILINE)[-1]
+    if not isinstance(data, dict):
+        return content
 
-    merged = {}
-    for block in blocks:
-        try:
-            data = yaml.safe_load(block)
-            if isinstance(data, dict):
-                for key, value in data.items():
-                    if key not in merged or not merged[key]:
-                        merged[key] = value
-            else:
-                print("⚠️  Skipping non-dict YAML block")
-        except yaml.YAMLError as e:
-            print(f"❌ YAML parse error: {e}")
-            continue
-
-    # Title formatting and fallback logic
-    if "title" in merged and merged["title"]:
-        merged["title"] = format_title(merged["title"])
-        merged["ref"] = merged.get("ref") or slugify(merged["title"])
-    elif "ref" in merged and merged["ref"]:
-        merged["title"] = merged.get("title") or merged["ref"].replace("-", " ").title()
+    ref = data.get('ref')
+    if isinstance(ref, str) and '_' in ref:
+        fixed_ref = ref.replace('_', '-')
+        data['ref'] = fixed_ref
+        # Rebuild YAML frontmatter string
+        new_frontmatter = "---\n" + yaml.dump(data, sort_keys=False, allow_unicode=True).strip() + "\n---"
+        return new_frontmatter + rest_of_file
     else:
-        merged.setdefault("title", "Untitled")
-        merged.setdefault("ref", "untitled")
+        return content
 
-    new_front_matter = yaml.dump(merged, sort_keys=False).strip()
-    return f"---\n{new_front_matter}\n---\n{body.lstrip()}"
+def process_md_files(root_dir):
+    for subdir, _, files in os.walk(root_dir):
+        for file in files:
+            if file.endswith('.md'):
+                path = os.path.join(subdir, file)
+                with open(path, 'r', encoding='utf-8') as f:
+                    content = f.read()
 
-def process_md_files(path):
-    for root, _, files in os.walk(path):
-        for filename in files:
-            if filename.endswith(".md"):
-                full_path = os.path.join(root, filename)
-                try:
-                    with open(full_path, "r", encoding="utf-8") as f:
-                        content = f.read()
-
-                    if content.count('---') >= 4:
-                        print(f"🔄 Merging front matter in: {full_path}")
-                        new_content = merge_yaml_blocks(content)
-
-                        with open(full_path, "w", encoding="utf-8") as f:
-                            f.write(new_content)
-                    else:
-                        print(f"✅ Skipping {full_path} — only one YAML block")
-                except Exception as e:
-                    print(f"❌ Failed to process {full_path}: {e}")
+                new_content = fix_ref_underscores(content)
+                if new_content != content:
+                    with open(path, 'w', encoding='utf-8') as f:
+                        f.write(new_content)
+                    print(f"Updated ref in: {path}")
 
 def main():
-    if not os.path.exists(ROOT_DIR):
-        print(f"❌ Directory not found: {ROOT_DIR}")
-        sys.exit(1)
-
-    print(f"📂 Scanning Markdown files in: {ROOT_DIR}")
+    ROOT_DIR = "userguide/content/en/docs"  # Your base directory to process
     process_md_files(ROOT_DIR)
-    print("✅ Merge complete.")
+    print("Ref underscores replaced with hyphens in all Markdown files.")
 
 if __name__ == "__main__":
     main()

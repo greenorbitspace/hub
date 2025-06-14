@@ -6,7 +6,5 @@ weight: 1
 description: Environmental aspects and impact register created by Ryan Laird, marked
   as high priority and currently in draft status, with no archiving planned.
 draft: false
+ref: environmental-aspects-and-impact-register
 ---
-
-
-<!-- Unsupported block type: child_database -->

@@ -8,7 +8,5 @@ description: The organization commits to upholding human rights through principl
   engagement, with implementation strategies including training, assessments, and
   grievance mechanisms, while ensuring compliance with ISO 26000 standards.
 draft: false
+ref: human-rights-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

@@ -10,10 +10,5 @@ description: 'Incident response involves five key steps: identification, contain
   security incidents through monitoring, immediate actions, root cause elimination,
   system restoration, and post-incident analysis.'
 draft: false
+ref: incident-response-procedures-for-identifying-responding-to-and-resolving-it-security-incidents
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-

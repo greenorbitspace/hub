@@ -8,7 +8,5 @@ description: Guidelines for using company computer equipment outside the workpla
   purposes, software maintenance, and incident reporting to ensure data protection
   and compliance with ISO/IEC 27001 standards.
 draft: false
+ref: computer-equipment-away-from-the-workplace
 ---
-
-
-<!-- Unsupported block type: unsupported -->

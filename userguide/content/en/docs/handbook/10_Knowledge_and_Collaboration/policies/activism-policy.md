@@ -8,7 +8,5 @@ description: The organization promotes ethical activism aligned with its values 
   while ensuring compliance with regulations. Ryan Laird oversees the policy's implementation
   and periodic reviews.
 draft: false
+ref: activism-policy
 ---
-
-
-<!-- Unsupported block type: unsupported -->

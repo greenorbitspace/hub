@@ -8,10 +8,5 @@ description: Ensure safe operation and grounding of electrical equipment through
   20121 standards. Responsibilities include the Electrical Maintenance Team, supervisors,
   and employees for reporting hazards.
 draft: false
+ref: procedure-for-electrical-equipment-and-its-grounding
 ---
-
-
-<!-- Unsupported block type: table_of_contents -->
-
-<!-- Unsupported block type: unsupported -->
-
