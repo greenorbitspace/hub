@@ -1,12 +1,13 @@
-baseURL: https://www.docsy.dev/
-title: Docsy
+baseURL: https://www.docs.greenorbit.space
+title: Green Orbit Digital Documentation
 enableRobotsTXT: true
 enableGitInfo: true
-theme: [docsy]
+theme:
+  - docsy
 
 ignoreLogs:
   # FIXME: find a better way to encode `project` pages than having to ignore warnings.
-  - warning-frontmatter-params-overrides # cSpell:disable-line
+  - warning-frontmatter-params-overrides
 
 outputs:
   home: [HTML]
@@ -14,23 +15,22 @@ outputs:
   section: [HTML, RSS, print]
 
 imaging:
-  resampleFilter: CatmullRom # cSpell:disable-line
+  resampleFilter: CatmullRom
   quality: 75
   anchor: smart
 
 menu:
   main:
-    - name: Example Site
+    - name: Green Orbit Digital
       weight: 40
-      url: https://example.docsy.dev
-      post: <sup><i class="ps-1 fa-solid fa-up-right-from-square fa-xs"
-        aria-hidden="true"></i></sup>
+      url: https://www.greenorbit.space
+      post: <sup><i class="ps-1 fa-solid fa-up-right-from-square fa-xs" aria-hidden="true"></i></sup>
 
 languages:
   en:
     languageName: English
     params:
-      description: Docsy does docs
+      description: Sustainable marketing and digital strategy for the space sector
 
 markup:
   tableOfContents:
@@ -48,77 +48,72 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    noClasses: false # Required for dark-mode
+    noClasses: false # Required for dark-mode syntax highlighting
 
 params:
   copyright:
     authors: >-
-      Docsy Authors |
+      Green Orbit Digital | 
       [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-    from_year: 2018
-  privacy_policy: https://policies.google.com/privacy
+    from_year: 2014
+  privacy_policy: https://www.greenorbit.space/privacy-policy
   version_menu: Releases
   archived_version: false
-  version: 0.12.0
-  url_latest_version: https://example.com
-  github_repo: https://github.com/google/docsy
-  github_project_repo: https://github.com/google/docsy
-  github_subdir: userguide
+  version: 1.0.0
+  url_latest_version: https://www.greenorbit.space
+  github_repo: https://github.com/greenorbitspace
+  github_project_repo: https://github.com/greenorbitspace/docsy
+  github_subdir: docs
   time_format_blog: Monday, January 02, 2006
   time_format_default: January 2, 2006
-  rss_sections: [blog] # TODO: drop since this is the default
-  gcs_engine_id: 011217106833237091527:la2vtv2emlw # cSpell:disable-line
-  offlineSearch: false
-  offlineSearchSummaryLength: 70
-  offlineSearchMaxResults: 10
-  prism_syntax_highlighting: false
+  rss_sections: [blog]
+  offlineSearch: true
+  offlineSearchSummaryLength: 100
+  offlineSearchMaxResults: 15
+  prism_syntax_highlighting: true
   search:
-    # algolia:
+    # algolia: # Configure if using Algolia later
   ui:
     showLightDarkModeMenu: true
-    sidebar_cache_limit: 10
-    sidebar_menu_compact: true
-    sidebar_menu_foldable: false
+    sidebar_cache_limit: 15
+    sidebar_menu_compact: false
+    sidebar_menu_foldable: true
     sidebar_search_disable: false
     feedback:
       enable: true
       'yes': >-
-        Glad to hear it! Please <a
-        href="https://github.com/google/docsy/issues/new">tell us how we can
-        improve</a>.
+        Thanks for your feedback! Please <a href="https://github.com/greenorbitdigital/greenorbit-docs/issues/new">let us know how we can improve</a>.
       'no': >-
-        Sorry to hear that. Please <a
-        href="https://github.com/google/docsy/issues/new">tell us how we can
-        improve</a>.
+        Sorry to hear that. Please <a href="https://github.com/greenorbitdigital/greenorbit-docs/issues/new">tell us what went wrong</a>.
     readingtime:
-      enable: false
+      enable: true
   links:
     user:
       - name: GitHub Discussions
-        url: https://github.com/google/docsy/discussions
+        url: https://github.com/greenorbitspace/docsy/discussions
         icon: fa-brands fa-github
-        desc: Discussion and help from your fellow users
-      - name: User mailing list
-        url: https://groups.google.com/forum/#!forum/docsy-users
+        desc: Join our community discussions
+      - name: Newsletter
+        url: https://greenorbit.space/newsletter
         icon: fa-solid fa-envelope
-        desc: Sign up for Docsy announcements
+        desc: Subscribe for updates on sustainable space marketing
       - name: Twitter
-        url: https://twitter.com/docsydocs
-        icon: fa-brands fa-x-twitter
-        desc: Follow us on Twitter to get the latest news!
-      - name: Stack Overflow
-        url: https://stackoverflow.com/questions/tagged/docsy
-        icon: fa-brands fa-stack-overflow
-        desc: Practical questions and curated answers
+        url: https://twitter.com/greenorbitspace
+        icon: fa-brands fa-twitter
+        desc: Follow us on Twitter for latest news
+      - name: LinkedIn
+        url: https://linkedin.com/company/greenorbitdigital
+        icon: fa-brands fa-linkedin-in
+        desc: Connect with us professionally
     developer:
       - name: Project info
         url: /project/
         icon: fa fa-book
-        desc: Project design documentation and resources
+        desc: Documentation and project resources
       - name: GitHub
-        url: https://github.com/google/docsy
+        url: https://github.com/greenorbitspace
         icon: fa-brands fa-github
-        desc: Development takes place here!
+        desc: Development and issue tracking here
 
   plantuml:
     enable: true
@@ -140,7 +135,6 @@ module:
   mounts:
     - source: content/en
       target: content
-    # Mount the repo's top-level .md files under project
     - source: ../README.md
       target: content/project/readme.md
     - source: ../CHANGELOG.md
@@ -148,4 +142,4 @@ module:
     - source: ../CONTRIBUTING.md
       target: content/project/contributing.md
 
-# cSpell:ignore docsy github goldmark markmap plantuml readingtime userguide
+# cSpell:ignore greenorbitdigital github goldmark markmap plantuml readingtime userguide
