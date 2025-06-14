@@ -3,7 +3,7 @@ import re
 import yaml
 
 # Path to the directory you'd like to process (recursively)
-ROOT_DIR = "userguide/content/en/docs/"  # Change to "userguide/content/en/docs" or any target dir
+ROOT_DIR = "../userguide/content/en/docs/"  # Change to "userguide/content/en/docs" or any target dir
 
 def merge_yaml_blocks(content):
     yaml_blocks = list(re.finditer(r"^---\n(.*?)\n---", content, flags=re.DOTALL | re.MULTILINE))

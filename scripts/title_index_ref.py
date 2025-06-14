@@ -4,7 +4,7 @@ import yaml
 import unicodedata
 import re
 
-ROOT_DIR = "userguide/content/en/docs"  # Adjust to your root docs folder
+ROOT_DIR = "../userguide/content/en/docs"  # Adjust to your root docs folder
 
 def slugify(value):
     """
