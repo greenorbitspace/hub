@@ -1,3 +1,7 @@
+---
+title: legal
+ref: legal
+---
 
 ---
 title: Company

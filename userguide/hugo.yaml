@@ -1,5 +1,5 @@
 baseURL: https://www.docs.greenorbit.space
-title: Green Orbit Digital Documentation
+title: Green Orbit Digital
 enableRobotsTXT: true
 enableGitInfo: true
 theme:

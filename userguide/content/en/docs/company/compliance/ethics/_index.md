@@ -1,3 +1,7 @@
+---
+title: ethics
+ref: ethics
+---
 
 ---
 title: Company

@@ -1,3 +1,7 @@
+---
+title: gdpr
+ref: gdpr
+---
 
 ---
 title: Company

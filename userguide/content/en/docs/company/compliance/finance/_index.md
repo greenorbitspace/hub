@@ -1,3 +1,7 @@
+---
+title: finance
+ref: finance
+---
 
 ---
 title: Company

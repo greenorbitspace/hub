@@ -1,3 +1,7 @@
+---
+title: management
+ref: management
+---
 
 ---
 title: Company

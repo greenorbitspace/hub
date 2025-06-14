@@ -2,6 +2,7 @@
 title: Supplier Vendor Management
 weight: 7
 description: Deploying your Docsy site.
+ref: supplier-vendor-management
 ---
 
 There are multiple possible options for deploying a Hugo site, including Netlify, Firebase Hosting, Bitbucket with Aerobatic, and more; you can read about them all in [Hosting and Deployment](https://gohugo.io/hosting-and-deployment/). Hugo also makes it easy to deploy your site locally for quick previews of your content.

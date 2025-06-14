@@ -2,6 +2,7 @@
 title: Miscellaneous
 weight: 9
 description: How to contribute to Docsy
+ref: miscellaneous
 ---
 
 Docsy is an open source project and we love getting patches and contributions to make Docsy and its docs even better.

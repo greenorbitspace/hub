@@ -1,3 +1,7 @@
+---
+title: business-continuity
+ref: business-continuity
+---
 
 ---
 title: Company

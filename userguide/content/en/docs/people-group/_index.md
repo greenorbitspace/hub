@@ -3,6 +3,7 @@ title: People Group
 weight: 7
 description: Support multiple languages in your site.
 cSpell:ignore: Goldydocs rtlcss subdir operativsystem skyen Norsk
+ref: people-group
 ---
 
 If you'd like to provide site content in multiple languages, the Docsy theme and
