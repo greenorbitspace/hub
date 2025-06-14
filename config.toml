@@ -2,6 +2,82 @@ baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Green Orbit Digital Documentation"
 theme = "docsy"
+enableRobotsTXT = true
 
-[params.ui]
-  sidebar_menu_truncate = 1300
+# Enable minify to reduce file sizes on build
+minify = true
+
+[params]
+
+  [params.ui]
+    sidebar_menu_truncate = 1300
+    # Enable or disable language selector in the UI
+    language_selector_enable = false
+    # Footer about section toggle
+    footer_about_enable = true
+
+  # Google Analytics configuration
+  googleAnalytics = "UA-XXXXXXXXX-X"
+
+  # Site copyright info
+  copyright = { from_year = 2025, to_year = "", authors = "Green Orbit Digital" }
+
+  # Footer privacy policy link (relative or absolute URL)
+  privacy_policy = "/privacy-policy/"
+
+  # Social / developer links for footer or header
+  [params.links]
+
+    [[params.links.developer]]
+    name = "GitHub"
+    url = "https://github.com/greenorbitspace"
+    icon = "fab fa-github"
+
+    [[params.links.developer]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/company/greenorbitdigital"
+    icon = "fab fa-linkedin-in"
+
+    [[params.links.developer]]
+    name = "Twitter"
+    url = "https://twitter.com/greenorbitspace"
+    icon = "fab fa-twitter"
+
+  # Community links (example)
+  [[params.links.community]]
+  name = "UKspace"
+  url = "https://ukspace.org"
+  icon = "fas fa-globe"
+
+# Internationalization (i18n) settings if needed
+[languages]
+
+  [languages.en]
+  languageName = "English"
+  weight = 1
+  contentDir = "content/en"
+  title = "Green Orbit Digital Documentation"
+  params.time_format_default = "Jan 2, 2006"
+  params.time_format_blog = "Jan 2, 2006"
+
+# Enable syntax highlighting with Chroma (optional)
+[markup]
+  [markup.highlight]
+  noClasses = false
+  style = "monokai"
+  lineNos = true
+  guessSyntax = true
+
+# Enable RSS feeds
+[outputs]
+  home = ["HTML", "RSS"]
+
+# Build options
+[build]
+  writeStats = true
+
+# Sitemap configuration
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"

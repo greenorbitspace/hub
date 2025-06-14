@@ -1,15 +1,22 @@
-{{ partial "footer/copyright.html"  . -}}
+{{ partial "footer/copyright.html" . -}}
 
+{{/* Show Privacy Policy link if set in site params */}}
 {{ with .Site.Params.privacy_policy -}}
-  <span class="ms-2"><a href="{{ . }}" target="_blank" rel="noopener">{{ T "footer_privacy_policy" }}</a></span>
+  <span class="ms-2">
+    <a href="{{ . }}" target="_blank" rel="noopener">{{ T "footer_privacy_policy" }}</a>
+  </span>
 {{- end -}}
 
+{{/* Deprecation warning for old config param */}}
 {{ if ne .Site.Params.ui.footer_about_disable nil -}}
   {{ warnf "Config parameter '.params.ui.footer_about_disable' is DEPRECATED, use '.params.ui.footer_about_enable' instead." -}}
-{{ end -}}
+{{- end }}
 
-{{ if or .Site.Params.ui.footer_about_enable (eq .Site.Params.ui.footer_about_disable false) -}}
+{{/* Show About link if enabled by config */}}
+{{ if or (isset .Site.Params.ui "footer_about_enable") (eq .Site.Params.ui.footer_about_disable false) -}}
   {{ with .Site.GetPage "about" -}}
-    <p class="td-footer__about mt-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+    <p class="td-footer__about mt-2">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </p>
   {{- end -}}
-{{ end -}}
+{{- end }}

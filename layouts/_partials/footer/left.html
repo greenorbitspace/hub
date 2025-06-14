@@ -1,5 +1,8 @@
-{{ with .Site.Params.links -}}
-  {{ with index . "user" -}}
-    {{- partial "footer/links.html"  . -}}
-  {{ end -}}
-{{ end -}}
+{{/* Check if .Site.Params.links exists */}}
+{{ with .Site.Params.links }}
+  {{/* Check if the "user" key exists within links */}}
+  {{ with index . "user" }}
+    {{/* Render the footer links partial, passing "user" links as context */}}
+    {{- partial "footer/links.html" . -}}
+  {{ end }}
+{{ end }}
