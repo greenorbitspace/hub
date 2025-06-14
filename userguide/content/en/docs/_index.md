@@ -1,78 +1,92 @@
 ---
-title: Welcome to Docsy
+title: About Green Orbit Digital
 linkTitle: Documentation
 menu: { main: { weight: 20 } }
 ---
 
-Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy's blocks and templates.
+Welcome to the **Green Orbit Digital documentation hub**!  
+Here, you’ll find everything you need to understand how we operate, what we believe in, and how to align with our vision for ethical, sustainable marketing—particularly within the space industry and adjacent sectors.
 
-## What is Docsy?
+---
 
-Docsy is a theme for the [Hugo](https://gohugo.io/) static site generator that's
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. [Learn more about Docsy](/about).
+## What is Green Orbit Digital?
 
-In addition to the theme itself, we provide an
-[example site](https://github.com/google/docsy-example) that uses lots of Docsy
-features and has a useful skeleton site structure (with advice for what to put
-in it!) for a large technical documentation set. You can copy the entire site
-and edit it for your own projects, or just explore the site and its source to
-see what Docsy can do. The site you're currently reading also uses Docsy and is
-a useful example of a smaller Docsy docset: feel free to copy it or borrow from
-it if it suits your needs better than the "big" example.
+**Green Orbit Digital** is a Leicester-based sustainable marketing agency with a mission to drive measurable impact through eco-conscious, data-driven strategies. We specialise in serving the space sector, helping organisations amplify their message while aligning with principles of environmental responsibility and innovation.  
+👉 [Visit our main website](https://greenorbit.space)
 
-Docsy itself does **not** provide:
+We combine technical marketing expertise—across SEO, content strategy, email, and social—with a systems-thinking approach to sustainability. Our frameworks are designed to:
 
-- **Source hosting and management**: Our theme and site source files live on
-  [GitHub](https://github.com/), which is the simplest approach for most
-  projects. However, you can also keep your project files in
-  [GitLab](https://about.gitlab.com/),
-  [BitBucket](https://bitbucket.org/product), locally, or wherever you like. Be
-  aware that where your source files live may affect the Docsy features you can
-  use (such as letting users file documentation issues) and site deployment
-  options.
-- **Site deployment**: You can find out about deployment options in
-  [Previews and Deployment](/docs/deployment/). This site uses
-  [Netlify](https://www.netlify.com/).
+- Reduce environmental impact  
+- Enhance transparency  
+- Accelerate purpose-driven growth  
 
-Docsy also doesn't actually generate your site's HTML files: that's Hugo's job!
-Hugo takes your Markdown or HTML doc source files and Docsy's theme files and
-builds them into a static site for deployment. You can find out more about Hugo
-and how it works in the [Hugo documentation](https://gohugo.io/documentation/).
+---
 
-## Is Docsy for me?
+## Introduction
 
-Docsy is particularly useful for medium to large technical documentation sets
-with 20+ pages of docs and/or multiple types of docs and pages: tutorials,
-reference documentation, blog posts, community pages, and so on.
+<aside>
+  <img src="/icons/apple_green.svg" alt="Sustainability Icon" width="40px" />
 
-If you have a smaller project with only a couple of pages of documentation and
-hence simpler navigation needs, Docsy may be too heavyweight a solution for you.
-Instead, consider:
+  At Green Orbit Digital, our core values are the guiding principles that shape our approach to every project, every partnership, and every campaign. Rooted in sustainability, innovation, and ethical leadership, our values fuel our mission to make marketing a catalyst for positive change in the space sector and beyond.
+</aside>
 
-- A simpler Hugo or Jekyll theme: find out what's available in GitHub Pages'
-  [built-in Jekyll options](https://pages.github.com/themes/) and the
-  [Hugo theme gallery](https://themes.gohugo.io/).
-- A good README file that tells users what your project does and links to some
-  examples.
+We don’t just talk about values—we live them. Whether launching a new campaign or refining internal processes, we ground every decision in this values-driven framework.
 
-If you have a very large documentation project, our example site structure may
-not be sufficient either, though you can still use our theme, possibly with
-heavier customization.
+---
 
-If you'd like to use Docsy's layouts but prefer to use Jekyll,
-[vsoch](https://github.com/vsoch) has created a
-[Docsy Jekyll port](https://github.com/vsoch/docsy-jekyll) that includes many of
-Docsy's features (though as this is a separate project it won't be automatically
-updated along with Docsy).
+## 🌱 Sustainability – Our Guiding Star
 
-## Ready to get started?
+<aside>
+  <img src="/icons/star_green.svg" alt="Star Icon" width="40px" />
 
-Find out how to build and serve your first site in
-[Get Started](/docs/get-started/). Or visit the
-[example site](https://example.docsy.dev) and
-[its repo](https://github.com/google/docsy-example) and start exploring!
+  Sustainability is embedded in everything we do. From digital strategies to stakeholder engagement, we strive to ensure every action reduces environmental impact while creating long-term value.
+</aside>
+
+---
+
+## Core Values
+
+### Explore Our Core Values
+
+Our seven core values guide both day-to-day operations and long-term strategy:
+
+1. **Sustainability** – Our Guiding Star  
+2. **Innovation** – The Fuel for Progress  
+3. **Responsibility** – Ethical Leadership in Action  
+4. **Collaboration** – Strength in Unity  
+5. **Impact** – Purpose-Driven Success  
+6. **Integrity** – Honesty in Every Step  
+7. **Continuous Improvement** – Evolving for a Better Tomorrow  
+
+Each value is supported by:
+
+- **Decision criteria** to guide consistent, values-based choices  
+- **Action frameworks** to translate those values into measurable outcomes  
+
+---
+
+## Implementation Frameworks
+
+We embed our values into company operations through detailed policies, auditing processes, and strategic frameworks that ensure:
+
+- ✅ **Sustainability** is measurable via carbon tracking and green procurement  
+- 🚀 **Innovation** is fostered through R&D, partnerships, and agile methods  
+- 🛡️ **Responsibility** is upheld via ethics policies and stakeholder engagement  
+- 🤝 **Collaboration** is enabled by inclusive practices and shared KPIs  
+- 📊 **Impact** is tracked with outcome metrics and transparent reporting  
+- 🧭 **Integrity** is protected via audits, protocols, and accountability measures  
+- 🔄 **Continuous Improvement** is driven by feedback, learning, and annual reviews  
+
+---
+
+## Ready to Collaborate?
+
+Whether you’re a client, partner, or contributor, we invite you to explore this documentation hub and discover how we align marketing performance with planetary responsibility.
+
+Start with:
+
+- 🌍 [Sustainability Frameworks](/docs/sustainability)  
+- 🚀 [Innovation Playbook](/docs/innovation)  
+- 📚 [Policies & Ethics Guides](/docs/policies)
+
+Together, we can build a more sustainable future—through marketing that matters.
