@@ -1,5 +1,5 @@
 ---
-title: Welcome to Docsy
+title: Welcome to the Green Orbit Digital documentation hub
 linkTitle: Documentation
 menu: { main: { weight: 20 } }
 ---

@@ -1,5 +1,5 @@
 ---
-title: Previews and Deployment
+title: Supplier Vendor Management
 weight: 7
 description: Deploying your Docsy site.
 ---

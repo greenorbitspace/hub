@@ -1,5 +1,5 @@
 ---
-title: Multi-language Support
+title: People
 weight: 7
 description: Support multiple languages in your site.
 cSpell:ignore: Goldydocs rtlcss subdir operativsystem skyen Norsk

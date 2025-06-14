@@ -1,8 +1,8 @@
 
 ---
-title: Get started
+title: Company
 weight: 2
-aliases: [/docs/getting-started/]
+aliases: [/docs/company/]
 date: 2018-07-30
 description:
   Learn how to get started with Docsy, including the available options for
