@@ -1,11 +1,13 @@
 ---
-title: Docsy
-description: A Hugo theme for creating great technical documentation sites
+title: Green Orbit Digital
+description: Sustainable marketing for the space sector and beyond.
 ---
 
-{{% blocks/cover title="Welcome to Docsy!" image_anchor="top" height="full" %}}
+{{% blocks/cover title="Welcome to Green Orbit Digital" image_anchor="top" height="full" %}}
 {{% param description %}}
 {.display-6}
+
+We help purpose-driven space and tech organisations grow with sustainable, data-driven marketing that makes an impact.
 
 <a class="btn btn-lg btn-primary me-3" href="about/">Learn More</a>
 <a class="btn btn-lg btn-secondary" href="docs/get-started/">Get started</a>
@@ -15,30 +17,23 @@ description: A Hugo theme for creating great technical documentation sites
 {{% /blocks/cover %}}
 
 {{% blocks/lead color="primary" %}}
-Docsy is a theme for the Hugo static site generator that's specifically designed
-for technical documentation sets. Our aim is to help you get a working
-documentation site up and running as easily as possible, so you can concentrate
-on creating great content for your users.
+Green Orbit Digital is a Leicester-based sustainable marketing agency supporting space, climate tech, and science-driven ventures. We blend deep sector insight with ethical marketing strategies to drive measurable, low-carbon impact.
 
-<a href="https://www.netlify.com/" target="_blank" rel="noopener">
-  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
-</a>
+From SEO and email automation to digital sustainability audits and reporting frameworks, we help you scale with purpose.
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 
-{{% blocks/feature icon="fa-lightbulb" title="See Docsy in action!" url="/docs/examples/" %}}
-As well as our example site, there's a growing number of projects using Docsy for their doc sites.
+{{% blocks/feature icon="fa-rocket" title="Sustainability at the Core" url="/docs/sustainability-framework/" %}}
+We embed environmental responsibility into every strategy, from eco-hosting to lifecycle-aware campaigns.
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/google/docsy" %}}
-We do a [Pull Request](https://github.com/google/docsy/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fa-chart-line" title="Data-Driven, People-Centric" url="/docs/analytics-reporting/" %}}
+Our frameworks turn metrics into insight. Track performance while aligning with the UN SDGs and ethical KPIs.
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fa-brands fa-x-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-Find out about new features and how our users are using Docsy.
+{{% blocks/feature icon="fa-handshake" title="Work with Us" url="/contact/" %}}
+Whether you're building a climate tech startup or launching a satellite mission, we’re here to amplify your mission—sustainably.
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
