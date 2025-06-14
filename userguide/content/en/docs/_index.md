@@ -10,9 +10,6 @@ Welcome to the **Green Orbit Digital documentation hub** — your go-to resource
 
 Whether you’re a collaborator, contributor, or client, this space is designed to provide structured, transparent insights into how we operate.
 
-{{% /blocks/cover %}}
-
-{{% blocks/section color="primary" %}}
 ## About Green Orbit Digital
 
 **Green Orbit Digital** is a Leicester-based sustainable marketing agency focused on enabling ethical growth in space, science, and deep tech sectors. We combine:
@@ -23,9 +20,7 @@ Whether you’re a collaborator, contributor, or client, this space is designed 
 
 We believe that marketing can and should be a force for environmental and societal good.  
 👉 [Visit our main site](https://greenorbit.space)
-{{% /blocks/section %}}
 
-{{% blocks/section color="white" %}}
 ## Documentation Overview
 
 Our documentation is structured to help stakeholders engage effectively and ethically:
@@ -37,14 +32,8 @@ Our documentation is structured to help stakeholders engage effectively and ethi
 - 💼 **[Working With Us](/docs/collaboration):** Get clear on onboarding, roles, and how to collaborate in a purpose-aligned way.
 
 Each section contains templates, decision criteria, and implementation guidance tailored for use in marketing, operations, and sustainability reporting.
-{{% /blocks/section %}}
 
-{{% blocks/section color="primary" %}}
 ## Our Values in Practice
-
-<aside>
-  <img src="/icons/apple_green.svg" alt="Sustainability Icon" width="40px" />
-</aside>
 
 Our documentation isn’t just procedural—it reflects our **seven core values**, embedded into every project, campaign, and internal process:
 
@@ -62,9 +51,7 @@ Each value is operationalised via:
 - Environmental and ethical audits
 - Team alignment tools
 - Values-based decision protocols
-{{% /blocks/section %}}
 
-{{% blocks/section color="white" %}}
 ## Implementation Highlights
 
 We integrate our sustainability and governance principles directly into our systems:
@@ -79,9 +66,7 @@ We integrate our sustainability and governance principles directly into our syst
 | 🧭 **Integrity & Audits** | Internal reviews, open documentation standards |
 
 > We believe documentation isn't a byproduct—it's a core mechanism of ethical scaling.
-{{% /blocks/section %}}
 
-{{% blocks/section color="primary" %}}
 ## Get Started
 
 New to Green Orbit or want to contribute? Here’s where to begin:
@@ -95,4 +80,3 @@ New to Green Orbit or want to contribute? Here’s where to begin:
 If you're contributing content or collaborating on strategy, make sure to read our [Contributor Guidelines](/docs/contributor-guidelines).
 
 Ready to align performance with purpose? Let’s build better systems—together.
-{{% /blocks/section %}}
