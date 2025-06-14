@@ -1,6 +1,6 @@
 import os
 
-ROOT_DIR = "userguide/content/en/docs"  # Change this to your Hugo content root
+ROOT_DIR = "../userguide/content/en/docs"  # Change this to your Hugo content root
 
 FRONT_MATTER = """---
 title: ""
