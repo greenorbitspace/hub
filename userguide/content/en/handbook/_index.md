@@ -1,6 +1,6 @@
 ---
 title: Company Handbook
-linkTitle: Company Handbook
+linkTitle: Handbook
 date: '2025-05-09T13:00:00Z'
 weight: 1
 description: Green Orbit Digital's handbook outlines company values, employment policies,
@@ -8,6 +8,6 @@ description: Green Orbit Digital's handbook outlines company values, employment 
   opportunity, and employee development. It includes guidelines for remote work, attendance,
   and health benefits, along with resources for career growth and workplace safety.
 draft: false
-ref: company-handbook
+ref: handbook
 ---
 
