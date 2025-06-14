@@ -1,5 +1,5 @@
 ---
-title: Event Logging and Review Policy
+title: Event Logging And Review Policy
 linkTitle: Event Logging and Review Policy
 date: '2025-05-01T22:41:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establishes a framework for logging and reviewing events to ensure 
 draft: false
 ref: event-logging-and-review-policy
 ---
+

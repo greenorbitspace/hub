@@ -1,5 +1,5 @@
 ---
-title: Environmental policy
+title: Environmental Policy
 linkTitle: 'Environmental policy '
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital commits to environmental stewardship by minimiz
 draft: false
 ref: environmental-policy
 ---
+

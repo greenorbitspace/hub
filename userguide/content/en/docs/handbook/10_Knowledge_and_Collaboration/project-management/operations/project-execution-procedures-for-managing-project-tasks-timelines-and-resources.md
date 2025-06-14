@@ -1,5 +1,5 @@
 ---
-title: 'Project Execution: Procedures for managing project tasks, timelines, and resources.'
+title: 'Project Execution: Procedures For Managing Project Tasks, Timelines, And Resources.'
 linkTitle: 'Project Execution: Procedures for managing project tasks, timelines, and
   resources.'
 date: '2025-04-29T17:10:00Z'
@@ -10,3 +10,4 @@ description: Outlines procedures for managing project tasks, timelines, and reso
 draft: false
 ref: project-execution-procedures-for-managing-project-tasks-timelines-and-resources
 ---
+

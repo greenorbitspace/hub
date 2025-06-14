@@ -1,5 +1,5 @@
 ---
-title: Return of Goods Policy
+title: Return Of Goods Policy
 linkTitle: Return of Goods Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Customers can return products within 30 days if unused and in origi
 draft: false
 ref: return-of-goods-policy
 ---
+

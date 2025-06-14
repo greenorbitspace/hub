@@ -1,5 +1,5 @@
 ---
-title: Identification Badge Policy and Procedure for Employees
+title: Identification Badge Policy And Procedure For Employees
 linkTitle: Identification Badge Policy and Procedure for Employees
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: All employees must wear identification badges visibly on company pr
 draft: false
 ref: identification-badge-policy-and-procedure-for-employees
 ---
+

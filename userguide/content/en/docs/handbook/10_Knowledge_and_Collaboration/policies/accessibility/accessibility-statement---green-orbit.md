@@ -1,5 +1,5 @@
 ---
-title: Accessibility statement - Green Orbit
+title: Accessibility Statement   Green Orbit
 linkTitle: Accessibility statement - Green Orbit
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Wholegrain Digital is committed to making its website accessible, e
 draft: false
 ref: accessibility-statement---green-orbit
 ---
+

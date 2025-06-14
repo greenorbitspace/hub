@@ -1,5 +1,5 @@
 ---
-title: Training Record Form (F-TR-01)
+title: Training Record Form (F Tr 01)
 linkTitle: Training Record Form (F-TR-01)
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: A training record form includes sections for employee details, trai
 draft: false
 ref: training-record-form-f-tr-01
 ---
+

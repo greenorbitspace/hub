@@ -1,6 +1,6 @@
 ---
-title: 'Health and Safety: Guidelines for maintaining a safe working environment and
-  responding to health and safety incidents.'
+title: 'Health And Safety: Guidelines For Maintaining A Safe Working Environment And
+  Responding To Health And Safety Incidents.'
 linkTitle: 'Health and Safety: Guidelines for maintaining a safe working environment
   and responding to health and safety incidents.'
 date: '2025-04-27T18:00:00Z'
@@ -12,3 +12,4 @@ description: Maintain a safe working environment by following general safety pri
 draft: false
 ref: health-and-safety-guidelines-for-maintaining-a-safe-working-environment-and-responding-to-health-and-safety-incidents
 ---
+

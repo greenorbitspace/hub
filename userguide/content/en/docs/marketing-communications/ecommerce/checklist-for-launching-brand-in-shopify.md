@@ -1,5 +1,5 @@
 ---
-title: Checklist for Launching Brand in Shopify
+title: Checklist For Launching Brand In Shopify
 linkTitle: Checklist for Launching Brand in Shopify
 date: '2025-04-27T19:30:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: 'Follow this checklist to launch your cosmetics brand on Shopify: s
 draft: false
 ref: checklist-for-launching-brand-in-shopify
 ---
+

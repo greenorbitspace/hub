@@ -1,5 +1,6 @@
 ---
 title: Press Kit And Media Resources
-ref: press_kit_and_media_resources
+ref: press-kit-and-media-resources
 weight: 1
 ---
+

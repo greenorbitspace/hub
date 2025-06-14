@@ -1,5 +1,5 @@
 ---
-title: Scope of the QMS
+title: Scope Of The Qms
 linkTitle: Scope of the QMS
 date: '2025-05-01T20:30:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The Quality Management System (QMS) at Green Orbit Digital ensures 
 draft: false
 ref: scope-of-the-qms
 ---
+

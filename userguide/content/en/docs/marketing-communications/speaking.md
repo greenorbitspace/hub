@@ -8,3 +8,4 @@ description: Guidelines for managing speaking engagements in the marketing depar
 draft: false
 ref: speaking
 ---
+

@@ -1,5 +1,6 @@
 ---
 title: Competitive Analysis
-ref: competitive_analysis
+ref: competitive-analysis
 weight: 1
 ---
+

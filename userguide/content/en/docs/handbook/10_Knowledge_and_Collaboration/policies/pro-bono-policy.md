@@ -1,5 +1,5 @@
 ---
-title: Pro bono policy
+title: Pro Bono Policy
 linkTitle: Pro bono policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital commits to providing pro bono professional serv
 draft: false
 ref: pro-bono-policy
 ---
+

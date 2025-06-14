@@ -1,5 +1,5 @@
 ---
-title: Procedure for Emergency preparedness and response
+title: Procedure For Emergency Preparedness And Response
 linkTitle: Procedure for Emergency preparedness and response
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establish a systematic approach for emergency preparedness, includi
 draft: false
 ref: procedure-for-emergency-preparedness-and-response
 ---
+

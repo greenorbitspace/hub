@@ -1,5 +1,5 @@
 ---
-title: Project kickoff
+title: Project Kickoff
 linkTitle: Project kickoff
 date: '2025-04-27T18:00:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Kickoff procedure includes pre-meeting preparation, team introducti
 draft: false
 ref: project-kickoff
 ---
+

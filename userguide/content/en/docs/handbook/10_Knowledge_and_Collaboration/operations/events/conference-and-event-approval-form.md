@@ -1,5 +1,5 @@
 ---
-title: Conference and Event Approval Form
+title: Conference And Event Approval Form
 linkTitle: Conference and Event Approval Form
 date: '2025-05-01T20:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: The Conference and Event Approval Form collects details such as att
 draft: false
 ref: conference-and-event-approval-form
 ---
+

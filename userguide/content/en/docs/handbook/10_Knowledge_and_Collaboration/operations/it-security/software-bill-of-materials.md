@@ -1,5 +1,5 @@
 ---
-title: Software Bill of Materials
+title: Software Bill Of Materials
 linkTitle: Software Bill of Materials
 date: '2025-05-06T14:30:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The Software Bill of Materials for Green Orbit's Digital Sustainabi
 draft: false
 ref: software-bill-of-materials
 ---
+

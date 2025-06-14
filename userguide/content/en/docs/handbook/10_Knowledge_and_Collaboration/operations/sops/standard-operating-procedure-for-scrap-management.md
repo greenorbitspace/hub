@@ -1,5 +1,5 @@
 ---
-title: Standard Operating Procedure for scrap management
+title: Standard Operating Procedure For Scrap Management
 linkTitle: Standard Operating Procedure for scrap management
 date: '2025-05-01T23:37:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establish a standardized scrap management process to ensure complia
 draft: false
 ref: standard-operating-procedure-for-scrap-management
 ---
+

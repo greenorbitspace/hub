@@ -1,6 +1,6 @@
 ---
-title: 'Campaign Management: Steps for planning, executing, and evaluating marketing
-  campaigns.'
+title: 'Campaign Management: Steps For Planning, Executing, And Evaluating Marketing
+  Campaigns.'
 linkTitle: 'Campaign Management: Steps for planning, executing, and evaluating marketing
   campaigns.'
 date: '2025-04-27T18:00:00Z'
@@ -12,3 +12,4 @@ description: Campaign management involves structured planning, execution, and ev
 draft: false
 ref: campaign-management-steps-for-planning-executing-and-evaluating-marketing-campaigns
 ---
+

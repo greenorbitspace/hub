@@ -1,5 +1,5 @@
 ---
-title: Request new equipment form
+title: Request New Equipment Form
 linkTitle: Request new equipment form
 date: '2025-05-01T20:24:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Form for requesting new equipment includes options for various type
 draft: false
 ref: request-new-equipment-form
 ---
+

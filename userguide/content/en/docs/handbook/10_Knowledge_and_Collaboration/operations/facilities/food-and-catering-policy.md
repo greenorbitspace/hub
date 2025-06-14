@@ -1,5 +1,5 @@
 ---
-title: Food and Catering Policy
+title: Food And Catering Policy
 linkTitle: Food and Catering Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Green Orbit Digital's food policy prioritizes plant-based, ethicall
 draft: false
 ref: food-and-catering-policy
 ---
+

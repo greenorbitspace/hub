@@ -1,5 +1,6 @@
 ---
 title: Sustainability Commitment
-ref: sustainability_commitment
+ref: sustainability-commitment
 weight: 1
 ---
+

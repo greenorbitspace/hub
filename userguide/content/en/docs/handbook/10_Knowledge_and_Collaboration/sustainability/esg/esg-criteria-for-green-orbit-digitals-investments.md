@@ -1,5 +1,5 @@
 ---
-title: ESG Criteria for Green Orbit Digital's Investments
+title: Esg Criteria For Green Orbit Digital'S Investments
 linkTitle: ESG Criteria for Green Orbit Digital's Investments
 date: '2025-05-01T20:30:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Green Orbit Digital integrates ESG criteria into investment decisio
 draft: false
 ref: esg-criteria-for-green-orbit-digitals-investments
 ---
+

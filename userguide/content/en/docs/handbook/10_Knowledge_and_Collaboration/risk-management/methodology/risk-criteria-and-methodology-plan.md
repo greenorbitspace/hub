@@ -1,5 +1,5 @@
 ---
-title: Risk criteria and methodology plan
+title: Risk Criteria And Methodology Plan
 linkTitle: Risk criteria and methodology plan
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Green Orbit Digital's risk management plan outlines a comprehensive
 draft: false
 ref: risk-criteria-and-methodology-plan
 ---
+

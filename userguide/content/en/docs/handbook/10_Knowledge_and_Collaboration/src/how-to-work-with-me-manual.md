@@ -1,5 +1,5 @@
 ---
-title: How to Work with Me manual
+title: How To Work With Me Manual
 linkTitle: How to Work with Me manual
 date: '2025-05-01T20:25:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Create a personal "How to Work with Me" manual by reflecting on com
 draft: false
 ref: how-to-work-with-me-manual
 ---
+

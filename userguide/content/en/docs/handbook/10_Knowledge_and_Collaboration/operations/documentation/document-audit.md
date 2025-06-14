@@ -1,5 +1,5 @@
 ---
-title: Document audit
+title: Document Audit
 linkTitle: Document audit
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: The audit identifies issues in structure, completeness, accuracy, a
 draft: false
 ref: document-audit
 ---
+

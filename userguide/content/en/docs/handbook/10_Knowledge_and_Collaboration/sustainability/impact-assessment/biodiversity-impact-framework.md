@@ -1,5 +1,5 @@
 ---
-title: Biodiversity impact framework
+title: Biodiversity Impact Framework
 linkTitle: Biodiversity impact framework
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: A framework to assess and mitigate biodiversity impacts from operat
 draft: false
 ref: biodiversity-impact-framework
 ---
+

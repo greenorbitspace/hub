@@ -1,5 +1,5 @@
 ---
-title: Procedure for Objectives and targets
+title: Procedure For Objectives And Targets
 linkTitle: Procedure for Objectives and targets
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establish a structured process for setting and achieving SMART obje
 draft: false
 ref: procedure-for-objectives-and-targets
 ---
+

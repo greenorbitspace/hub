@@ -1,5 +1,5 @@
 ---
-title: Guidelines for Booking Venues and Hospitality
+title: Guidelines For Booking Venues And Hospitality
 linkTitle: Guidelines for Booking Venues and Hospitality
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Guidelines for booking venues and hospitality emphasize responsible
 draft: false
 ref: guidelines-for-booking-venues-and-hospitality
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Business process plan
+title: Business Process Plan
 linkTitle: Business process plan
 date: '2025-04-29T16:47:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The business process plan focuses on optimizing resource management
 draft: false
 ref: business-process-plan
 ---
+

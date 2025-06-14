@@ -1,5 +1,5 @@
 ---
-title: Operational controls
+title: Operational Controls
 linkTitle: Operational controls
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Implement operational controls for environmental management, includ
 draft: false
 ref: operational-controls
 ---
+

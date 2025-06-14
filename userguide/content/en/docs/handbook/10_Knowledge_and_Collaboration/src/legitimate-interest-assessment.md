@@ -1,5 +1,5 @@
 ---
-title: Legitimate interest assessment
+title: Legitimate Interest Assessment
 linkTitle: Legitimate interest assessment
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Conduct a legitimate interest assessment by identifying the purpose
 draft: false
 ref: legitimate-interest-assessment
 ---
+

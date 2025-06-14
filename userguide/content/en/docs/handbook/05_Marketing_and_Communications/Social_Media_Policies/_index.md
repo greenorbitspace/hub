@@ -1,5 +1,6 @@
 ---
 title: Social Media Policies
-ref: social_media_policies
+ref: social-media-policies
 weight: 1
 ---
+

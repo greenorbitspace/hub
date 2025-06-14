@@ -1,5 +1,6 @@
 ---
-title: Action-Plans
+title: Action Plans
 ref: action-plans
 weight: 1
 ---
+

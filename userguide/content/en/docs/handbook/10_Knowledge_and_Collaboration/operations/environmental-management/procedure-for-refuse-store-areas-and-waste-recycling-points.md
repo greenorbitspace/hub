@@ -1,5 +1,5 @@
 ---
-title: Procedure for Refuse Store Areas and Waste Recycling Points
+title: Procedure For Refuse Store Areas And Waste Recycling Points
 linkTitle: Procedure for Refuse Store Areas and Waste Recycling Points
 date: '2025-05-01T23:46:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Implement procedures for managing refuse store areas and waste recy
 draft: false
 ref: procedure-for-refuse-store-areas-and-waste-recycling-points
 ---
+

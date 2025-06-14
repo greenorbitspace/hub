@@ -1,5 +1,5 @@
 ---
-title: Operational plan
+title: Operational Plan
 linkTitle: Operational plan
 date: '2025-04-29T16:47:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Operational plan focuses on service delivery, resource management, 
 draft: false
 ref: operational-plan
 ---
+

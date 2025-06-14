@@ -1,5 +1,5 @@
 ---
-title: Interested party analysis
+title: Interested Party Analysis
 linkTitle: Interested party analysis
 date: '2025-05-06T14:32:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Analysis of interested parties highlights their needs, expectations
 draft: false
 ref: interested-party-analysis
 ---
+

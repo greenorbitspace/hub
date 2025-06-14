@@ -10,3 +10,4 @@ description: Green Orbit Digital aims to revolutionize digital documentation wit
 draft: false
 ref: manifesto
 ---
+

@@ -1,7 +1,7 @@
 ---
-title: Procedure to identify its sustainable development issues and to evaluate their
-  significance associated with its event-related activities, products and services
-  within the defined scope of the management system
+title: Procedure To Identify Its Sustainable Development Issues And To Evaluate Their
+  Significance Associated With Its Event Related Activities, Products And Services
+  Within The Defined Scope Of The Management System
 linkTitle: Procedure to identify its sustainable development issues and to evaluate
   their significance associated with its event-related activities, products and services
   within the defined scope of the management system
@@ -14,3 +14,4 @@ description: Define the management system's scope, identify sustainable developm
 draft: false
 ref: procedure-to-identify-its-sustainable-development-issues-and-to-evaluate-their-significance-associated-with-its-event-related-activities-products-and-services-within-the-defined-scope-of-the-management-system
 ---
+

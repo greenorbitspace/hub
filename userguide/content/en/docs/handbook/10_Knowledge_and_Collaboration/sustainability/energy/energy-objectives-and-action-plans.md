@@ -1,5 +1,5 @@
 ---
-title: Energy objectives and action plans
+title: Energy Objectives And Action Plans
 linkTitle: Energy objectives and action plans
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Set clear energy objectives to reduce consumption by 10%, improve e
 draft: false
 ref: energy-objectives-and-action-plans
 ---
+

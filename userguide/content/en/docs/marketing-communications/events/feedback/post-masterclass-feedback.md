@@ -1,5 +1,5 @@
 ---
-title: Post masterclass feedback
+title: Post Masterclass Feedback
 linkTitle: Post masterclass feedback
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Feedback form for a masterclass includes sections on overall experi
 draft: false
 ref: post-masterclass-feedback
 ---
+

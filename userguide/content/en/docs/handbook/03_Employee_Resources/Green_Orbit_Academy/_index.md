@@ -1,5 +1,6 @@
 ---
 title: Green Orbit Academy
-ref: green_orbit_academy
+ref: green-orbit-academy
 weight: 1
 ---
+

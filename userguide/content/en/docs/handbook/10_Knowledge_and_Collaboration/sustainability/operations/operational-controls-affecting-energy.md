@@ -1,5 +1,5 @@
 ---
-title: Operational controls affecting energy
+title: Operational Controls Affecting Energy
 linkTitle: Operational controls affecting energy
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Operational controls for ISO 50001 focus on optimizing energy usage
 draft: false
 ref: operational-controls-affecting-energy
 ---
+

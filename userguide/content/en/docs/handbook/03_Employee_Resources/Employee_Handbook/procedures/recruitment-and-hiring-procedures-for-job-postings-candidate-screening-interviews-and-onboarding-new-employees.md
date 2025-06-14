@@ -1,6 +1,6 @@
 ---
-title: 'Recruitment and Hiring: Procedures for job postings, candidate screening,
-  interviews, and onboarding new employees.'
+title: 'Recruitment And Hiring: Procedures For Job Postings, Candidate Screening,
+  Interviews, And Onboarding New Employees.'
 linkTitle: 'Recruitment and Hiring: Procedures for job postings, candidate screening,
   interviews, and onboarding new employees.'
 date: '2025-04-27T18:00:00Z'
@@ -11,3 +11,4 @@ description: Outline of recruitment and hiring procedures including job posting,
 draft: false
 ref: recruitment-and-hiring-procedures-for-job-postings-candidate-screening-interviews-and-onboarding-new-employees
 ---
+

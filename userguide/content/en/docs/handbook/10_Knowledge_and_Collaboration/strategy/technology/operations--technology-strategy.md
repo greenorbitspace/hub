@@ -10,3 +10,4 @@ description: An effective operational strategy focuses on aligning daily operati
 draft: false
 ref: operations--technology-strategy
 ---
+

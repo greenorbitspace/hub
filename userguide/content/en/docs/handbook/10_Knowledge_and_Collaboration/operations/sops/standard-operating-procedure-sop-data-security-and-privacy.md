@@ -1,5 +1,5 @@
 ---
-title: 'Standard Operating Procedure (SOP): Data Security and Privacy'
+title: 'Standard Operating Procedure (Sop): Data Security And Privacy'
 linkTitle: 'Standard Operating Procedure (SOP): Data Security and Privacy'
 date: '2025-04-30T01:03:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establish protocols for data security and privacy, ensuring complia
 draft: false
 ref: standard-operating-procedure-sop-data-security-and-privacy
 ---
+

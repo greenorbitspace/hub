@@ -1,5 +1,5 @@
 ---
-title: Procedure for Context of organization
+title: Procedure For Context Of Organization
 linkTitle: Procedure for Context of organization
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Procedure outlines steps for identifying and analyzing internal and
 draft: false
 ref: procedure-for-context-of-organization
 ---
+

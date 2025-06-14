@@ -1,5 +1,5 @@
 ---
-title: Brand positioning
+title: Brand Positioning
 linkTitle: Brand positioning
 date: '2025-05-01T20:25:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Brand positioning aims to make a brand the top choice for consumers
 draft: false
 ref: brand-positioning
 ---
+

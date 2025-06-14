@@ -1,5 +1,5 @@
 ---
-title: Client intake form
+title: Client Intake Form
 linkTitle: Client intake form
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Client intake form includes sections for client information, projec
 draft: false
 ref: client-intake-form
 ---
+

@@ -1,5 +1,6 @@
 ---
 title: 09 Legal And Compliance
-ref: 09_legal_and_compliance
+ref: 09-legal-and-compliance
 weight: 1
 ---
+

@@ -1,5 +1,6 @@
 ---
 title: Sales Playbook
-ref: sales_playbook
+ref: sales-playbook
 weight: 1
 ---
+

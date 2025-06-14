@@ -1,5 +1,5 @@
 ---
-title: SEO
+title: Seo
 linkTitle: SEO
 date: '2025-04-30T01:05:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Standard operating procedure for SEO activities in the marketing de
 draft: false
 ref: seo
 ---
+

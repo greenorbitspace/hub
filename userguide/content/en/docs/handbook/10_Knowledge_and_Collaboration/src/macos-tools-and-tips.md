@@ -1,5 +1,5 @@
 ---
-title: macOS tools and tips
+title: Macos Tools And Tips
 linkTitle: macOS tools and tips
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Tips for macOS users include keyboard shortcuts for screenshots, di
 draft: false
 ref: macos-tools-and-tips
 ---
+

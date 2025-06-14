@@ -1,5 +1,5 @@
 ---
-title: Environmentally preferable purchasing (EPP) policy
+title: Environmentally Preferable Purchasing (Epp) Policy
 linkTitle: Environmentally preferable purchasing (EPP) policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital promotes environmentally responsible purchasing
 draft: false
 ref: environmentally-preferable-purchasing-epp-policy
 ---
+

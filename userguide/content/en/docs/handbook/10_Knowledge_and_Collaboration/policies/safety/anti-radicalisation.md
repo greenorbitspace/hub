@@ -1,5 +1,5 @@
 ---
-title: Anti-Radicalisation
+title: Anti Radicalisation
 linkTitle: Anti-Radicalisation
 date: '2025-05-01T22:50:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: The organization is committed to preventing radicalization through 
 draft: false
 ref: anti-radicalisation
 ---
+

@@ -10,3 +10,4 @@ description: Partnerships should align with sustainability goals, focusing on in
 draft: false
 ref: sustainable-partnerships-framework
 ---
+

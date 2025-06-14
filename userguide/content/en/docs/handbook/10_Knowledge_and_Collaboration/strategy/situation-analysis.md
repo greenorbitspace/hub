@@ -11,3 +11,4 @@ description: Conduct a comprehensive situation analysis covering internal and ex
 draft: false
 ref: situation-analysis
 ---
+

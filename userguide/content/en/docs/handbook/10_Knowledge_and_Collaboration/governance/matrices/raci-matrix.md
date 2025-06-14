@@ -1,5 +1,5 @@
 ---
-title: RACI Matrix
+title: Raci Matrix
 linkTitle: RACI Matrix
 date: '2025-04-30T00:57:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: 'RACI Matrix for X Policy Implementation outlines roles: Responsibl
 draft: false
 ref: raci-matrix
 ---
+

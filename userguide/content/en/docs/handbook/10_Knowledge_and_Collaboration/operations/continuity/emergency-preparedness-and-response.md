@@ -1,5 +1,5 @@
 ---
-title: Emergency preparedness and response
+title: Emergency Preparedness And Response
 linkTitle: Emergency preparedness and response
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Emergency preparedness involves a structured response team, procedu
 draft: false
 ref: emergency-preparedness-and-response
 ---
+

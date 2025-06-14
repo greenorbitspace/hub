@@ -1,5 +1,6 @@
 ---
 title: Approved Templates And Assets
-ref: approved_templates_and_assets
+ref: approved-templates-and-assets
 weight: 1
 ---
+

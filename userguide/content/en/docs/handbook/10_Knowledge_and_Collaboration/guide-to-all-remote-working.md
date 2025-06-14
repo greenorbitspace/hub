@@ -1,5 +1,5 @@
 ---
-title: Guide to All-Remote Working
+title: Guide To All Remote Working
 linkTitle: Guide to All-Remote Working
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: GitLab's all-remote work model emphasizes global hiring, flexible h
 draft: false
 ref: guide-to-all-remote-working
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: 'Project Closure: Guidelines for completing, reviewing, and closing out projects.'
+title: 'Project Closure: Guidelines For Completing, Reviewing, And Closing Out Projects.'
 linkTitle: 'Project Closure: Guidelines for completing, reviewing, and closing out
   projects.'
 date: '2025-04-29T17:10:00Z'
@@ -11,3 +11,4 @@ description: Outline the project closure process, including confirming completio
 draft: false
 ref: project-closure-guidelines-for-completing-reviewing-and-closing-out-projects
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Stakeholder analysis and engagement plans
+title: Stakeholder Analysis And Engagement Plans
 linkTitle: Stakeholder analysis and engagement plans
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -12,3 +12,4 @@ description: Key stakeholder groups for the Innovation Management System include
 draft: false
 ref: stakeholder-analysis-and-engagement-plans
 ---
+

@@ -1,5 +1,6 @@
 ---
 title: Blog And Content Strategy
-ref: blog_and_content_strategy
+ref: blog-and-content-strategy
 weight: 1
 ---
+

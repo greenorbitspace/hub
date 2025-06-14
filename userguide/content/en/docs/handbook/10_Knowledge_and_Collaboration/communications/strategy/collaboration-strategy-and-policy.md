@@ -1,5 +1,5 @@
 ---
-title: Collaboration strategy and policy
+title: Collaboration Strategy And Policy
 linkTitle: Collaboration strategy and policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establishes a collaboration framework at Green Orbit Digital focuse
 draft: false
 ref: collaboration-strategy-and-policy
 ---
+

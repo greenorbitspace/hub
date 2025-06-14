@@ -1,5 +1,5 @@
 ---
-title: Partner evaluation and review records
+title: Partner Evaluation And Review Records
 linkTitle: Partner evaluation and review records
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The Partner Evaluation and Review Record assesses business partners
 draft: false
 ref: partner-evaluation-and-review-records
 ---
+

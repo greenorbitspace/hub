@@ -10,3 +10,4 @@ description: Strategic plans include mission statements, market analysis, short 
 draft: false
 ref: strategic-plans
 ---
+

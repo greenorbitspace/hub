@@ -1,5 +1,5 @@
 ---
-title: 'Project monitoring and control: Complete guide (+ checklist)'
+title: 'Project Monitoring And Control: Complete Guide (+ Checklist)'
 linkTitle: 'Project monitoring and control: Complete guide (+ checklist)'
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Effective project monitoring and controlling involves tracking prog
 draft: false
 ref: project-monitoring-and-control-complete-guide--checklist
 ---
+

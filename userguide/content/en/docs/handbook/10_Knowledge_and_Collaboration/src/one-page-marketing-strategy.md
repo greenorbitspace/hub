@@ -1,5 +1,5 @@
 ---
-title: One-Page Marketing Strategy
+title: One Page Marketing Strategy
 linkTitle: One-Page Marketing Strategy
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Buffer aims to be the leading social media management platform for 
 draft: false
 ref: one-page-marketing-strategy
 ---
+

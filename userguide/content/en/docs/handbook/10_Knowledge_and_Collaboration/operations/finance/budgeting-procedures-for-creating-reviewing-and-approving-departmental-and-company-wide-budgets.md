@@ -1,6 +1,6 @@
 ---
-title: 'Budgeting: Procedures for creating, reviewing, and approving departmental
-  and company-wide budgets.'
+title: 'Budgeting: Procedures For Creating, Reviewing, And Approving Departmental
+  And Company Wide Budgets.'
 linkTitle: 'Budgeting: Procedures for creating, reviewing, and approving departmental
   and company-wide budgets.'
 date: '2025-04-29T17:10:00Z'
@@ -11,3 +11,4 @@ description: Procedures for creating, reviewing, and approving budgets at both d
 draft: false
 ref: budgeting-procedures-for-creating-reviewing-and-approving-departmental-and-company-wide-budgets
 ---
+

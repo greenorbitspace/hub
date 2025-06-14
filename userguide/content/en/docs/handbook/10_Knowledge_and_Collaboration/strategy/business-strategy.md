@@ -1,5 +1,5 @@
 ---
-title: Business strategy
+title: Business Strategy
 linkTitle: Business strategy
 date: '2025-04-29T16:47:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital aims to lead sustainable marketing in the space
 draft: false
 ref: business-strategy
 ---
+

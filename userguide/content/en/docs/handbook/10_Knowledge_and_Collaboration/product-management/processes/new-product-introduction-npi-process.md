@@ -1,5 +1,5 @@
 ---
-title: New Product Introduction (NPI) Process
+title: New Product Introduction (Npi) Process
 linkTitle: New Product Introduction (NPI) Process
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The New Product Introduction (NPI) process at GitLab involves plann
 draft: false
 ref: new-product-introduction-npi-process
 ---
+

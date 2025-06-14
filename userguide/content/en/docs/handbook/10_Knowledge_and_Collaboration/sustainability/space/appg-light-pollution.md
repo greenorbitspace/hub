@@ -1,5 +1,5 @@
 ---
-title: APPG Light Pollution
+title: Appg Light Pollution
 linkTitle: 'APPG Light Pollution '
 date: '2025-05-06T14:28:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Green Orbit Digital supports the recognition of light pollution as 
 draft: false
 ref: appg-light-pollution
 ---
+

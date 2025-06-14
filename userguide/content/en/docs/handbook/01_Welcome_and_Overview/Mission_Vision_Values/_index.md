@@ -1,5 +1,6 @@
 ---
 title: Mission Vision Values
-ref: mission_vision_values
+ref: mission-vision-values
 weight: 1
 ---
+

@@ -1,5 +1,6 @@
 ---
 title: Code Of Conduct
-ref: code_of_conduct
+ref: code-of-conduct
 weight: 1
 ---
+

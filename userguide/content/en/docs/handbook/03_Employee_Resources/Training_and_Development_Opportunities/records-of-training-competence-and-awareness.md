@@ -1,5 +1,5 @@
 ---
-title: Records of training, competence, and awareness
+title: Records Of Training, Competence, And Awareness
 linkTitle: Records of training, competence, and awareness
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: A structured framework for maintaining records of training, compete
 draft: false
 ref: records-of-training-competence-and-awareness
 ---
+

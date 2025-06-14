@@ -1,5 +1,5 @@
 ---
-title: Security and Transmission of Personal Confidential Data
+title: Security And Transmission Of Personal Confidential Data
 linkTitle: Security and Transmission of Personal Confidential Data
 date: '2025-05-01T22:56:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Policy outlines guidelines for the security and transmission of per
 draft: false
 ref: security-and-transmission-of-personal-confidential-data
 ---
+

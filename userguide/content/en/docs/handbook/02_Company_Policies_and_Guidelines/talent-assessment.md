@@ -12,3 +12,4 @@ description: The Talent Assessment Program at GitLab aims to identify and retain
 draft: false
 ref: talent-assessment
 ---
+

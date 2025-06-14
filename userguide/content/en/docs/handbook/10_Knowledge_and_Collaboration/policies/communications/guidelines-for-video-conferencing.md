@@ -1,5 +1,5 @@
 ---
-title: Guidelines for video conferencing
+title: Guidelines For Video Conferencing
 linkTitle: Guidelines for video conferencing
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: To ensure effective video conferencing, test equipment, choose a qu
 draft: false
 ref: guidelines-for-video-conferencing
 ---
+

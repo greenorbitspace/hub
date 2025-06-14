@@ -1,5 +1,5 @@
 ---
-title: Clear Desk and Screen Policy
+title: Clear Desk And Screen Policy
 linkTitle: Clear Desk and Screen Policy
 date: '2025-05-01T22:59:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The policy ensures the security of sensitive information by promoti
 draft: false
 ref: clear-desk-and-screen-policy
 ---
+

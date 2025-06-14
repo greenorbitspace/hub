@@ -9,3 +9,4 @@ description: Comprehensive training manual template includes sections on purpose
 draft: false
 ref: training-manual
 ---
+

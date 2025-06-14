@@ -1,5 +1,5 @@
 ---
-title: Service catalogue
+title: Service Catalogue
 linkTitle: Service catalogue
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The service catalogue outlines Green Orbit Digital's offerings in s
 draft: false
 ref: service-catalogue
 ---
+

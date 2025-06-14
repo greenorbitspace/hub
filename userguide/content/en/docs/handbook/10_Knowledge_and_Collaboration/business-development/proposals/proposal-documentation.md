@@ -1,5 +1,5 @@
 ---
-title: Proposal documentation
+title: Proposal Documentation
 linkTitle: Proposal documentation
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Key outputs for client proposals include a comprehensive proposal d
 draft: false
 ref: proposal-documentation
 ---
+

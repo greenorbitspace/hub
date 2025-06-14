@@ -1,5 +1,5 @@
 ---
-title: Project brief report
+title: Project Brief Report
 linkTitle: Project brief report
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Project brief report indicates a draft status with low priority, ve
 draft: false
 ref: project-brief-report
 ---
+

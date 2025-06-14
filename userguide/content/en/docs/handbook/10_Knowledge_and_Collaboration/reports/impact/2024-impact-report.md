@@ -1,5 +1,5 @@
 ---
-title: 2024 impact report
+title: 2024 Impact Report
 linkTitle: 2024 impact report
 date: '2025-05-09T12:55:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Impact report created on May 9, 2025, is currently under review wit
 draft: false
 ref: 2024-impact-report
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Document control policy and procedures
+title: Document Control Policy And Procedures
 linkTitle: Document control policy and procedures
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establishes guidelines for document management, including classific
 draft: false
 ref: document-control-policy-and-procedures
 ---
+

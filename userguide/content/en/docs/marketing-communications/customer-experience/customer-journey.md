@@ -1,5 +1,5 @@
 ---
-title: Customer journey
+title: Customer Journey
 linkTitle: 'Customer journey '
 date: '2025-05-01T20:18:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The customer journey for Green Orbit Digital outlines stages from a
 draft: false
 ref: customer-journey
 ---
+

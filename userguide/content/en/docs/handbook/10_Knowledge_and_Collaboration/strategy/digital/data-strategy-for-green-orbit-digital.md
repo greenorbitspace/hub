@@ -1,5 +1,5 @@
 ---
-title: Data Strategy for Green Orbit Digital
+title: Data Strategy For Green Orbit Digital
 linkTitle: Data Strategy for Green Orbit Digital
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -12,3 +12,4 @@ description: Green Orbit Digital's data strategy focuses on using data to promot
 draft: false
 ref: data-strategy-for-green-orbit-digital
 ---
+

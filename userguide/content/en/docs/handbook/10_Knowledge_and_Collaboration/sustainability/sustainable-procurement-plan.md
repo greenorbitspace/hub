@@ -1,5 +1,5 @@
 ---
-title: Sustainable procurement plan
+title: Sustainable Procurement Plan
 linkTitle: Sustainable procurement plan
 date: '2025-04-29T16:47:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The sustainable procurement plan focuses on integrating environment
 draft: false
 ref: sustainable-procurement-plan
 ---
+

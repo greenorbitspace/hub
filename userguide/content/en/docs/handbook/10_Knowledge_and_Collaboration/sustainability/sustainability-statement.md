@@ -1,5 +1,5 @@
 ---
-title: Sustainability statement
+title: Sustainability Statement
 linkTitle: Sustainability statement
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital is committed to sustainability, focusing on eco
 draft: false
 ref: sustainability-statement
 ---
+

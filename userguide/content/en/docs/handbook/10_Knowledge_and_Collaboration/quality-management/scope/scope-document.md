@@ -10,3 +10,4 @@ description: Defines the scope of Green Orbit Digital's Information Security Man
 draft: false
 ref: scope-document
 ---
+

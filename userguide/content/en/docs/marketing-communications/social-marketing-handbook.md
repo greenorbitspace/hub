@@ -12,3 +12,4 @@ description: The Social Marketing Team aims to enhance GitLab's brand through a 
 draft: false
 ref: social-marketing-handbook
 ---
+

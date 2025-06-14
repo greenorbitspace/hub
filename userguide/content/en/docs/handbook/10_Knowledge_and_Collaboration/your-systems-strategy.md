@@ -1,5 +1,5 @@
 ---
-title: Your Systems strategy
+title: Your Systems Strategy
 linkTitle: Your Systems strategy
 date: '2025-04-29T16:47:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A comprehensive systems strategy focuses on optimizing organization
 draft: false
 ref: your-systems-strategy
 ---
+

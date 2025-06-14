@@ -1,5 +1,5 @@
 ---
-title: Spend Management Software for Receipts & Expenses
+title: Spend Management Software For Receipts & Expenses
 linkTitle: Spend Management Software for Receipts & Expenses
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Expensify offers comprehensive spend management software for tracki
 draft: false
 ref: spend-management-software-for-receipts--expenses
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: SEO Guidelines
+title: Seo Guidelines
 linkTitle: SEO Guidelines
 date: '2025-05-06T14:17:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Key SEO guidelines include using Google Search Console and GA4 for 
 draft: false
 ref: seo-guidelines
 ---
+

@@ -11,3 +11,4 @@ description: 'The Johari Window is a tool for enhancing self-awareness and commu
 draft: false
 ref: johari-window-communication-model
 ---
+

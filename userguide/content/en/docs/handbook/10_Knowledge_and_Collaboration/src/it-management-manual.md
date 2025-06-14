@@ -1,5 +1,5 @@
 ---
-title: IT Management Manual
+title: It Management Manual
 linkTitle: IT Management Manual
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Comprehensive guide for IT management covering governance, security
 draft: false
 ref: it-management-manual
 ---
+

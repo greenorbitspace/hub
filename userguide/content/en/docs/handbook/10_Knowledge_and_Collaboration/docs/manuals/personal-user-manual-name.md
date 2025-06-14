@@ -1,5 +1,5 @@
 ---
-title: Personal User Manual [NAME]
+title: Personal User Manual [Name]
 linkTitle: Personal User Manual [NAME]
 date: '2025-05-01T20:26:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Personal user manual outlines communication preferences, work style
 draft: false
 ref: personal-user-manual-name
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: SIF project plan
+title: Sif Project Plan
 linkTitle: SIF project plan
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The Space Impact Forum is a 3-day event aimed at using space techno
 draft: false
 ref: sif-project-plan
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Noise pollution control
+title: Noise Pollution Control
 linkTitle: Noise pollution control
 date: '2025-05-01T21:05:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The Noise Pollution Control Plan outlines procedures to identify an
 draft: false
 ref: noise-pollution-control
 ---
+

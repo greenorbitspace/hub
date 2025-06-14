@@ -10,3 +10,4 @@ description: The strategy framework focuses on leading sustainability in the spa
 draft: false
 ref: strategy-framework
 ---
+

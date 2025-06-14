@@ -1,5 +1,5 @@
 ---
-title: Value creation frameworks
+title: Value Creation Frameworks
 linkTitle: Value creation frameworks
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: 'A framework for value creation focuses on strategic alignment of r
 draft: false
 ref: value-creation-frameworks
 ---
+

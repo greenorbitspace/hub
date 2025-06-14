@@ -1,5 +1,5 @@
 ---
-title: Director's Strategy
+title: Director'S Strategy
 linkTitle: Director's Strategy
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A Director's strategy focuses on aligning vision with operations, d
 draft: false
 ref: directors-strategy
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Working from Home Policy
+title: Working From Home Policy
 linkTitle: Working from Home Policy
 date: '2025-05-01T22:33:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The policy outlines guidelines for remote work, emphasizing employe
 draft: false
 ref: working-from-home-policy
 ---
+

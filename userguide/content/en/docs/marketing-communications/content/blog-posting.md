@@ -1,5 +1,5 @@
 ---
-title: Blog posting
+title: Blog Posting
 linkTitle: Blog posting
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Standard operating procedure for blog writing includes steps for to
 draft: false
 ref: blog-posting
 ---
+

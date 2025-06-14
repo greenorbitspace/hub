@@ -1,5 +1,6 @@
 ---
 title: Proposal And Pitch Templates
-ref: proposal_and_pitch_templates
+ref: proposal-and-pitch-templates
 weight: 1
 ---
+

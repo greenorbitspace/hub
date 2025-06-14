@@ -2,51 +2,56 @@ import os
 import re
 import yaml
 
-def fix_ref_underscores(content):
-    # Match YAML frontmatter block at the start of the file
-    match = re.match(r'^(---\n.*?\n---)', content, re.DOTALL)
-    if not match:
-        return content  # no YAML frontmatter, return original content
+# Path to the directory you'd like to process (recursively)
+ROOT_DIR = "userguide/content/en/docs/"  # Change to "userguide/content/en/docs" or any target dir
 
-    frontmatter = match.group(1)
-    rest_of_file = content[len(frontmatter):]
+def merge_yaml_blocks(content):
+    yaml_blocks = list(re.finditer(r"^---\n(.*?)\n---", content, flags=re.DOTALL | re.MULTILINE))
+    
+    if not yaml_blocks:
+        return content  # No YAML front matter found
 
-    try:
-        data = yaml.safe_load(frontmatter)
-    except yaml.YAMLError:
-        return content  # invalid YAML, skip file
+    # Extract YAML content and merge
+    merged_data = {}
+    for block in yaml_blocks:
+        data = yaml.safe_load(block.group(1))
+        if isinstance(data, dict):
+            for key, value in data.items():
+                if key not in merged_data or merged_data[key] in ("", None):
+                    merged_data[key] = value
 
-    if not isinstance(data, dict):
-        return content
+    # Clean title
+    if "title" in merged_data:
+        cleaned = merged_data["title"].replace("_", " ").replace("-", " ").strip().title()
+        merged_data["title"] = cleaned
 
-    ref = data.get('ref')
-    if isinstance(ref, str) and '_' in ref:
-        fixed_ref = ref.replace('_', '-')
-        data['ref'] = fixed_ref
-        # Rebuild YAML frontmatter string
-        new_frontmatter = "---\n" + yaml.dump(data, sort_keys=False, allow_unicode=True).strip() + "\n---"
-        return new_frontmatter + rest_of_file
-    else:
-        return content
+    # Clean ref (kebab-case)
+    if "ref" in merged_data:
+        merged_data["ref"] = merged_data["ref"].replace("_", "-")
 
-def process_md_files(root_dir):
-    for subdir, _, files in os.walk(root_dir):
+    # Rebuild YAML and content
+    new_yaml = f"---\n{yaml.dump(merged_data, sort_keys=False).strip()}\n---"
+    last_block = yaml_blocks[-1]
+    remaining_content = content[last_block.end():].lstrip()
+    
+    return f"{new_yaml}\n\n{remaining_content}"
+
+def process_files(directory):
+    for root, _, files in os.walk(directory):
         for file in files:
-            if file.endswith('.md'):
-                path = os.path.join(subdir, file)
-                with open(path, 'r', encoding='utf-8') as f:
-                    content = f.read()
+            if file.endswith(".md"):
+                path = os.path.join(root, file)
+                with open(path, "r", encoding="utf-8") as f:
+                    original = f.read()
 
-                new_content = fix_ref_underscores(content)
-                if new_content != content:
-                    with open(path, 'w', encoding='utf-8') as f:
-                        f.write(new_content)
-                    print(f"Updated ref in: {path}")
+                updated = merge_yaml_blocks(original)
 
-def main():
-    ROOT_DIR = "userguide/content/en/docs"  # Your base directory to process
-    process_md_files(ROOT_DIR)
-    print("Ref underscores replaced with hyphens in all Markdown files.")
+                if original != updated:
+                    print(f"✅ Fixed: {path}")
+                    with open(path, "w", encoding="utf-8") as f:
+                        f.write(updated)
+                else:
+                    print(f"👌 No changes: {path}")
 
 if __name__ == "__main__":
-    main()
+    process_files(ROOT_DIR)

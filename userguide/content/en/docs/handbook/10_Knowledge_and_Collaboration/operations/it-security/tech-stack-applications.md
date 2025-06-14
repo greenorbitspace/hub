@@ -9,3 +9,4 @@ description: Instructions for accessing and updating the GitLab tech stack, deta
 draft: false
 ref: tech-stack-applications
 ---
+

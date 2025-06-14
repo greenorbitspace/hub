@@ -1,5 +1,5 @@
 ---
-title: GDPR SAR verification written
+title: Gdpr Sar Verification Written
 linkTitle: GDPR SAR verification written
 date: '2025-04-30T00:59:00Z'
 weight: 1
@@ -7,3 +7,4 @@ description: No content
 draft: false
 ref: gdpr-sar-verification-written
 ---
+

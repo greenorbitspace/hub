@@ -1,5 +1,5 @@
 ---
-title: Revision history and version control
+title: Revision History And Version Control
 linkTitle: Revision history and version control
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establish strict version control for documents, including unique id
 draft: false
 ref: revision-history-and-version-control
 ---
+

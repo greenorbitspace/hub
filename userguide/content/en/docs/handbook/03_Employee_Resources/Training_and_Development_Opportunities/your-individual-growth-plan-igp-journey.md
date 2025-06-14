@@ -1,5 +1,5 @@
 ---
-title: Your Individual Growth Plan (IGP) Journey
+title: Your Individual Growth Plan (Igp) Journey
 linkTitle: Your Individual Growth Plan (IGP) Journey
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Create a meaningful Individual Growth Plan by reflecting on your ca
 draft: false
 ref: your-individual-growth-plan-igp-journey
 ---
+

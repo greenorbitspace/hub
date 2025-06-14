@@ -9,3 +9,4 @@ description: Pricing strategy focuses on maximizing revenue through fixed fee pr
 draft: false
 ref: pricing-strategy
 ---
+

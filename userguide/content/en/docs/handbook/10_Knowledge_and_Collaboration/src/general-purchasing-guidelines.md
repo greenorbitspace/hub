@@ -9,3 +9,4 @@ description: Consider performance, supplier compliance, and environmental impact
 draft: false
 ref: general-purchasing-guidelines
 ---
+

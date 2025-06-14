@@ -1,5 +1,5 @@
 ---
-title: Procedure for Management of change
+title: Procedure For Management Of Change
 linkTitle: Procedure for Management of change
 date: '2025-05-01T23:51:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establish a systematic approach for managing changes in processes, 
 draft: false
 ref: procedure-for-management-of-change
 ---
+

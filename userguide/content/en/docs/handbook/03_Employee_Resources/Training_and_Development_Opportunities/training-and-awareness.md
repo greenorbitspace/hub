@@ -1,5 +1,5 @@
 ---
-title: Training and Awareness
+title: Training And Awareness
 linkTitle: Training and Awareness
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital emphasizes structured training and awareness pr
 draft: false
 ref: training-and-awareness
 ---
+

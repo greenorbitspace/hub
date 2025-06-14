@@ -1,5 +1,5 @@
 ---
-title: Environmental sustainability | Zoho Sustainability
+title: Environmental Sustainability | Zoho Sustainability
 linkTitle: Environmental sustainability | Zoho Sustainability
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Zoho is committed to achieving Net Zero through efficient energy us
 draft: false
 ref: environmental-sustainability--zoho-sustainability
 ---
+

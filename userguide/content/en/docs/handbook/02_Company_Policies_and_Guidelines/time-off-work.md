@@ -1,5 +1,5 @@
 ---
-title: Time off Work
+title: Time Off Work
 linkTitle: Time off Work
 date: '2025-05-01T22:38:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Policy outlines procedures for requesting time off, including categ
 draft: false
 ref: time-off-work
 ---
+

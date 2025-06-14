@@ -1,5 +1,5 @@
 ---
-title: Training and awareness records
+title: Training And Awareness Records
 linkTitle: Training and awareness records
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Framework for managing training records includes a request process,
 draft: false
 ref: training-and-awareness-records
 ---
+

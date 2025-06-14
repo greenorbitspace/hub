@@ -1,5 +1,5 @@
 ---
-title: Software Installation and Maintenance
+title: Software Installation And Maintenance
 linkTitle: Software Installation and Maintenance
 date: '2025-05-01T23:43:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Standardized process for software installation and maintenance incl
 draft: false
 ref: software-installation-and-maintenance
 ---
+

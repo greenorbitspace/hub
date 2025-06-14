@@ -1,5 +1,5 @@
 ---
-title: McKinsey 7S Framework
+title: Mckinsey 7S Framework
 linkTitle: McKinsey 7S Framework
 date: '2025-05-01T20:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: The McKinsey 7S Framework includes strategy, structure, systems, st
 draft: false
 ref: mckinsey-7s-framework
 ---
+

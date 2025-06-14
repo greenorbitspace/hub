@@ -1,5 +1,5 @@
 ---
-title: Newsletter creation
+title: Newsletter Creation
 linkTitle: Newsletter creation
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Steps for newsletter creation include reviewing goals, analyzing th
 draft: false
 ref: newsletter-creation
 ---
+

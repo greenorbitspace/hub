@@ -1,6 +1,6 @@
 ---
-title: 'Employee Onboarding: Steps for introducing new hires to the company, including
-  orientation, training, and setup of necessary tools and access.'
+title: 'Employee Onboarding: Steps For Introducing New Hires To The Company, Including
+  Orientation, Training, And Setup Of Necessary Tools And Access.'
 linkTitle: 'Employee Onboarding: Steps for introducing new hires to the company, including
   orientation, training, and setup of necessary tools and access.'
 date: '2025-04-29T17:10:00Z'
@@ -12,3 +12,4 @@ description: Outline of the employee onboarding process includes workspace prepa
 draft: false
 ref: employee-onboarding-steps-for-introducing-new-hires-to-the-company-including-orientation-training-and-setup-of-necessary-tools-and-access
 ---
+

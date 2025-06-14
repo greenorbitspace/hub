@@ -1,5 +1,5 @@
 ---
-title: Physical and Environmental Security Policy
+title: Physical And Environmental Security Policy
 linkTitle: Physical and Environmental Security Policy
 date: '2025-05-01T22:57:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The policy outlines measures to protect physical and environmental 
 draft: false
 ref: physical-and-environmental-security-policy
 ---
+

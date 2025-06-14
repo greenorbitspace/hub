@@ -1,5 +1,5 @@
 ---
-title: Water pollution control
+title: Water Pollution Control
 linkTitle: Water pollution control
 date: '2025-05-01T21:05:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The Water Pollution Control Plan outlines procedures for preventing
 draft: false
 ref: water-pollution-control
 ---
+

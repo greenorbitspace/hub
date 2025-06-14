@@ -1,5 +1,6 @@
 ---
 title: Knowledge Sharing Guidelines
-ref: knowledge_sharing_guidelines
+ref: knowledge-sharing-guidelines
 weight: 1
 ---
+

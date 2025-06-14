@@ -1,6 +1,6 @@
 ---
-title: 'Customer Support: Procedures for handling customer inquiries, complaints,
-  and support requests'
+title: 'Customer Support: Procedures For Handling Customer Inquiries, Complaints,
+  And Support Requests'
 linkTitle: 'Customer Support: Procedures for handling customer inquiries, complaints,
   and support requests'
 date: '2025-04-29T17:10:00Z'
@@ -12,3 +12,4 @@ description: Standard operating procedures for customer support include timely r
 draft: false
 ref: customer-support-procedures-for-handling-customer-inquiries-complaints-and-support-requests
 ---
+

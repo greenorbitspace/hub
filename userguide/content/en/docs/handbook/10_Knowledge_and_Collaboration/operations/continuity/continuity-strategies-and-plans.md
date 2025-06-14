@@ -1,5 +1,5 @@
 ---
-title: Continuity strategies and plans
+title: Continuity Strategies And Plans
 linkTitle: Continuity strategies and plans
 date: '2025-05-01T20:18:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Comprehensive continuity strategies for Green Orbit Digital include
 draft: false
 ref: continuity-strategies-and-plans
 ---
+

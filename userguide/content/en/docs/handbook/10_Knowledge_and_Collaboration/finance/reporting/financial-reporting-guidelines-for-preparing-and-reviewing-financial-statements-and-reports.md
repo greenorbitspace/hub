@@ -1,6 +1,6 @@
 ---
-title: 'Financial Reporting: Guidelines for preparing and reviewing financial statements
-  and reports.'
+title: 'Financial Reporting: Guidelines For Preparing And Reviewing Financial Statements
+  And Reports.'
 linkTitle: 'Financial Reporting: Guidelines for preparing and reviewing financial
   statements and reports.'
 date: '2025-05-06T02:19:00Z'
@@ -12,3 +12,4 @@ description: Establish a systematic process for preparing and reviewing financia
 draft: false
 ref: financial-reporting-guidelines-for-preparing-and-reviewing-financial-statements-and-reports
 ---
+

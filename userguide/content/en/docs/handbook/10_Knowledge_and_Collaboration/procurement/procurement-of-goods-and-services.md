@@ -1,5 +1,5 @@
 ---
-title: Procurement of goods and services
+title: Procurement Of Goods And Services
 linkTitle: Procurement of goods and services
 date: '2025-05-01T22:33:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The procurement policy emphasizes ethical, sustainable, and efficie
 draft: false
 ref: procurement-of-goods-and-services
 ---
+

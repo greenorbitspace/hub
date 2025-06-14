@@ -1,8 +1,9 @@
 ---
-title: Welcome to the Green Orbit Digital documentation hub
+title: Docs
+ref: docs
 linkTitle: Documentation
 menu:
   main:
     weight: 20
-ref: docs
 ---
+

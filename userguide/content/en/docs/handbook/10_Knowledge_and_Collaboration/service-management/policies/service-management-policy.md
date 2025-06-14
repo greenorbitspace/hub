@@ -1,5 +1,5 @@
 ---
-title: Service management policy
+title: Service Management Policy
 linkTitle: Service management policy
 date: '2025-05-01T21:25:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establishes a framework for service management at Green Orbit Digit
 draft: false
 ref: service-management-policy
 ---
+

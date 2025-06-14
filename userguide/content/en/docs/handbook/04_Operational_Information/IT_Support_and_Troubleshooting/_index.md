@@ -1,5 +1,6 @@
 ---
 title: It Support And Troubleshooting
-ref: it_support_and_troubleshooting
+ref: it-support-and-troubleshooting
 weight: 1
 ---
+

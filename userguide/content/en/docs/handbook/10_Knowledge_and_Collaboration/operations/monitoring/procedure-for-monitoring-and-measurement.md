@@ -1,5 +1,5 @@
 ---
-title: Procedure for Monitoring and Measurement
+title: Procedure For Monitoring And Measurement
 linkTitle: Procedure for Monitoring and Measurement
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -12,3 +12,4 @@ description: Establish a systematic approach for monitoring and measuring proces
 draft: false
 ref: procedure-for-monitoring-and-measurement
 ---
+

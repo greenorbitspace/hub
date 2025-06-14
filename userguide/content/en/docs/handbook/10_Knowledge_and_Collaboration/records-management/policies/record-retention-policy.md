@@ -12,3 +12,4 @@ description: The Records Retention Policy outlines the management of GitLab reco
 draft: false
 ref: record-retention-policy
 ---
+

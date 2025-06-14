@@ -1,5 +1,6 @@
 ---
 title: Partner And Client Success Stories
-ref: partner_and_client_success_stories
+ref: partner-and-client-success-stories
 weight: 1
 ---
+

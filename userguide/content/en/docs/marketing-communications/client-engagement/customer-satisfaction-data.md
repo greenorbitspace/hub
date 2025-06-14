@@ -1,5 +1,5 @@
 ---
-title: Customer satisfaction data
+title: Customer Satisfaction Data
 linkTitle: Customer satisfaction data
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A structured framework for collecting and analyzing customer satisf
 draft: false
 ref: customer-satisfaction-data
 ---
+

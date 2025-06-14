@@ -1,5 +1,5 @@
 ---
-title: Ideas for resources
+title: Ideas For Resources
 linkTitle: 'Ideas for resources '
 date: '2025-05-01T21:00:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Propose resources for space sustainability, including toolkits, cas
 draft: false
 ref: ideas-for-resources
 ---
+

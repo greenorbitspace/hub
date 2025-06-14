@@ -1,5 +1,5 @@
 ---
-title: Web updates
+title: Web Updates
 linkTitle: Web updates
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Standard operating procedures (SOPs) provide step-by-step instructi
 draft: false
 ref: web-updates
 ---
+

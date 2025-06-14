@@ -1,5 +1,5 @@
 ---
-title: Procedure for Environmental Information for Retailers
+title: Procedure For Environmental Information For Retailers
 linkTitle: Procedure for Environmental Information for Retailers
 date: '2025-05-01T23:53:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Procedure for managing environmental information for retailers incl
 draft: false
 ref: procedure-for-environmental-information-for-retailers
 ---
+

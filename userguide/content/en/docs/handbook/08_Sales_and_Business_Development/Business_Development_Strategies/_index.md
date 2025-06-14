@@ -1,5 +1,6 @@
 ---
 title: Business Development Strategies
-ref: business_development_strategies
+ref: business-development-strategies
 weight: 1
 ---
+

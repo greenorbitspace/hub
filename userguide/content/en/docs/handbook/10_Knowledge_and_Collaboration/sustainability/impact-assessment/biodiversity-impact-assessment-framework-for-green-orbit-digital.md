@@ -1,5 +1,5 @@
 ---
-title: Biodiversity Impact Assessment Framework for Green Orbit Digital
+title: Biodiversity Impact Assessment Framework For Green Orbit Digital
 linkTitle: Biodiversity Impact Assessment Framework for Green Orbit Digital
 date: '2025-05-01T20:31:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A Biodiversity Impact Assessment framework guides Green Orbit Digit
 draft: false
 ref: biodiversity-impact-assessment-framework-for-green-orbit-digital
 ---
+

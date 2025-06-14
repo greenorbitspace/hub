@@ -11,3 +11,4 @@ description: Ensure all employees meet information security standards through a 
 draft: false
 ref: information-security-competence-development-procedure
 ---
+

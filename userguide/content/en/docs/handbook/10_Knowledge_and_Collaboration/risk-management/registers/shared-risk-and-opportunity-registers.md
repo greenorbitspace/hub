@@ -1,5 +1,5 @@
 ---
-title: Shared risk and opportunity registers
+title: Shared Risk And Opportunity Registers
 linkTitle: Shared risk and opportunity registers
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The Shared Risk and Opportunity Register is essential for managing 
 draft: false
 ref: shared-risk-and-opportunity-registers
 ---
+

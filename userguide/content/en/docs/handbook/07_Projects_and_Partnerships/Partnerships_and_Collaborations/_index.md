@@ -1,5 +1,6 @@
 ---
 title: Partnerships And Collaborations
-ref: partnerships_and_collaborations
+ref: partnerships-and-collaborations
 weight: 1
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: 'Getting Started with Notion: A How-To Guide'
+title: 'Getting Started With Notion: A How To Guide'
 linkTitle: 'Getting Started with Notion: A How-To Guide'
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: A beginner's guide to Notion covering page creation, basic formatti
 draft: false
 ref: getting-started-with-notion-a-how-to-guide
 ---
+

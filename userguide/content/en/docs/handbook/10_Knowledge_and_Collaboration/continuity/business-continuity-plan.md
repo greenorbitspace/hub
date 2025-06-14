@@ -1,5 +1,5 @@
 ---
-title: business continuity plan
+title: Business Continuity Plan
 linkTitle: business continuity plan
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Create a business continuity plan by listing responsibilities, fili
 draft: false
 ref: business-continuity-plan
 ---
+

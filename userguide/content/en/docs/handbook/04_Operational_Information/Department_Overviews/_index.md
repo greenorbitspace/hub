@@ -1,5 +1,6 @@
 ---
 title: Department Overviews
-ref: department_overviews
+ref: department-overviews
 weight: 1
 ---
+

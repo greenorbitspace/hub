@@ -1,5 +1,5 @@
 ---
-title: 'Environmental Impact Assessment for Digital Marketing Campaign:'
+title: 'Environmental Impact Assessment For Digital Marketing Campaign:'
 linkTitle: 'Environmental Impact Assessment for Digital Marketing Campaign:'
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Evaluate the environmental impacts of digital marketing campaigns, 
 draft: false
 ref: environmental-impact-assessment-for-digital-marketing-campaign
 ---
+

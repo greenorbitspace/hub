@@ -10,3 +10,4 @@ description: The policy establishes guidelines for managing intellectual propert
 draft: false
 ref: intellectual-property-rights-policy
 ---
+

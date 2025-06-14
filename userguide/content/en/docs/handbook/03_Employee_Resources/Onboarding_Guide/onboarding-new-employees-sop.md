@@ -1,5 +1,5 @@
 ---
-title: Onboarding New Employees SOP
+title: Onboarding New Employees Sop
 linkTitle: Onboarding New Employees SOP
 date: '2025-04-30T00:56:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The onboarding process for new employees includes pre-onboarding ta
 draft: false
 ref: onboarding-new-employees-sop
 ---
+

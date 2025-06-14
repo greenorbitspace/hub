@@ -1,6 +1,6 @@
 ---
-title: Procedure for Non–conformity, Corrective and Preventive Action
-linkTitle: Procedure for Non–conformity, Corrective and Preventive Action
+title: "Procedure For Non\u2013Conformity, Corrective And Preventive Action"
+linkTitle: "Procedure for Non\u2013conformity, Corrective and Preventive Action"
 date: '2025-05-06T02:19:00Z'
 weight: 1
 description: Establish a systematic approach for identifying, addressing, and preventing
@@ -10,3 +10,4 @@ description: Establish a systematic approach for identifying, addressing, and pr
 draft: false
 ref: procedure-for-nonconformity-corrective-and-preventive-action
 ---
+

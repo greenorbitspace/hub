@@ -1,6 +1,6 @@
 ---
-title: Notion’s office manual
-linkTitle: Notion’s office manual
+title: "Notion\u2019S Office Manual"
+linkTitle: "Notion\u2019s office manual"
 date: '2025-05-01T20:24:00Z'
 weight: 1
 description: Welcome to the SF office! Key information includes location (123 Main
@@ -10,3 +10,4 @@ description: Welcome to the SF office! Key information includes location (123 Ma
 draft: false
 ref: notions-office-manual
 ---
+

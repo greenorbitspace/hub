@@ -1,5 +1,5 @@
 ---
-title: 'Fact Sheet: Greening the Skies: Sustainable Satellite Manufacturing'
+title: 'Fact Sheet: Greening The Skies: Sustainable Satellite Manufacturing'
 linkTitle: 'Fact Sheet: Greening the Skies: Sustainable Satellite Manufacturing'
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The space industry is shifting towards sustainable satellite manufa
 draft: false
 ref: fact-sheet-greening-the-skies-sustainable-satellite-manufacturing
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Risk register
+title: Risk Register
 linkTitle: Risk register
 date: '2025-04-27T18:00:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: The risk register aims to document and manage potential risks to en
 draft: false
 ref: risk-register
 ---
+

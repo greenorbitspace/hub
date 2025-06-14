@@ -1,5 +1,5 @@
 ---
-title: Procedure for ESMS disciplinary action
+title: Procedure For Esms Disciplinary Action
 linkTitle: Procedure for ESMS disciplinary action
 date: '2025-05-01T23:45:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establishes a clear process for handling disciplinary actions under
 draft: false
 ref: procedure-for-esms-disciplinary-action
 ---
+

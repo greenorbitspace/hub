@@ -1,6 +1,6 @@
 ---
-title: 'Expense Management: Procedures for submitting, approving, and reimbursing
-  employee expenses.'
+title: 'Expense Management: Procedures For Submitting, Approving, And Reimbursing
+  Employee Expenses.'
 linkTitle: 'Expense Management: Procedures for submitting, approving, and reimbursing
   employee expenses.'
 date: '2025-05-01T23:40:00Z'
@@ -12,3 +12,4 @@ description: Standardized process for submitting, approving, and reimbursing emp
 draft: false
 ref: expense-management-procedures-for-submitting-approving-and-reimbursing-employee-expenses
 ---
+

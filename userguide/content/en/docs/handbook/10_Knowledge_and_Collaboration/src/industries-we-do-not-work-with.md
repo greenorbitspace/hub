@@ -10,3 +10,4 @@ description: Green Orbit Digital avoids partnerships with fossil fuel industries
 draft: false
 ref: industries-we-do-not-work-with
 ---
+

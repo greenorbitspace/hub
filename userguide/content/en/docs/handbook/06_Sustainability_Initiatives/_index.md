@@ -1,5 +1,6 @@
 ---
 title: 06 Sustainability Initiatives
-ref: 06_sustainability_initiatives
+ref: 06-sustainability-initiatives
 weight: 1
 ---
+

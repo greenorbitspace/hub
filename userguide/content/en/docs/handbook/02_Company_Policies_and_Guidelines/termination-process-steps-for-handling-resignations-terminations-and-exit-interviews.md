@@ -1,6 +1,6 @@
 ---
-title: 'Termination Process: Steps for handling resignations, terminations, and exit
-  interviews.'
+title: 'Termination Process: Steps For Handling Resignations, Terminations, And Exit
+  Interviews.'
 linkTitle: 'Termination Process: Steps for handling resignations, terminations, and
   exit interviews.'
 date: '2025-05-01T23:47:00Z'
@@ -12,3 +12,4 @@ description: The termination process includes steps for handling resignations an
 draft: false
 ref: termination-process-steps-for-handling-resignations-terminations-and-exit-interviews
 ---
+

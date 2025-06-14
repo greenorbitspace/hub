@@ -1,5 +1,5 @@
 ---
-title: Paternity Leave and Pay
+title: Paternity Leave And Pay
 linkTitle: Paternity Leave and Pay
 date: '2025-05-01T22:54:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The company provides paternity leave and pay benefits to eligible e
 draft: false
 ref: paternity-leave-and-pay
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Director plan
+title: Director Plan
 linkTitle: Director plan
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Focus on driving growth and innovation through clear strategic obje
 draft: false
 ref: director-plan
 ---
+

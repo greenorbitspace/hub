@@ -1,5 +1,5 @@
 ---
-title: Procedures for knowledge creation, capture, and sharing
+title: Procedures For Knowledge Creation, Capture, And Sharing
 linkTitle: Procedures for knowledge creation, capture, and sharing
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Standardized processes for knowledge creation, capture, and sharing
 draft: false
 ref: procedures-for-knowledge-creation-capture-and-sharing
 ---
+

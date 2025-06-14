@@ -1,7 +1,7 @@
 ---
-title: Procedure for identification of and engagement with interested parties on the
-  identified and emerging sustainable development issues relating to its role in the
-  value chain of events
+title: Procedure For Identification Of And Engagement With Interested Parties On The
+  Identified And Emerging Sustainable Development Issues Relating To Its Role In The
+  Value Chain Of Events
 linkTitle: Procedure for identification of and engagement with interested parties
   on the identified and emerging sustainable development issues relating to its role
   in the value chain of events
@@ -14,3 +14,4 @@ description: A systematic procedure for identifying and engaging stakeholders on
 draft: false
 ref: procedure-for-identification-of-and-engagement-with-interested-parties-on-the-identified-and-emerging-sustainable-development-issues-relating-to-its-role-in-the-value-chain-of-events
 ---
+

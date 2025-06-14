@@ -10,3 +10,4 @@ description: Framework for asset management includes continuous discovery, accur
 draft: false
 ref: asset-management-framework
 ---
+

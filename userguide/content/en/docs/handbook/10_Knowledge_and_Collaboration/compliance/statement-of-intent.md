@@ -1,5 +1,5 @@
 ---
-title: Statement of Intent
+title: Statement Of Intent
 linkTitle: Statement of Intent
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Innovate UK Business Connect is dedicated to enhancing diversity an
 draft: false
 ref: statement-of-intent
 ---
+

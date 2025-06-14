@@ -1,5 +1,5 @@
 ---
-title: Pay and Performance Policy
+title: Pay And Performance Policy
 linkTitle: Pay and Performance Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital emphasizes fair compensation and performance ma
 draft: false
 ref: pay-and-performance-policy
 ---
+

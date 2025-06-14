@@ -1,5 +1,6 @@
 ---
 title: Pricing Models And Packages
-ref: pricing_models_and_packages
+ref: pricing-models-and-packages
 weight: 1
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Quality objectives
+title: Quality Objectives
 linkTitle: Quality objectives
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Aim for 98% customer satisfaction, reduce operational inefficiencie
 draft: false
 ref: quality-objectives
 ---
+

@@ -1,6 +1,6 @@
 ---
-title: 5C’s Analysis for Green Orbit Digital
-linkTitle: 5C’s Analysis for Green Orbit Digital
+title: "5C\u2019S Analysis For Green Orbit Digital"
+linkTitle: "5C\u2019s Analysis for Green Orbit Digital"
 date: '2025-05-01T20:26:00Z'
 weight: 1
 description: Green Orbit Digital specializes in sustainable marketing for the space
@@ -11,3 +11,4 @@ description: Green Orbit Digital specializes in sustainable marketing for the sp
 draft: false
 ref: 5cs-analysis-for-green-orbit-digital
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Environmental impact considerations
+title: Environmental Impact Considerations
 linkTitle: Environmental impact considerations
 date: '2025-05-01T20:21:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A digital marketing consultancy commits to minimizing environmental
 draft: false
 ref: environmental-impact-considerations
 ---
+

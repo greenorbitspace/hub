@@ -1,5 +1,5 @@
 ---
-title: Secure Disposal of Equipment Policy
+title: Secure Disposal Of Equipment Policy
 linkTitle: Secure Disposal of Equipment Policy
 date: '2025-05-01T22:37:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The policy ensures secure disposal of equipment containing sensitiv
 draft: false
 ref: secure-disposal-of-equipment-policy
 ---
+

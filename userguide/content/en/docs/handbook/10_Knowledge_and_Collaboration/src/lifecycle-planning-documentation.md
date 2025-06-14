@@ -1,5 +1,5 @@
 ---
-title: Lifecycle planning documentation
+title: Lifecycle Planning Documentation
 linkTitle: Lifecycle planning documentation
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Lifecycle planning framework for asset management includes discover
 draft: false
 ref: lifecycle-planning-documentation
 ---
+

@@ -1,6 +1,6 @@
 ---
-title: 'Meeting Management: Guidelines for scheduling, conducting, and documenting
-  meetings'
+title: 'Meeting Management: Guidelines For Scheduling, Conducting, And Documenting
+  Meetings'
 linkTitle: 'Meeting Management: Guidelines for scheduling, conducting, and documenting
   meetings'
 date: '2025-04-27T18:00:00Z'
@@ -12,3 +12,4 @@ description: Establish structured guidelines for planning, conducting, documenti
 draft: false
 ref: meeting-management-guidelines-for-scheduling-conducting-and-documenting-meetings
 ---
+

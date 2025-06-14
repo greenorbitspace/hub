@@ -1,5 +1,5 @@
 ---
-title: Three year framework plan
+title: Three Year Framework Plan
 linkTitle: Three year framework plan
 date: '2025-04-29T16:47:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A three-year framework plan focuses on building a sustainable team 
 draft: false
 ref: three-year-framework-plan
 ---
+

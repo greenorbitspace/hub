@@ -1,5 +1,5 @@
 ---
-title: Mental Health policy
+title: Mental Health Policy
 linkTitle: Mental Health policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Mental health encompasses emotional and social well-being; access t
 draft: false
 ref: mental-health-policy
 ---
+

@@ -11,3 +11,4 @@ description: Guidelines for effective communication at GitLab include using the 
 draft: false
 ref: green-orbit-digital-communication
 ---
+

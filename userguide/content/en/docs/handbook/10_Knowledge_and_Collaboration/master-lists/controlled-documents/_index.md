@@ -1,5 +1,6 @@
 ---
-title: Controlled-Documents
+title: Controlled Documents
 ref: controlled-documents
 weight: 1
 ---
+

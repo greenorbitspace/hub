@@ -1,5 +1,5 @@
 ---
-title: Statement of Applicability
+title: Statement Of Applicability
 linkTitle: Statement of Applicability
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The Statement of Applicability outlines the information security co
 draft: false
 ref: statement-of-applicability
 ---
+

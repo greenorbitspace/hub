@@ -1,5 +1,5 @@
 ---
-title: Podcast plan
+title: Podcast Plan
 linkTitle: Podcast plan
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: A bi-weekly podcast on sustainable space topics will feature expert
 draft: false
 ref: podcast-plan
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Web strategy
+title: Web Strategy
 linkTitle: 'Web strategy '
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Define website goals to increase brand awareness, generate leads, a
 draft: false
 ref: web-strategy
 ---
+

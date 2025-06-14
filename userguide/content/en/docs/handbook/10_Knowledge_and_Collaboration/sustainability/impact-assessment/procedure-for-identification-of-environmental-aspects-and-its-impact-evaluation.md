@@ -1,5 +1,5 @@
 ---
-title: Procedure for Identification of environmental aspects and its impact evaluation
+title: Procedure For Identification Of Environmental Aspects And Its Impact Evaluation
 linkTitle: Procedure for Identification of environmental aspects and its impact evaluation
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Establish a systematic procedure for identifying environmental aspe
 draft: false
 ref: procedure-for-identification-of-environmental-aspects-and-its-impact-evaluation
 ---
+

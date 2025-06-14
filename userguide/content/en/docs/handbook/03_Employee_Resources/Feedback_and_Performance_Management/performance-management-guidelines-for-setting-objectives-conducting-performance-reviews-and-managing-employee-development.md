@@ -1,6 +1,6 @@
 ---
-title: 'Performance Management: Guidelines for setting objectives, conducting performance
-  reviews, and managing employee development.'
+title: 'Performance Management: Guidelines For Setting Objectives, Conducting Performance
+  Reviews, And Managing Employee Development.'
 linkTitle: 'Performance Management: Guidelines for setting objectives, conducting
   performance reviews, and managing employee development.'
 date: '2025-05-06T02:19:00Z'
@@ -13,3 +13,4 @@ description: Performance management involves setting SMART objectives aligned wi
 draft: false
 ref: performance-management-guidelines-for-setting-objectives-conducting-performance-reviews-and-managing-employee-development
 ---
+

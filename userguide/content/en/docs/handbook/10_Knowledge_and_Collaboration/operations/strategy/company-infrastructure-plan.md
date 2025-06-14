@@ -1,5 +1,5 @@
 ---
-title: Company infrastructure plan
+title: Company Infrastructure Plan
 linkTitle: Company infrastructure plan
 date: '2025-04-29T16:47:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establish a structured infrastructure plan focusing on initial setu
 draft: false
 ref: company-infrastructure-plan
 ---
+

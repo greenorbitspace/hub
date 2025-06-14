@@ -1,5 +1,5 @@
 ---
-title: Online workshop
+title: Online Workshop
 linkTitle: Online workshop
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Conduct an online workshop by planning objectives, preparing materi
 draft: false
 ref: online-workshop
 ---
+

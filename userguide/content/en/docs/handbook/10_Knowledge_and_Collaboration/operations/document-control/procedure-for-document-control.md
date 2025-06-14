@@ -1,5 +1,5 @@
 ---
-title: Procedure for Document Control
+title: Procedure For Document Control
 linkTitle: Procedure for Document Control
 date: '2025-04-27T18:00:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Guidelines for creating, reviewing, approving, and managing company
 draft: false
 ref: procedure-for-document-control
 ---
+

@@ -1,6 +1,6 @@
 ---
-title: 'Smallsat: Fostering Ethical Marketing and Authentic Sustainability Communication
-  in the Space Sector'
+title: 'Smallsat: Fostering Ethical Marketing And Authentic Sustainability Communication
+  In The Space Sector'
 linkTitle: 'Smallsat: Fostering Ethical Marketing and Authentic Sustainability Communication
   in the Space Sector'
 date: '2025-04-24T16:18:00Z'
@@ -12,3 +12,4 @@ description: Exploring ethical marketing and authentic sustainability communicat
 draft: false
 ref: smallsat-fostering-ethical-marketing-and-authentic-sustainability-communication-in-the-space-sector
 ---
+

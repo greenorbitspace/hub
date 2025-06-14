@@ -1,5 +1,5 @@
 ---
-title: 'Navigating the Future of Space with Systems Thinking: A Guide to Sustainable
+title: 'Navigating The Future Of Space With Systems Thinking: A Guide To Sustainable
   Exploration'
 linkTitle: 'Navigating the Future of Space with Systems Thinking: A Guide to Sustainable
   Exploration'
@@ -13,3 +13,4 @@ description: The space sector must adopt systems thinking to address sustainabil
 draft: false
 ref: navigating-the-future-of-space-with-systems-thinking-a-guide-to-sustainable-exploration
 ---
+

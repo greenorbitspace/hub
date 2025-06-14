@@ -1,5 +1,5 @@
 ---
-title: Procedure for Control of Records
+title: Procedure For Control Of Records
 linkTitle: Procedure for Control of Records
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establishes a systematic approach for record control, covering crea
 draft: false
 ref: procedure-for-control-of-records
 ---
+

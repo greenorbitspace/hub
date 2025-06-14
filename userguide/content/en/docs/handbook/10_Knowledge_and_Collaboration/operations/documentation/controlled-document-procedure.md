@@ -10,3 +10,4 @@ description: GitLab's procedure for controlled documents ensures consistency in 
 draft: false
 ref: controlled-document-procedure
 ---
+

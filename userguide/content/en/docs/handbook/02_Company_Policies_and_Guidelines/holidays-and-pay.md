@@ -1,5 +1,5 @@
 ---
-title: Holidays and Pay
+title: Holidays And Pay
 linkTitle: Holidays and Pay
 date: '2025-04-29T17:21:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Full-time employees are entitled to 22 days of holiday plus 8 bank 
 draft: false
 ref: holidays-and-pay
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Communications Security policy
+title: Communications Security Policy
 linkTitle: 'Communications Security policy '
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establishes guidelines for secure communications at Green Orbit Dig
 draft: false
 ref: communications-security-policy
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Brand and Product Marketing
+title: Brand And Product Marketing
 linkTitle: Brand and Product Marketing
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The Brand and Product Marketing team aims to accelerate GitLab's ma
 draft: false
 ref: brand-and-product-marketing
 ---
+

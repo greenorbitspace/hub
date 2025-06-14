@@ -1,5 +1,5 @@
 ---
-title: Project Management SOP
+title: Project Management Sop
 linkTitle: Project Management SOP
 date: '2025-04-30T01:00:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Systematic approach for project management covering planning, execu
 draft: false
 ref: project-management-sop
 ---
+

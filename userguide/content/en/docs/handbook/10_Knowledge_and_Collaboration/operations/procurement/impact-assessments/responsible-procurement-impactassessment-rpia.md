@@ -1,7 +1,7 @@
 ---
 title: 'Responsible Procurement Impact
 
-  Assessment (RPIA)'
+  Assessment (Rpia)'
 linkTitle: 'Responsible Procurement Impact
 
   Assessment (RPIA)'
@@ -15,3 +15,4 @@ description: The Responsible Procurement Impact Assessment (RPIA) evaluates proc
 draft: false
 ref: responsible-procurement-impact-assessment-rpia
 ---
+

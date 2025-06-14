@@ -1,5 +1,5 @@
 ---
-title: Procedure for Environmental committee
+title: Procedure For Environmental Committee
 linkTitle: Procedure for Environmental committee
 date: '2025-05-01T23:38:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The procedure outlines steps for the Environmental Committee, inclu
 draft: false
 ref: procedure-for-environmental-committee
 ---
+

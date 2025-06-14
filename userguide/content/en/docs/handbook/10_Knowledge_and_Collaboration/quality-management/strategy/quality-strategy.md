@@ -10,3 +10,4 @@ description: Quality management strategy emphasizes leadership commitment, custo
 draft: false
 ref: quality-strategy
 ---
+

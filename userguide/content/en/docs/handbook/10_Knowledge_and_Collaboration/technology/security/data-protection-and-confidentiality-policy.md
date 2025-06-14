@@ -1,5 +1,5 @@
 ---
-title: Data Protection and Confidentiality Policy
+title: Data Protection And Confidentiality Policy
 linkTitle: Data Protection and Confidentiality Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Green Orbit Digital is committed to protecting personal data in com
 draft: false
 ref: data-protection-and-confidentiality-policy
 ---
+

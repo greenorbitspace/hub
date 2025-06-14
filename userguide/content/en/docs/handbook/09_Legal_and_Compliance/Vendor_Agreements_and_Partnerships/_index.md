@@ -1,5 +1,6 @@
 ---
 title: Vendor Agreements And Partnerships
-ref: vendor_agreements_and_partnerships
+ref: vendor-agreements-and-partnerships
 weight: 1
 ---
+

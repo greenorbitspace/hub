@@ -1,5 +1,5 @@
 ---
-title: Sustainable ICT Policy
+title: Sustainable Ict Policy
 linkTitle: Sustainable ICT Policy
 date: '2025-05-06T14:17:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The policy commits to sustainable ICT practices, focusing on reduci
 draft: false
 ref: sustainable-ict-policy
 ---
+

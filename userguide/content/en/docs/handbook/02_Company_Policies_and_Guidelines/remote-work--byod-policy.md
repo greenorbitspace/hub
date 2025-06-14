@@ -1,5 +1,5 @@
 ---
-title: Remote Work & BYOD Policy
+title: Remote Work & Byod Policy
 linkTitle: Remote Work & BYOD Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Guidelines for remote work and BYOD at Green Orbit Digital include 
 draft: false
 ref: remote-work--byod-policy
 ---
+

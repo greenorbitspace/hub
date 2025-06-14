@@ -1,5 +1,5 @@
 ---
-title: LCA
+title: Lca
 linkTitle: LCA
 date: '2025-05-06T14:28:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Understanding environmental impacts through life cycle analysis can
 draft: false
 ref: lca
 ---
+

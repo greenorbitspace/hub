@@ -1,5 +1,5 @@
 ---
-title: Knowledge transfer plans
+title: Knowledge Transfer Plans
 linkTitle: Knowledge transfer plans
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Knowledge transfer plan outlines processes for managing knowledge w
 draft: false
 ref: knowledge-transfer-plans
 ---
+

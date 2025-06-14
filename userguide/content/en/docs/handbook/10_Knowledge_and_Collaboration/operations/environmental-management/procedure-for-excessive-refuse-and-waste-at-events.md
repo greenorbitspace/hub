@@ -1,5 +1,5 @@
 ---
-title: Procedure for Excessive Refuse and Waste at Events
+title: Procedure For Excessive Refuse And Waste At Events
 linkTitle: Procedure for Excessive Refuse and Waste at Events
 date: '2025-05-01T23:48:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establish a waste management procedure for events, including pre-ev
 draft: false
 ref: procedure-for-excessive-refuse-and-waste-at-events
 ---
+

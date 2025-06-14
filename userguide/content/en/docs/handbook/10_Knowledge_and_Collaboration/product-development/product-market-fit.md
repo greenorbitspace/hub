@@ -1,5 +1,5 @@
 ---
-title: Product-Market Fit
+title: Product Market Fit
 linkTitle: Product-Market Fit
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Focus on researching target customers and their underserved needs w
 draft: false
 ref: product-market-fit
 ---
+

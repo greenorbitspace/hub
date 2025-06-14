@@ -10,3 +10,4 @@ description: GitLab centralizes laptop management for issued devices, detailing 
 draft: false
 ref: laptop-management
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Business Impact Analysis (BIA)
+title: Business Impact Analysis (Bia)
 linkTitle: Business Impact Analysis (BIA)
 date: '2025-05-01T20:18:00Z'
 weight: 1
@@ -12,3 +12,4 @@ description: The Business Impact Analysis identifies critical functions and pote
 draft: false
 ref: business-impact-analysis-bia
 ---
+

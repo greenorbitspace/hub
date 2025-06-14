@@ -1,5 +1,5 @@
 ---
-title: The complete guide to remote onboarding for new-hires
+title: The Complete Guide To Remote Onboarding For New Hires
 linkTitle: The complete guide to remote onboarding for new-hires
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: A comprehensive guide for remote onboarding emphasizes a structured
 draft: false
 ref: the-complete-guide-to-remote-onboarding-for-new-hires
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: References consent form
+title: References Consent Form
 linkTitle: References consent form
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Consent form for individuals to authorize the collection and use of
 draft: false
 ref: references-consent-form
 ---
+

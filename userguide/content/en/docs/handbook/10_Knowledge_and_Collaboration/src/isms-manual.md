@@ -1,5 +1,5 @@
 ---
-title: ISMS Manual
+title: Isms Manual
 linkTitle: ISMS Manual
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Comprehensive guide to Information Security Management System (ISMS
 draft: false
 ref: isms-manual
 ---
+

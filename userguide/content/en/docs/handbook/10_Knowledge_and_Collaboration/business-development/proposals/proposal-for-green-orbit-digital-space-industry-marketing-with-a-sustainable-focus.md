@@ -1,5 +1,5 @@
 ---
-title: 'Proposal for Green Orbit Digital: Space Industry Marketing with a Sustainable
+title: 'Proposal For Green Orbit Digital: Space Industry Marketing With A Sustainable
   Focus'
 linkTitle: 'Proposal for Green Orbit Digital: Space Industry Marketing with a Sustainable
   Focus'
@@ -12,3 +12,4 @@ description: Green Orbit Digital proposes a tailored marketing strategy for the 
 draft: false
 ref: proposal-for-green-orbit-digital-space-industry-marketing-with-a-sustainable-focus
 ---
+

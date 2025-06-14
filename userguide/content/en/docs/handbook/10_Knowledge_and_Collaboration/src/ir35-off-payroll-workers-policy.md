@@ -1,5 +1,5 @@
 ---
-title: IR35 Off Payroll Workers Policy
+title: Ir35 Off Payroll Workers Policy
 linkTitle: IR35 Off Payroll Workers Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital's policy outlines compliance with IR35 for off-
 draft: false
 ref: ir35-off-payroll-workers-policy
 ---
+

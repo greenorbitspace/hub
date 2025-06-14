@@ -1,5 +1,5 @@
 ---
-title: Staff training record
+title: Staff Training Record
 linkTitle: Staff training record
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Template for staff training records includes sections for training 
 draft: false
 ref: staff-training-record
 ---
+

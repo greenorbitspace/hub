@@ -1,5 +1,5 @@
 ---
-title: Editing the Handbook
+title: Editing The Handbook
 linkTitle: Editing the Handbook
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Guidelines for editing the handbook include using the Web IDE, form
 draft: false
 ref: editing-the-handbook
 ---
+

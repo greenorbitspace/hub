@@ -1,5 +1,5 @@
 ---
-title: SDG Action Plan
+title: Sdg Action Plan
 linkTitle: SDG Action Plan
 date: '2025-05-09T12:57:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Action plan for Sustainable Development Goals (SDGs) includes a mes
 draft: false
 ref: sdg-action-plan
 ---
+

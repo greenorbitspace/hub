@@ -1,5 +1,5 @@
 ---
-title: Operational control procedures
+title: Operational Control Procedures
 linkTitle: Operational control procedures
 date: '2025-05-01T23:51:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Outline of operational control procedures to ensure compliance with
 draft: false
 ref: operational-control-procedures
 ---
+

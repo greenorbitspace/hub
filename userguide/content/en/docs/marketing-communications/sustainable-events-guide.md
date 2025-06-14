@@ -1,5 +1,5 @@
 ---
-title: Sustainable events guide
+title: Sustainable Events Guide
 linkTitle: Sustainable events guide
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Guide for organizing sustainable events focuses on waste reduction,
 draft: false
 ref: sustainable-events-guide
 ---
+

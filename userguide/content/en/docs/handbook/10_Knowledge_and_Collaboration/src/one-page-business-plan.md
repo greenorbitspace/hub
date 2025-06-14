@@ -1,5 +1,5 @@
 ---
-title: One-Page Business Plan
+title: One Page Business Plan
 linkTitle: One-Page Business Plan
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A one-page business plan template includes sections for business ov
 draft: false
 ref: one-page-business-plan
 ---
+

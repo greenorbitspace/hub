@@ -1,5 +1,5 @@
 ---
-title: Air pollution control
+title: Air Pollution Control
 linkTitle: Air pollution control
 date: '2025-05-01T21:05:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: The Air Pollution Control Plan outlines processes to minimize air e
 draft: false
 ref: air-pollution-control
 ---
+

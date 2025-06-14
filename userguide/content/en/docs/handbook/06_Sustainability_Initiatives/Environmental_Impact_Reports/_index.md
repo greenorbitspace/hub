@@ -1,5 +1,6 @@
 ---
 title: Environmental Impact Reports
-ref: environmental_impact_reports
+ref: environmental-impact-reports
 weight: 1
 ---
+

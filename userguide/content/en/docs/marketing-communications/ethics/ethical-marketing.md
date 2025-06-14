@@ -1,5 +1,5 @@
 ---
-title: Ethical marketing
+title: Ethical Marketing
 linkTitle: Ethical marketing
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital commits to ethical marketing by ensuring truthf
 draft: false
 ref: ethical-marketing
 ---
+

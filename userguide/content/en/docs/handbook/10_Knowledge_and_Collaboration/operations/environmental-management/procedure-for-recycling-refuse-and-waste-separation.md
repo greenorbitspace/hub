@@ -1,5 +1,5 @@
 ---
-title: Procedure for Recycling, refuse and waste separation
+title: Procedure For Recycling, Refuse And Waste Separation
 linkTitle: Procedure for Recycling, refuse and waste separation
 date: '2025-05-01T23:37:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establish procedures for proper recycling and waste separation, ass
 draft: false
 ref: procedure-for-recycling-refuse-and-waste-separation
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Mini sustainable marketing audit
+title: Mini Sustainable Marketing Audit
 linkTitle: Mini sustainable marketing audit
 date: '2025-05-01T20:59:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A mini sustainable marketing audit survey is designed to assess cli
 draft: false
 ref: mini-sustainable-marketing-audit
 ---
+

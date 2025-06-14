@@ -1,5 +1,5 @@
 ---
-title: Data Classification and Handling Policy
+title: Data Classification And Handling Policy
 linkTitle: Data Classification and Handling Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Guidelines for classifying and handling data at Green Orbit Digital
 draft: false
 ref: data-classification-and-handling-policy
 ---
+

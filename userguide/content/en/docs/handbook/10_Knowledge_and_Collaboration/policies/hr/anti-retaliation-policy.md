@@ -1,5 +1,5 @@
 ---
-title: Anti-Retaliation Policy
+title: Anti Retaliation Policy
 linkTitle: Anti-Retaliation Policy
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: GitLab's Anti-Retaliation Policy ensures protection against retalia
 draft: false
 ref: anti-retaliation-policy
 ---
+

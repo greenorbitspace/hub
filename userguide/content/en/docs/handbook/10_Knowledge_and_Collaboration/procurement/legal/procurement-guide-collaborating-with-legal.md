@@ -1,5 +1,5 @@
 ---
-title: 'Procurement Guide: Collaborating with Legal'
+title: 'Procurement Guide: Collaborating With Legal'
 linkTitle: 'Procurement Guide: Collaborating with Legal'
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: GitLab team members should collaborate with the Legal Team for proc
 draft: false
 ref: procurement-guide-collaborating-with-legal
 ---
+

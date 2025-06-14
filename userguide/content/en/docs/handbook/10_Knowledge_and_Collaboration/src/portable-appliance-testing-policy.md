@@ -9,3 +9,4 @@ description: The policy ensures safety for portable electrical appliances throug
 draft: false
 ref: portable-appliance-testing-policy
 ---
+

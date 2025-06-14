@@ -1,5 +1,5 @@
 ---
-title: WhatsApp (Business) strategy
+title: Whatsapp (Business) Strategy
 linkTitle: WhatsApp (Business) strategy
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Set up a WhatsApp Business account for Green Orbit Digital with a c
 draft: false
 ref: whatsapp-business-strategy
 ---
+

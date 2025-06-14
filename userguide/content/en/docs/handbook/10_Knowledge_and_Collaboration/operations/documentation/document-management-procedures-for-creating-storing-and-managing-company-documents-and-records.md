@@ -1,6 +1,6 @@
 ---
-title: 'Document Management: Procedures for creating, storing, and managing company
-  documents and records.'
+title: 'Document Management: Procedures For Creating, Storing, And Managing Company
+  Documents And Records.'
 linkTitle: 'Document Management: Procedures for creating, storing, and managing company
   documents and records.'
 date: '2025-04-29T17:10:00Z'
@@ -12,3 +12,4 @@ description: Procedures for creating, storing, and managing company documents in
 draft: false
 ref: document-management-procedures-for-creating-storing-and-managing-company-documents-and-records
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: ESG policy
+title: Esg Policy
 linkTitle: ESG policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Green Orbit Digital is committed to integrating Environmental, Soci
 draft: false
 ref: esg-policy
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Risk management for facility operations
+title: Risk Management For Facility Operations
 linkTitle: Risk management for facility operations
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -7,3 +7,4 @@ description: No content
 draft: false
 ref: risk-management-for-facility-operations
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Digital marketing strategy
+title: Digital Marketing Strategy
 linkTitle: Digital marketing strategy
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Digital marketing strategy includes objectives, mission statement, 
 draft: false
 ref: digital-marketing-strategy
 ---
+

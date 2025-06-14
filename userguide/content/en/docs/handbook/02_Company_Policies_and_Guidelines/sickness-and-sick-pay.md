@@ -1,5 +1,5 @@
 ---
-title: Sickness and Sick Pay
+title: Sickness And Sick Pay
 linkTitle: Sickness and Sick Pay
 date: '2025-05-01T22:40:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The policy outlines guidelines for managing sickness and sick pay, 
 draft: false
 ref: sickness-and-sick-pay
 ---
+

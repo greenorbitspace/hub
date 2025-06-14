@@ -1,5 +1,5 @@
 ---
-title: Temporary and Agency Workers
+title: Temporary And Agency Workers
 linkTitle: Temporary and Agency Workers
 date: '2025-05-01T22:45:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Policy outlines management and compliance guidelines for temporary 
 draft: false
 ref: temporary-and-agency-workers
 ---
+

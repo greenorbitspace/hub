@@ -1,5 +1,5 @@
 ---
-title: Marketing plan - Space Impact Forum
+title: Marketing Plan   Space Impact Forum
 linkTitle: Marketing plan - Space Impact Forum
 date: '2025-05-01T20:24:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Marketing plan for the Space Impact Forum focuses on increasing eve
 draft: false
 ref: marketing-plan---space-impact-forum
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Procedure for Document and data control
+title: Procedure For Document And Data Control
 linkTitle: Procedure for Document and data control
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establish a procedure for document and data control, including step
 draft: false
 ref: procedure-for-document-and-data-control
 ---
+

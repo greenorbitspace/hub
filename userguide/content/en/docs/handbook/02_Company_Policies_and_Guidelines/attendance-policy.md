@@ -1,5 +1,5 @@
 ---
-title: Attendance policy
+title: Attendance Policy
 linkTitle: Attendance policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The attendance policy encourages reliable attendance while recogniz
 draft: false
 ref: attendance-policy
 ---
+

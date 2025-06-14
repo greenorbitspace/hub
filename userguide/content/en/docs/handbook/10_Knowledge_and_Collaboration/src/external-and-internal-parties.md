@@ -1,5 +1,5 @@
 ---
-title: External and internal parties
+title: External And Internal Parties
 linkTitle: External and internal parties
 date: '2025-05-01T21:00:00Z'
 weight: 1
@@ -7,3 +7,4 @@ description: No content
 draft: false
 ref: external-and-internal-parties
 ---
+

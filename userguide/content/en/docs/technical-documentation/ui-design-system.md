@@ -1,5 +1,5 @@
 ---
-title: UI Design System
+title: Ui Design System
 linkTitle: UI Design System
 date: '2025-04-30T01:01:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: A UI design system includes templates, themes (light and dark), ico
 draft: false
 ref: ui-design-system
 ---
+

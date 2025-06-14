@@ -1,5 +1,5 @@
 ---
-title: HubSpot Basics Guide
+title: Hubspot Basics Guide
 linkTitle: HubSpot Basics Guide
 date: '2025-05-01T20:25:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Guide covers essential HubSpot features including Marketing, Sales,
 draft: false
 ref: hubspot-basics-guide
 ---
+

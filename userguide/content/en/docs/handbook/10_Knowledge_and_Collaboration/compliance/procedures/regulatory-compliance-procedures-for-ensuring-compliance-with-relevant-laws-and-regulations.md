@@ -1,6 +1,6 @@
 ---
-title: 'Regulatory Compliance: Procedures for ensuring compliance with relevant laws
-  and regulations.'
+title: 'Regulatory Compliance: Procedures For Ensuring Compliance With Relevant Laws
+  And Regulations.'
 linkTitle: 'Regulatory Compliance: Procedures for ensuring compliance with relevant
   laws and regulations.'
 date: '2025-04-27T18:00:00Z'
@@ -11,3 +11,4 @@ description: Outlines procedures for regulatory compliance, including roles, ris
 draft: false
 ref: regulatory-compliance-procedures-for-ensuring-compliance-with-relevant-laws-and-regulations
 ---
+

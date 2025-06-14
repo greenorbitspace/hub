@@ -1,5 +1,5 @@
 ---
-title: Customer segment
+title: Customer Segment
 linkTitle: Customer segment
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Green Orbit Digital can enhance marketing strategies by understandi
 draft: false
 ref: customer-segment
 ---
+

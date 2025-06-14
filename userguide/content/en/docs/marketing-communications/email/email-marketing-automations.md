@@ -1,5 +1,5 @@
 ---
-title: Email marketing automations
+title: Email Marketing Automations
 linkTitle: Email marketing automations
 date: '2025-04-27T18:00:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Email marketing automation ideas include workflows for event regist
 draft: false
 ref: email-marketing-automations
 ---
+

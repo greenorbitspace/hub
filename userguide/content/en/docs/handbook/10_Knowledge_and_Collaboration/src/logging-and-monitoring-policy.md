@@ -1,5 +1,5 @@
 ---
-title: Logging and Monitoring Policy
+title: Logging And Monitoring Policy
 linkTitle: Logging and Monitoring Policy
 date: '2025-05-01T22:44:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establishes guidelines for logging and monitoring to comply with IS
 draft: false
 ref: logging-and-monitoring-policy
 ---
+

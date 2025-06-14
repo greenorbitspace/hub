@@ -1,5 +1,5 @@
 ---
-title: ESG framework for digital marketing
+title: Esg Framework For Digital Marketing
 linkTitle: ESG framework for digital marketing
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: The ESG framework for digital marketing includes environmental init
 draft: false
 ref: esg-framework-for-digital-marketing
 ---
+

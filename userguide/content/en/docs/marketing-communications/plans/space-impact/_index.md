@@ -1,5 +1,6 @@
 ---
-title: Space-Impact
+title: Space Impact
 ref: space-impact
 weight: 1
 ---
+

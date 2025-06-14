@@ -9,3 +9,4 @@ description: A comprehensive Markdown guide for the GitLab Handbook covering syn
 draft: false
 ref: handbook-markdown-guide
 ---
+

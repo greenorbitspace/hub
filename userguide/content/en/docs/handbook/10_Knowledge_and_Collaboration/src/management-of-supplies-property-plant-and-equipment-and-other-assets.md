@@ -1,5 +1,5 @@
 ---
-title: Management of Supplies, Property, Plant and Equipment and other Assets
+title: Management Of Supplies, Property, Plant And Equipment And Other Assets
 linkTitle: Management of Supplies, Property, Plant and Equipment and other Assets
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Guidelines for managing supplies, property, plant, and equipment em
 draft: false
 ref: management-of-supplies-property-plant-and-equipment-and-other-assets
 ---
+

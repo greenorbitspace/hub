@@ -1,5 +1,5 @@
 ---
-title: Mobile and Remote Access policy
+title: Mobile And Remote Access Policy
 linkTitle: 'Mobile and Remote Access policy '
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Guidelines for mobile and remote access include mandatory VPN use, 
 draft: false
 ref: mobile-and-remote-access-policy
 ---
+

@@ -9,3 +9,4 @@ description: Comprehensive Markdown style guide for the GitLab Handbook, detaili
 draft: false
 ref: markdown-style-guide
 ---
+

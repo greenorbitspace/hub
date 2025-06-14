@@ -1,101 +1,113 @@
 import os
 
-folder_structure = {
-    "01_Welcome_and_Overview": [
-        "Introduction_to_Green_Orbit_Digital",
-        "Mission_Vision_Values",
-        "Sustainability_Commitment",
-        "Company_History_and_Milestones",
-        "Leadership_Team_Profiles",
-        "Office_Locations_and_Contact_Information",
+base_dir = "userguide/content/en/docs/legal-hub"
+
+structure = {
+    "contracts": {
+        "employment": [
+            "employment-agreement.md",
+            "nda.md",
+            "consultant-contract.md",
+            "termination-letter.md"
+        ],
+        "client-agreements": [
+            "service-agreement.md",
+            "master-services-agreement.md",
+            "statement-of-work.md"
+        ],
+        "supplier-contracts": [
+            "equipment-hire-agreement.md",
+            "procurement-contract.md"
+        ],
+        "partnership-agreements": [
+            "collaboration-agreement.md"
+        ],
+        "templates": [
+            "contract-template.md",
+            "nda-template.md"
+        ],
+    },
+    "compliance": {
+        "data-protection": [
+            "gdpr-policy.md",
+            "data-processing-agreement.md",
+            "privacy-notice.md"
+        ],
+        "health-and-safety": [
+            "health-safety-policy.md",
+            "incident-reporting.md"
+        ],
+        "environmental": [
+            "sustainability-compliance.md",
+            "environmental-risk-assessment.md"
+        ],
+        "ethics": [
+            "code-of-conduct.md",
+            "whistleblowing-policy.md"
+        ]
+    },
+    "governance": {
+        "board-meetings": [
+            "meeting-minutes.md",
+            "resolutions.md"
+        ],
+        "policies": [
+            "company-policies.md",
+            "conflict-of-interest.md"
+        ],
+        "regulatory": [
+            "licences.md",
+            "registrations.md"
+        ]
+    },
+    "intellectual-property": [
+        "patents.md",
+        "trademarks.md",
+        "copyrights.md",
+        "ip-policy.md"
     ],
-    "02_Company_Policies_and_Guidelines": [
-        "Code_of_Conduct",
-        "Environmental_and_Sustainability_Policy",
-        "Remote_Work_and_Hybrid_Guidelines",
-        "Data_Privacy_and_Security_Policy",
-        "Health_Safety_and_Wellbeing",
-        "Diversity_Equity_and_Inclusion",
-        "Anti_Harassment_and_Anti_Discrimination_Policy",
+    "dispute-resolution": [
+        "mediation.md",
+        "arbitration.md",
+        "legal-notices.md"
     ],
-    "03_Employee_Resources": [
-        "Onboarding_Guide",
-        "Employee_Handbook",
-        "Training_and_Development_Opportunities",
-        "Green_Orbit_Academy",
-        "Career_Progression_Pathways",
-        "Feedback_and_Performance_Management",
-        "Recognition_and_Rewards",
-    ],
-    "04_Operational_Information": [
-        "Company_Structure_and_Org_Chart",
-        "Department_Overviews",
-        "Meeting_and_Communication_Norms",
-        "Project_Management_Best_Practices",
-        "Tools_and_Software_Guides/HubSpot",
-        "Tools_and_Software_Guides/Notion",
-        "IT_Support_and_Troubleshooting",
-    ],
-    "05_Marketing_and_Communications": [
-        "Brand_Guidelines_and_Resources",
-        "Tone_of_Voice_and_Style_Guide",
-        "Approved_Templates_and_Assets",
-        "Press_Kit_and_Media_Resources",
-        "Social_Media_Policies",
-        "Blog_and_Content_Strategy",
-    ],
-    "06_Sustainability_Initiatives": [
-        "Space_Sustainability_Leadership_Programme",
-        "Space_Integrity_Initiative",
-        "Space_Impact_Forum_Details",
-        "Case_Studies_on_Sustainable_Projects",
-        "Environmental_Impact_Reports",
-        "Partner_and_Client_Success_Stories",
-    ],
-    "07_Projects_and_Partnerships": [
-        "Current_and_Past_Projects_Overview",
-        "Client_Portfolios",
-        "Partnerships_and_Collaborations",
-        "Project_Management_Methodologies",
-        "Reporting_and_Metrics_Tracking",
-    ],
-    "08_Sales_and_Business_Development": [
-        "Sales_Playbook",
-        "CRM_Guidelines/HubSpot",
-        "Proposal_and_Pitch_Templates",
-        "Competitive_Analysis",
-        "Pricing_Models_and_Packages",
-        "Business_Development_Strategies",
-    ],
-    "09_Legal_and_Compliance": [
-        "Contract_Templates_and_Clauses",
-        "Non_Disclosure_Agreements",
-        "Intellectual_Property_Policy",
-        "GDPR_and_Data_Compliance",
-        "Vendor_Agreements_and_Partnerships",
-    ],
-    "10_Knowledge_and_Collaboration": [
-        "Knowledge_Sharing_Guidelines",
-        "Wiki_Contribution_Guide",
-        "FAQ_Section",
-        "Discussion_Boards_and_Team_Channels",
-        "Feedback_and_Suggestions",
-    ],
+    "templates": {
+        "letter-templates": [
+            "offer-letter.md",
+            "termination-letter.md",
+            "demand-letter.md"
+        ],
+        "form-templates": [
+            "consent-form.md",
+            "incident-report-form.md"
+        ]
+    },
+    "README.md": None
 }
 
 
-def create_folders(base_path, structure):
-    for folder, subfolders in structure.items():
-        for subfolder in subfolders:
-            folder_path = os.path.join(base_path, folder, subfolder)
-            os.makedirs(folder_path, exist_ok=True)
-            print(f"Created: {folder_path}")
+def create_structure(base_path, structure):
+    if isinstance(structure, dict):
+        for key, value in structure.items():
+            path = os.path.join(base_path, key)
+            if value is None:
+                # Create a file (like README.md)
+                with open(path, 'w') as f:
+                    pass  # empty file
+                print(f"Created file: {path}")
+            else:
+                # Create folder and recurse
+                os.makedirs(path, exist_ok=True)
+                print(f"Created directory: {path}")
+                create_structure(path, value)
+    elif isinstance(structure, list):
+        for filename in structure:
+            file_path = os.path.join(base_path, filename)
+            with open(file_path, 'w') as f:
+                pass  # empty file
+            print(f"Created file: {file_path}")
 
 
 if __name__ == "__main__":
-    base_dir = input("Enter the base directory path where the folders should be created: ").strip()
-    if not base_dir:
-        print("Error: Base directory path cannot be empty.")
-    else:
-        create_folders(base_dir, folder_structure)
-        print("Folder structure creation complete.")
+    create_structure(base_dir, structure)
+    print("Legal hub folder structure created successfully.")

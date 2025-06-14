@@ -1,5 +1,5 @@
 ---
-title: Procedure for ESMS general requirements
+title: Procedure For Esms General Requirements
 linkTitle: Procedure for ESMS general requirements
 date: '2025-05-01T23:53:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establish a structured approach for the Event Sustainability Manage
 draft: false
 ref: procedure-for-esms-general-requirements
 ---
+

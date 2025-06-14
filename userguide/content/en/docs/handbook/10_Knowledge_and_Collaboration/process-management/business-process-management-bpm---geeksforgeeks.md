@@ -1,5 +1,5 @@
 ---
-title: Business Process Management (BPM) - GeeksforGeeks
+title: Business Process Management (Bpm)   Geeksforgeeks
 linkTitle: Business Process Management (BPM) - GeeksforGeeks
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: BPM combines IT with governance to enhance business performance thr
 draft: false
 ref: business-process-management-bpm---geeksforgeeks
 ---
+

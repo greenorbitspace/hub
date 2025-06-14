@@ -1,5 +1,6 @@
 ---
 title: Client Portfolios
-ref: client_portfolios
+ref: client-portfolios
 weight: 1
 ---
+

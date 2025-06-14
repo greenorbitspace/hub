@@ -1,5 +1,5 @@
 ---
-title: Growth and Development Fund
+title: Growth And Development Fund
 linkTitle: Growth and Development Fund
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: GitLab's Growth and Development Fund allows full-time employees to 
 draft: false
 ref: growth-and-development-fund
 ---
+

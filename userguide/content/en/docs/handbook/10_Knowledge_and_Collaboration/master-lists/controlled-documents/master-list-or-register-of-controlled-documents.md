@@ -1,5 +1,5 @@
 ---
-title: Master list or register of controlled documents
+title: Master List Or Register Of Controlled Documents
 linkTitle: Master list or register of controlled documents
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A comprehensive register of controlled documents includes categorie
 draft: false
 ref: master-list-or-register-of-controlled-documents
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Innovation policy and strategic intent
+title: Innovation Policy And Strategic Intent
 linkTitle: Innovation policy and strategic intent
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Green Orbit Digital aims to drive innovation in sustainable digital
 draft: false
 ref: innovation-policy-and-strategic-intent
 ---
+

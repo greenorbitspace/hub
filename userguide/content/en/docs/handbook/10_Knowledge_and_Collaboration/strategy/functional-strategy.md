@@ -10,3 +10,4 @@ description: Operationalize business strategy through efficiency-focused functio
 draft: false
 ref: functional-strategy
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Sales plan
+title: Sales Plan
 linkTitle: 'Sales plan '
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Strategic sales plan aimed at sustainable growth through targeted i
 draft: false
 ref: sales-plan
 ---
+

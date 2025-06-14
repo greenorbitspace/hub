@@ -1,5 +1,5 @@
 ---
-title: Procedure for the Management of Nonconformity
+title: Procedure For The Management Of Nonconformity
 linkTitle: Procedure for the Management of Nonconformity
 date: '2025-05-01T23:49:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establishes a systematic approach for identifying, documenting, and
 draft: false
 ref: procedure-for-the-management-of-nonconformity
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Onboarding guide
+title: Onboarding Guide
 linkTitle: 'Onboarding guide '
 date: '2025-05-01T20:26:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Onboarding includes a welcome message, first-day essentials, team i
 draft: false
 ref: onboarding-guide
 ---
+

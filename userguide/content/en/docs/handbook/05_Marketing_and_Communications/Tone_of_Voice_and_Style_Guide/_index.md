@@ -1,5 +1,6 @@
 ---
 title: Tone Of Voice And Style Guide
-ref: tone_of_voice_and_style_guide
+ref: tone-of-voice-and-style-guide
 weight: 1
 ---
+

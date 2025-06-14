@@ -1,5 +1,5 @@
 ---
-title: Design system
+title: Design System
 linkTitle: Design system
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: A design system for the team includes typography guidelines, templa
 draft: false
 ref: design-system
 ---
+

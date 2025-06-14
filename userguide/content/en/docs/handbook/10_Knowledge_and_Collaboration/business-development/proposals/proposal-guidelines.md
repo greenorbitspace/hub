@@ -1,5 +1,5 @@
 ---
-title: Proposal guidelines
+title: Proposal Guidelines
 linkTitle: Proposal guidelines
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: A comprehensive proposal should include a cover letter, client need
 draft: false
 ref: proposal-guidelines
 ---
+

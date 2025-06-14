@@ -10,3 +10,4 @@ description: The goal is to minimize waste and its environmental impact, with a 
 draft: false
 ref: waste-management-strategy
 ---
+

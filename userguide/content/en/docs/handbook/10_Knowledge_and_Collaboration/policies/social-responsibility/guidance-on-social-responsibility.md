@@ -1,5 +1,5 @@
 ---
-title: Guidance on social responsibility
+title: Guidance On Social Responsibility
 linkTitle: Guidance on social responsibility
 date: '2025-05-01T20:22:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital is committed to social responsibility through e
 draft: false
 ref: guidance-on-social-responsibility
 ---
+

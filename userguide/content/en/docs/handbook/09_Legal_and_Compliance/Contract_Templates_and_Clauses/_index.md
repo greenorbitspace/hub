@@ -1,5 +1,6 @@
 ---
 title: Contract Templates And Clauses
-ref: contract_templates_and_clauses
+ref: contract-templates-and-clauses
 weight: 1
 ---
+

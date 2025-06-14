@@ -1,5 +1,5 @@
 ---
-title: Campaign analysis
+title: Campaign Analysis
 linkTitle: Campaign analysis
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Conduct a comprehensive campaign analysis by defining objectives, g
 draft: false
 ref: campaign-analysis
 ---
+

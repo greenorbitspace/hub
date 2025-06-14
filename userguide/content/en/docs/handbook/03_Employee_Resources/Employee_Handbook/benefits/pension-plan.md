@@ -1,5 +1,5 @@
 ---
-title: Pension plan
+title: Pension Plan
 linkTitle: Pension plan
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The pension plan offers retirement benefits for employees with a fo
 draft: false
 ref: pension-plan
 ---
+

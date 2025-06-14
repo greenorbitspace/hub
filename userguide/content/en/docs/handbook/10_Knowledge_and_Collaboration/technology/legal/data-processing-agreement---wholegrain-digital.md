@@ -1,5 +1,5 @@
 ---
-title: Data processing agreement - Wholegrain Digital
+title: Data Processing Agreement   Wholegrain Digital
 linkTitle: Data processing agreement - Wholegrain Digital
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Wholegrain Digital commits to protecting client data in compliance 
 draft: false
 ref: data-processing-agreement---wholegrain-digital
 ---
+

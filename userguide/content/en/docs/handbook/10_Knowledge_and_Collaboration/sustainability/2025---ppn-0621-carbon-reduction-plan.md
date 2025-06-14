@@ -1,5 +1,5 @@
 ---
-title: 2025 - PPN 06/21 Carbon Reduction Plan
+title: 2025   Ppn 06/21 Carbon Reduction Plan
 linkTitle: 2025 - PPN 06/21 Carbon Reduction Plan
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The carbon reduction plan is under review, with a high priority sta
 draft: false
 ref: 2025---ppn-0621-carbon-reduction-plan
 ---
+

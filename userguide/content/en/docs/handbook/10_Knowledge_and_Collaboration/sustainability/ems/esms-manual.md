@@ -1,5 +1,5 @@
 ---
-title: ESMS Manual
+title: Esms Manual
 linkTitle: ESMS Manual
 date: '2025-05-01T20:57:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: The ESMS Manual includes 10 chapters and 3 annexures detailing the 
 draft: false
 ref: esms-manual
 ---
+

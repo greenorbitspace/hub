@@ -1,5 +1,5 @@
 ---
-title: Server/application DR procedures
+title: Server/Application Dr Procedures
 linkTitle: Server/application DR procedures
 date: '2025-04-30T01:03:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Critical systems for disaster recovery include knowledge management
 draft: false
 ref: serverapplication-dr-procedures
 ---
+

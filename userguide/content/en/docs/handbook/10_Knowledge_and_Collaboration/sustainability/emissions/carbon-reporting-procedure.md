@@ -1,5 +1,5 @@
 ---
-title: Carbon reporting procedure
+title: Carbon Reporting Procedure
 linkTitle: Carbon reporting procedure
 date: '2025-04-27T18:00:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Standard Operating Procedure (SOP) outlines the steps for carbon re
 draft: false
 ref: carbon-reporting-procedure
 ---
+

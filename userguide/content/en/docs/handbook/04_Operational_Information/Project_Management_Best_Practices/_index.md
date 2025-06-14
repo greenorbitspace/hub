@@ -1,5 +1,6 @@
 ---
 title: Project Management Best Practices
-ref: project_management_best_practices
+ref: project-management-best-practices
 weight: 1
 ---
+

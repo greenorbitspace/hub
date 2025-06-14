@@ -1,5 +1,6 @@
 ---
 title: Faq Section
-ref: faq_section
+ref: faq-section
 weight: 1
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Ethical Partnerships and Sponsorship Policy
+title: Ethical Partnerships And Sponsorship Policy
 linkTitle: Ethical Partnerships and Sponsorship Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Green Orbit Digital prioritizes ethical partnerships and sponsorshi
 draft: false
 ref: ethical-partnerships-and-sponsorship-policy
 ---
+

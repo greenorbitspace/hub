@@ -1,5 +1,6 @@
 ---
-title: Environmental-Management
+title: Environmental Management
 ref: environmental-management
 weight: 1
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Business continuity policy
+title: Business Continuity Policy
 linkTitle: Business continuity policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Green Orbit Digital's business continuity policy outlines responsib
 draft: false
 ref: business-continuity-policy
 ---
+

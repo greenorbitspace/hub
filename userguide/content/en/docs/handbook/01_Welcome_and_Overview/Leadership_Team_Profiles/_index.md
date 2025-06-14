@@ -1,5 +1,6 @@
 ---
 title: Leadership Team Profiles
-ref: leadership_team_profiles
+ref: leadership-team-profiles
 weight: 1
 ---
+

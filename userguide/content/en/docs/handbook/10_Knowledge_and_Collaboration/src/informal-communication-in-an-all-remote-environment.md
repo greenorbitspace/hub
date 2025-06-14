@@ -1,5 +1,5 @@
 ---
-title: Informal Communication in an all-remote environment
+title: Informal Communication In An All Remote Environment
 linkTitle: Informal Communication in an all-remote environment
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Informal communication is vital in remote work to build trust and c
 draft: false
 ref: informal-communication-in-an-all-remote-environment
 ---
+

@@ -1,6 +1,6 @@
 ---
-title: 'Invoice Processing: Steps for receiving, reviewing, and processing invoices
-  from vendors'
+title: 'Invoice Processing: Steps For Receiving, Reviewing, And Processing Invoices
+  From Vendors'
 linkTitle: 'Invoice Processing: Steps for receiving, reviewing, and processing invoices
   from vendors'
 date: '2025-04-29T17:10:00Z'
@@ -11,3 +11,4 @@ description: Outline of procedures for receiving, reviewing, approving, processi
 draft: false
 ref: invoice-processing-steps-for-receiving-reviewing-and-processing-invoices-from-vendors
 ---
+

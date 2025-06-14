@@ -1,5 +1,6 @@
 ---
 title: Diversity Equity And Inclusion
-ref: diversity_equity_and_inclusion
+ref: diversity-equity-and-inclusion
 weight: 1
 ---
+

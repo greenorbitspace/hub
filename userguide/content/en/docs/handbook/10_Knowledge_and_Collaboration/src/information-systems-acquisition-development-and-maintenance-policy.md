@@ -1,5 +1,5 @@
 ---
-title: Information Systems Acquisition, Development, and Maintenance Policy
+title: Information Systems Acquisition, Development, And Maintenance Policy
 linkTitle: Information Systems Acquisition, Development, and Maintenance Policy
 date: '2025-05-01T22:33:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Establishes guidelines for acquiring, developing, and maintaining i
 draft: false
 ref: information-systems-acquisition-development-and-maintenance-policy
 ---
+

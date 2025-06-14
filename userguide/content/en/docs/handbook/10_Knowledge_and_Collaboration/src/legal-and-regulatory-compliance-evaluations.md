@@ -1,5 +1,5 @@
 ---
-title: Legal and regulatory compliance evaluations
+title: Legal And Regulatory Compliance Evaluations
 linkTitle: Legal and regulatory compliance evaluations
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Evaluation of Green Orbit Digital's compliance with legal and regul
 draft: false
 ref: legal-and-regulatory-compliance-evaluations
 ---
+

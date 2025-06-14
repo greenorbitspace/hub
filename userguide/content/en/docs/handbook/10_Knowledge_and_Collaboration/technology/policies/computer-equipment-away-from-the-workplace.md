@@ -1,5 +1,5 @@
 ---
-title: Computer Equipment away from the Workplace
+title: Computer Equipment Away From The Workplace
 linkTitle: Computer Equipment away from the Workplace
 date: '2025-05-01T23:00:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Guidelines for using company computer equipment outside the workpla
 draft: false
 ref: computer-equipment-away-from-the-workplace
 ---
+

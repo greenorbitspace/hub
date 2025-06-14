@@ -1,6 +1,6 @@
 ---
-title: 'Travel Policy: Procedures for booking, approving, and reimbursing business
-  travel expenses.'
+title: 'Travel Policy: Procedures For Booking, Approving, And Reimbursing Business
+  Travel Expenses.'
 linkTitle: 'Travel Policy: Procedures for booking, approving, and reimbursing business
   travel expenses.'
 date: '2025-04-27T18:00:00Z'
@@ -12,3 +12,4 @@ description: Guidelines for business travel include pre-approval from supervisor
 draft: false
 ref: travel-policy-procedures-for-booking-approving-and-reimbursing-business-travel-expenses
 ---
+

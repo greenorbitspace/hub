@@ -1,5 +1,5 @@
 ---
-title: Procedure for Waste Management and Recycling at events
+title: Procedure For Waste Management And Recycling At Events
 linkTitle: Procedure for Waste Management and Recycling at events
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Establish a waste management coordinator, conduct a waste audit, an
 draft: false
 ref: procedure-for-waste-management-and-recycling-at-events
 ---
+

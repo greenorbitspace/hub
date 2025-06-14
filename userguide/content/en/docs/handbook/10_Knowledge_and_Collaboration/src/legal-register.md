@@ -1,5 +1,5 @@
 ---
-title: Legal register
+title: Legal Register
 linkTitle: Legal register
 date: '2025-05-01T19:01:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Legal register outlines compliance requirements across various area
 draft: false
 ref: legal-register
 ---
+

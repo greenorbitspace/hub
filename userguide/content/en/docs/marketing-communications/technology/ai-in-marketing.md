@@ -1,5 +1,5 @@
 ---
-title: AI in Marketing
+title: Ai In Marketing
 linkTitle: AI in Marketing
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -8,3 +8,4 @@ description: AI in marketing is currently not started, with an owner assigned an
 draft: false
 ref: ai-in-marketing
 ---
+

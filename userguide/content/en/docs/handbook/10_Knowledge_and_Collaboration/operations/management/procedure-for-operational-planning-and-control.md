@@ -1,5 +1,5 @@
 ---
-title: Procedure for Operational Planning and Control
+title: Procedure For Operational Planning And Control
 linkTitle: Procedure for Operational Planning and Control
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Effective operational planning involves defining objectives, identi
 draft: false
 ref: procedure-for-operational-planning-and-control
 ---
+

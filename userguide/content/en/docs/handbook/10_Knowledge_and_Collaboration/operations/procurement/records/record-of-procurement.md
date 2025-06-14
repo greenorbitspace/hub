@@ -1,5 +1,5 @@
 ---
-title: Record of procurement
+title: Record Of Procurement
 linkTitle: Record of procurement
 date: '2025-04-24T16:18:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Procurement record template includes sections for basic information
 draft: false
 ref: record-of-procurement
 ---
+

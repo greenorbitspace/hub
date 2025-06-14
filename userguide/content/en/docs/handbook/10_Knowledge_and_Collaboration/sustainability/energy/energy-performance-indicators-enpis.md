@@ -1,5 +1,5 @@
 ---
-title: Energy performance indicators (EnPIs)
+title: Energy Performance Indicators (Enpis)
 linkTitle: Energy performance indicators (EnPIs)
 date: '2025-04-30T00:57:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Energy Performance Indicators (EnPIs) are essential for monitoring 
 draft: false
 ref: energy-performance-indicators-enpis
 ---
+

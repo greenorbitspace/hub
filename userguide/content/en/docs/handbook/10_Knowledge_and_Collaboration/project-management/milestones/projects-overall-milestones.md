@@ -1,6 +1,6 @@
 ---
-title: Projects’ Overall Milestones
-linkTitle: Projects’ Overall Milestones
+title: "Projects\u2019 Overall Milestones"
+linkTitle: "Projects\u2019 Overall Milestones"
 date: '2025-04-29T17:10:00Z'
 weight: 1
 description: Overview of project milestones includes definitions for projects, milestone
@@ -9,3 +9,4 @@ description: Overview of project milestones includes definitions for projects, m
 draft: false
 ref: projects-overall-milestones
 ---
+

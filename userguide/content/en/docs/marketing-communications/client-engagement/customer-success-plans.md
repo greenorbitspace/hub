@@ -1,5 +1,5 @@
 ---
-title: Customer success plans
+title: Customer Success Plans
 linkTitle: Customer success plans
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Customer success plans focus on achieving client objectives through
 draft: false
 ref: customer-success-plans
 ---
+

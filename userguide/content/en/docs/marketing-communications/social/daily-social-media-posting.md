@@ -1,5 +1,5 @@
 ---
-title: Daily social media posting
+title: Daily Social Media Posting
 linkTitle: Daily social media posting
 date: '2025-05-06T03:41:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Follow a structured procedure for daily social media posting, inclu
 draft: false
 ref: daily-social-media-posting
 ---
+

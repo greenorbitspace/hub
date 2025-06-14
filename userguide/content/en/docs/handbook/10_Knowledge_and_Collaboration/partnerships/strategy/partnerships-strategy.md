@@ -1,5 +1,5 @@
 ---
-title: Partnerships strategy
+title: Partnerships Strategy
 linkTitle: Partnerships strategy
 date: '2025-04-29T17:10:00Z'
 weight: 1
@@ -11,3 +11,4 @@ description: Green Orbit Digital aims to build sustainable partnerships aligned 
 draft: false
 ref: partnerships-strategy
 ---
+

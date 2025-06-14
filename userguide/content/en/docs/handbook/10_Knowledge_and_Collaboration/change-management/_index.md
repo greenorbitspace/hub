@@ -1,5 +1,5 @@
 ---
-title: change-management
+title: Change Management
 ref: change-management
 weight: 2
 aliases:
@@ -8,3 +8,4 @@ date: 2018-07-30
 description: Learn how to get started with Docsy, including the available options
   for installing and using the Docsy theme.
 ---
+

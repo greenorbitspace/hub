@@ -1,5 +1,5 @@
 ---
-title: Onboarding strategy
+title: Onboarding Strategy
 linkTitle: Onboarding strategy
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Onboarding strategy includes pre-boarding preparations, first-day o
 draft: false
 ref: onboarding-strategy
 ---
+

@@ -1,5 +1,6 @@
 ---
-title: Knowledge-Base
+title: Knowledge Base
 ref: knowledge-base
 weight: 1
 ---
+

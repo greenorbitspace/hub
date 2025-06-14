@@ -1,5 +1,5 @@
 ---
-title: Customer-Centric Experience Design Strategy
+title: Customer Centric Experience Design Strategy
 linkTitle: 'Customer-Centric Experience Design Strategy '
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The strategy focuses on creating personalized customer experiences 
 draft: false
 ref: customer-centric-experience-design-strategy
 ---
+

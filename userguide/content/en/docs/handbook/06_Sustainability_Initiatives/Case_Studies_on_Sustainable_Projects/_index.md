@@ -1,5 +1,6 @@
 ---
 title: Case Studies On Sustainable Projects
-ref: case_studies_on_sustainable_projects
+ref: case-studies-on-sustainable-projects
 weight: 1
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Appropriate Policy Document (APD)
+title: Appropriate Policy Document (Apd)
 linkTitle: Appropriate Policy Document (APD)
 date: '2025-05-01T22:33:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The Appropriate Policy Document outlines strategic directives for i
 draft: false
 ref: appropriate-policy-document-apd
 ---
+

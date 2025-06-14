@@ -1,5 +1,5 @@
 ---
-title: Internship action plan
+title: Internship Action Plan
 linkTitle: Internship action plan
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The internship program aims to provide meaningful experiences in su
 draft: false
 ref: internship-action-plan
 ---
+

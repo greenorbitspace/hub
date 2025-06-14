@@ -1,5 +1,5 @@
 ---
-title: All-Remote Management
+title: All Remote Management
 linkTitle: All-Remote Management
 date: '2025-05-06T14:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Effective all-remote management relies on thorough documentation to
 draft: false
 ref: all-remote-management
 ---
+

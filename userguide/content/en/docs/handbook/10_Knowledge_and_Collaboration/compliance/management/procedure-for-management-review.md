@@ -1,5 +1,5 @@
 ---
-title: Procedure for Management Review
+title: Procedure For Management Review
 linkTitle: Procedure for Management Review
 date: '2025-05-06T02:19:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: The management review process involves planning meetings, collectin
 draft: false
 ref: procedure-for-management-review
 ---
+

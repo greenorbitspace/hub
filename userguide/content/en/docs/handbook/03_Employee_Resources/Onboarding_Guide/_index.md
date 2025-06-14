@@ -1,5 +1,6 @@
 ---
 title: Onboarding Guide
-ref: onboarding_guide
+ref: onboarding-guide
 weight: 1
 ---
+

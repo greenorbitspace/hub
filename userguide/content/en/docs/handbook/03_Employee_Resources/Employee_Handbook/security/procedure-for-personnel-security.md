@@ -1,5 +1,5 @@
 ---
-title: Procedure for personnel security
+title: Procedure For Personnel Security
 linkTitle: Procedure for personnel security
 date: '2025-05-01T23:54:00Z'
 weight: 1
@@ -9,3 +9,4 @@ description: Implement a personnel security procedure that includes risk assessm
 draft: false
 ref: procedure-for-personnel-security
 ---
+

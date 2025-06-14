@@ -1,5 +1,6 @@
 ---
 title: Company History And Milestones
-ref: company_history_and_milestones
+ref: company-history-and-milestones
 weight: 1
 ---
+

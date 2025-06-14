@@ -1,5 +1,5 @@
 ---
-title: Financial control policy
+title: Financial Control Policy
 linkTitle: Financial control policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,3 +10,4 @@ description: Framework for financial controls at Green Orbit Digital includes au
 draft: false
 ref: financial-control-policy
 ---
+

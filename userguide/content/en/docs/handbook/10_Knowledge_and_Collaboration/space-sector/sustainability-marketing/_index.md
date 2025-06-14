@@ -1,5 +1,6 @@
 ---
-title: Sustainability-Marketing
+title: Sustainability Marketing
 ref: sustainability-marketing
 weight: 1
 ---
+
