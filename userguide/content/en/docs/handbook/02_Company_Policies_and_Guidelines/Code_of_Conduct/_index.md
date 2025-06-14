@@ -1,6 +1,6 @@
 ---
-title: handbook
-ref: handbook
+title: Code_of_Conduct
+ref: code_of_conduct
 ---
 ---
 title: ""
