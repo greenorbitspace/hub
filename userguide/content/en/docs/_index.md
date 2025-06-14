@@ -17,9 +17,9 @@ Whether you’re a collaborator, contributor, or client, this space is designed 
 
 **Green Orbit Digital** is a Leicester-based sustainable marketing agency focused on enabling ethical growth in space, science, and deep tech sectors. We combine:
 
-- Technical marketing expertise (SEO, content strategy, automation)
-- Digital sustainability practices (carbon-aware design, green hosting, SDG-linked reporting)
-- Systems thinking and ethical leadership frameworks
+- Technical marketing (SEO, content strategy, automation)
+- Digital sustainability (carbon-aware design, eco-hosting, SDG-linked reporting)
+- Systems thinking and ethical leadership
 
 We believe that marketing can and should be a force for environmental and societal good.  
 👉 [Visit our main site](https://greenorbit.space)
@@ -28,17 +28,15 @@ We believe that marketing can and should be a force for environmental and societ
 {{% blocks/section color="white" %}}
 ## Documentation Overview
 
-This hub is designed to help internal teams, partners, and collaborators engage effectively with our operations, platforms, and sustainability initiatives.
+Our documentation is structured to help stakeholders engage effectively and ethically:
 
-Explore:
+- 🌍 **[Sustainability Frameworks](/docs/sustainability):** Learn how we reduce digital emissions, choose greener suppliers, and track impact.
+- 🚀 **[Innovation Playbook](/docs/innovation):** Explore how we drive agile, low-carbon innovation in campaigns and internal R&D.
+- 📚 **[Policies & Ethics](/docs/policies):** Review our internal policies, compliance standards, and decision-making principles.
+- 📊 **[Analytics & Measurement](/docs/analytics):** Discover how we use data without compromising on privacy or sustainability.
+- 💼 **[Working With Us](/docs/collaboration):** Get clear on onboarding, roles, and how to collaborate in a purpose-aligned way.
 
-- 🌍 **[Sustainability Frameworks](/docs/sustainability):** How we reduce emissions, select green suppliers, and assess environmental impact.
-- 🚀 **[Innovation Playbook](/docs/innovation):** Agile, low-carbon experimentation and our approach to ethical marketing tech.
-- 📚 **[Policies & Ethics](/docs/policies):** Our governance model, compliance practices, and decision-making principles.
-- 📊 **[Analytics & Measurement](/docs/analytics):** Responsible metrics, privacy-aware tracking, and outcome alignment.
-- 💼 **[Working With Us](/docs/collaboration):** Guidelines for clients, collaborators, and contributors to align with our mission.
-
-Each page includes practical guidance, checklists, and implementation-ready frameworks.
+Each section contains templates, decision criteria, and implementation guidance tailored for use in marketing, operations, and sustainability reporting.
 {{% /blocks/section %}}
 
 {{% blocks/section color="primary" %}}
@@ -48,37 +46,53 @@ Each page includes practical guidance, checklists, and implementation-ready fram
   <img src="/icons/apple_green.svg" alt="Sustainability Icon" width="40px" />
 </aside>
 
-Our documentation reflects our **seven core values**, which underpin every project, policy, and partnership:
+Our documentation isn’t just procedural—it reflects our **seven core values**, embedded into every project, campaign, and internal process:
 
 1. **Sustainability** – Our guiding star 🌱  
 2. **Innovation** – The engine of ethical progress 🚀  
-3. **Responsibility** – Leading with ethics and accountability 🛡️  
-4. **Collaboration** – Co-creation and shared success 🤝  
-5. **Impact** – Purpose-first, results-driven 📊  
-6. **Integrity** – Transparent, truthful, trustworthy 🧭  
-7. **Continuous Improvement** – Always learning, always evolving 🔄  
+3. **Responsibility** – We lead with ethics and accountability 🛡️  
+4. **Collaboration** – Collective intelligence, shared goals 🤝  
+5. **Impact** – We focus on outcomes that matter 📊  
+6. **Integrity** – Radical transparency and truthfulness 🧭  
+7. **Continuous Improvement** – Learning fuels evolution 🔄  
 
-We translate values into action through:
+Each value is operationalised via:
 
-- Project-level decision criteria  
-- Ethical audit protocols  
-- Environmental standards  
-- Internal alignment tools  
+- Action frameworks
+- Environmental and ethical audits
+- Team alignment tools
+- Values-based decision protocols
 {{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
 ## Implementation Highlights
 
-We embed our values and goals directly into operations, tooling, and measurement systems:
+We integrate our sustainability and governance principles directly into our systems:
 
 | Area | How We Operationalise It |
 |------|--------------------------|
-| ♻️ **Sustainability** | CO₂ auditing, eco-design practices, energy-efficient workflows |
-| 🧪 **Innovation** | Internal R&D, automation pipelines, async collaboration models |
-| 🔐 **Ethics & Compliance** | GDPR/PECR alignment, ethical procurement, open documentation |
-| 🧑‍🤝‍🧑 **Collaboration** | Transparent onboarding, knowledge sharing, shared KPIs |
-| 📈 **Impact Measurement** | Outcome metrics, SDG Compass mapping, impact reporting |
-| 🧭 **Integrity & Audits** | Routine audits, contributor guidelines, values enforcement |
+| ♻️ **Sustainability** | CO₂ audits, Ecograder reports, digital eco-audits |
+| 🧪 **Innovation** | Custom automations, internal labs, async sprints |
+| 🔐 **Ethics & Compliance** | GDPR/PECR checklists, responsible data policies |
+| 🧑‍🤝‍🧑 **Collaboration** | Inclusive workflows, transparent stakeholder roles |
+| 📈 **Impact Tracking** | Goal-linked KPIs, SDG Compass integration |
+| 🧭 **Integrity & Audits** | Internal reviews, open documentation standards |
 
-> Documentation is not an afterthought—it’s the mechanism through which we scale ethically.
-{{% /blocks
+> We believe documentation isn't a byproduct—it's a core mechanism of ethical scaling.
+{{% /blocks/section %}}
+
+{{% blocks/section color="primary" %}}
+## Get Started
+
+New to Green Orbit or want to contribute? Here’s where to begin:
+
+- 🌍 [Sustainability Frameworks](/docs/sustainability)  
+- 🚀 [Innovation Playbook](/docs/innovation)  
+- 📚 [Policies & Ethics](/docs/policies)  
+- 📦 [Digital Tools & Templates](/docs/tools)  
+- 🤝 [Working with Us](/docs/collaboration)
+
+If you're contributing content or collaborating on strategy, make sure to read our [Contributor Guidelines](/docs/contributor-guidelines).
+
+Ready to align performance with purpose? Let’s build better systems—together.
+{{% /blocks/section %}}
