@@ -1,5 +1,5 @@
 ---
-title: People
+title: People Group
 weight: 7
 description: Support multiple languages in your site.
 cSpell:ignore: Goldydocs rtlcss subdir operativsystem skyen Norsk

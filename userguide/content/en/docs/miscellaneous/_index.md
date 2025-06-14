@@ -1,5 +1,5 @@
 ---
-title: Contribution Guidelines
+title: Miscellaneous
 weight: 9
 description: How to contribute to Docsy
 ---
