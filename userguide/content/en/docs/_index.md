@@ -1,82 +1,77 @@
 ---
-title: Documentation Hub
+title: Welcome to the Green Orbit Digital documentation hub
 linkTitle: Documentation
 menu: { main: { weight: 20 } }
 ---
 
-{{% blocks/cover title="Green Orbit Digital Documentation" height="auto" %}}
+Welcome to the Green Orbit Digital documentation hub! This guide helps you get started
+with our tools, values, and frameworks for delivering ethical, data-driven marketing
+within the space and climate tech sectors.
 
-Welcome to the **Green Orbit Digital documentation hub** — your go-to resource for understanding our tools, values, and processes for ethical, data-driven marketing in the space and climate tech sectors.
+Whether you're a collaborator, contributor, or client, this hub is your central resource
+for aligning with our mission and working transparently across all touchpoints.
 
-Whether you’re a collaborator, contributor, or client, this space is designed to provide structured, transparent insights into how we operate.
+## What is Green Orbit Digital?
 
-## About Green Orbit Digital
+Green Orbit Digital is a Leicester-based marketing agency focused on sustainable growth
+for space, science, and technology ventures. We specialise in aligning marketing
+performance with planetary responsibility, using strategies that are:
 
-**Green Orbit Digital** is a Leicester-based sustainable marketing agency focused on enabling ethical growth in space, science, and deep tech sectors. We combine:
+- Data-driven and agile
+- Carbon-aware and transparent
+- Aligned with the UN SDGs and ethical design principles
 
-- Technical marketing (SEO, content strategy, automation)
-- Digital sustainability (carbon-aware design, eco-hosting, SDG-linked reporting)
-- Systems thinking and ethical leadership
+[Learn more about Green Orbit Digital](https://greenorbit.space).
 
-We believe that marketing can and should be a force for environmental and societal good.  
-👉 [Visit our main site](https://greenorbit.space)
+In addition to our digital services, we offer reusable frameworks and operational models
+that help teams integrate sustainability into every level of communication and strategy.
+This site serves as a living knowledge base for those systems, processes, and values.
 
-## Documentation Overview
+Our documentation includes:
 
-Our documentation is structured to help stakeholders engage effectively and ethically:
+- Project templates and contributor guidelines
+- Carbon impact estimation tools
+- Ethics checklists and reporting frameworks
+- Campaign planning and measurement guides
 
-- 🌍 **[Sustainability Frameworks](/docs/sustainability):** Learn how we reduce digital emissions, choose greener suppliers, and track impact.
-- 🚀 **[Innovation Playbook](/docs/innovation):** Explore how we drive agile, low-carbon innovation in campaigns and internal R&D.
-- 📚 **[Policies & Ethics](/docs/policies):** Review our internal policies, compliance standards, and decision-making principles.
-- 📊 **[Analytics & Measurement](/docs/analytics):** Discover how we use data without compromising on privacy or sustainability.
-- 💼 **[Working With Us](/docs/collaboration):** Get clear on onboarding, roles, and how to collaborate in a purpose-aligned way.
+This documentation is actively maintained and versioned alongside our services and platform
+tooling.
 
-Each section contains templates, decision criteria, and implementation guidance tailored for use in marketing, operations, and sustainability reporting.
+## What this site does *not* cover
 
-## Our Values in Practice
+This documentation does **not** provide:
 
-Our documentation isn’t just procedural—it reflects our **seven core values**, embedded into every project, campaign, and internal process:
+- **Marketing tutorials or general education content**: For learning SEO, analytics, or
+  copywriting basics, we recommend domain-specific training platforms. Our focus is on
+  applying those skills ethically in climate and space contexts.
+- **Third-party platform manuals**: While we reference tools like HubSpot, Notion, or
+  Stripe, we link out to their official documentation rather than duplicating it.
+- **Sales materials or promotional copy**: This hub is operational, not commercial.
 
-1. **Sustainability** – Our guiding star 🌱  
-2. **Innovation** – The engine of ethical progress 🚀  
-3. **Responsibility** – We lead with ethics and accountability 🛡️  
-4. **Collaboration** – Collective intelligence, shared goals 🤝  
-5. **Impact** – We focus on outcomes that matter 📊  
-6. **Integrity** – Radical transparency and truthfulness 🧭  
-7. **Continuous Improvement** – Learning fuels evolution 🔄  
+We also don’t duplicate public knowledge from external sustainability authorities. Where
+possible, we cite open standards and link to governing bodies or repositories (e.g. the SDG
+Compass or Ecograder).
 
-Each value is operationalised via:
+## Is this documentation for you?
 
-- Action frameworks
-- Environmental and ethical audits
-- Team alignment tools
-- Values-based decision protocols
+This site is especially useful if you are:
 
-## Implementation Highlights
+- Working on a collaborative campaign with Green Orbit Digital
+- Contributing to internal frameworks or strategy tools
+- Auditing processes for transparency, carbon reporting, or ethics alignment
+- Reviewing or updating content for client delivery
+- Exploring sustainable marketing operations in a regulated or high-impact sector
 
-We integrate our sustainability and governance principles directly into our systems:
+If you're just looking for a general overview of our work, we recommend
+[visiting our main site](https://greenorbit.space) or contacting us directly.
 
-| Area | How We Operationalise It |
-|------|--------------------------|
-| ♻️ **Sustainability** | CO₂ audits, Ecograder reports, digital eco-audits |
-| 🧪 **Innovation** | Custom automations, internal labs, async sprints |
-| 🔐 **Ethics & Compliance** | GDPR/PECR checklists, responsible data policies |
-| 🧑‍🤝‍🧑 **Collaboration** | Inclusive workflows, transparent stakeholder roles |
-| 📈 **Impact Tracking** | Goal-linked KPIs, SDG Compass integration |
-| 🧭 **Integrity & Audits** | Internal reviews, open documentation standards |
+If you’re planning to contribute, make sure to review our Contributor Guidelines, located
+in the [Collaboration section](/docs/collaboration/).
 
-> We believe documentation isn't a byproduct—it's a core mechanism of ethical scaling.
+## Ready to get started?
 
-## Get Started
-
-New to Green Orbit or want to contribute? Here’s where to begin:
-
-- 🌍 [Sustainability Frameworks](/docs/sustainability)  
-- 🚀 [Innovation Playbook](/docs/innovation)  
-- 📚 [Policies & Ethics](/docs/policies)  
-- 📦 [Digital Tools & Templates](/docs/tools)  
-- 🤝 [Working with Us](/docs/collaboration)
-
-If you're contributing content or collaborating on strategy, make sure to read our [Contributor Guidelines](/docs/contributor-guidelines).
-
-Ready to align performance with purpose? Let’s build better systems—together.
+Find out how to engage with our frameworks in
+[Get Started](/docs/get-started/). Or explore our
+[Sustainability](/docs/sustainability),
+[Innovation](/docs/innovation), or
+[Policies](/docs/policies) documentation directly.
