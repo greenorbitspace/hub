@@ -1,5 +1,5 @@
 ---
-title: "Whistleblowing Policy"
+title: "Procurement Contract"
 description: ""
 tags: []
 draft: true
