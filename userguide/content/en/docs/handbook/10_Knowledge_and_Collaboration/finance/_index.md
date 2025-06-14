@@ -1,6 +1,8 @@
 ---
-title: finance
+title: Finance
 ref: finance
+description: ''
+weight: 1
 ---
 ---
 title: ""

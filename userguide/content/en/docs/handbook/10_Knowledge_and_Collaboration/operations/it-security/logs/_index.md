@@ -1,6 +1,8 @@
 ---
-title: logs
+title: Logs
 ref: logs
+description: ''
+weight: 1
 ---
 ---
 title: ""

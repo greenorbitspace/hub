@@ -1,6 +1,8 @@
 ---
-title: monitoring
+title: Monitoring
 ref: monitoring
+description: ''
+weight: 1
 ---
 ---
 title: ""

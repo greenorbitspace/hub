@@ -1,6 +1,8 @@
 ---
-title: technology
+title: Technology
 ref: technology
+description: ''
+weight: 1
 ---
 ---
 title: ""

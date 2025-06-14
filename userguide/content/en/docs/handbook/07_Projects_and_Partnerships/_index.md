@@ -1,6 +1,8 @@
 ---
-title: 07_Projects_and_Partnerships
+title: 07 Projects And Partnerships
 ref: 07_projects_and_partnerships
+description: ''
+weight: 1
 ---
 ---
 title: ""

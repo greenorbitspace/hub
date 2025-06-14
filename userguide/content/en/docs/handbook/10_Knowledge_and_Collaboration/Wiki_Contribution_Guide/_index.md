@@ -1,6 +1,8 @@
 ---
-title: Wiki_Contribution_Guide
+title: Wiki Contribution Guide
 ref: wiki_contribution_guide
+description: ''
+weight: 1
 ---
 ---
 title: ""

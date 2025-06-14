@@ -1,6 +1,8 @@
 ---
-title: client-onboarding
+title: Client-Onboarding
 ref: client-onboarding
+description: ''
+weight: 1
 ---
 ---
 title: ""

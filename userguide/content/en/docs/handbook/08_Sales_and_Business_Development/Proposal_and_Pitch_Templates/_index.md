@@ -1,6 +1,8 @@
 ---
-title: Proposal_and_Pitch_Templates
+title: Proposal And Pitch Templates
 ref: proposal_and_pitch_templates
+description: ''
+weight: 1
 ---
 ---
 title: ""

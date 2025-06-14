@@ -1,6 +1,8 @@
 ---
-title: Onboarding_Guide
+title: Onboarding Guide
 ref: onboarding_guide
+description: ''
+weight: 1
 ---
 ---
 title: ""

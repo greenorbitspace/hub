@@ -1,6 +1,8 @@
 ---
-title: ui-ux
+title: Ui-Ux
 ref: ui-ux
+description: ''
+weight: 1
 ---
 ---
 title: ""

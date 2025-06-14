@@ -1,6 +1,8 @@
 ---
-title: startups
+title: Startups
 ref: startups
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: Space_Impact_Forum_Details
+title: Space Impact Forum Details
 ref: space_impact_forum_details
+description: ''
+weight: 1
 ---
 ---
 title: ""

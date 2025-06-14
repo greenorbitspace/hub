@@ -1,6 +1,8 @@
 ---
-title: project-management
+title: Project-Management
 ref: project-management
+description: ''
+weight: 1
 ---
 ---
 title: ""

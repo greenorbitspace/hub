@@ -1,6 +1,8 @@
 ---
-title: methodology
+title: Methodology
 ref: methodology
+description: ''
+weight: 1
 ---
 ---
 title: ""

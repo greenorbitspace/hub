@@ -1,6 +1,8 @@
 ---
-title: Space_Sustainability_Leadership_Programme
+title: Space Sustainability Leadership Programme
 ref: space_sustainability_leadership_programme
+description: ''
+weight: 1
 ---
 ---
 title: ""

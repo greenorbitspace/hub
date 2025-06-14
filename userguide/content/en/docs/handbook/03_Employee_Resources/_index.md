@@ -1,6 +1,8 @@
 ---
-title: 03_Employee_Resources
+title: 03 Employee Resources
 ref: 03_employee_resources
+description: ''
+weight: 1
 ---
 ---
 title: ""

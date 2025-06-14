@@ -1,6 +1,8 @@
 ---
-title: crisis
+title: Crisis
 ref: crisis
+description: ''
+weight: 1
 ---
 ---
 title: ""

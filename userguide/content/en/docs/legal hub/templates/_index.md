@@ -1,6 +1,8 @@
 ---
-title: templates
+title: Templates
 ref: templates
+description: ''
+weight: 1
 ---
 ---
 title: ""

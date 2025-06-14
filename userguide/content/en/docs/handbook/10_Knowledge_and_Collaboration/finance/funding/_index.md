@@ -1,6 +1,8 @@
 ---
-title: funding
+title: Funding
 ref: funding
+description: ''
+weight: 1
 ---
 ---
 title: ""

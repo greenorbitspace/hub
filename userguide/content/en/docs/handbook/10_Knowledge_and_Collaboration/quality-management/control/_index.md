@@ -1,6 +1,8 @@
 ---
-title: control
+title: Control
 ref: control
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: Space_Integrity_Initiative
+title: Space Integrity Initiative
 ref: space_integrity_initiative
+description: ''
+weight: 1
 ---
 ---
 title: ""

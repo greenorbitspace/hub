@@ -1,6 +1,8 @@
 ---
-title: knowledge-base
+title: Knowledge-Base
 ref: knowledge-base
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: manuals
+title: Manuals
 ref: manuals
+description: ''
+weight: 1
 ---
 ---
 title: ""

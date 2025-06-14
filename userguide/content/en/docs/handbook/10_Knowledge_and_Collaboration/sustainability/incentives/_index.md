@@ -1,6 +1,8 @@
 ---
-title: incentives
+title: Incentives
 ref: incentives
+description: ''
+weight: 1
 ---
 ---
 title: ""

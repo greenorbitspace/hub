@@ -1,9 +1,4 @@
 ---
-title: handbook
+title: Handbook
 ref: handbook
----
----
-title: ""
-description: ""
-weight: 1
 ---

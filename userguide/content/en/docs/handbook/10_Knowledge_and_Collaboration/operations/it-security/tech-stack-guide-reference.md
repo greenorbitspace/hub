@@ -7,9 +7,8 @@ description: Guidelines for creating and maintaining Tech Stack Guides, emphasiz
   collaboration among team members, documenting application workflows, and integrating
   with the Tech Stack YAML for comprehensive application management.
 draft: false
+ref: tech-stack-guide-reference
 ---
-
-
 Reference for how to create and maintain Tech Stack Guides.
 
 ## What Is A Tech Stack Guide?

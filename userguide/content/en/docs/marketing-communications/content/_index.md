@@ -1,6 +1,8 @@
 ---
-title: content
+title: Content
 ref: content
+description: ''
+weight: 1
 ---
 ---
 title: ""

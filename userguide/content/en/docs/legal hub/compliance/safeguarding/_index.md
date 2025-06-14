@@ -1,6 +1,8 @@
 ---
-title: safeguarding
+title: Safeguarding
 ref: safeguarding
+description: ''
+weight: 1
 ---
 ---
 title: ""

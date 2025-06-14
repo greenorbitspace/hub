@@ -1,6 +1,8 @@
 ---
-title: version-control
+title: Version-Control
 ref: version-control
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: seo
+title: Seo
 ref: seo
+description: ''
+weight: 1
 ---
 ---
 title: ""

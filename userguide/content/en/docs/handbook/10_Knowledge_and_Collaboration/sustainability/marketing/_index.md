@@ -1,6 +1,8 @@
 ---
-title: marketing
+title: Marketing
 ref: marketing
+description: ''
+weight: 1
 ---
 ---
 title: ""

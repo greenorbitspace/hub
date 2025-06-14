@@ -1,6 +1,8 @@
 ---
-title: iso27001
+title: Iso27001
 ref: iso27001
+description: ''
+weight: 1
 ---
 ---
 title: ""

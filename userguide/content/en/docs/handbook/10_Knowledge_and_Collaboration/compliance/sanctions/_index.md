@@ -1,18 +1,13 @@
 ---
 title: sanctions
 ref: sanctions
----
-
----
-title: Company
 weight: 2
-aliases: [/docs/company/]
+aliases:
+- /docs/company/
 date: 2018-07-30
-description:
-  Learn how to get started with Docsy, including the available options for
-  installing and using the Docsy theme.
+description: Learn how to get started with Docsy, including the available options
+  for installing and using the Docsy theme.
 ---
-
 As you saw in our introduction, Docsy is a [Hugo](https://gohugo.io) theme, which means that if you want to use Docsy, you need to set up your website source so that the Hugo static site generator can find and use the Docsy theme files when building your site. The simplest way to do this is to copy and edit our example site, though we also provide instructions for adding the Docsy theme manually to new or existing sites.
 
 If you want to build and test your site locally you also need to be able to run Hugo itself, either by installing it and any other required dependencies, or by using our provided Docker container.

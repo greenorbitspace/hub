@@ -1,6 +1,8 @@
 ---
-title: benefits
+title: Benefits
 ref: benefits
+description: ''
+weight: 1
 ---
 ---
 title: ""

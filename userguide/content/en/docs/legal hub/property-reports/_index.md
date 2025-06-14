@@ -1,6 +1,8 @@
 ---
-title: property-reports
+title: Property-Reports
 ref: property-reports
+description: ''
+weight: 1
 ---
 ---
 title: ""

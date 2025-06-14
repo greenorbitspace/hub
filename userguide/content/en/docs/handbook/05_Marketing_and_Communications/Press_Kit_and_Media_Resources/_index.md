@@ -1,6 +1,8 @@
 ---
-title: Press_Kit_and_Media_Resources
+title: Press Kit And Media Resources
 ref: press_kit_and_media_resources
+description: ''
+weight: 1
 ---
 ---
 title: ""

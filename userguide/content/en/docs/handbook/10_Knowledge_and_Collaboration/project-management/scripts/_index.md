@@ -1,6 +1,8 @@
 ---
-title: scripts
+title: Scripts
 ref: scripts
+description: ''
+weight: 1
 ---
 ---
 title: ""

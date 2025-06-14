@@ -1,6 +1,8 @@
 ---
-title: sops
+title: Sops
 ref: sops
+description: ''
+weight: 1
 ---
 ---
 title: ""

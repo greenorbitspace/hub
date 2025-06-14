@@ -1,6 +1,8 @@
 ---
-title: privacy
+title: Privacy
 ref: privacy
+description: ''
+weight: 1
 ---
 ---
 title: ""

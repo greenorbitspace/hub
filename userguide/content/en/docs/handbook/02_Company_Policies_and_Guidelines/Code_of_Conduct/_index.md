@@ -1,6 +1,8 @@
 ---
-title: Code_of_Conduct
+title: Code Of Conduct
 ref: code_of_conduct
+description: ''
+weight: 1
 ---
 ---
 title: ""

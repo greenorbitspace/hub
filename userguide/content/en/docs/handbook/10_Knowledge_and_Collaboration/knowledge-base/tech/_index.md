@@ -1,6 +1,8 @@
 ---
-title: tech
+title: Tech
 ref: tech
+description: ''
+weight: 1
 ---
 ---
 title: ""

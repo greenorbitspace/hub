@@ -1,6 +1,8 @@
 ---
-title: schedules
+title: Schedules
 ref: schedules
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: travel
+title: Travel
 ref: travel
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: notices
+title: Notices
 ref: notices
+description: ''
+weight: 1
 ---
 ---
 title: ""

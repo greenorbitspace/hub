@@ -1,6 +1,8 @@
 ---
-title: GDPR_and_Data_Compliance
+title: Gdpr And Data Compliance
 ref: gdpr_and_data_compliance
+description: ''
+weight: 1
 ---
 ---
 title: ""

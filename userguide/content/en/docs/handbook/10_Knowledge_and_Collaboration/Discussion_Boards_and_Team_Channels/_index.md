@@ -1,6 +1,8 @@
 ---
-title: Discussion_Boards_and_Team_Channels
+title: Discussion Boards And Team Channels
 ref: discussion_boards_and_team_channels
+description: ''
+weight: 1
 ---
 ---
 title: ""

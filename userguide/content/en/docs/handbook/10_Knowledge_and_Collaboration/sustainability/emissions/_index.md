@@ -1,6 +1,8 @@
 ---
-title: emissions
+title: Emissions
 ref: emissions
+description: ''
+weight: 1
 ---
 ---
 title: ""

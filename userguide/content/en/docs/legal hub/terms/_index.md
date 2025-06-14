@@ -1,6 +1,8 @@
 ---
-title: terms
+title: Terms
 ref: terms
+description: ''
+weight: 1
 ---
 ---
 title: ""

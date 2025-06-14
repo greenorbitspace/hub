@@ -1,6 +1,8 @@
 ---
-title: knowledge-management
+title: Knowledge-Management
 ref: knowledge-management
+description: ''
+weight: 1
 ---
 ---
 title: ""

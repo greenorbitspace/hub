@@ -1,6 +1,8 @@
 ---
-title: training
+title: Training
 ref: training
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: pitches
+title: Pitches
 ref: pitches
+description: ''
+weight: 1
 ---
 ---
 title: ""

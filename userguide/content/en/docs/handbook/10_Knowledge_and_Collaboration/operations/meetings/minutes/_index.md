@@ -1,6 +1,8 @@
 ---
-title: minutes
+title: Minutes
 ref: minutes
+description: ''
+weight: 1
 ---
 ---
 title: ""

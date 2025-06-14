@@ -1,6 +1,8 @@
 ---
-title: partnerships
+title: Partnerships
 ref: partnerships
+description: ''
+weight: 1
 ---
 ---
 title: ""

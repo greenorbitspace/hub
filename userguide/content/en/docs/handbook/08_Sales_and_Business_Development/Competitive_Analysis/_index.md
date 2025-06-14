@@ -1,6 +1,8 @@
 ---
-title: Competitive_Analysis
+title: Competitive Analysis
 ref: competitive_analysis
+description: ''
+weight: 1
 ---
 ---
 title: ""

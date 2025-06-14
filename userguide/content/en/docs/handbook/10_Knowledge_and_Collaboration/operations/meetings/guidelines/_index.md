@@ -1,6 +1,8 @@
 ---
-title: guidelines
+title: Guidelines
 ref: guidelines
+description: ''
+weight: 1
 ---
 ---
 title: ""

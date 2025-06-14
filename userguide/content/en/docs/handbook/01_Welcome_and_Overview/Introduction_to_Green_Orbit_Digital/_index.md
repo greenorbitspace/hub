@@ -1,6 +1,8 @@
 ---
-title: Introduction_to_Green_Orbit_Digital
+title: Introduction To Green Orbit Digital
 ref: introduction_to_green_orbit_digital
+description: ''
+weight: 1
 ---
 ---
 title: ""

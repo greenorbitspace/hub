@@ -1,6 +1,8 @@
 ---
-title: document-control
+title: Document-Control
 ref: document-control
+description: ''
+weight: 1
 ---
 ---
 title: ""

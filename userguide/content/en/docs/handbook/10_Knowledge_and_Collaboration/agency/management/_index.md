@@ -1,6 +1,8 @@
 ---
-title: management
+title: Management
 ref: management
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: share-purchase
+title: Share-Purchase
 ref: share-purchase
+description: ''
+weight: 1
 ---
 ---
 title: ""

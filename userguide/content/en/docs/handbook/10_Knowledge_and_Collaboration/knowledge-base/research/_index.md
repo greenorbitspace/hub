@@ -1,6 +1,8 @@
 ---
-title: research
+title: Research
 ref: research
+description: ''
+weight: 1
 ---
 ---
 title: ""

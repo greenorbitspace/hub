@@ -1,6 +1,8 @@
 ---
-title: stakeholders
+title: Stakeholders
 ref: stakeholders
+description: ''
+weight: 1
 ---
 ---
 title: ""

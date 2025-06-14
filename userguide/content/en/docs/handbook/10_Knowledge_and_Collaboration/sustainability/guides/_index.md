@@ -1,6 +1,8 @@
 ---
-title: guides
+title: Guides
 ref: guides
+description: ''
+weight: 1
 ---
 ---
 title: ""

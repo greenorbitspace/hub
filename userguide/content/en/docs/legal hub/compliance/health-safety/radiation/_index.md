@@ -1,6 +1,8 @@
 ---
-title: radiation
+title: Radiation
 ref: radiation
+description: ''
+weight: 1
 ---
 ---
 title: ""

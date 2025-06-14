@@ -1,6 +1,8 @@
 ---
-title: ethics
+title: Ethics
 ref: ethics
+description: ''
+weight: 1
 ---
 ---
 title: ""

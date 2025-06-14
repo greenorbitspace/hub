@@ -1,6 +1,8 @@
 ---
-title: plans
+title: Plans
 ref: plans
+description: ''
+weight: 1
 ---
 ---
 title: ""

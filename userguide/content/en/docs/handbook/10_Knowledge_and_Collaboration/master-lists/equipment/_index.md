@@ -1,6 +1,8 @@
 ---
-title: equipment
+title: Equipment
 ref: equipment
+description: ''
+weight: 1
 ---
 ---
 title: ""

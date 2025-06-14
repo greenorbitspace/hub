@@ -1,6 +1,8 @@
 ---
-title: 09_Legal_and_Compliance
+title: 09 Legal And Compliance
 ref: 09_legal_and_compliance
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: inclusion
+title: Inclusion
 ref: inclusion
+description: ''
+weight: 1
 ---
 ---
 title: ""

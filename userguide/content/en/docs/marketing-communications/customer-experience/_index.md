@@ -1,6 +1,8 @@
 ---
-title: customer-experience
+title: Customer-Experience
 ref: customer-experience
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: history
+title: History
 ref: history
+description: ''
+weight: 1
 ---
 ---
 title: ""

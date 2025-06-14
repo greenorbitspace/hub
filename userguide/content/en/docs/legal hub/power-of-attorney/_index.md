@@ -1,6 +1,8 @@
 ---
-title: power-of-attorney
+title: Power-Of-Attorney
 ref: power-of-attorney
+description: ''
+weight: 1
 ---
 ---
 title: ""

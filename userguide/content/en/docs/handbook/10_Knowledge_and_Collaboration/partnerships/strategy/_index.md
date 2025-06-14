@@ -1,6 +1,8 @@
 ---
-title: strategy
+title: Strategy
 ref: strategy
+description: ''
+weight: 1
 ---
 ---
 title: ""

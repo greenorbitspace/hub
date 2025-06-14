@@ -1,6 +1,8 @@
 ---
-title: incidents
+title: Incidents
 ref: incidents
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: HubSpot
+title: Hubspot
 ref: hubspot
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: catalogue
+title: Catalogue
 ref: catalogue
+description: ''
+weight: 1
 ---
 ---
 title: ""

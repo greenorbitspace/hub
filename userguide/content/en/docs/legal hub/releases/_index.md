@@ -1,6 +1,8 @@
 ---
-title: releases
+title: Releases
 ref: releases
+description: ''
+weight: 1
 ---
 ---
 title: ""

@@ -1,6 +1,8 @@
 ---
-title: offboarding
+title: Offboarding
 ref: offboarding
+description: ''
+weight: 1
 ---
 ---
 title: ""

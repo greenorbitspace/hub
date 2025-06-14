@@ -1,6 +1,8 @@
 ---
-title: risk
+title: Risk
 ref: risk
+description: ''
+weight: 1
 ---
 ---
 title: ""

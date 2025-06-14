@@ -1,6 +1,8 @@
 ---
-title: reporting
+title: Reporting
 ref: reporting
+description: ''
+weight: 1
 ---
 ---
 title: ""

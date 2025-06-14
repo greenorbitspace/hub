@@ -1,6 +1,8 @@
 ---
-title: digital
+title: Digital
 ref: digital
+description: ''
+weight: 1
 ---
 ---
 title: ""

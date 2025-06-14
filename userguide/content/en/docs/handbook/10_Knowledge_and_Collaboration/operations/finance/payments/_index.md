@@ -1,6 +1,8 @@
 ---
-title: payments
+title: Payments
 ref: payments
+description: ''
+weight: 1
 ---
 ---
 title: ""

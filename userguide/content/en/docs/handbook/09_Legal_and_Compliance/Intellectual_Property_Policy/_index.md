@@ -1,6 +1,8 @@
 ---
-title: Intellectual_Property_Policy
+title: Intellectual Property Policy
 ref: intellectual_property_policy
+description: ''
+weight: 1
 ---
 ---
 title: ""

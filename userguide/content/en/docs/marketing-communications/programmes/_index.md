@@ -1,6 +1,8 @@
 ---
-title: programmes
+title: Programmes
 ref: programmes
+description: ''
+weight: 1
 ---
 ---
 title: ""

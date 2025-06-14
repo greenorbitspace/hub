@@ -1,6 +1,8 @@
 ---
-title: checklists
+title: Checklists
 ref: checklists
+description: ''
+weight: 1
 ---
 ---
 title: ""

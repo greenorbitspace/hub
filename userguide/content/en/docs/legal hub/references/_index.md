@@ -1,6 +1,8 @@
 ---
-title: references
+title: References
 ref: references
+description: ''
+weight: 1
 ---
 ---
 title: ""

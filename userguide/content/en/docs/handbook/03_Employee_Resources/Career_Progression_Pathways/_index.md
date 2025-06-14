@@ -1,6 +1,8 @@
 ---
-title: Career_Progression_Pathways
+title: Career Progression Pathways
 ref: career_progression_pathways
+description: ''
+weight: 1
 ---
 ---
 title: ""

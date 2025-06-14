@@ -1,6 +1,8 @@
 ---
-title: accessibility
+title: Accessibility
 ref: accessibility
+description: ''
+weight: 1
 ---
 ---
 title: ""

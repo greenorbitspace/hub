@@ -1,6 +1,8 @@
 ---
-title: drafts
+title: Drafts
 ref: drafts
+description: ''
+weight: 1
 ---
 ---
 title: ""

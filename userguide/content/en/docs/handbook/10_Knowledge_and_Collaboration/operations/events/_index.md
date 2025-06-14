@@ -1,6 +1,8 @@
 ---
-title: events
+title: Events
 ref: events
+description: ''
+weight: 1
 ---
 ---
 title: ""
