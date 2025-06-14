@@ -49,35 +49,6 @@ minify = true
   url = "https://ukspace.org"
   icon = "fas fa-globe"
 
-# Menus for site navigation
-[menu]
-
-  [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 10
-
-  [[menu.main]]
-  name = "Documentation"
-  url = "/docs/"
-  weight = 20
-
-  [[menu.main]]
-  name = "Handbook"
-  url = "/handbook/"
-  weight = 30
-
-  [[menu.main]]
-  name = "Legal Hub"
-  url = "/legal-hub/"
-  weight = 30
-
-  [[menu.main]]
-  name = "Green Orbit Website"
-  url = "https://greenorbit.space"
-  weight = 40
-  params.target = "_blank"
-  params.rel = "noopener"
 
 # Internationalization (i18n) settings if needed
 [languages]
