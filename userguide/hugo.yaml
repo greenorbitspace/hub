@@ -21,11 +21,20 @@ imaging:
 
 menu:
   main:
+    - name: About
+      weight: 10
+      url: /about/
+    - name: Documentation
+      weight: 20
+      url: /docs/
+    - name: Handbook
+      weight: 30
+      url: docs/handbook/
     - name: Green Orbit Digital
       weight: 40
       url: https://www.greenorbit.space
       post: <sup><i class="ps-1 fa-solid fa-up-right-from-square fa-xs" aria-hidden="true"></i></sup>
-
+  
 languages:
   en:
     languageName: English

@@ -7,30 +7,6 @@ enableRobotsTXT = true
 # Enable minify to reduce file sizes on build
 minify = true
 
-[menu]
-
-  [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 10
-
-  [[menu.main]]
-  name = "Handbook"
-  url = "/handbook/"
-  weight = 20
-
-  [[menu.main]]
-  name = "Legal Hub"
-  url = "/legal-hub/"
-  weight = 30
-
-  [[menu.main]]
-  name = "Green Orbit Website"
-  url = "https://greenorbit.space"
-  weight = 40
-  params.target = "_blank"
-  params.rel = "noopener"
-
 [params]
 
   [params.ui]
