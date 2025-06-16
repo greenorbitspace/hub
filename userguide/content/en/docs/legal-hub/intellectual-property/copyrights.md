@@ -1,6 +1,7 @@
 ---
-title: "Copyrights"
-description: ""
+title: Copyrights
+description: ''
 tags: []
 draft: true
 ---
+

@@ -10,7 +10,6 @@ description: Flexible working arrangements at Green Orbit Digital include remote
 draft: false
 ---
 
-
 # Flexible Working Policy
 
 ## 1. Purpose and Scope

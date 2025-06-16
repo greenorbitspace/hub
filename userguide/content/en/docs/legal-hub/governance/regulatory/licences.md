@@ -1,6 +1,7 @@
 ---
-title: "Licences"
-description: ""
+title: Licences
+description: ''
 tags: []
 draft: true
 ---
+

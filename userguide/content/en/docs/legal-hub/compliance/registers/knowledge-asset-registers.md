@@ -1,5 +1,5 @@
 ---
-title: Knowledge asset registers
+title: Knowledge Asset Registers
 linkTitle: Knowledge asset registers
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -9,7 +9,6 @@ description: A comprehensive inventory of knowledge assets includes project docu
   schedule for regular reviews and updates.
 draft: false
 ---
-
 
 # 1. Knowledge Asset Inventory
 

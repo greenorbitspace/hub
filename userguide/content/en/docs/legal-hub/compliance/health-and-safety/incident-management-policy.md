@@ -10,7 +10,6 @@ description: Guidelines for managing security incidents include definitions, res
 draft: false
 ---
 
-
 <!-- Unsupported block type: table_of_contents -->
 
 ## 1. Purpose and Scope

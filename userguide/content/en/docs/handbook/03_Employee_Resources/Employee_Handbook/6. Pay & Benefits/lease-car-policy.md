@@ -11,7 +11,6 @@ description: Green Orbit Digital provides lease cars to eligible employees for b
 draft: false
 ---
 
-
 1. Introduction
 
 Green Orbit Digital recognizes the importance of providing employees with access to lease cars as a benefit to support their mobility needs while maintaining our commitment to sustainability. This policy outlines the guidelines and procedures for the provision and use of lease cars by eligible employees.

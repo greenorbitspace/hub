@@ -9,5 +9,4 @@ description: The policy ensures safety for portable electrical appliances throug
 draft: false
 ---
 
-
 <!-- Unsupported block type: unsupported -->

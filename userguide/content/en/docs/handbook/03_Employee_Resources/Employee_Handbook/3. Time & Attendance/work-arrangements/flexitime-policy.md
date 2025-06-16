@@ -11,7 +11,6 @@ description: Green Orbit Digital offers a flexitime policy for full-time employe
 draft: false
 ---
 
-
 1. Introduction
 
 At Green Orbit Digital, we value the well-being and work-life balance of our employees. We understand that everyone has unique scheduling needs and responsibilities outside of work. Therefore, we offer a flexitime policy to provide flexibility in work hours while ensuring that business needs are met.

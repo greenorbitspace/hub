@@ -1,6 +1,7 @@
 ---
-title: "Statement Of Work"
-description: ""
+title: Statement Of Work
+description: ''
 tags: []
 draft: true
 ---
+

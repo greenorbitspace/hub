@@ -9,7 +9,6 @@ description: Checklist for identifying and managing information security risks, 
 draft: false
 ---
 
-
 [Company Name & Logo]
 
 

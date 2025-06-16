@@ -1,5 +1,5 @@
 ---
-title: Lessons learned register
+title: Lessons Learned Register
 linkTitle: Lessons learned register
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -8,7 +8,6 @@ description: A lessons learned register captures organizational knowledge accord
   to ensure ongoing relevance and improvements in future projects.
 draft: false
 ---
-
 
 # Lessons Learned Register
 

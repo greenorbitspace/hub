@@ -1,6 +1,7 @@
 ---
-title: "Legal Notices"
-description: ""
+title: Legal Notices
+description: ''
 tags: []
 draft: true
 ---
+

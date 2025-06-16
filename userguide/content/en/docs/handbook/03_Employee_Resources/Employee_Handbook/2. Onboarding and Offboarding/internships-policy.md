@@ -11,7 +11,6 @@ description: The internship program at Green Orbit Digital aims to provide enric
 draft: false
 ---
 
-
 <!-- Unsupported block type: table_of_contents -->
 
 Introduction

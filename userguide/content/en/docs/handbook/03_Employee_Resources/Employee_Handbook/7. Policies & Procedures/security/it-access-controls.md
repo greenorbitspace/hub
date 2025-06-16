@@ -1,5 +1,5 @@
 ---
-title: IT Access Controls
+title: It Access Controls
 linkTitle: IT Access Controls
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -9,7 +9,6 @@ description: Green Orbit Digital's IT Access Controls Policy establishes guideli
   information from unauthorized access.
 draft: false
 ---
-
 
 IT Access Controls Policy
 

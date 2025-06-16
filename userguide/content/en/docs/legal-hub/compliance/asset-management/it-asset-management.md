@@ -1,5 +1,5 @@
 ---
-title: IT Asset Management
+title: It Asset Management
 linkTitle: IT Asset Management
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -9,7 +9,6 @@ description: Green Orbit Digital's IT Asset Management policy outlines procedure
   the asset lifecycle.
 draft: false
 ---
-
 
 Green Orbit Digital IT Asset Management Policy
 

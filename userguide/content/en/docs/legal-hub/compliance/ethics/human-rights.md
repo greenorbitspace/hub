@@ -11,7 +11,6 @@ description: Businesses should respect and support human rights by avoiding harm
 draft: false
 ---
 
-
 # Principle One: Human Rights
 
 <!-- Unsupported block type: divider -->

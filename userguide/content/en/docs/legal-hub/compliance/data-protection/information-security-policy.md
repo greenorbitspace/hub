@@ -1,5 +1,5 @@
 ---
-title: Information security policy
+title: Information Security Policy
 linkTitle: Information security policy
 date: '2025-05-01T22:33:00Z'
 weight: 1
@@ -10,6 +10,5 @@ description: The Information Security Policy establishes a framework for managin
   security protocols.
 draft: false
 ---
-
 
 <!-- Unsupported block type: unsupported -->

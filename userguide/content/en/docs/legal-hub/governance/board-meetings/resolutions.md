@@ -1,6 +1,7 @@
 ---
-title: "Resolutions"
-description: ""
+title: Resolutions
+description: ''
 tags: []
 draft: true
 ---
+

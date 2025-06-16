@@ -1,5 +1,5 @@
 ---
-title: Internal audits and management reviews
+title: Internal Audits And Management Reviews
 linkTitle: Internal audits and management reviews
 date: '2025-04-30T00:49:00Z'
 weight: 1
@@ -9,7 +9,6 @@ description: Internal audits and management reviews are crucial for maintaining 
   improvement.
 draft: false
 ---
-
 
 ### Internal Audit and Management Review for ISO 50001
 

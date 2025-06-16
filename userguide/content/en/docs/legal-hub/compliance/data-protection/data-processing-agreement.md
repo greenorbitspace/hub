@@ -1,6 +1,7 @@
 ---
-title: "Data Processing Agreement"
-description: ""
+title: Data Processing Agreement
+description: ''
 tags: []
 draft: true
 ---
+

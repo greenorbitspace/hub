@@ -1,5 +1,5 @@
 ---
-title: Legal and other compliance registers
+title: Legal And Other Compliance Registers
 linkTitle: Legal and other compliance registers
 date: '2025-04-29T17:09:00Z'
 weight: 1
@@ -10,7 +10,6 @@ description: A Compliance Register is essential for tracking legal and regulator
   management goals.
 draft: false
 ---
-
 
 ### Legal and Other Compliance Registers for ISO 50001
 

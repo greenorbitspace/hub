@@ -1,5 +1,5 @@
 ---
-title: Local Purchasing and Hiring Policy
+title: Local Purchasing And Hiring Policy
 linkTitle: Local Purchasing and Hiring Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -8,7 +8,6 @@ description: Green Orbit Digital prioritizes local economic development through 
   impact while ensuring compliance and efficiency in procurement and recruitment processes.
 draft: false
 ---
-
 
 <!-- Unsupported block type: table_of_contents -->
 

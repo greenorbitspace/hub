@@ -10,7 +10,6 @@ description: Policies and procedures are essential for organizational clarity, g
 draft: false
 ---
 
-
 <!-- Unsupported block type: image -->
 
 Hero image

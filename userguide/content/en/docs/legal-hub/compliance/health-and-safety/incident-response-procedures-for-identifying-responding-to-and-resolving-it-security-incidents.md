@@ -1,6 +1,6 @@
 ---
-title: 'Incident Response: Procedures for identifying, responding to, and resolving
-  IT security incidents.'
+title: 'Incident Response: Procedures For Identifying, Responding To, And Resolving
+  It Security Incidents.'
 linkTitle: 'Incident Response: Procedures for identifying, responding to, and resolving
   IT security incidents.'
 date: '2025-05-01T23:57:00Z'
@@ -11,7 +11,6 @@ description: 'Incident response involves five key steps: identification, contain
   system restoration, and post-incident analysis.'
 draft: false
 ---
-
 
 <!-- Unsupported block type: table_of_contents -->
 

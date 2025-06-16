@@ -1,5 +1,5 @@
 ---
-title: How to Work with Me manual
+title: How To Work With Me Manual
 linkTitle: How to Work with Me manual
 date: '2025-05-01T20:25:00Z'
 weight: 1
@@ -9,7 +9,6 @@ description: Create a personal "How to Work with Me" manual by reflecting on com
   preferences with the team.
 draft: false
 ---
-
 
 ### How to Write Your Personal “How to Work with Me” Manual
 This guide will help you create your own manual to communicate how you work best. The key is to provide clear insights into your preferences and habits, allowing team members to collaborate more effectively with you. 

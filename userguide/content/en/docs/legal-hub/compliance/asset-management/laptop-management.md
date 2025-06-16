@@ -10,7 +10,6 @@ description: GitLab centralizes laptop management for issued devices, detailing 
 draft: false
 ---
 
-
 <!-- Unsupported block type: image -->
 
 ### This is a Controlled Document

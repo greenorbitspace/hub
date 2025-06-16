@@ -1,6 +1,7 @@
 ---
-title: "Meeting Minutes"
-description: ""
+title: Meeting Minutes
+description: ''
 tags: []
 draft: true
 ---
+

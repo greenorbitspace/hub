@@ -1,5 +1,5 @@
 ---
-title: IR35 Policy
+title: Ir35 Policy
 linkTitle: IR35 Policy
 date: '2025-05-01T21:06:00Z'
 weight: 1
@@ -10,7 +10,6 @@ description: Green Orbit Digital's IR35 policy outlines the process for determin
   to regulations.
 draft: false
 ---
-
 
 <!-- Unsupported block type: table_of_contents -->
 

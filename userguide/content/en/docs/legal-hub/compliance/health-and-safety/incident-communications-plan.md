@@ -11,7 +11,6 @@ description: An incident communication plan outlines escalation tiers for managi
 draft: false
 ---
 
-
 <!-- Unsupported block type: image -->
 
 Escalations, Processes, and How to Manage Incidents

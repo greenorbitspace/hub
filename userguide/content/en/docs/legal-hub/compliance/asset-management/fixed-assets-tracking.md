@@ -9,7 +9,6 @@ description: Guidelines for tracking fixed assets include definitions, responsib
 draft: false
 ---
 
-
 # Fixed Assets Tracking Policy
 
 ## 1. Purpose and Scope

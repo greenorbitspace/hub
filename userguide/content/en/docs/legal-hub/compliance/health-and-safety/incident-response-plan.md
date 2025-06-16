@@ -10,7 +10,6 @@ description: Immediate response procedures include assessing incident severity, 
 draft: false
 ---
 
-
 <!-- Unsupported block type: callout -->
 
 # 1. Immediate Response Procedures

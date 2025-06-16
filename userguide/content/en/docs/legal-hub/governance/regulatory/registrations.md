@@ -1,6 +1,7 @@
 ---
-title: "Registrations"
-description: ""
+title: Registrations
+description: ''
 tags: []
 draft: true
 ---
+

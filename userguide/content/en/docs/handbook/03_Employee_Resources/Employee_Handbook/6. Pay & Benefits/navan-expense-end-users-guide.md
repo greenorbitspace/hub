@@ -11,7 +11,6 @@ description: Navan Expense is an expense management platform accessible via Okta
 draft: false
 ---
 
-
 Navan Expense End Users Guide
 
 ## What is Navan Expense

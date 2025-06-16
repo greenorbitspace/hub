@@ -1,6 +1,7 @@
 ---
-title: "Procurement Contract"
-description: ""
+title: Procurement Contract
+description: ''
 tags: []
 draft: true
 ---
+

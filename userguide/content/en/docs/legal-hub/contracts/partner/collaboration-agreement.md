@@ -1,6 +1,7 @@
 ---
-title: "Collaboration Agreement"
-description: ""
+title: Collaboration Agreement
+description: ''
 tags: []
 draft: true
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: EO Tools
+title: Eo Tools
 ref: eo-tools
 ---
 

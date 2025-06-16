@@ -1,6 +1,7 @@
 ---
-title: "Privacy Notice"
-description: ""
+title: Privacy Notice
+description: ''
 tags: []
 draft: true
 ---
+

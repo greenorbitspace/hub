@@ -9,7 +9,6 @@ description: Consider performance, supplier compliance, and environmental impact
 draft: false
 ---
 
-
 # General Purchasing Guidelines
 
 ## Core Principles

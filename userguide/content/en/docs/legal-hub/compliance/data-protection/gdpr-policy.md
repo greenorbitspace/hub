@@ -1,6 +1,7 @@
 ---
-title: "Gdpr Policy"
-description: ""
+title: Gdpr Policy
+description: ''
 tags: []
 draft: true
 ---
+

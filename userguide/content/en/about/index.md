@@ -67,7 +67,7 @@ We work across:
 - Scientific and academic outreach
 - Non-profits advancing SDGs
 
-[Explore our services →](/services/)
+[Explore our services →](https://greenorbit.space/services/)
 {{% /blocks/section %}}
 
 {{% blocks/section color="primary" %}}
@@ -80,7 +80,7 @@ You don’t just need a marketing agency. You need one that understands the lang
 * **Aligned with impact**: As active contributors to the UKspace Sustainability Working Group, we walk the talk.
 * **Tool-agnostic**: From Notion to HubSpot, Astro to Stripe—we work with the stack that fits your mission.
 
-[Meet the team →](/about/team/)
+[Meet the team →](https://greenorbit.space/about/team/)
 {{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
@@ -88,6 +88,6 @@ You don’t just need a marketing agency. You need one that understands the lang
 
 Green Orbit Digital is more than a consultancy—we’re building an ecosystem of sustainable innovation. Let’s explore how we can support your mission.
 
-<a class="btn btn-lg btn-primary me-3" href="/contact/">Work with us</a>
-<a class="btn btn-lg btn-secondary" href="/docs/get-started/">Get started</a>
+<a class="btn btn-lg btn-primary me-3" href="https://greenorbit.space/contact/">Work with us</a>
+<a class="btn btn-lg btn-secondary" href="/get-started/">Get started</a>
 {{% /blocks/section %}}
