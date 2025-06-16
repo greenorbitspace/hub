@@ -2,7 +2,7 @@
 title: 'Regulation And Compliance:'
 ref: regulation-and-compliance
 weight: 1
-exported_at: '2025-06-16T15:05:36.211171+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'Regulation and Compliance: The adherence to laws, regulations, guidelines,
   and specifications relevant to an organization''s operations, particularly concerning
   sustainability and environmental practices.'

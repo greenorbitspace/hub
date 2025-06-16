@@ -2,7 +2,7 @@
 title: Insetting
 ref: insetting
 weight: 1
-exported_at: '2025-06-16T15:05:48.977729+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'Insetting: Insetting refers to the practice of integrating sustainability
   efforts within a company''s own supply chain and operations, aiming to reduce the
   environmental impact of its activities while supporting local communities and ecosystems.'

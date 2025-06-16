@@ -2,7 +2,7 @@
 title: Double Opt In
 ref: double-opt-in
 weight: 1
-exported_at: '2025-06-16T15:03:55.376396+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Double opt-in is a confirmation process used in email marketing where
   a subscriber must confirm their subscription by clicking a link in a confirmation
   email sent to them after they initially sign up. This ensures that the subscriber

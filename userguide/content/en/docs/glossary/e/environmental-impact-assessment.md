@@ -2,7 +2,7 @@
 title: Environmental Impact Assessment
 ref: environmental-impact-assessment
 weight: 1
-exported_at: '2025-06-16T15:05:37.066871+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'Environmental Impact Assessment (EIA): A process used to evaluate the
   potential environmental effects of a proposed project or development, considering
   factors such as air and water quality, wildlife, and habitat, as well as social

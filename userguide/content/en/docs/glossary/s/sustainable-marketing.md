@@ -2,7 +2,7 @@
 title: Sustainable Marketing
 ref: sustainable-marketing
 weight: 1
-exported_at: '2025-06-16T15:05:57.946573+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Sustainable marketing refers to the practice of promoting products or
   services in a way that considers environmental, social, and economic sustainability.
   It involves creating marketing strategies that not only aim for profitability but

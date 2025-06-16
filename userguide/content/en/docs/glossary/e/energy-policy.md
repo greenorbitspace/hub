@@ -2,7 +2,7 @@
 title: Energy Policy
 ref: energy-policy
 weight: 1
-exported_at: '2025-06-16T15:04:58.808150+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A glossary term is a word or phrase that is defined within a specific
   context, often accompanied by an explanation to clarify its meaning and relevance
   in that context. In energy policy, glossary terms help stakeholders understand key

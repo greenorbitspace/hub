@@ -2,7 +2,7 @@
 title: Laser Altimeter
 ref: laser-altimeter
 weight: 1
-exported_at: '2025-06-16T15:03:22.013089+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A laser altimeter is an instrument that uses laser beams to measure the
   distance between the sensor and the surface of an object or terrain. It emits laser
   pulses and calculates the time it takes for the light to return after reflecting

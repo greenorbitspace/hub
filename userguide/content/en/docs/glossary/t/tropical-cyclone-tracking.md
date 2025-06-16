@@ -2,7 +2,7 @@
 title: Tropical Cyclone Tracking
 ref: tropical-cyclone-tracking
 weight: 1
-exported_at: '2025-06-16T15:02:58.840482+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A tropical cyclone is a rapidly rotating storm system characterized by
   a center of low pressure, a closed low-level circulation, strong winds, and organized
   convection. These storms can produce heavy rainfall, strong winds, and storm surges,

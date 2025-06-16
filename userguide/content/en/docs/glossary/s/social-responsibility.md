@@ -2,7 +2,7 @@
 title: Social Responsibility
 ref: social-responsibility
 weight: 1
-exported_at: '2025-06-16T15:05:08.004161+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Social responsibility refers to the ethical framework that suggests an
   entity, whether it be an individual or organization, has an obligation to act for
   the benefit of society at large. This includes making decisions that consider the

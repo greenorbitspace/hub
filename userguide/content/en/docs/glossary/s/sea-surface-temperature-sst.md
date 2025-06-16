@@ -2,7 +2,7 @@
 title: Sea Surface Temperature (Sst)
 ref: sea-surface-temperature-sst
 weight: 1
-exported_at: '2025-06-16T15:03:07.926100+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Sea Surface Temperature (SST) refers to the temperature of the top layer
   of the ocean's surface. It is a crucial parameter in understanding oceanographic
   processes and climate dynamics, affecting weather patterns, marine ecosystems, and

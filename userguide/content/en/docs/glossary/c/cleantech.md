@@ -2,7 +2,7 @@
 title: Cleantech
 ref: cleantech
 weight: 1
-exported_at: '2025-06-16T15:03:58.276533+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Cleantech refers to technologies and services that use renewable materials
   and energy sources, reduce emissions and waste, and have a positive impact on the
   environment. These innovations aim to improve sustainability and efficiency in various

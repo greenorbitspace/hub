@@ -2,7 +2,7 @@
 title: Incident
 ref: incident
 weight: 1
-exported_at: '2025-06-16T15:04:22.085748+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A glossary term refers to a word or phrase that is defined within a specific
   context, usually included in a glossary to help readers understand specialized language
   or terminology used in a document or field.

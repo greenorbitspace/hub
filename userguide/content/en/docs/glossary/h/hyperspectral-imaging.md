@@ -2,7 +2,7 @@
 title: Hyperspectral Imaging
 ref: hyperspectral-imaging
 weight: 1
-exported_at: '2025-06-16T15:03:23.884784+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Hyperspectral imaging is a technology that captures and processes information
   from across the electromagnetic spectrum. This technique is used to identify materials,
   detect processes, and provide detailed information about the physical and chemical

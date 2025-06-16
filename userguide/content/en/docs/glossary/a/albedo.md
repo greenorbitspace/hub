@@ -2,7 +2,7 @@
 title: Albedo
 ref: albedo
 weight: 1
-exported_at: '2025-06-16T15:03:43.132749+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Albedo refers to the measure of reflectivity of a surface, specifically
   how much sunlight or radiation is reflected back into space. It is usually expressed
   as a percentage, with higher values indicating more reflectivity. In the context

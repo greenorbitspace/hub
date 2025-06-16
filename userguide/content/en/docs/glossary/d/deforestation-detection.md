@@ -2,7 +2,7 @@
 title: Deforestation Detection
 ref: deforestation-detection
 weight: 1
-exported_at: '2025-06-16T15:03:32.376924+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Deforestation detection refers to the process of identifying and monitoring
   the removal of trees and forest cover in a specific area using various technologies,
   including satellite imagery, aerial photography, and remote sensing techniques.

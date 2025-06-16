@@ -2,7 +2,7 @@
 title: Radar Remote Sensing
 ref: radar-remote-sensing
 weight: 1
-exported_at: '2025-06-16T15:03:15.245001+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Radar remote sensing is a technique that uses radar signals to detect
   and characterize objects and surfaces on Earth from a distance, typically from aircraft
   or satellites. This method involves emitting microwave signals and analyzing the

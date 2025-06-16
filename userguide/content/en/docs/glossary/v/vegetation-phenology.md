@@ -2,7 +2,7 @@
 title: Vegetation Phenology
 ref: vegetation-phenology
 weight: 1
-exported_at: '2025-06-16T15:02:56.998177+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'Vegetation Phenology: The study of the timing of seasonal biological
   events in plants, such as flowering, leaf emergence, and fruiting, in relation to
   environmental variables like temperature and daylight. This field helps in understanding

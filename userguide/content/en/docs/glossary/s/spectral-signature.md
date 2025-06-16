@@ -2,7 +2,7 @@
 title: Spectral Signature
 ref: spectral-signature
 weight: 1
-exported_at: '2025-06-16T15:03:06.807738+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A spectral signature is a unique pattern of light absorption and reflection
   that is characteristic of a particular material or substance. It is used in remote
   sensing and spectroscopy to identify and analyze the composition of objects, such

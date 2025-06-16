@@ -2,7 +2,7 @@
 title: Geotagging
 ref: geotagging
 weight: 1
-exported_at: '2025-06-16T15:03:25.630930+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Geotagging is the process of adding geographical identification metadata
   to various media such as photographs, video, websites, and SMS messages. This information
   typically includes latitude and longitude coordinates, enabling the precise location

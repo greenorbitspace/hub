@@ -2,7 +2,7 @@
 title: Segmentation
 ref: segmentation
 weight: 1
-exported_at: '2025-06-16T15:03:46.901647+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Segmentation refers to the process of dividing a broad consumer or business
   market into sub-groups of consumers based on shared characteristics, such as demographics,
   needs, priorities, or behaviors. This allows for more targeted marketing strategies

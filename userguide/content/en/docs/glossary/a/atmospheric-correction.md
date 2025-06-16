@@ -2,7 +2,7 @@
 title: Atmospheric Correction
 ref: atmospheric-correction
 weight: 1
-exported_at: '2025-06-16T15:03:41.342691+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Atmospheric correction is a process used in remote sensing to adjust the
   data collected by sensors to account for atmospheric effects that can distort the
   signal received from the Earth's surface. This correction helps improve the accuracy

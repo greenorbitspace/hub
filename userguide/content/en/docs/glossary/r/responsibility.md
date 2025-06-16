@@ -2,7 +2,7 @@
 title: Responsibility
 ref: responsibility
 weight: 1
-exported_at: '2025-06-16T15:04:12.715399+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A glossary term is a word or phrase that is defined within a specific
   context, often accompanied by an explanation to clarify its meaning for the reader.
   Glossaries are commonly used in various fields, including academic, technical, and

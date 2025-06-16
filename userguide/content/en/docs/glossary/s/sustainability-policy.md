@@ -2,7 +2,7 @@
 title: Sustainability Policy
 ref: sustainability-policy
 weight: 1
-exported_at: '2025-06-16T15:04:39.527919+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: '## Definition of Glossary Term/Name
 
 

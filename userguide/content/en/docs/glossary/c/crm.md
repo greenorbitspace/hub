@@ -2,7 +2,7 @@
 title: Crm
 ref: crm
 weight: 1
-exported_at: '2025-06-16T15:03:57.770453+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'CRM (Customer Relationship Management): A technology for managing a company''s
   relationships and interactions with potential customers and clients. It helps businesses
   streamline processes, stay connected to customers, and improve profitability.'

@@ -2,7 +2,7 @@
 title: Quality Management System
 ref: quality-management-system
 weight: 1
-exported_at: '2025-06-16T15:04:13.299195+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A Quality Management System (QMS) is a structured system of processes
   and procedures focused on ensuring that an organization consistently meets customer
   requirements and enhances their satisfaction. It is designed to improve efficiency

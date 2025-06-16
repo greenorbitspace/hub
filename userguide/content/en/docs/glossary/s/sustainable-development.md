@@ -2,7 +2,7 @@
 title: Sustainable Development
 ref: sustainable-development
 weight: 1
-exported_at: '2025-06-16T15:05:02.574529+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Sustainable development refers to the organizing principle for meeting
   human development goals while sustaining the ability of natural systems to provide
   the natural resources and ecosystem services upon which the economy and society

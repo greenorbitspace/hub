@@ -2,7 +2,7 @@
 title: Employee
 ref: employee
 weight: 1
-exported_at: '2025-06-16T15:05:15.084563+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: The glossary term "employee" refers to an individual who is hired by an
   organization or company to perform specific duties or tasks in exchange for compensation,
   typically in the form of wages or a salary. Employees may have various roles and

@@ -2,7 +2,7 @@
 title: Volcanic Activity Monitoring
 ref: volcanic-activity-monitoring
 weight: 1
-exported_at: '2025-06-16T15:02:56.690921+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: '## Glossary Term Definition
 
 

@@ -2,7 +2,7 @@
 title: Digital Marketing
 ref: digital-marketing
 weight: 1
-exported_at: '2025-06-16T15:03:55.927014+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Digital Marketing refers to the use of digital channels, platforms, and
   technologies to promote products or services to consumers. This includes online
   advertising, social media marketing, email marketing, search engine optimization

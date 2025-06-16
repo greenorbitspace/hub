@@ -2,7 +2,7 @@
 title: Normalized Difference Vegetation Index (Ndvi)
 ref: normalized-difference-vegetation-index-ndvi
 weight: 1
-exported_at: '2025-06-16T15:03:18.666888+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: The Normalized Difference Vegetation Index (NDVI) is a numerical indicator
   that uses remote sensing measurements to assess whether the target area contains
   live vegetation. It is calculated using the near-infrared and red light reflected

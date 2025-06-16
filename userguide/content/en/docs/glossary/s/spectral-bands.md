@@ -2,7 +2,7 @@
 title: Spectral Bands
 ref: spectral-bands
 weight: 1
-exported_at: '2025-06-16T15:03:07.027455+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Spectral bands refer to specific ranges of wavelengths in the electromagnetic
   spectrum that are used to analyze and interpret various phenomena, particularly
   in the fields of remote sensing, spectroscopy, and telecommunications. Each spectral

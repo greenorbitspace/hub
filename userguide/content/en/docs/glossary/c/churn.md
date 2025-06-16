@@ -2,7 +2,7 @@
 title: Churn
 ref: churn
 weight: 1
-exported_at: '2025-06-16T15:03:59.794642+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Churn refers to the rate at which customers stop doing business with a
   company. It is often expressed as a percentage of the total customer base over a
   specific period of time, indicating the loss of customers and the potential impact

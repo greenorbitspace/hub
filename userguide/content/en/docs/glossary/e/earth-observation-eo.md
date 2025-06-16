@@ -2,7 +2,7 @@
 title: Earth Observation (Eo)
 ref: earth-observation-eo
 weight: 1
-exported_at: '2025-06-16T15:03:31.446136+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Earth Observation (EO) refers to the collection, analysis, and interpretation
   of data about the Earth's physical, chemical, and biological systems through remote
   sensing technologies. This encompasses data collected from satellites, aircraft,

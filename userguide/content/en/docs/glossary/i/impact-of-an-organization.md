@@ -2,7 +2,7 @@
 title: Impact Of An Organization
 ref: impact-of-an-organization
 weight: 1
-exported_at: '2025-06-16T15:05:13.179414+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: The impact of an organization refers to the effect or influence that an
   organization's activities, decisions, and presence have on its stakeholders, including
   employees, customers, the community, and the environment. This can encompass economic,

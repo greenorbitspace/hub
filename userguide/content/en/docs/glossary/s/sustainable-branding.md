@@ -2,7 +2,7 @@
 title: Sustainable Branding
 ref: sustainable-branding
 weight: 1
-exported_at: '2025-06-16T15:05:37.302468+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Sustainable branding refers to the practice of promoting a brand that
   prioritizes environmental and social responsibility. It involves integrating sustainability
   into a company's core values, operations, and marketing strategies to create a positive

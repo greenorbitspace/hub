@@ -2,9 +2,9 @@
 title: 'Bioenergy With Carbon
 
   Capture And Storage'
-ref: bioenergy-with-carboncapture-and-storage
+ref: bioenergy-with-carbon-capture-and-storage
 weight: 1
-exported_at: '2025-06-16T15:05:19.546246+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Bioenergy with carbon capture and storage (BECCS) is a process that involves
   generating energy from biomass while capturing and storing the carbon dioxide emissions
   produced during the energy generation process. This technology aims to reduce greenhouse

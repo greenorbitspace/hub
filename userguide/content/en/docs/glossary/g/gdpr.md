@@ -2,7 +2,7 @@
 title: Gdpr
 ref: gdpr
 weight: 1
-exported_at: '2025-06-16T15:03:53.346513+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: The General Data Protection Regulation (GDPR) is a comprehensive data
   protection law in the European Union that establishes guidelines for the collection
   and processing of personal information of individuals within the EU and the European

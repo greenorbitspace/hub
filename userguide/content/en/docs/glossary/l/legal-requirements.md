@@ -2,7 +2,7 @@
 title: Legal Requirements
 ref: legal-requirements
 weight: 1
-exported_at: '2025-06-16T15:04:43.797897+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A glossary term is a word or phrase that is defined within a specific
   context, often accompanied by its meaning to enhance understanding for the reader.
 tags:

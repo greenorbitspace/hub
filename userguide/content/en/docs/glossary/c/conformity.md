@@ -2,7 +2,7 @@
 title: Conformity
 ref: conformity
 weight: 1
-exported_at: '2025-06-16T15:04:26.471791+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Conformity refers to the alignment of an organization's processes, products,
   or services with established standards or specifications. It indicates that a product
   or service meets the required criteria set forth by regulatory bodies or industry

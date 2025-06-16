@@ -2,7 +2,7 @@
 title: Residual Emissions
 ref: residual-emissions
 weight: 1
-exported_at: '2025-06-16T15:05:52.868125+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Residual emissions refer to the greenhouse gas emissions that remain after
   all feasible mitigation measures have been implemented. These emissions are typically
   unavoidable and are a key focus for achieving net-zero targets.

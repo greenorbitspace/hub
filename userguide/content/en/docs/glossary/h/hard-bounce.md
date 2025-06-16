@@ -2,7 +2,7 @@
 title: Hard Bounce
 ref: hard-bounce
 weight: 1
-exported_at: '2025-06-16T15:03:53.124854+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: A hard bounce refers to an email that has been returned to the sender
   because the recipient's email address is invalid, non-existent, or blocked. Unlike
   a soft bounce, which may occur due to temporary issues, a hard bounce indicates

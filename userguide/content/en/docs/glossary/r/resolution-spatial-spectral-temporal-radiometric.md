@@ -2,7 +2,7 @@
 title: Resolution (Spatial, Spectral, Temporal, Radiometric)
 ref: resolution-spatial-spectral-temporal-radiometric
 weight: 1
-exported_at: '2025-06-16T15:03:10.419827+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'Resolution refers to the ability to distinguish between different features
   in data collected from various sensors. It can be categorized into four types:
 

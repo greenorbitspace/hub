@@ -2,7 +2,7 @@
 title: Nonconformity
 ref: nonconformity
 weight: 1
-exported_at: '2025-06-16T15:04:52.945696+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Nonconformity refers to a situation where a product, process, or system
   fails to meet specified requirements or standards. It indicates a deviation from
   established norms, procedures, or specifications, often necessitating corrective

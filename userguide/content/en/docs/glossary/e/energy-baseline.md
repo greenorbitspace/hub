@@ -2,7 +2,7 @@
 title: Energy Baseline
 ref: energy-baseline
 weight: 1
-exported_at: '2025-06-16T15:04:54.517180+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: The Energy Baseline refers to a reference point or standard used to measure
   and evaluate energy performance over time. It represents the expected energy consumption
   of a facility or system under normal operating conditions, allowing for comparisons

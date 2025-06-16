@@ -2,7 +2,7 @@
 title: Remote Sensing
 ref: remote-sensing
 weight: 1
-exported_at: '2025-06-16T15:05:18.703298+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Remote sensing refers to the process of acquiring information about an
   object or area from a distance, typically using satellite or aerial sensor technologies.
   This technique is widely used in various fields, including environmental monitoring,

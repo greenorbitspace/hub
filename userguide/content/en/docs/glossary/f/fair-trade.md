@@ -2,7 +2,7 @@
 title: Fair Trade
 ref: fair-trade
 weight: 1
-exported_at: '2025-06-16T15:05:43.338719+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Fair Trade is a trading partnership that seeks greater equity in international
   trade by ensuring fair wages, working conditions, and environmental sustainability
   for producers in developing countries. It promotes transparency, accountability,

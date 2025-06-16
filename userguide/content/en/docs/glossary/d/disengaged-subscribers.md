@@ -2,7 +2,7 @@
 title: Disengaged Subscribers
 ref: disengaged-subscribers
 weight: 1
-exported_at: '2025-06-16T15:03:55.590058+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'Disengaged Subscribers: Individuals who have previously subscribed to
   a service or communication but have shown a lack of interaction or engagement over
   a specified period. This may include not opening emails, not clicking on links,

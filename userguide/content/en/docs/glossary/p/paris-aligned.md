@@ -2,7 +2,7 @@
 title: Paris Aligned
 ref: paris-aligned
 weight: 1
-exported_at: '2025-06-16T15:05:50.423301+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'Paris-aligned: Referring to strategies, targets, or actions that are
   consistent with the goals of the Paris Agreement, which aims to limit global warming
   to well below 2 degrees Celsius above pre-industrial levels, ideally to 1.5 degrees

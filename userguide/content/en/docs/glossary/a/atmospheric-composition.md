@@ -2,7 +2,7 @@
 title: Atmospheric Composition
 ref: atmospheric-composition
 weight: 1
-exported_at: '2025-06-16T15:03:40.470707+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Atmospheric composition refers to the various gases and particles that
   make up the Earth's atmosphere. The primary components include nitrogen (about 78%),
   oxygen (about 21%), and trace amounts of other gases such as argon, carbon dioxide,

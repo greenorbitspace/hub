@@ -2,7 +2,7 @@
 title: Time Series Analysis
 ref: time-series-analysis
 weight: 1
-exported_at: '2025-06-16T15:03:02.890106+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Time Series Analysis refers to the statistical techniques used to analyze
   time-ordered data points, often to identify trends, seasonal patterns, and cyclical
   behaviors over time. This analysis is commonly used in various fields such as economics,

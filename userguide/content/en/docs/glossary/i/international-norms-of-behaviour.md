@@ -2,7 +2,7 @@
 title: International Norms Of Behaviour
 ref: international-norms-of-behaviour
 weight: 1
-exported_at: '2025-06-16T15:05:13.599469+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: International norms of behaviour refer to the established standards and
   expectations for conduct that are recognized and accepted by countries and international
   organizations. These norms guide interactions between states, influencing diplomatic

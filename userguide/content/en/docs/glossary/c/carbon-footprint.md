@@ -2,7 +2,7 @@
 title: Carbon Footprint
 ref: carbon-footprint
 weight: 1
-exported_at: '2025-06-16T15:05:45.987470+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: The carbon footprint is the total amount of greenhouse gases, primarily
   carbon dioxide, that are emitted directly or indirectly by an individual, organization,
   event, or product, typically expressed in equivalent tons of carbon dioxide (CO2e).

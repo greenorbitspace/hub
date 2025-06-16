@@ -2,7 +2,7 @@
 title: Pollution Prevention
 ref: pollution-prevention
 weight: 1
-exported_at: '2025-06-16T15:04:41.745753+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Pollution Prevention refers to practices aimed at reducing the amount
   of pollution through cost-effective changes in production, operation, and raw materials
   use. It encompasses strategies that reduce, eliminate, or prevent pollution at its

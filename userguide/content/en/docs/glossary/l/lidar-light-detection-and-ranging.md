@@ -2,7 +2,7 @@
 title: Lidar (Light Detection And Ranging)
 ref: lidar-light-detection-and-ranging
 weight: 1
-exported_at: '2025-06-16T15:03:21.135152+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: LiDAR (Light Detection and Ranging) is a remote sensing technology that
   uses laser light to measure distances to the Earth's surface. It collects high-resolution
   data by emitting rapid pulses of light and measuring the time it takes for each

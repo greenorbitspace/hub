@@ -2,7 +2,7 @@
 title: Renewable Resources
 ref: renewable-resources
 weight: 1
-exported_at: '2025-06-16T15:05:38.577384+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: 'Renewable Resources: Natural resources that can be replenished naturally
   over time, such as solar energy, wind energy, and biomass. These resources are considered
   sustainable alternatives to fossil fuels and contribute to reducing environmental

@@ -2,7 +2,7 @@
 title: Marine Pollution Monitoring
 ref: marine-pollution-monitoring
 weight: 1
-exported_at: '2025-06-16T15:03:20.383720+00:00'
+date: '2025-06-16T14:50:00.000Z'
 definition: Marine pollution monitoring refers to the systematic observation and assessment
   of pollutants in marine environments. This process involves the collection of data
   regarding the presence and concentration of harmful substances in oceans and coastal
