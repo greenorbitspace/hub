@@ -1,5 +1,5 @@
 ---
-title: In-situ Resource Utilisation
+title: In Situ Resource Utilisation
 ref: in-situ-resource-utilisation
 weight: 1
 exported_at: '2025-06-16T15:05:18.457504+00:00'

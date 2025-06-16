@@ -1,5 +1,5 @@
 ---
-title: Re-Engagement Emails
+title: Re Engagement Emails
 ref: re-engagement-emails
 weight: 1
 exported_at: '2025-06-16T15:03:48.193105+00:00'

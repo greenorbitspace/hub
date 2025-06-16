@@ -1,5 +1,5 @@
 ---
-title: Normalized Difference Vegetation Index (NDVI)
+title: Normalized Difference Vegetation Index (Ndvi)
 ref: normalized-difference-vegetation-index-ndvi
 weight: 1
 exported_at: '2025-06-16T15:03:18.666888+00:00'

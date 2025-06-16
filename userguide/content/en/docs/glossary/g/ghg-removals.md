@@ -1,5 +1,5 @@
 ---
-title: GHG removals
+title: Ghg Removals
 ref: ghg-removals
 weight: 1
 exported_at: '2025-06-16T15:05:49.623687+00:00'

@@ -1,5 +1,5 @@
 ---
-title: supply chain
+title: Supply Chain
 ref: supply-chain
 weight: 1
 exported_at: '2025-06-16T15:05:03.667170+00:00'

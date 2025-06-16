@@ -1,5 +1,5 @@
 ---
-title: 'ESP: Email Service Provider'
+title: 'Esp: Email Service Provider'
 ref: esp-email-service-provider
 weight: 1
 exported_at: '2025-06-16T15:03:54.026135+00:00'

@@ -1,5 +1,5 @@
 ---
-title: Just transition
+title: Just Transition
 ref: just-transition
 weight: 1
 exported_at: '2025-06-16T15:05:56.816440+00:00'

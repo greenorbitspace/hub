@@ -1,5 +1,5 @@
 ---
-title: 'ROI: Return on Investment'
+title: 'Roi: Return On Investment'
 ref: roi-return-on-investment
 weight: 1
 exported_at: '2025-06-16T15:03:47.967866+00:00'

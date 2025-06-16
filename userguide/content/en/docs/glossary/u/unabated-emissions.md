@@ -1,5 +1,5 @@
 ---
-title: Unabated emissions
+title: Unabated Emissions
 ref: unabated-emissions
 weight: 1
 exported_at: '2025-06-16T15:05:52.370423+00:00'

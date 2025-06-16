@@ -1,5 +1,5 @@
 ---
-title: Financing green & greening finance
+title: Financing Green & Greening Finance
 ref: financing-green--greening-finance
 weight: 1
 exported_at: '2025-06-16T15:05:49.187351+00:00'

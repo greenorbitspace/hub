@@ -1,5 +1,5 @@
 ---
-title: value chain
+title: Value Chain
 ref: value-chain
 weight: 1
 exported_at: '2025-06-16T15:05:02.016078+00:00'

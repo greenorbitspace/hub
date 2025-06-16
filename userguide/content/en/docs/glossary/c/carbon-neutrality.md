@@ -1,5 +1,5 @@
 ---
-title: Carbon neutral(ity)
+title: Carbon Neutral(Ity)
 ref: carbon-neutrality
 weight: 1
 exported_at: '2025-06-16T15:05:47.600370+00:00'

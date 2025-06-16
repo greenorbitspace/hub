@@ -1,5 +1,5 @@
 ---
-title: Greenhouse Gas (GHG) Monitoring
+title: Greenhouse Gas (Ghg) Monitoring
 ref: greenhouse-gas-ghg-monitoring
 weight: 1
 exported_at: '2025-06-16T15:03:25.250247+00:00'

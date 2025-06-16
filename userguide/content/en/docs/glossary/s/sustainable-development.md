@@ -1,5 +1,5 @@
 ---
-title: sustainable development
+title: Sustainable Development
 ref: sustainable-development
 weight: 1
 exported_at: '2025-06-16T15:05:02.574529+00:00'

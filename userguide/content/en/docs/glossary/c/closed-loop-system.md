@@ -1,5 +1,5 @@
 ---
-title: Closed-Loop System
+title: Closed Loop System
 ref: closed-loop-system
 weight: 1
 exported_at: '2025-06-16T15:05:38.126661+00:00'

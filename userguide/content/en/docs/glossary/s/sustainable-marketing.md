@@ -1,5 +1,5 @@
 ---
-title: Sustainable marketing
+title: Sustainable Marketing
 ref: sustainable-marketing
 weight: 1
 exported_at: '2025-06-16T15:05:57.946573+00:00'

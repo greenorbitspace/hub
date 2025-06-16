@@ -1,5 +1,5 @@
 ---
-title: accountability
+title: Accountability
 ref: accountability
 weight: 1
 exported_at: '2025-06-16T15:05:16.715937+00:00'

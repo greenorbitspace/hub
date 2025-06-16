@@ -1,5 +1,5 @@
 ---
-title: due diligence
+title: Due Diligence
 ref: due-diligence
 weight: 1
 exported_at: '2025-06-16T15:05:14.131271+00:00'

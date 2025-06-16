@@ -1,5 +1,5 @@
 ---
-title: Earth Observation (EO)
+title: Earth Observation (Eo)
 ref: earth-observation-eo
 weight: 1
 exported_at: '2025-06-16T15:03:31.446136+00:00'

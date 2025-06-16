@@ -1,5 +1,5 @@
 ---
-title: Carbon negative
+title: Carbon Negative
 ref: carbon-negative
 weight: 1
 exported_at: '2025-06-16T15:05:51.529046+00:00'

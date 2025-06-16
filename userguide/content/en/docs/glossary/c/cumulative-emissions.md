@@ -1,5 +1,5 @@
 ---
-title: Cumulative emissions
+title: Cumulative Emissions
 ref: cumulative-emissions
 weight: 1
 exported_at: '2025-06-16T15:05:52.601060+00:00'

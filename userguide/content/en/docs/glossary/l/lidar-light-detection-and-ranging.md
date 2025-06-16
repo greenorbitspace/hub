@@ -1,5 +1,5 @@
 ---
-title: LiDAR (Light Detection and Ranging)
+title: Lidar (Light Detection And Ranging)
 ref: lidar-light-detection-and-ranging
 weight: 1
 exported_at: '2025-06-16T15:03:21.135152+00:00'

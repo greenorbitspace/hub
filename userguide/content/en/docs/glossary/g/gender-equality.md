@@ -1,5 +1,5 @@
 ---
-title: gender equality
+title: Gender Equality
 ref: gender-equality
 weight: 1
 exported_at: '2025-06-16T15:05:12.665954+00:00'

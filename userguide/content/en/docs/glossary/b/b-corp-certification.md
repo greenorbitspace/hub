@@ -1,5 +1,5 @@
 ---
-title: B-Corp Certification
+title: B Corp Certification
 ref: b-corp-certification
 weight: 1
 exported_at: '2025-06-16T15:05:44.257823+00:00'

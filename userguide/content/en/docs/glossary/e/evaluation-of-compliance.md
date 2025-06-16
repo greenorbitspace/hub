@@ -1,5 +1,5 @@
 ---
-title: Evaluation of Compliance
+title: Evaluation Of Compliance
 ref: evaluation-of-compliance
 weight: 1
 exported_at: '2025-06-16T15:04:21.665530+00:00'

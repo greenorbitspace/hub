@@ -1,5 +1,5 @@
 ---
-title: Cradle to Cradle
+title: Cradle To Cradle
 ref: cradle-to-cradle
 weight: 1
 exported_at: '2025-06-16T15:05:42.167805+00:00'

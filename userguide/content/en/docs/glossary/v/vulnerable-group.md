@@ -1,5 +1,5 @@
 ---
-title: vulnerable group
+title: Vulnerable Group
 ref: vulnerable-group
 weight: 1
 exported_at: '2025-06-16T15:05:01.127158+00:00'

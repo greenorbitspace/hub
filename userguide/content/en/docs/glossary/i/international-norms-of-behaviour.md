@@ -1,5 +1,5 @@
 ---
-title: international norms of behaviour
+title: International Norms Of Behaviour
 ref: international-norms-of-behaviour
 weight: 1
 exported_at: '2025-06-16T15:05:13.599469+00:00'

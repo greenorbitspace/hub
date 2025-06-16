@@ -1,5 +1,5 @@
 ---
-title: 'CPM: Cost per Mille'
+title: 'Cpm: Cost Per Mille'
 ref: cpm-cost-per-mille
 weight: 1
 exported_at: '2025-06-16T15:03:56.138223+00:00'

@@ -1,5 +1,5 @@
 ---
-title: greenhushing
+title: Greenhushing
 ref: greenhushing
 weight: 1
 exported_at: '2025-06-16T15:05:56.183403+00:00'

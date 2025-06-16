@@ -1,5 +1,5 @@
 ---
-title: worker
+title: Worker
 ref: worker
 weight: 1
 exported_at: '2025-06-16T15:05:00.348935+00:00'

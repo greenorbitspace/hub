@@ -1,5 +1,5 @@
 ---
-title: impact of an organization
+title: Impact Of An Organization
 ref: impact-of-an-organization
 weight: 1
 exported_at: '2025-06-16T15:05:13.179414+00:00'

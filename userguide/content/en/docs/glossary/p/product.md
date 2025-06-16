@@ -1,5 +1,5 @@
 ---
-title: product
+title: Product
 ref: product
 weight: 1
 exported_at: '2025-06-16T15:05:12.440653+00:00'

@@ -1,5 +1,5 @@
 ---
-title: Monitoring and Measurement
+title: Monitoring And Measurement
 ref: monitoring-and-measurement
 weight: 1
 exported_at: '2025-06-16T15:04:15.709835+00:00'

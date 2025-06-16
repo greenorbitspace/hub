@@ -1,5 +1,5 @@
 ---
-title: Geospatial Intelligence (GEOINT)
+title: Geospatial Intelligence (Geoint)
 ref: geospatial-intelligence-geoint
 weight: 1
 exported_at: '2025-06-16T15:03:26.407827+00:00'

@@ -1,5 +1,5 @@
 ---
-title: 'Regulation and Compliance:'
+title: 'Regulation And Compliance:'
 ref: regulation-and-compliance
 weight: 1
 exported_at: '2025-06-16T15:05:36.211171+00:00'

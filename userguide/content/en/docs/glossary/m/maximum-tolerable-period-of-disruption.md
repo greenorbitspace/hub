@@ -1,5 +1,5 @@
 ---
-title: Maximum Tolerable Period of Disruption
+title: Maximum Tolerable Period Of Disruption
 ref: maximum-tolerable-period-of-disruption
 weight: 1
 exported_at: '2025-06-16T15:04:15.945502+00:00'

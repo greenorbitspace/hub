@@ -1,5 +1,5 @@
 ---
-title: Sea Surface Temperature (SST)
+title: Sea Surface Temperature (Sst)
 ref: sea-surface-temperature-sst
 weight: 1
 exported_at: '2025-06-16T15:03:07.926100+00:00'

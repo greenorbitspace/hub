@@ -1,5 +1,5 @@
 ---
-title: Synthetic Aperture Radar (SAR)
+title: Synthetic Aperture Radar (Sar)
 ref: synthetic-aperture-radar-sar
 weight: 1
 exported_at: '2025-06-16T15:03:04.426500+00:00'

@@ -1,5 +1,5 @@
 ---
-title: Net zero
+title: Net Zero
 ref: net-zero
 weight: 1
 exported_at: '2025-06-16T15:05:55.958316+00:00'

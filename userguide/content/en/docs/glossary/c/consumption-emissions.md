@@ -1,5 +1,5 @@
 ---
-title: Consumption emissions
+title: Consumption Emissions
 ref: consumption-emissions
 weight: 1
 exported_at: '2025-06-16T15:05:55.736227+00:00'

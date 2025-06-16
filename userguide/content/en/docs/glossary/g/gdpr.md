@@ -1,5 +1,5 @@
 ---
-title: GDPR
+title: Gdpr
 ref: gdpr
 weight: 1
 exported_at: '2025-06-16T15:03:53.346513+00:00'

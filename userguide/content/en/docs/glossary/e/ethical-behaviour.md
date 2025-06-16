@@ -1,5 +1,5 @@
 ---
-title: ethical behaviour
+title: Ethical Behaviour
 ref: ethical-behaviour
 weight: 1
 exported_at: '2025-06-16T15:05:13.389294+00:00'

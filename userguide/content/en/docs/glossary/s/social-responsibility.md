@@ -1,5 +1,5 @@
 ---
-title: social responsibility
+title: Social Responsibility
 ref: social-responsibility
 weight: 1
 exported_at: '2025-06-16T15:05:08.004161+00:00'

@@ -1,5 +1,5 @@
 ---
-title: Beyond value chain mitigation
+title: Beyond Value Chain Mitigation
 ref: beyond-value-chain-mitigation
 weight: 1
 exported_at: '2025-06-16T15:05:48.602279+00:00'

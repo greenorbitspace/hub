@@ -1,5 +1,5 @@
 ---
-title: Net zero finance
+title: Net Zero Finance
 ref: net-zero-finance
 weight: 1
 exported_at: '2025-06-16T15:05:53.093859+00:00'

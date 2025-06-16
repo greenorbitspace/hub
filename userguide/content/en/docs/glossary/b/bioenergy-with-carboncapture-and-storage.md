@@ -1,7 +1,7 @@
 ---
-title: 'Bioenergy with carbon
+title: 'Bioenergy With Carbon
 
-  capture and storage'
+  Capture And Storage'
 ref: bioenergy-with-carboncapture-and-storage
 weight: 1
 exported_at: '2025-06-16T15:05:19.546246+00:00'

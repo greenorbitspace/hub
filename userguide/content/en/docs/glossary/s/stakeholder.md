@@ -1,5 +1,5 @@
 ---
-title: stakeholder
+title: Stakeholder
 ref: stakeholder
 weight: 1
 exported_at: '2025-06-16T15:05:06.478741+00:00'

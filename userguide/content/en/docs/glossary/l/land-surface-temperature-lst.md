@@ -1,5 +1,5 @@
 ---
-title: Land Surface Temperature (LST)
+title: Land Surface Temperature (Lst)
 ref: land-surface-temperature-lst
 weight: 1
 exported_at: '2025-06-16T15:03:22.453823+00:00'

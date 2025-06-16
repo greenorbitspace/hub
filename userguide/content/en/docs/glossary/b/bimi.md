@@ -1,5 +1,5 @@
 ---
-title: BIMI
+title: Bimi
 ref: bimi
 weight: 1
 exported_at: '2025-06-16T15:04:03.014861+00:00'

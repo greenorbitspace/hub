@@ -1,5 +1,5 @@
 ---
-title: Anti-Spam Laws
+title: Anti Spam Laws
 ref: anti-spam-laws
 weight: 1
 exported_at: '2025-06-16T15:04:04.680812+00:00'

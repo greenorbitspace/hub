@@ -1,5 +1,5 @@
 ---
-title: Double Opt-In
+title: Double Opt In
 ref: double-opt-in
 weight: 1
 exported_at: '2025-06-16T15:03:55.376396+00:00'

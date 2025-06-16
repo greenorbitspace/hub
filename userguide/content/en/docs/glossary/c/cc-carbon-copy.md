@@ -1,5 +1,5 @@
 ---
-title: 'CC: Carbon Copy'
+title: 'Cc: Carbon Copy'
 ref: cc-carbon-copy
 weight: 1
 exported_at: '2025-06-16T15:04:00.970682+00:00'

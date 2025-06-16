@@ -1,5 +1,5 @@
 ---
-title: 'CTOR: Click-To-Open Rate'
+title: 'Ctor: Click To Open Rate'
 ref: ctor-click-to-open-rate
 weight: 1
 exported_at: '2025-06-16T15:03:56.568992+00:00'

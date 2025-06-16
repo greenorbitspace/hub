@@ -1,5 +1,5 @@
 ---
-title: Residual emissions
+title: Residual Emissions
 ref: residual-emissions
 weight: 1
 exported_at: '2025-06-16T15:05:52.868125+00:00'

@@ -1,5 +1,5 @@
 ---
-title: Absolute zero
+title: Absolute Zero
 ref: absolute-zero
 weight: 1
 exported_at: '2025-06-16T15:05:51.220916+00:00'

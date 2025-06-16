@@ -1,5 +1,5 @@
 ---
-title: Eco-Friendly
+title: Eco Friendly
 ref: eco-friendly
 weight: 1
 exported_at: '2025-06-16T15:05:56.586883+00:00'

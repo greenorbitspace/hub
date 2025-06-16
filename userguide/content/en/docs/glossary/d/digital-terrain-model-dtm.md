@@ -1,5 +1,5 @@
 ---
-title: Digital Terrain Model (DTM)
+title: Digital Terrain Model (Dtm)
 ref: digital-terrain-model-dtm
 weight: 1
 exported_at: '2025-06-16T15:03:31.886846+00:00'

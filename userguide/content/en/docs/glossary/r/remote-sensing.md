@@ -1,5 +1,5 @@
 ---
-title: Remote sensing
+title: Remote Sensing
 ref: remote-sensing
 weight: 1
 exported_at: '2025-06-16T15:05:18.703298+00:00'

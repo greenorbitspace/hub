@@ -1,5 +1,5 @@
 ---
-title: Ground Control Points (GCPs)
+title: Ground Control Points (Gcps)
 ref: ground-control-points-gcps
 weight: 1
 exported_at: '2025-06-16T15:03:24.845188+00:00'

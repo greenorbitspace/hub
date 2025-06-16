@@ -1,5 +1,5 @@
 ---
-title: EcoSend
+title: Ecosend
 ref: ecosend
 weight: 1
 exported_at: '2025-06-16T15:03:55.155725+00:00'

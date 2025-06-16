@@ -1,5 +1,5 @@
 ---
-title: Digital Elevation Model (DEM)
+title: Digital Elevation Model (Dem)
 ref: digital-elevation-model-dem
 weight: 1
 exported_at: '2025-06-16T15:03:32.113007+00:00'

@@ -1,5 +1,5 @@
 ---
-title: customer
+title: Customer
 ref: customer
 weight: 1
 exported_at: '2025-06-16T15:05:15.312024+00:00'

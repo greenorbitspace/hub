@@ -1,5 +1,5 @@
 ---
-title: Paris-aligned
+title: Paris Aligned
 ref: paris-aligned
 weight: 1
 exported_at: '2025-06-16T15:05:50.423301+00:00'

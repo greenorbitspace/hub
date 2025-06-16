@@ -1,5 +1,5 @@
 ---
-title: Eco-Labeling
+title: Eco Labeling
 ref: eco-labeling
 weight: 1
 exported_at: '2025-06-16T15:05:40.249282+00:00'

@@ -1,5 +1,5 @@
 ---
-title: organisational governance
+title: Organisational Governance
 ref: organisational-governance
 weight: 1
 exported_at: '2025-06-16T15:05:10.443472+00:00'

@@ -1,5 +1,5 @@
 ---
-title: GHG neutral(ity)
+title: Ghg Neutral(Ity)
 ref: ghg-neutrality
 weight: 1
 exported_at: '2025-06-16T15:05:54.216339+00:00'

@@ -1,5 +1,5 @@
 ---
-title: 'CTR: Click-Through Rate'
+title: 'Ctr: Click Through Rate'
 ref: ctr-click-through-rate
 weight: 1
 exported_at: '2025-06-16T15:03:57.345323+00:00'

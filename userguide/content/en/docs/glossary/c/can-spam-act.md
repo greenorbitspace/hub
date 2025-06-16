@@ -1,5 +1,5 @@
 ---
-title: Can-Spam Act
+title: Can Spam Act
 ref: can-spam-act
 weight: 1
 exported_at: '2025-06-16T15:04:00.709601+00:00'

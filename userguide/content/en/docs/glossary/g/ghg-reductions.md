@@ -1,5 +1,5 @@
 ---
-title: GHG reductions
+title: Ghg Reductions
 ref: ghg-reductions
 weight: 1
 exported_at: '2025-06-16T15:05:47.204720+00:00'

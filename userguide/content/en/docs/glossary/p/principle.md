@@ -1,5 +1,5 @@
 ---
-title: principle
+title: Principle
 ref: principle
 weight: 1
 exported_at: '2025-06-16T15:05:09.245558+00:00'

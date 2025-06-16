@@ -1,5 +1,5 @@
 ---
-title: social dialogue
+title: Social Dialogue
 ref: social-dialogue
 weight: 1
 exported_at: '2025-06-16T15:05:08.266308+00:00'

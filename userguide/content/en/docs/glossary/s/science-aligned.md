@@ -1,5 +1,5 @@
 ---
-title: Science-aligned
+title: Science Aligned
 ref: science-aligned
 weight: 1
 exported_at: '2025-06-16T15:05:48.371747+00:00'

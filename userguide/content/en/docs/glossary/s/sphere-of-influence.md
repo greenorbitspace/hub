@@ -1,5 +1,5 @@
 ---
-title: sphere of influence
+title: Sphere Of Influence
 ref: sphere-of-influence
 weight: 1
 exported_at: '2025-06-16T15:05:07.702078+00:00'

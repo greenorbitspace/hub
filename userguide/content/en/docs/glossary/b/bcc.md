@@ -1,5 +1,5 @@
 ---
-title: BCC
+title: Bcc
 ref: bcc
 weight: 1
 exported_at: '2025-06-16T15:04:03.297997+00:00'

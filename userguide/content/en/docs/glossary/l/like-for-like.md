@@ -1,5 +1,5 @@
 ---
-title: Like for Like
+title: Like For Like
 ref: like-for-like
 weight: 1
 exported_at: '2025-06-16T15:05:50.194601+00:00'

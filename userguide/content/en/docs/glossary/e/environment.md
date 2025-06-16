@@ -1,5 +1,5 @@
 ---
-title: environment
+title: Environment
 ref: environment
 weight: 1
 exported_at: '2025-06-16T15:05:15.909614+00:00'
