@@ -1,16 +1,16 @@
 ---
-title: Bimi
+title: BIMI
 ref: bimi
-description: 'BIMI: Brand Indicators for Message Identification (BIMI) is a specification
-  that allows organizations to display their brand logos alongside authenticated email
-  messages, enhancing brand visibility and trust while improving email deliverability.'
-notion_page_id: 214d6625-c679-802c-8c29-ffca5d8e6a96
-exported_at: '2025-06-16T14:24:15.208873+00:00'
+weight: 1
+exported_at: '2025-06-16T15:04:03.014861+00:00'
+definition: BIMI (Brand Indicators for Message Identification) is a specification
+  that allows brands to display their logos next to authenticated emails in the inbox,
+  helping to improve brand recognition and trust among recipients.
 tags:
 - Marketing
 - Email
-category:
-- Marketing & Communication
 id: GL89
+categories:
+- Marketing & Communication
 ---
 

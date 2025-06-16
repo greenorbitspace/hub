@@ -1,16 +1,16 @@
 ---
 title: Ocean Colour Monitoring
 ref: ocean-colour-monitoring
-description: 'Ocean Colour Monitoring: The observation and analysis of the color of
-  the ocean surface, which can provide valuable information about the biological and
-  chemical properties of the water, including phytoplankton concentrations and water
-  quality.'
-notion_page_id: 214d6625-c679-80b9-8cac-e2d84e0bdcc2
-exported_at: '2025-06-16T14:23:09.160516+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:17.511213+00:00'
+definition: 'Ocean Colour Monitoring: The process of observing and analyzing the color
+  of the ocean to assess the health of marine ecosystems, track phytoplankton populations,
+  and monitor water quality using satellite imagery and other remote sensing technologies.'
 tags:
-- Research
-category:
-- Space & Technology
+- resources
+- goals
 id: GL183
+categories:
+- Space & Technology
 ---
 

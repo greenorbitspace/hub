@@ -1,18 +1,17 @@
 ---
-title: Ground Control Points (Gcps)
+title: Ground Control Points (GCPs)
 ref: ground-control-points-gcps
-description: Ground Control Points (GCPs) are specific points on the ground with known
-  geographic coordinates that are used in geospatial applications to improve the accuracy
-  of aerial imagery and mapping. They serve as reference points that help in the correction
-  of distortions in images and ensure that the spatial data aligns correctly with
-  real-world locations.
-notion_page_id: 214d6625-c679-80c2-a8e9-f6175b3c1645
-exported_at: '2025-06-16T14:23:21.885081+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:24.845188+00:00'
+definition: Ground Control Points (GCPs) are specific points on the ground with known
+  geographic coordinates used in mapping and surveying. They provide a reference for
+  georeferencing satellite or aerial imagery, ensuring that the spatial data accurately
+  represents the real-world locations.
 tags:
 - Research
 - Standards
-category:
-- Space & Technology
 id: GL168
+categories:
+- Space & Technology
 ---
 

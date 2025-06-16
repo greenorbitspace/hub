@@ -1,18 +1,18 @@
 ---
 title: Transparency
 ref: transparency
-description: 'Transparency: The quality of being open, honest, and straightforward
-  about various processes, decisions, and data, particularly in the context of sustainability
-  and environmental practices. It involves providing clear and accessible information
-  to stakeholders to foster trust and accountability.'
-notion_page_id: 5b29396e-f0c5-4fd1-866a-71450080d263
-exported_at: '2025-06-16T14:24:32.568448+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:38.803693+00:00'
+definition: Transparency refers to the practice of being open, honest, and clear about
+  information, processes, and decisions. In the context of sustainability and the
+  environment, it often involves providing stakeholders with accessible information
+  about environmental practices, policies, and impacts.
 tags:
 - sustainability
-- resources
-- goals
-category:
-- Sustainability & Environment
+- reporting
+- advocacy
 id: GL50
+categories:
+- Sustainability & Environment
 ---
 

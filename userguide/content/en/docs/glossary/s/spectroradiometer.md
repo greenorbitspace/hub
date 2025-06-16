@@ -1,16 +1,16 @@
 ---
 title: Spectroradiometer
 ref: spectroradiometer
-description: A spectroradiometer is an instrument used to measure the intensity of
-  light at different wavelengths, often used in the fields of astronomy, meteorology,
-  and environmental monitoring to analyze the spectral characteristics of light from
-  various sources.
-notion_page_id: 214d6625-c679-80ab-abcc-cbf98253869d
-exported_at: '2025-06-16T14:22:58.141564+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:06.578252+00:00'
+definition: A spectroradiometer is an instrument that measures the intensity of different
+  wavelengths of light in a spectrum, allowing for the analysis of radiative properties
+  of materials and the environment.
 tags:
 - Research
-category:
-- Space & Technology
+- Standards
 id: GL207
+categories:
+- Space & Technology
 ---
 

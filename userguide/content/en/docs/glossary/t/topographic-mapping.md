@@ -1,15 +1,18 @@
 ---
 title: Topographic Mapping
 ref: topographic-mapping
-description: Topographic mapping is the process of creating detailed and accurate
-  representations of the Earth's surface, including its natural and man-made features,
-  through the use of contour lines, symbols, and colors to depict elevation and terrain.
-notion_page_id: 214d6625-c679-80a1-8318-d583b40e0c46
-exported_at: '2025-06-16T14:22:53.912968+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:02.500598+00:00'
+definition: Topographic mapping is the process of creating detailed and accurate representations
+  of the Earth's surface features, including elevation, terrain, and landforms. These
+  maps often display contour lines, symbols, and labels to indicate various physical
+  characteristics and are used in fields such as geography, urban planning, and outdoor
+  recreation.
 tags:
 - tools
-category:
-- Space & Technology
+- courses
 id: GL213
+categories:
+- Space & Technology
 ---
 

@@ -1,19 +1,20 @@
 ---
-title: Just Transition
+title: Just transition
 ref: just-transition
-description: A "just transition" refers to the process of transitioning to a sustainable
-  economy in a way that is fair and equitable for all stakeholders, particularly for
-  those who may be adversely affected by these changes. It emphasizes social justice
-  and the need to ensure that workers and communities are supported during the transition
-  to greener jobs and practices.
-notion_page_id: 68739d92-0596-414d-b160-be77bf225ec1
-exported_at: '2025-06-16T14:24:58.324454+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:56.816440+00:00'
+definition: A "just transition" refers to the process of transitioning to a sustainable
+  economy in a way that is fair and equitable for all stakeholders, particularly those
+  affected by the shift from fossil fuels to renewable energy sources. This approach
+  aims to ensure that workers, communities, and vulnerable populations are supported
+  and included in the transition, minimizing negative impacts and promoting social
+  justice.
 tags:
 - sustainability
 - goals
 - policies
-category:
-- Sustainability & Environment
 id: GL2
+categories:
+- Sustainability & Environment
 ---
 

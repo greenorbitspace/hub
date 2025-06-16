@@ -1,17 +1,16 @@
 ---
-title: Cumulative Emissions
+title: Cumulative emissions
 ref: cumulative-emissions
-description: Cumulative emissions refer to the total amount of greenhouse gases emitted
-  over a specific period, often used to assess the long-term impact of human activities
-  on climate change. This metric helps in understanding the accumulation of pollutants
-  in the atmosphere and their contribution to global warming.
-notion_page_id: a69351ad-312b-4ed5-b5b6-269a26f9c47d
-exported_at: '2025-06-16T14:24:49.470284+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:52.601060+00:00'
+definition: Cumulative emissions refer to the total amount of greenhouse gases emitted
+  over a specific period, typically measured in carbon dioxide equivalents (CO2e).
+  This metric is important for understanding the long-term impacts of emissions on
+  climate change and environmental sustainability.
 tags:
 - sustainability
-- goals
-category:
-- Sustainability & Environment
 id: GL22
+categories:
+- Sustainability & Environment
 ---
 

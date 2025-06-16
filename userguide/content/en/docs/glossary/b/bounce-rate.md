@@ -1,16 +1,17 @@
 ---
 title: Bounce Rate
 ref: bounce-rate
-description: Bounce Rate refers to the percentage of visitors who navigate away from
-  a website after viewing only one page. It is a key metric used to measure the effectiveness
-  of a website in engaging visitors.
-notion_page_id: 214d6625-c679-8072-8195-eedda4f214d8
-exported_at: '2025-06-16T14:24:12.757205+00:00'
+weight: 1
+exported_at: '2025-06-16T15:04:01.181330+00:00'
+definition: The bounce rate is a web analytics metric that measures the percentage
+  of visitors who navigate away from the site after viewing only one page. A high
+  bounce rate may indicate that the content is not engaging enough or that the landing
+  page does not meet the visitors' expectations.
 tags:
 - Marketing
 - Website
-category:
-- Marketing & Communication
 id: GL91
+categories:
+- Marketing & Communication
 ---
 

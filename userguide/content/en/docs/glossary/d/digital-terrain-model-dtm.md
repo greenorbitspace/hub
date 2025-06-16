@@ -1,19 +1,18 @@
 ---
-title: Digital Terrain Model (Dtm)
+title: Digital Terrain Model (DTM)
 ref: digital-terrain-model-dtm
-description: A Digital Terrain Model (DTM) is a digital representation of the terrain's
-  surface, created using various methods such as remote sensing, photogrammetry, or
-  surveying. DTMs are used in various applications, including geographic information
-  systems (GIS), urban planning, and environmental modeling to analyze and visualize
-  the terrain's features and elevation.
-notion_page_id: 214d6625-c679-806a-ab80-dafd387738ec
-exported_at: '2025-06-16T14:23:39.332328+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:31.886846+00:00'
+definition: A Digital Terrain Model (DTM) is a 3D representation of a terrain's surface
+  created from elevation data. It is commonly used in geographic information systems
+  (GIS) to analyze landforms and terrain features, and serves various applications
+  such as urban planning, environmental studies, and simulation of natural events.
 tags:
 - Research
 - applications
 - sustainability
-category:
-- Space & Technology
 id: GL152
+categories:
+- Space & Technology
 ---
 

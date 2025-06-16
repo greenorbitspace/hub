@@ -1,15 +1,16 @@
 ---
 title: Marine Pollution Monitoring
 ref: marine-pollution-monitoring
-description: 'Marine Pollution Monitoring: The systematic observation and assessment
-  of pollutants in marine environments, aimed at understanding their sources, distribution,
-  and impacts on marine ecosystems and human health.'
-notion_page_id: 214d6625-c679-8086-a054-fa224c2818d1
-exported_at: '2025-06-16T14:23:14.811577+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:20.383720+00:00'
+definition: Marine pollution monitoring refers to the systematic observation and assessment
+  of pollutants in marine environments. This process involves the collection of data
+  regarding the presence and concentration of harmful substances in oceans and coastal
+  waters, which can adversely affect marine life, ecosystems, and human health.
 tags:
 - Research
-category:
-- Space & Technology
 id: GL178
+categories:
+- Space & Technology
 ---
 

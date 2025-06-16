@@ -1,16 +1,17 @@
 ---
 title: Environmental Management
 ref: environmental-management
-description: 'Environmental Management: The process of managing human impact on and
-  interactions with the environment, focusing on sustainable practices to protect
-  the ecosystem while meeting social and economic needs.'
-notion_page_id: 1dbd6625-c679-809a-8a2e-d161bb70d164
-exported_at: '2025-06-16T14:24:22.438013+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:17.368459+00:00'
+definition: 'Environmental Management: The process of managing human activities and
+  their impact on the environment, aimed at promoting sustainable practices and minimizing
+  ecological harm through planning, implementation, monitoring, and evaluation of
+  environmental policies and practices.'
 tags:
 - sustainability
 - policies
-category:
-- Sustainability & Environment
 id: GL80
+categories:
+- Sustainability & Environment
 ---
 

@@ -1,18 +1,18 @@
 ---
 title: Water Stress Detection
 ref: water-stress-detection
-description: 'Water Stress Detection: The process of identifying and measuring the
-  levels of water stress in a given area, typically related to the availability and
-  demand for water resources. This involves monitoring various factors such as precipitation,
-  groundwater levels, and water usage to assess the sustainability and health of water
-  systems.'
-notion_page_id: 214d6625-c679-8089-ae04-fd9033178dcc
-exported_at: '2025-06-16T14:22:42.347317+00:00'
+weight: 1
+exported_at: '2025-06-16T15:02:56.231096+00:00'
+definition: 'Water Stress Detection: The process of identifying and measuring the
+  levels of water stress in a given area, which can affect the availability and quality
+  of water resources. This detection can involve the use of various technologies and
+  methodologies to monitor environmental conditions, water usage, and the impact of
+  human activities on water supplies.'
 tags:
 - sustainability
-- resources
-category:
-- Space & Technology
+- tools
 id: GL223
+categories:
+- Space & Technology
 ---
 

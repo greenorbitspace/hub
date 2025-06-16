@@ -1,16 +1,18 @@
 ---
 title: Satellite Telemetry
 ref: satellite-telemetry
-description: Satellite telemetry refers to the process of collecting and transmitting
-  data from a satellite to a ground station. This data can include information about
-  the satellite's position, health, and operational status, which is essential for
-  monitoring and controlling satellite operations.
-notion_page_id: 214d6625-c679-800e-a897-f0141900e258
-exported_at: '2025-06-16T14:23:01.431182+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:09.719672+00:00'
+definition: Satellite telemetry refers to the process of collecting and transmitting
+  data from satellites back to Earth. This data can include information about the
+  satellite's health, status, and the environment it is monitoring. Telemetry systems
+  are crucial for the operation and management of satellites, enabling real-time analysis
+  and decision-making.
 tags:
-- infrastructure
-category:
-- Space & Technology
+- Research
+- Standards
 id: GL199
+categories:
+- Space & Technology
 ---
 

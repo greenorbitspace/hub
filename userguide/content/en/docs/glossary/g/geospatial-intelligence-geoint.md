@@ -1,16 +1,17 @@
 ---
-title: Geospatial Intelligence (Geoint)
+title: Geospatial Intelligence (GEOINT)
 ref: geospatial-intelligence-geoint
-description: Geospatial Intelligence (GEOINT) refers to the analysis and interpretation
-  of data related to the Earth's surface, utilizing imagery and geospatial information
-  to support decision-making in various sectors, including national security, environmental
-  monitoring, and urban planning.
-notion_page_id: 214d6625-c679-8069-a5ef-e5eb91d833a9
-exported_at: '2025-06-16T14:23:25.603685+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:26.407827+00:00'
+definition: Geospatial Intelligence (GEOINT) is the collection and analysis of geographic
+  information and imagery to support national security and decision-making processes.
+  It encompasses the use of satellite imagery, mapping data, and other geospatial
+  information to understand and visualize spatial relationships and patterns.
 tags:
-- Research
-category:
-- Space & Technology
+- tools
+- training
 id: GL164
+categories:
+- Space & Technology
 ---
 

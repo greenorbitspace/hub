@@ -1,19 +1,18 @@
 ---
 title: Zoning (Land Use Zoning)
 ref: zoning-land-use-zoning
-description: Zoning refers to the regulatory framework that governs how land can be
-  used in a specific area. It involves dividing land into zones designated for different
-  purposes, such as residential, commercial, industrial, or agricultural use. Zoning
-  laws help manage urban development, control population density, and ensure the orderly
-  growth of communities.
-notion_page_id: 214d6625-c679-8021-8650-f90d2ba58400
-exported_at: '2025-06-16T14:22:39.650638+00:00'
+weight: 1
+exported_at: '2025-06-16T15:02:48.851163+00:00'
+definition: Zoning refers to the process of dividing land into zones to regulate the
+  use, development, and management of that land. It determines how properties in specific
+  geographic areas can be used, such as residential, commercial, industrial, or agricultural
+  purposes.
 tags:
 - Legal/Financial
 - policies
 - management
-category:
-- Space & Technology
 id: GL228
+categories:
+- Space & Technology
 ---
 

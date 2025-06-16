@@ -1,17 +1,17 @@
 ---
-title: Leadership In Energy And Environmental Design
+title: Leadership in Energy and Environmental Design
 ref: leadership-in-energy-and-environmental-design
-description: 'Leadership in Energy and Environmental Design (LEED): A green building
-  certification program that recognizes and promotes sustainable building and design
-  practices. It provides a framework for healthy, highly efficient, and cost-saving
-  green buildings.'
-notion_page_id: 5fe8a916-a16c-484b-864b-e8651e01e5a2
-exported_at: '2025-06-16T14:24:36.335655+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:40.525256+00:00'
+definition: 'Leadership in Energy and Environmental Design (LEED): A green building
+  certification program that recognizes best-in-class building strategies and practices.
+  LEED certification is a globally recognized symbol of sustainability achievement
+  and leadership, promoting the design and construction of energy-efficient, environmentally
+  friendly buildings.'
 tags:
 - sustainability
-- Standards
-category:
-- Sustainability & Environment
 id: GL45
+categories:
+- Sustainability & Environment
 ---
 

@@ -1,17 +1,18 @@
 ---
 title: Churn
 ref: churn
-description: Churn refers to the rate at which customers stop doing business with
-  a company. It is often expressed as a percentage and is a critical metric for understanding
-  customer retention and the overall health of a business.
-notion_page_id: 214d6625-c679-802d-b807-c22954abb2b4
-exported_at: '2025-06-16T14:24:12.046068+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:59.794642+00:00'
+definition: Churn refers to the rate at which customers stop doing business with a
+  company. It is often expressed as a percentage of the total customer base over a
+  specific period of time, indicating the loss of customers and the potential impact
+  on revenue.
 tags:
 - Marketing
-- business
 - customers
-category:
-- Marketing & Communication
+- business
 id: GL94
+categories:
+- Marketing & Communication
 ---
 

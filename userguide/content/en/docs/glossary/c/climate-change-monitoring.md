@@ -1,17 +1,17 @@
 ---
 title: Climate Change Monitoring
 ref: climate-change-monitoring
-description: Climate Change Monitoring refers to the systematic observation and analysis
-  of climate variables, including temperature, precipitation, and greenhouse gas emissions,
-  to understand and track changes in the Earth's climate over time. This process is
-  crucial for assessing the impacts of climate change and informing policy decisions
-  aimed at mitigating its effects.
-notion_page_id: 214d6625-c679-80bf-a777-f3ccfaf5da48
-exported_at: '2025-06-16T14:23:45.568175+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:35.718733+00:00'
+definition: 'Climate Change Monitoring: The systematic observation and analysis of
+  climate variables and trends, including temperature, precipitation, and atmospheric
+  conditions, to assess changes in climate over time and their impacts on the environment
+  and society.'
 tags:
 - sustainability
-category:
-- Space & Technology
+- policies
 id: GL143
+categories:
+- Space & Technology
 ---
 

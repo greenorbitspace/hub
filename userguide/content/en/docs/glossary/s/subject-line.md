@@ -1,17 +1,16 @@
 ---
 title: Subject Line
 ref: subject-line
-description: A glossary term or name refers to a specific word or phrase that is defined
-  within a particular context, often providing clarity and understanding for readers
-  or users. It serves as a reference point for specialized language or jargon used
-  in a document or field.
-notion_page_id: 214d6625-c679-806b-a106-d360f5965975
-exported_at: '2025-06-16T14:23:52.297308+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:46.417864+00:00'
+definition: A glossary term is a word or phrase that is defined within a specific
+  context, typically included at the end of a document or section to provide clarity
+  and enhance understanding for the reader.
 tags:
 - Marketing
-- Email
-category:
-- Marketing & Communication
+- Research
 id: GL127
+categories:
+- Marketing & Communication
 ---
 

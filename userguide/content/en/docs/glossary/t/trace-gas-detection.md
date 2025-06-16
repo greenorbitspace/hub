@@ -1,16 +1,16 @@
 ---
 title: Trace Gas Detection
 ref: trace-gas-detection
-description: Trace gas detection refers to the methods and technologies used to identify
-  and measure the concentration of trace gases in the environment. These gases, often
-  present in very low concentrations, can include pollutants, greenhouse gases, and
-  other substances that may have significant impacts on air quality and climate.
-notion_page_id: 214d6625-c679-8022-8f40-cf1b76d0f18a
-exported_at: '2025-06-16T14:22:52.455382+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:01.284802+00:00'
+definition: 'Trace Gas Detection: The process of identifying and measuring the concentration
+  of trace gases in the atmosphere or other environments, often used in scientific
+  research and environmental monitoring to assess air quality and the presence of
+  specific gases.'
 tags:
 - Research
-category:
-- Space & Technology
 id: GL214
+categories:
+- Space & Technology
 ---
 

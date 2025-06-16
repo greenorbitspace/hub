@@ -1,17 +1,18 @@
 ---
 title: Regenerative Agriculture
 ref: regenerative-agriculture
-description: 'Regenerative Agriculture: A farming practice that focuses on restoring
-  and enhancing the health and biodiversity of ecosystems while improving soil health
-  and sequestering carbon. It emphasizes techniques that work in harmony with nature
-  to create sustainable agricultural systems.'
-notion_page_id: 7bdfc85e-a795-4260-8caf-ad4d2252de94
-exported_at: '2025-06-16T14:24:39.032804+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:43.958533+00:00'
+definition: Regenerative agriculture is a conservation-focused farming practice that
+  aims to restore and enhance the health and biodiversity of agricultural ecosystems.
+  It emphasizes soil health, water management, and sustainable practices to improve
+  the resilience of farming systems while increasing productivity and reducing environmental
+  impact.
 tags:
 - sustainability
 - goals
-category:
-- Sustainability & Environment
 id: GL39
+categories:
+- Sustainability & Environment
 ---
 

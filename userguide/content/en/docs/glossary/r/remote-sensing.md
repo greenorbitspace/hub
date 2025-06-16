@@ -1,17 +1,17 @@
 ---
-title: Remote Sensing
+title: Remote sensing
 ref: remote-sensing
-description: Remote sensing refers to the acquisition of information about an object
-  or phenomenon without making physical contact with it. This technology is commonly
-  used in various fields, including environmental monitoring, agriculture, and urban
-  planning, to collect data from satellites or aircraft.
-notion_page_id: 349006a9-69bf-4907-b165-c94801786228
-exported_at: '2025-06-16T14:24:23.267781+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:18.703298+00:00'
+definition: Remote sensing refers to the process of acquiring information about an
+  object or area from a distance, typically using satellite or aerial sensor technologies.
+  This technique is widely used in various fields, including environmental monitoring,
+  agriculture, and urban planning, to gather data without direct contact with the
+  subject being observed.
 tags:
-- sustainability
-- tools
-category:
-- Sustainability & Environment
+- Research
 id: GL73
+categories:
+- Sustainability & Environment
 ---
 

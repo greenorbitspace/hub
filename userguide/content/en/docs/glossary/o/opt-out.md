@@ -1,16 +1,16 @@
 ---
 title: Opt Out
 ref: opt-out
-description: The term "Opt Out" refers to the action taken by individuals to choose
-  not to participate in a particular program, service, or communication. In marketing,
-  it often involves consumers deciding to not receive promotional materials or communications
-  from a company.
-notion_page_id: 214d6625-c679-80af-bab3-d0a8e57234c2
-exported_at: '2025-06-16T14:23:59.429663+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:48.437351+00:00'
+definition: 'Opt Out: The process by which an individual chooses not to participate
+  in a particular program, service, or communication, typically related to marketing
+  or data collection practices.'
 tags:
 - Marketing
-category:
-- Marketing & Communication
+- Email
 id: GL122
+categories:
+- Marketing & Communication
 ---
 

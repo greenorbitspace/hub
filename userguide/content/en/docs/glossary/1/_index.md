@@ -1,7 +1,6 @@
 ---
 title: '1'
-ref: '1'
-description: ''
 weight: 1
+description: This section contains glossary entries starting with the letter **1**.
 ---
 

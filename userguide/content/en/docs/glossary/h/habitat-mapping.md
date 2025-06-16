@@ -1,16 +1,15 @@
 ---
 title: Habitat Mapping
 ref: habitat-mapping
-description: 'Habitat Mapping: The process of creating visual representations of the
-  locations and types of habitats in a specific area, often used for conservation,
-  research, and land management purposes.'
-notion_page_id: 214d6625-c679-8041-91bd-c8f11cac865c
-exported_at: '2025-06-16T14:23:21.670478+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:24.543832+00:00'
+definition: A glossary term refers to a word or phrase that is defined and explained
+  within a specific context, often found in a list at the end of a document or book.
+  It helps readers understand the terminology used in the text.
 tags:
-- sustainability
-- resources
-category:
-- Space & Technology
+- Research
 id: GL169
+categories:
+- Space & Technology
 ---
 

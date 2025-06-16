@@ -1,4 +1,4 @@
-baseURL: https://www.docs.greenorbit.space
+baseURL: https://www.hub.greenorbit.space
 title: Green Orbit Digital
 enableRobotsTXT: true
 enableGitInfo: true
@@ -90,9 +90,9 @@ params:
     feedback:
       enable: true
       'yes': >-
-        Thanks for your feedback! Please <a href="https://github.com/greenorbitdigital/greenorbit-docs/issues/new">let us know how we can improve</a>.
+        Thanks for your feedback! Please <a href="https://github.com/greenorbitspace/docsy/issues/new">let us know how we can improve</a>.
       'no': >-
-        Sorry to hear that. Please <a href="https://github.com/greenorbitdigital/greenorbit-docs/issues/new">tell us what went wrong</a>.
+        Sorry to hear that. Please <a href="https://github.com/greenorbitspace/docsy/issues/new">tell us what went wrong</a>.
     readingtime:
       enable: true
   links:

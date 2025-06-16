@@ -1,16 +1,17 @@
 ---
 title: Pollution Plume Tracking
 ref: pollution-plume-tracking
-description: 'Pollution Plume Tracking: The process of monitoring and analyzing the
-  movement and dispersion of pollutants in the air or water, often using various detection
-  methods and modeling techniques to understand the impact on the environment and
-  public health.'
-notion_page_id: 214d6625-c679-8053-842c-fc52f608c5ce
-exported_at: '2025-06-16T14:23:06.572659+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:15.730140+00:00'
+definition: Pollution plume tracking refers to the methods and technologies used to
+  monitor and analyze the dispersion of pollutants in the atmosphere or water bodies.
+  This process helps in understanding the movement and concentration of pollutants,
+  enabling better management and mitigation strategies.
 tags:
-- Research
-category:
-- Space & Technology
+- sustainability
+- tools
 id: GL190
+categories:
+- Space & Technology
 ---
 

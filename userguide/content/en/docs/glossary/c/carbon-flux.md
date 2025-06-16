@@ -1,16 +1,16 @@
 ---
 title: Carbon Flux
 ref: carbon-flux
-description: Carbon flux refers to the rate at which carbon is exchanged between the
-  Earth's ecosystems, atmosphere, and oceans. It is a crucial component in understanding
-  the global carbon cycle and its impact on climate change.
-notion_page_id: 214d6625-c679-8044-939e-fb1bab09eab9
-exported_at: '2025-06-16T14:23:47.260439+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:37.976751+00:00'
+definition: 'Carbon Flux: The rate at which carbon is exchanged between different
+  reservoirs in the carbon cycle, including the atmosphere, oceans, and terrestrial
+  ecosystems. It is a critical component in understanding climate change and the global
+  carbon balance.'
 tags:
-- sustainability
-- goals
-category:
-- Space & Technology
+- Research
 id: GL140
+categories:
+- Space & Technology
 ---
 

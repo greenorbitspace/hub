@@ -1,0 +1,17 @@
+---
+title: Quality
+ref: quality
+weight: 1
+exported_at: '2025-06-16T15:04:46.024020+00:00'
+definition: Quality refers to the degree to which a set of inherent characteristics
+  of an object fulfills requirements. In a broader sense, it encompasses the overall
+  standard of something as measured against other things of a similar kind, or the
+  inherent excellence of a product or service.
+tags:
+- Standards
+- guide
+id: GL368
+categories:
+- ISO terminology
+---
+

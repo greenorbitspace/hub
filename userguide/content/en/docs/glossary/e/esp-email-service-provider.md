@@ -1,19 +1,18 @@
 ---
-title: 'Esp: Email Service Provider'
+title: 'ESP: Email Service Provider'
 ref: esp-email-service-provider
-description: An Email Service Provider (ESP) is a company that offers email marketing
-  services, allowing businesses to send bulk emails to their customers and manage
-  their email marketing campaigns effectively. ESPs provide tools for creating, sending,
-  and tracking emails, as well as managing subscriber lists and ensuring compliance
-  with email marketing regulations.
-notion_page_id: 214d6625-c679-807f-815b-d739898c1e70
-exported_at: '2025-06-16T14:24:03.697757+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:54.026135+00:00'
+definition: An Email Service Provider (ESP) is a company that offers email marketing
+  services and solutions to businesses and organizations. ESPs provide tools for designing,
+  sending, and tracking email campaigns, allowing users to manage their email lists,
+  segment audiences, and analyze campaign performance.
 tags:
-- Email
 - Marketing
+- Email
 - CRM
-category:
-- Marketing & Communication
 id: GL111
+categories:
+- Marketing & Communication
 ---
 

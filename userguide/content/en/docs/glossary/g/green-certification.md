@@ -1,17 +1,16 @@
 ---
 title: Green Certification
 ref: green-certification
-description: Green Certification refers to the process by which a product, service,
-  or organization is evaluated and recognized for meeting specific environmental standards
-  and practices. This certification signifies a commitment to sustainability and environmentally
-  friendly practices.
-notion_page_id: b28995ba-c5a6-4d1b-a0b5-3da3b414f043
-exported_at: '2025-06-16T14:24:29.366485+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:35.981680+00:00'
+definition: Green Certification refers to a formal recognition given to products,
+  services, or organizations that meet specific environmental standards and criteria.
+  It demonstrates a commitment to sustainability and eco-friendly practices, often
+  involving assessments by third-party organizations.
 tags:
 - sustainability
-- policies
-category:
-- Sustainability & Environment
 id: GL61
+categories:
+- Sustainability & Environment
 ---
 

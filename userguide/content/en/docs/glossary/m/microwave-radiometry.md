@@ -1,16 +1,15 @@
 ---
 title: Microwave Radiometry
 ref: microwave-radiometry
-description: Microwave radiometry is a technique used to measure the intensity of
-  microwave radiation emitted by objects. This method is commonly applied in remote
-  sensing and meteorological studies to gather data about the Earth's surface and
-  atmosphere.
-notion_page_id: 214d6625-c679-803a-b792-e1d02ce35c0a
-exported_at: '2025-06-16T14:23:12.880286+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:19.897143+00:00'
+definition: Microwave radiometry is a technique used for measuring the intensity of
+  microwave radiation emitted by objects, often used in remote sensing applications
+  to retrieve information about the Earth's surface or atmosphere.
 tags:
 - Research
-category:
-- Space & Technology
 id: GL180
+categories:
+- Space & Technology
 ---
 

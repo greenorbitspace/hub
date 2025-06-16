@@ -1,15 +1,17 @@
 ---
-title: 'Cpm: Cost Per Mille'
+title: 'CPM: Cost per Mille'
 ref: cpm-cost-per-mille
-description: CPM, or Cost per Mille, refers to the cost of 1,000 impressions or views
-  of an advertisement. It is a common metric used in advertising to measure the cost-effectiveness
-  of a campaign and is often used in online and digital marketing.
-notion_page_id: 214d6625-c679-8080-8912-ec847fdc58d7
-exported_at: '2025-06-16T14:24:08.691898+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:56.138223+00:00'
+definition: Cost per Mille (CPM) is a marketing term that refers to the cost of 1,000
+  impressions or views of an advertisement. It is commonly used to assess the cost-effectiveness
+  of advertising campaigns, particularly in digital marketing, where tracking impressions
+  is essential for evaluating performance.
 tags:
 - Marketing
-category:
-- Marketing & Communication
+- advertising
 id: GL102
+categories:
+- Marketing & Communication
 ---
 

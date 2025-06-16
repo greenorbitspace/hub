@@ -1,16 +1,17 @@
 ---
 title: Altimetry
 ref: altimetry
-description: Altimetry is the measurement of altitude or height, typically using instruments
-  such as altimeters, to determine the elevation of an object or point relative to
-  a reference level, usually sea level.
-notion_page_id: 214d6625-c679-80fe-a442-e4821b77903b
-exported_at: '2025-06-16T14:23:50.669355+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:42.739483+00:00'
+definition: Altimetry is the measurement of altitude or height, specifically the measurement
+  of the distance from a point to a reference surface, often the Earth's surface.
+  In the context of space and technology, altimetry is used to map topography, monitor
+  sea level changes, and assess atmospheric conditions using various remote sensing
+  techniques.
 tags:
 - tools
-- infrastructure
-category:
-- Space & Technology
 id: GL132
+categories:
+- Space & Technology
 ---
 

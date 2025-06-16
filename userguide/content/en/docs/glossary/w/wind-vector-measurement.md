@@ -1,16 +1,18 @@
 ---
 title: Wind Vector Measurement
 ref: wind-vector-measurement
-description: A wind vector measurement refers to the quantitative assessment of wind
-  speed and direction at a specific location. This measurement is typically represented
-  as a vector, indicating both the magnitude (speed) and the direction from which
-  the wind is blowing.
-notion_page_id: 214d6625-c679-80fd-a39a-d178cc9cf4ac
-exported_at: '2025-06-16T14:22:40.692475+00:00'
+weight: 1
+exported_at: '2025-06-16T15:02:54.670763+00:00'
+definition: A wind vector measurement is a quantitative assessment of the speed and
+  direction of wind at a specific location. It is typically represented as an arrow,
+  where the length indicates wind speed and the direction of the arrow indicates the
+  wind's direction. This measurement is crucial for various applications, including
+  meteorology, aviation, and environmental studies.
 tags:
 - Research
-category:
-- Space & Technology
+- Standards
 id: GL225
+categories:
+- Space & Technology
 ---
 

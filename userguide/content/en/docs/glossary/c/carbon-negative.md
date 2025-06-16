@@ -1,18 +1,17 @@
 ---
-title: Carbon Negative
+title: Carbon negative
 ref: carbon-negative
-description: Carbon negative refers to a state in which an individual, organization,
-  or activity removes more carbon dioxide from the atmosphere than it emits, resulting
-  in a net reduction of atmospheric carbon levels. This can be achieved through various
-  methods, such as reforestation, carbon capture technologies, and sustainable practices
-  that promote a lower carbon footprint.
-notion_page_id: 877a5dd2-6141-40cb-8afc-df22a2d3bd1c
-exported_at: '2025-06-16T14:24:48.686007+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:51.529046+00:00'
+definition: Carbon negative refers to the process of removing more carbon dioxide
+  from the atmosphere than is emitted, resulting in a net reduction of carbon in the
+  environment. This can be achieved through various methods, including reforestation,
+  carbon capture technologies, and sustainable agricultural practices.
 tags:
 - sustainability
 - goals
-category:
-- Sustainability & Environment
 id: GL19
+categories:
+- Sustainability & Environment
 ---
 

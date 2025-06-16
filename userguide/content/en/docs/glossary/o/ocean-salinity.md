@@ -1,15 +1,13 @@
 ---
 title: Ocean Salinity
 ref: ocean-salinity
-description: Ocean salinity refers to the concentration of dissolved salts in seawater,
-  typically expressed in parts per thousand (ppt). It plays a crucial role in ocean
-  circulation, marine life, and climate regulation.
-notion_page_id: 214d6625-c679-80c5-8d10-d6235915f994
-exported_at: '2025-06-16T14:23:08.852439+00:00'
-tags:
-- Research
-category:
-- Space & Technology
+weight: 1
+exported_at: '2025-06-16T15:03:17.284550+00:00'
+definition: Ocean salinity refers to the concentration of salts dissolved in seawater,
+  typically measured in parts per thousand (ppt). It plays a crucial role in ocean
+  circulation, climate regulation, and the health of marine ecosystems.
 id: GL184
+categories:
+- Space & Technology
 ---
 

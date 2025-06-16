@@ -1,18 +1,18 @@
 ---
-title: Climate Neutral(Ity)
+title: Climate neutral(ity)
 ref: climate-neutrality
-description: Climate neutrality refers to achieving a balance between emitting carbon
-  and absorbing carbon from the atmosphere in carbon sinks. It means that an individual,
-  organization, or country is not contributing to the increase of greenhouse gases
-  in the atmosphere, often through a combination of reducing emissions and investing
-  in renewable energy or carbon offset projects.
-notion_page_id: d732b48e-f556-4d37-ba31-8291e816b897
-exported_at: '2025-06-16T14:24:54.361510+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:53.988182+00:00'
+definition: Climate neutrality refers to achieving net-zero carbon emissions by balancing
+  the amount of greenhouse gases emitted with an equivalent amount offset or removed
+  from the atmosphere. This can be accomplished through various strategies, including
+  reducing emissions, increasing energy efficiency, and investing in renewable energy
+  sources.
 tags:
 - sustainability
 - goals
-category:
-- Sustainability & Environment
 id: GL27
+categories:
+- Sustainability & Environment
 ---
 

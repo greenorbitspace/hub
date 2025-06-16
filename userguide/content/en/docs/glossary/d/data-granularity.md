@@ -1,17 +1,17 @@
 ---
 title: Data Granularity
 ref: data-granularity
-description: Data granularity refers to the level of detail or precision of data collected
-  and stored in a database or dataset. It indicates how finely the data is broken
-  down, with finer granularity providing more detailed information, while coarser
-  granularity offers a more general overview.
-notion_page_id: 214d6625-c679-807d-a5bc-e03aa93c6462
-exported_at: '2025-06-16T14:23:43.492683+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:32.693680+00:00'
+definition: Data granularity refers to the level of detail or precision of data within
+  a dataset. It indicates how fine or coarse the data points are, affecting the analysis
+  and insights that can be derived from the data. Higher granularity means more detailed
+  data, while lower granularity indicates more summarized or aggregated data.
 tags:
 - Research
 - Standards
-category:
-- Space & Technology
 id: GL149
+categories:
+- Space & Technology
 ---
 

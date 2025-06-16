@@ -1,18 +1,18 @@
 ---
 title: Greenwashing
 ref: greenwashing
-description: Greenwashing refers to the practice of companies or organizations misleading
-  consumers regarding the environmental practices of their products or the environmental
-  benefits of their products. It often involves making false or exaggerated claims
-  about sustainability, aiming to improve their public image without making significant
-  changes to their environmental impact.
-notion_page_id: e5817593-dc8b-487e-b266-ebe60dd871ab
-exported_at: '2025-06-16T14:24:41.401234+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:46.986531+00:00'
+definition: Greenwashing refers to the practice of companies or organizations misleading
+  consumers about the environmental benefits of a product, service, or company practices.
+  It often involves exaggeration or false claims to appear more environmentally friendly
+  than they actually are, thus misleading stakeholders and potentially undermining
+  genuine sustainability efforts.
 tags:
 - sustainability
 - public relations
-category:
-- Sustainability & Environment
 id: GL32
+categories:
+- Sustainability & Environment
 ---
 

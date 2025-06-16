@@ -1,18 +1,17 @@
 ---
-title: B Corp Certification
+title: B-Corp Certification
 ref: b-corp-certification
-description: B-Corp Certification is a designation granted to companies that meet
-  high standards of social and environmental performance, accountability, and transparency.
-  It signifies a commitment to balancing profit and purpose, ensuring that the company
-  considers the impact of its decisions on workers, customers, suppliers, community,
-  and the environment.
-notion_page_id: fe4ebaef-22de-4161-b196-d0007715318c
-exported_at: '2025-06-16T14:24:39.241047+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:44.257823+00:00'
+definition: B-Corp Certification is a designation awarded to companies that meet high
+  standards of social and environmental performance, accountability, and transparency.
+  B-Corps aim to balance profit with purpose and are assessed on their impact on workers,
+  customers, community, and the environment.
 tags:
 - sustainability
 - business
-category:
-- Sustainability & Environment
 id: GL38
+categories:
+- Sustainability & Environment
 ---
 

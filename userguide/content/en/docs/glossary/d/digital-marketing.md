@@ -1,18 +1,20 @@
 ---
 title: Digital Marketing
 ref: digital-marketing
-description: 'Digital Marketing: The use of digital channels, platforms, and technologies
-  to promote products or services, engage with customers, and drive brand awareness.
-  This includes various online marketing tactics such as search engine optimization
-  (SEO), social media marketing, email marketing, and content marketing.'
-notion_page_id: 214d6625-c679-8036-a455-ea0c15f929a4
-exported_at: '2025-06-16T14:24:06.627420+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:55.927014+00:00'
+definition: Digital Marketing refers to the use of digital channels, platforms, and
+  technologies to promote products or services to consumers. This includes online
+  advertising, social media marketing, email marketing, search engine optimization
+  (SEO), and content marketing, among others. The goal of digital marketing is to
+  reach a targeted audience effectively and engage them to drive conversions and brand
+  loyalty.
 tags:
 - Marketing
 - Social media
 - Email
-category:
-- Marketing & Communication
 id: GL103
+categories:
+- Marketing & Communication
 ---
 

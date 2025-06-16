@@ -1,18 +1,16 @@
 ---
 title: Sustainable Packaging
 ref: sustainable-packaging
-description: Sustainable packaging refers to the development and use of packaging
-  solutions that have a minimal environmental impact. This includes materials that
-  are recyclable, biodegradable, or made from renewable resources, as well as packaging
-  designs that reduce waste and energy consumption throughout their lifecycle.
-notion_page_id: 5edf7c85-afd5-4a5b-87d3-6e566087b418
-exported_at: '2025-06-16T14:24:25.267322+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:34.179573+00:00'
+definition: Sustainable packaging refers to packaging solutions that are designed
+  to have a minimal environmental impact and reduce waste. This includes the use of
+  recyclable, biodegradable, or compostable materials, as well as packaging that minimizes
+  resource consumption during production and transportation.
 tags:
 - sustainability
-- resources
-- goals
-category:
-- Sustainability & Environment
 id: GL66
+categories:
+- Sustainability & Environment
 ---
 

@@ -1,20 +1,15 @@
 ---
 title: Water Quality Monitoring
 ref: water-quality-monitoring
-description: '## Glossary Term: Water Quality Monitoring
-
-
-  Water quality monitoring refers to the systematic collection and analysis of water
-  samples to assess the physical, chemical, and biological conditions of water bodies.
-  This process is essential for ensuring safe drinking water, maintaining healthy
-  ecosystems, and complying with environmental regulations.'
-notion_page_id: 214d6625-c679-80db-b652-f02d105c0f03
-exported_at: '2025-06-16T14:22:42.567940+00:00'
+weight: 1
+exported_at: '2025-06-16T15:02:56.442978+00:00'
+definition: 'Water Quality Monitoring: The process of systematically collecting data
+  on the quality of water sources to assess their health and safety for human consumption,
+  environmental sustainability, and ecological balance.'
 tags:
-- resources
-- goals
-category:
-- Space & Technology
+- sustainability
 id: GL222
+categories:
+- Space & Technology
 ---
 

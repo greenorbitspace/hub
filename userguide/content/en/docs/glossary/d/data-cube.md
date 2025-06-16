@@ -1,17 +1,16 @@
 ---
 title: Data Cube
 ref: data-cube
-description: A data cube is a multi-dimensional array of values, typically used to
-  represent data in data warehousing and online analytical processing (OLAP) applications.
-  It allows for the organization and analysis of data across multiple dimensions,
-  such as time, geography, and product categories, enabling users to perform complex
-  queries and retrieve insights efficiently.
-notion_page_id: 214d6625-c679-80b9-a3df-d4801881a188
-exported_at: '2025-06-16T14:23:44.026042+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:34.126881+00:00'
+definition: A data cube is a multi-dimensional array of values, commonly used to describe
+  the relationship between different data points in a structured format. It allows
+  users to analyze and visualize data from multiple perspectives, enhancing the ability
+  to derive insights and make informed decisions.
 tags:
 - Research
-category:
-- Space & Technology
 id: GL147
+categories:
+- Space & Technology
 ---
 

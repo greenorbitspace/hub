@@ -1,17 +1,16 @@
 ---
 title: Meteorological Satellite
 ref: meteorological-satellite
-description: A meteorological satellite is a type of satellite specifically designed
-  to monitor and collect data related to the Earth's weather and climate. These satellites
-  provide valuable information for weather forecasting, climate research, and environmental
-  monitoring by capturing images and data about atmospheric conditions, temperature,
-  humidity, and cloud cover.
-notion_page_id: 214d6625-c679-80a2-bb37-d81c680a4d62
-exported_at: '2025-06-16T14:23:13.096579+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:20.145535+00:00'
+definition: A meteorological satellite is an artificial satellite that is primarily
+  used to monitor and collect data about the Earth's weather and climate. These satellites
+  provide critical information for weather forecasting, environmental monitoring,
+  and scientific research.
 tags:
-- tools
-category:
-- Space & Technology
+- Research
 id: GL179
+categories:
+- Space & Technology
 ---
 

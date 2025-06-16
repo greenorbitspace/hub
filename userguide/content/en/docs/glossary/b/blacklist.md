@@ -1,16 +1,17 @@
 ---
 title: Blacklist
 ref: blacklist
-description: A glossary term refers to a word or phrase that is defined in a specific
-  context, often accompanied by a brief explanation or description to clarify its
-  meaning for readers.
-notion_page_id: 214d6625-c679-8029-a170-f06e4375cbfa
-exported_at: '2025-06-16T14:24:14.916936+00:00'
+weight: 1
+exported_at: '2025-06-16T15:04:01.626384+00:00'
+definition: A glossary term is a word or phrase that is defined and explained, typically
+  found at the end of a document or within a specialized text, to help readers understand
+  specific terminology related to the subject matter.
 tags:
 - Marketing
 - Research
-category:
-- Marketing & Communication
+- documents
 id: GL90
+categories:
+- Marketing & Communication
 ---
 

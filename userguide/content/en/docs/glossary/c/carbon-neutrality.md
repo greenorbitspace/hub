@@ -1,18 +1,18 @@
 ---
-title: Carbon Neutral(Ity)
+title: Carbon neutral(ity)
 ref: carbon-neutrality
-description: 'Carbon Neutrality: Carbon neutrality refers to the balance between emitting
-  carbon and absorbing carbon from the atmosphere in carbon sinks. Achieving carbon
-  neutrality involves reducing carbon emissions and compensating for any remaining
-  emissions through measures such as reforestation or investing in renewable energy
-  projects.'
-notion_page_id: 192ae817-7959-49d6-83ce-1b5afa499978
-exported_at: '2025-06-16T14:24:41.963416+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:47.600370+00:00'
+definition: Carbon neutral(ity) refers to the state of achieving net-zero carbon emissions
+  by balancing the amount of carbon released with an equivalent amount of carbon offset
+  or eliminated from the atmosphere. This can be accomplished through various means,
+  such as reducing energy consumption, utilizing renewable energy sources, and investing
+  in carbon offset projects.
 tags:
 - sustainability
 - goals
-category:
-- Sustainability & Environment
 id: GL7
+categories:
+- Sustainability & Environment
 ---
 

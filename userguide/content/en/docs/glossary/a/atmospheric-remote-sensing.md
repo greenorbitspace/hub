@@ -1,17 +1,17 @@
 ---
 title: Atmospheric Remote Sensing
 ref: atmospheric-remote-sensing
-description: Atmospheric Remote Sensing refers to the use of various technologies
-  and techniques to collect data about the atmosphere from a distance, typically using
-  satellites or aircraft. This field involves measuring atmospheric properties such
-  as temperature, humidity, and pollution levels to better understand weather patterns,
-  climate change, and other environmental phenomena.
-notion_page_id: 214d6625-c679-8051-8395-ca7ad0eb92bd
-exported_at: '2025-06-16T14:23:48.839752+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:40.228828+00:00'
+definition: Atmospheric remote sensing refers to the technology and methods used to
+  collect data about the Earth's atmosphere from a distance, typically using satellites
+  or aircraft. This technique enables the monitoring of atmospheric conditions, including
+  temperature, humidity, and pollutant levels, which is essential for weather forecasting,
+  climate studies, and environmental monitoring.
 tags:
 - Research
-category:
-- Space & Technology
 id: GL137
+categories:
+- Space & Technology
 ---
 

@@ -1,17 +1,17 @@
 ---
 title: Infrared Imaging
 ref: infrared-imaging
-description: Infrared imaging is a technique that uses infrared radiation to create
-  images of objects based on their thermal energy. This technology is commonly used
-  in various fields, including astronomy, surveillance, and medical diagnostics, to
-  visualize heat patterns and detect temperature variations.
-notion_page_id: 214d6625-c679-8072-997e-e8c7bd5f6c69
-exported_at: '2025-06-16T14:23:18.574929+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:23.659463+00:00'
+definition: Infrared imaging is a technique that captures images using infrared radiation,
+  which is not visible to the human eye. This technology is commonly used in various
+  fields, including astronomy, surveillance, and medical imaging, to detect heat emitted
+  by objects and create thermal images.
 tags:
-- applications
-- tools
-category:
-- Space & Technology
+- Research
+- Standards
 id: GL171
+categories:
+- Space & Technology
 ---
 

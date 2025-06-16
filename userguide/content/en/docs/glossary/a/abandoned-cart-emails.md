@@ -1,17 +1,18 @@
 ---
 title: Abandoned Cart Emails
 ref: abandoned-cart-emails
-description: Abandoned Cart Emails are marketing messages sent to customers who have
+weight: 1
+exported_at: '2025-06-16T15:04:05.704148+00:00'
+definition: Abandoned cart emails are automated messages sent to customers who have
   added items to their online shopping cart but have not completed the purchase. These
-  emails typically remind customers of their abandoned items and may include incentives,
-  such as discounts or free shipping, to encourage them to finalize their purchase.
-notion_page_id: 214d6625-c679-8057-be4a-e7cb16a8d993
-exported_at: '2025-06-16T14:24:21.787356+00:00'
+  emails serve as reminders to encourage the customer to return to the website and
+  finalize their transaction, often including incentives such as discounts or free
+  shipping.
 tags:
 - Marketing
 - Email
-category:
-- Marketing & Communication
 id: GL84
+categories:
+- Marketing & Communication
 ---
 

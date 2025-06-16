@@ -1,16 +1,15 @@
 ---
 title: Unsubscribe Rate
 ref: unsubscribe-rate
-description: The unsubscribe rate is a metric that measures the percentage of subscribers
-  who opt out of receiving communications from a company or organization over a specific
-  period. It is an important indicator of audience engagement and the effectiveness
-  of marketing strategies.
-notion_page_id: 214d6625-c679-8038-84ca-fcfc1610f126
-exported_at: '2025-06-16T14:23:52.054186+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:45.444428+00:00'
+definition: The unsubscribe rate is the percentage of recipients who choose to opt
+  out of receiving future communications from a mailing list, indicating the effectiveness
+  of email marketing efforts and the relevance of the content provided to the audience.
 tags:
 - Marketing
-category:
-- Marketing & Communication
 id: GL128
+categories:
+- Marketing & Communication
 ---
 

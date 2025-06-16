@@ -1,17 +1,18 @@
 ---
-title: Anti Spam Laws
+title: Anti-Spam Laws
 ref: anti-spam-laws
-description: Anti-spam laws refer to regulations designed to prohibit unsolicited
-  and unwanted communications, particularly through email. These laws aim to protect
-  consumers from spam and other forms of electronic harassment by establishing guidelines
-  for the use of commercial electronic messages.
-notion_page_id: 214d6625-c679-808e-bfe5-ddab8c24765e
-exported_at: '2025-06-16T14:24:20.584225+00:00'
+weight: 1
+exported_at: '2025-06-16T15:04:04.680812+00:00'
+definition: Anti-spam laws are regulations that govern the sending of unsolicited
+  messages, particularly through email. These laws aim to protect consumers from unwanted
+  communications and promote responsible marketing practices by requiring businesses
+  to obtain consent before sending promotional messages.
 tags:
 - Marketing
 - Email
-category:
-- Marketing & Communication
+- Legal/Financial
 id: GL86
+categories:
+- Marketing & Communication
 ---
 

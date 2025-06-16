@@ -1,17 +1,16 @@
 ---
 title: Active Remote Sensing
 ref: active-remote-sensing
-description: Active remote sensing is a method of collecting information about an
-  object or area by using sensors that emit energy, such as radar or lidar, and measure
-  the reflected signals to gather data about the distance, shape, and characteristics
-  of the object or surface being studied.
-notion_page_id: 214d6625-c679-80d9-b25f-e888b7fbf858
-exported_at: '2025-06-16T14:23:51.813623+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:44.202152+00:00'
+definition: Active remote sensing is a technique used to measure and analyze the characteristics
+  of an object or phenomenon by emitting energy (such as radar or laser) and measuring
+  the reflected signals. This method is often used in various fields, including meteorology,
+  environmental monitoring, and earth sciences.
 tags:
-- Research
-- Standards
-category:
-- Space & Technology
+- resources
 id: GL129
+categories:
+- Space & Technology
 ---
 

@@ -1,15 +1,16 @@
 ---
 title: Soil Moisture Monitoring
 ref: soil-moisture-monitoring
-description: 'Soil Moisture Monitoring: The process of measuring and tracking the
-  amount of water present in the soil, which is crucial for understanding plant health,
-  optimizing irrigation, and managing water resources effectively.'
-notion_page_id: 214d6625-c679-80d0-b62c-c23fa98681f8
-exported_at: '2025-06-16T14:22:59.184389+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:07.270049+00:00'
+definition: Soil moisture monitoring refers to the process of measuring the amount
+  of water present in the soil. This is crucial for agriculture, environmental monitoring,
+  and water resource management, as it helps in understanding soil health, irrigation
+  needs, and the overall ecosystem.
 tags:
-- sustainability
-category:
-- Space & Technology
+- Research
 id: GL204
+categories:
+- Space & Technology
 ---
 

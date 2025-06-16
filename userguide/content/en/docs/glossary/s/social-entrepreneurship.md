@@ -1,18 +1,19 @@
 ---
 title: Social Entrepreneurship
 ref: social-entrepreneurship
-description: Social entrepreneurship refers to the practice of identifying, starting,
-  and growing ventures that not only seek to make a profit but also aim to create
-  social or environmental benefits. These entrepreneurs use innovative solutions to
-  address pressing social issues and often reinvest their profits into their missions.
-notion_page_id: c34d8a5c-9fe7-4c69-9f7d-c0ca97f998e8
-exported_at: '2025-06-16T14:24:31.642277+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:37.910236+00:00'
+definition: Social entrepreneurship is the practice of identifying, starting, and
+  growing ventures—nonprofit or for-profit—that primarily aim to create social or
+  environmental impact. Social entrepreneurs innovate and implement solutions to address
+  societal challenges, balancing financial sustainability with a commitment to improving
+  communities and the world.
 tags:
 - sustainability
 - business
 - goals
-category:
-- Sustainability & Environment
 id: GL54
+categories:
+- Sustainability & Environment
 ---
 

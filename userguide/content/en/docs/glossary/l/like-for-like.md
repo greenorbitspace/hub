@@ -1,17 +1,17 @@
 ---
-title: Like For Like
+title: Like for Like
 ref: like-for-like
-description: 'Like for Like: A concept in sustainability that refers to replacing
-  an item with another item that is of equal or similar value, function, or quality,
-  ensuring that the environmental impact remains consistent or improves.'
-notion_page_id: 83df5945-412c-458e-bc0d-813746a1befa
-exported_at: '2025-06-16T14:24:48.027135+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:50.194601+00:00'
+definition: 'Like for Like: A principle in sustainability and environmental practices
+  where a replacement or alternative product or service is considered equivalent to
+  the original, ensuring that the overall impact on the environment remains the same
+  or is improved.'
 tags:
 - sustainability
-- resources
-- goals
-category:
-- Sustainability & Environment
+- policies
 id: GL16
+categories:
+- Sustainability & Environment
 ---
 

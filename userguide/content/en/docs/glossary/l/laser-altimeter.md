@@ -1,17 +1,17 @@
 ---
 title: Laser Altimeter
 ref: laser-altimeter
-description: A laser altimeter is a device that uses laser light to measure the distance
-  between the instrument and the Earth's surface or other objects. It provides precise
-  elevation data and is commonly used in various applications, including topographic
-  mapping, atmospheric studies, and spacecraft navigation.
-notion_page_id: 214d6625-c679-8097-9b6b-c15b01550d5a
-exported_at: '2025-06-16T14:23:15.255992+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:22.013089+00:00'
+definition: A laser altimeter is an instrument that uses laser beams to measure the
+  distance between the sensor and the surface of an object or terrain. It emits laser
+  pulses and calculates the time it takes for the light to return after reflecting
+  off the surface, allowing for precise elevation measurements.
 tags:
-- applications
-- tools
-category:
-- Space & Technology
+- Research
+- Standards
 id: GL176
+categories:
+- Space & Technology
 ---
 

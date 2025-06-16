@@ -1,16 +1,17 @@
 ---
 title: Sensor Calibration
 ref: sensor-calibration
-description: Sensor calibration is the process of adjusting and fine-tuning a sensor's
-  output to ensure accurate measurements and performance within specified limits.
-  This process involves comparing the sensor's readings to a known standard and making
-  necessary adjustments to minimize any discrepancies.
-notion_page_id: 214d6625-c679-80cb-ac90-f0343ccbc636
-exported_at: '2025-06-16T14:22:59.487583+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:07.513278+00:00'
+definition: Sensor calibration is the process of adjusting and validating the accuracy
+  of a sensor's measurements to ensure they align with known standards or values.
+  This process is essential for maintaining the reliability and precision of sensors
+  used in various applications, including scientific research, industrial processes,
+  and technological devices.
 tags:
 - training
-category:
-- Space & Technology
 id: GL203
+categories:
+- Space & Technology
 ---
 

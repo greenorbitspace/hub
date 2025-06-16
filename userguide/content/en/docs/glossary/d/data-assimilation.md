@@ -1,17 +1,17 @@
 ---
 title: Data Assimilation
 ref: data-assimilation
-description: Data assimilation is a mathematical and statistical technique used to
-  combine observational data with numerical models to improve the accuracy of predictions.
-  It is commonly applied in fields such as meteorology, oceanography, and environmental
-  science to enhance model performance by incorporating real-time data.
-notion_page_id: 214d6625-c679-8082-8a66-c1a55835a2af
-exported_at: '2025-06-16T14:23:44.260583+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:34.381345+00:00'
+definition: Data assimilation is the process of integrating real-time data into a
+  mathematical model to improve its accuracy and predictive capabilities. It is commonly
+  used in fields such as meteorology, oceanography, and environmental science to enhance
+  the understanding of dynamic systems.
 tags:
 - Research
 - Standards
-category:
-- Space & Technology
 id: GL146
+categories:
+- Space & Technology
 ---
 

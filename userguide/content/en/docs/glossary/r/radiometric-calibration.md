@@ -1,18 +1,18 @@
 ---
 title: Radiometric Calibration
 ref: radiometric-calibration
-description: Radiometric calibration is the process of adjusting and correcting the
-  output of a sensor to ensure that the measurements it provides accurately reflect
-  the true intensity of the radiation being measured. This process is essential for
-  ensuring the reliability and accuracy of data collected in remote sensing and imaging
-  applications.
-notion_page_id: 214d6625-c679-80b1-8f8a-dcfc18d562f2
-exported_at: '2025-06-16T14:23:05.914239+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:13.968208+00:00'
+definition: Radiometric calibration is the process of ensuring that the measurements
+  obtained from a sensor or imaging system accurately reflect the true radiance of
+  the observed scene. This calibration is crucial for quantifying the data collected
+  by remote sensing instruments, enabling consistent and reliable analysis of the
+  information gathered.
 tags:
-- Research
 - Standards
-category:
-- Space & Technology
+- Research
 id: GL192
+categories:
+- Space & Technology
 ---
 

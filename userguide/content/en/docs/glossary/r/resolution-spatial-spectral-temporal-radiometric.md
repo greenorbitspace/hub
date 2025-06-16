@@ -1,26 +1,27 @@
 ---
 title: Resolution (Spatial, Spectral, Temporal, Radiometric)
 ref: resolution-spatial-spectral-temporal-radiometric
-description: 'Resolution refers to the ability of an imaging system to distinguish
-  between two or more separate objects or features. It can be categorized into four
-  types:
+weight: 1
+exported_at: '2025-06-16T15:03:10.419827+00:00'
+definition: 'Resolution refers to the ability to distinguish between different features
+  in data collected from various sensors. It can be categorized into four types:
 
 
-  - Spatial Resolution: The level of detail in an image, defined by the smallest discernible
-  feature.
+  - Spatial Resolution: The smallest discernible unit on the ground, typically measured
+  in meters.
 
-  - Spectral Resolution: The ability to resolve features in the electromagnetic spectrum,
-  determining how finely the spectrum is divided.
+  - Spectral Resolution: The ability to resolve features based on their spectral characteristics,
+  often defined by the number and width of spectral bands.
 
-  - Temporal Resolution: The frequency at which data is collected over time, affecting
-  how dynamic changes are captured.
+  - Temporal Resolution: The frequency at which data is collected over the same area,
+  indicating how often observations are made.
 
   - Radiometric Resolution: The sensitivity of a sensor to detect variations in energy
-  levels, indicating how many different values of intensity can be captured.'
-notion_page_id: 214d6625-c679-8082-8873-f0add2fd0f6d
-exported_at: '2025-06-16T14:23:02.702609+00:00'
-category:
-- Space & Technology
+  levels, usually described by the number of bits used to represent the data.'
+tags:
+- tools
 id: GL196
+categories:
+- Space & Technology
 ---
 

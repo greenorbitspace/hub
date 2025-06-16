@@ -1,16 +1,16 @@
 ---
-title: Bcc
+title: BCC
 ref: bcc
-description: 'BCC: Blind Carbon Copy; a feature in email that allows the sender to
-  send a copy of an email to multiple recipients without them knowing who the other
-  recipients are.'
-notion_page_id: 214d6625-c679-8098-9ebb-dd04b01bc70e
-exported_at: '2025-06-16T14:24:17.940480+00:00'
+weight: 1
+exported_at: '2025-06-16T15:04:03.297997+00:00'
+definition: 'BCC: BCC stands for "Blind Carbon Copy." It is a feature in email communication
+  that allows the sender to send a copy of the email to multiple recipients without
+  revealing their email addresses to each other.'
 tags:
 - Email
 - Marketing
-category:
-- Marketing & Communication
 id: GL88
+categories:
+- Marketing & Communication
 ---
 

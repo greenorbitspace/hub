@@ -1,15 +1,16 @@
 ---
 title: Send Limit
 ref: send-limit
-description: The term "Send Limit" refers to the maximum number of messages or communications
-  that can be sent within a specific period of time, often set to manage resources,
-  prevent spam, or comply with regulations in marketing and communication efforts.
-notion_page_id: 214d6625-c679-80dc-88c1-eeb23f308a59
-exported_at: '2025-06-16T14:23:53.736964+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:46.678575+00:00'
+definition: The term "Send Limit" refers to the maximum number of messages, emails,
+  or communications that can be sent within a specified timeframe, often implemented
+  to manage resources, prevent spam, and ensure compliance with communication regulations.
 tags:
 - Marketing
-category:
-- Marketing & Communication
+- Email
 id: GL126
+categories:
+- Marketing & Communication
 ---
 

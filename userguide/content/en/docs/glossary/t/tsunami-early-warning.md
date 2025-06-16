@@ -1,16 +1,16 @@
 ---
 title: Tsunami Early Warning
 ref: tsunami-early-warning
-description: A tsunami early warning system is a set of systems and protocols designed
-  to detect tsunamis in their early stages and alert coastal populations to evacuate
-  or take necessary precautions to minimize loss of life and property damage.
-notion_page_id: 214d6625-c679-80c2-8194-ec6eae51a58b
-exported_at: '2025-06-16T14:22:44.314601+00:00'
+weight: 1
+exported_at: '2025-06-16T15:02:58.074683+00:00'
+definition: A tsunami early warning system is a network of sensors and communication
+  tools designed to detect and alert communities about the potential arrival of tsunami
+  waves, enabling timely evacuation and preparedness measures to minimize loss of
+  life and property damage.
 tags:
-- training
-- policies
-category:
-- Space & Technology
+- infrastructure
 id: GL218
+categories:
+- Space & Technology
 ---
 

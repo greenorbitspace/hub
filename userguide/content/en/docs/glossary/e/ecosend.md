@@ -1,15 +1,15 @@
 ---
-title: Ecosend
+title: EcoSend
 ref: ecosend
-description: EcoSend is a marketing and communication tool designed to facilitate
-  environmentally friendly practices in digital marketing, promoting sustainable messaging
-  and reducing paper waste.
-notion_page_id: 214d6625-c679-80ad-b81b-cbc54aebce29
-exported_at: '2025-06-16T14:24:05.247951+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:55.155725+00:00'
+definition: EcoSend is a marketing and communication platform designed to promote
+  sustainable practices and environmentally friendly initiatives among businesses
+  and consumers.
 tags:
 - Marketing
-category:
-- Marketing & Communication
 id: GL106
+categories:
+- Marketing & Communication
 ---
 

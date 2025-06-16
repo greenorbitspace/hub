@@ -1,18 +1,19 @@
 ---
 title: Fair Trade
 ref: fair-trade
-description: Fair Trade is a trading partnership, based on dialogue, transparency,
-  and respect, that seeks greater equity in international trade. It advocates for
-  fair prices, decent working conditions, and fair terms of trade for farmers and
-  workers, particularly in developing countries.
-notion_page_id: e4be63c1-8023-4c4f-84fa-9c2b7d1d36df
-exported_at: '2025-06-16T14:24:37.600570+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:43.338719+00:00'
+definition: Fair Trade is a trading partnership that seeks greater equity in international
+  trade by ensuring fair wages, working conditions, and environmental sustainability
+  for producers in developing countries. It promotes transparency, accountability,
+  and respect for the rights of workers, aiming to empower marginalized communities
+  and foster sustainable livelihoods.
 tags:
 - sustainability
 - advocacy
 - resources
-category:
-- Sustainability & Environment
 id: GL41
+categories:
+- Sustainability & Environment
 ---
 

@@ -1,17 +1,15 @@
 ---
 title: Environmental Indicators
 ref: environmental-indicators
-description: Environmental indicators are specific metrics or measures used to assess
-  the condition of the environment and the impact of human activities on it. They
-  help in understanding trends, informing policy decisions, and guiding sustainable
-  practices.
-notion_page_id: 214d6625-c679-804f-abf3-cc784aa01b44
-exported_at: '2025-06-16T14:23:31.452958+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:30.664506+00:00'
+definition: Environmental indicators are data points or metrics used to assess the
+  condition of the environment and to track changes over time. They help in understanding
+  the effectiveness of environmental policies and the health of ecosystems.
 tags:
-- sustainability
-- policies
-category:
-- Space & Technology
+- Research
 id: GL157
+categories:
+- Space & Technology
 ---
 

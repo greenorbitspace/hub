@@ -1,17 +1,16 @@
 ---
 title: Ecological Modelling
 ref: ecological-modelling
-description: Ecological modelling refers to the use of mathematical and computational
-  techniques to simulate and understand ecological processes and systems. It helps
-  in predicting the effects of environmental changes, species interactions, and management
-  strategies on ecosystems.
-notion_page_id: 214d6625-c679-80ad-bc37-e6babebac059
-exported_at: '2025-06-16T14:23:32.807538+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:31.222404+00:00'
+definition: Ecological Modelling refers to the use of mathematical models and simulations
+  to represent and analyze ecological systems. It helps in understanding complex interactions
+  within ecosystems, predicting changes due to environmental factors, and aiding in
+  the management of natural resources.
 tags:
-- sustainability
-- tools
-category:
-- Space & Technology
+- Research
 id: GL155
+categories:
+- Space & Technology
 ---
 

@@ -1,17 +1,17 @@
 ---
 title: Sustainability Reporting
 ref: sustainability-reporting
-description: 'Sustainability Reporting: A practice that involves disclosing an organization''s
-  environmental, social, and governance (ESG) performance and impacts. It aims to
-  provide stakeholders with a clear understanding of the company''s efforts and progress
-  towards sustainable development and environmental stewardship.'
-notion_page_id: 534b4b28-48bb-4d5b-8384-22614510a9a8
-exported_at: '2025-06-16T14:24:39.452077+00:00'
+weight: 1
+exported_at: '2025-06-16T15:05:45.181579+00:00'
+definition: 'Sustainability Reporting: The practice of measuring, disclosing, and
+  being accountable for organizational performance towards the goal of sustainable
+  development. It encompasses the reporting of economic, environmental, and social
+  impacts, allowing stakeholders to assess an organization''s commitment to sustainability.'
 tags:
 - sustainability
 - reporting
-category:
-- Sustainability & Environment
 id: GL37
+categories:
+- Sustainability & Environment
 ---
 

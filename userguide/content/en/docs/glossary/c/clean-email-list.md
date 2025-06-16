@@ -1,16 +1,17 @@
 ---
 title: Clean Email List
 ref: clean-email-list
-description: A glossary term refers to a word or phrase that is defined in a specific
-  context, often found in the back of a book or document, providing explanations to
-  help readers understand specialized language or jargon.
-notion_page_id: 214d6625-c679-80c1-b5d0-e6037b887422
-exported_at: '2025-06-16T14:24:11.804832+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:59.019225+00:00'
+definition: A glossary term refers to a word or phrase that is defined in a specialized
+  context, often accompanied by a brief explanation or description. Glossaries are
+  commonly used in books, articles, and documents to help readers understand specific
+  terminology relevant to the subject matter.
 tags:
 - Marketing
 - Email
-category:
-- Marketing & Communication
 id: GL95
+categories:
+- Marketing & Communication
 ---
 

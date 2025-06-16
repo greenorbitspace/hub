@@ -1,0 +1,16 @@
+---
+title: Continual Improvement
+ref: continual-improvement
+weight: 1
+exported_at: '2025-06-16T15:04:52.716400+00:00'
+definition: Continual improvement refers to an ongoing effort to enhance products,
+  services, or processes. It is a key principle of quality management systems, aimed
+  at increasing efficiency and effectiveness over time through incremental improvements.
+tags:
+- goals
+- training
+id: GL234
+categories:
+- ISO terminology
+---
+

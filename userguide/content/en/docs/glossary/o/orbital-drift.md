@@ -1,13 +1,16 @@
 ---
 title: Orbital Drift
 ref: orbital-drift
-description: 'Orbital Drift: The gradual change in the position of an orbiting body
-  due to gravitational interactions or other forces, which can result in a shift in
-  its orbital path over time.'
-notion_page_id: 214d6625-c679-805b-be02-eafc2b615ef0
-exported_at: '2025-06-16T14:23:08.369402+00:00'
-category:
-- Space & Technology
+weight: 1
+exported_at: '2025-06-16T15:03:16.827381+00:00'
+definition: 'Orbital Drift: The phenomenon in which an object''s orbit gradually changes
+  due to various forces, including gravitational interactions with other celestial
+  bodies, atmospheric drag, or perturbations from external factors, leading to a shift
+  in its position over time.'
+tags:
+- tools
 id: GL186
+categories:
+- Space & Technology
 ---
 

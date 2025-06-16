@@ -1,17 +1,17 @@
 ---
-title: Sea Surface Temperature (Sst)
+title: Sea Surface Temperature (SST)
 ref: sea-surface-temperature-sst
-description: 'Sea Surface Temperature (SST): The temperature of the upper layer of
-  the ocean, typically measured at a depth of about 1 meter. SST is an important parameter
-  for understanding oceanic and atmospheric processes, climate change, and weather
-  patterns.'
-notion_page_id: 214d6625-c679-80e5-a833-d003185fe0fe
-exported_at: '2025-06-16T14:22:59.749042+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:07.926100+00:00'
+definition: Sea Surface Temperature (SST) refers to the temperature of the top layer
+  of the ocean's surface. It is a crucial parameter in understanding oceanographic
+  processes and climate dynamics, affecting weather patterns, marine ecosystems, and
+  global climate change.
 tags:
 - goals
 - resources
-category:
-- Space & Technology
 id: GL202
+categories:
+- Space & Technology
 ---
 

@@ -1,16 +1,18 @@
 ---
 title: Geostationary Satellite
 ref: geostationary-satellite
-description: A geostationary satellite is a satellite that orbits the Earth at the
-  same rotational speed as the Earth, allowing it to remain in a fixed position relative
-  to a specific point on the Earth's surface. This type of satellite is typically
-  positioned at an altitude of approximately 35,786 kilometers (22,236 miles) above
-  the equator and is commonly used for telecommunications, weather monitoring, and
-  broadcasting.
-notion_page_id: 214d6625-c679-8056-b159-e48d9d1eec1c
-exported_at: '2025-06-16T14:23:30.195527+00:00'
-category:
-- Space & Technology
+weight: 1
+exported_at: '2025-06-16T15:03:27.976205+00:00'
+definition: A geostationary satellite is an artificial satellite that is placed in
+  orbit around the Earth at a height where it matches the rotational speed of the
+  planet. This allows the satellite to remain fixed over a specific point on the Earth's
+  surface, providing consistent communication and observation capabilities for applications
+  such as weather monitoring, telecommunications, and broadcasting.
+tags:
+- Marketing
+- Research
 id: GL162
+categories:
+- Space & Technology
 ---
 

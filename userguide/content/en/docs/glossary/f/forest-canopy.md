@@ -1,17 +1,14 @@
 ---
 title: Forest Canopy
 ref: forest-canopy
-description: The forest canopy refers to the upper layer of a forest where the tops
-  of trees form a dense cover. This layer is crucial for many ecological processes,
-  providing habitat for various species, regulating temperature and humidity, and
-  playing a significant role in the forest's overall health and biodiversity.
-notion_page_id: 214d6625-c679-809a-bc1d-c68583581d8b
-exported_at: '2025-06-16T14:23:30.408409+00:00'
-tags:
-- sustainability
-- resources
-category:
-- Space & Technology
+weight: 1
+exported_at: '2025-06-16T15:03:28.183349+00:00'
+definition: The forest canopy refers to the upper layer of a forest, formed by the
+  branches and leaves of trees. It plays a crucial role in the ecosystem by providing
+  habitat for numerous species, regulating climate, and influencing the overall health
+  of the forest environment.
 id: GL161
+categories:
+- Space & Technology
 ---
 

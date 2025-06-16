@@ -1,17 +1,16 @@
 ---
-title: Land Surface Temperature (Lst)
+title: Land Surface Temperature (LST)
 ref: land-surface-temperature-lst
-description: Land Surface Temperature (LST) refers to the temperature of the land
-  surface, which is important for understanding the Earth's energy balance, climate,
-  and weather patterns. It is measured using various remote sensing techniques and
-  is crucial for applications in meteorology, agriculture, and environmental monitoring.
-notion_page_id: 214d6625-c679-806b-b009-c94ef398569e
-exported_at: '2025-06-16T14:23:15.816795+00:00'
+weight: 1
+exported_at: '2025-06-16T15:03:22.453823+00:00'
+definition: Land Surface Temperature (LST) refers to the temperature of the Earth's
+  surface as measured by remote sensing techniques. It is an important parameter in
+  climate studies, agriculture, and urban planning, as it influences various environmental
+  processes and energy exchanges in the atmosphere.
 tags:
-- resources
-- goals
-category:
-- Space & Technology
+- sustainability
 id: GL174
+categories:
+- Space & Technology
 ---
 

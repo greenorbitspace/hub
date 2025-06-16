@@ -1,16 +1,15 @@
 ---
 title: Spatial Resolution
 ref: spatial-resolution
-description: Spatial resolution refers to the smallest discernible detail in an image
-  or a measurement. It indicates the amount of detail that can be seen or captured,
-  affecting the clarity and quality of visual data.
-notion_page_id: 214d6625-c679-80d3-ac20-cf9e39f7b027
-exported_at: '2025-06-16T14:22:56.374121+00:00'
-tags:
-- Research
-- Standards
-category:
-- Space & Technology
+weight: 1
+exported_at: '2025-06-16T15:03:06.072363+00:00'
+definition: Spatial resolution refers to the smallest distinguishable detail in an
+  image or a dataset, typically measured in units such as meters or pixels. It determines
+  the clarity and level of detail that can be observed in spatial data, affecting
+  how well features can be identified and analyzed in geographic and technological
+  contexts.
 id: GL208
+categories:
+- Space & Technology
 ---
 
