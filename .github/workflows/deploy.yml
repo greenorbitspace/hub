@@ -1,0 +1,39 @@
+name: Deploy Docsy with gh-pages
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: '0.148.0'
+        extended: true
+
+    - name: Install PostCSS and dependencies
+      run: npm install --save-dev postcss postcss-cli autoprefixer
+
+    - name: Build Hugo site
+      run: hugo --minify
+
+    - name: Deploy using gh-pages
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        npx gh-pages --dotfiles --dist public --branch=gh-pages --message "🚀 Deploy $(date)" \
+          --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
