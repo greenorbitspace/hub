@@ -138,7 +138,7 @@ params:
 taxonomies:
   tag: tags
   category: categories
-s
+
 module:
   mounts:
     - source: content/en

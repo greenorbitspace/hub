@@ -1,8 +1,12 @@
 baseURL = "https://greenorbit.space"
 languageCode = "en-us"
 title = "Green Orbit Digital Documentation"
-theme = "docsy"
 enableRobotsTXT = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/google/docsy"
+    disable = false
 
 # Enable minify to reduce file sizes on build
 minify = true
@@ -10,7 +14,7 @@ minify = true
 [params]
 
   [params.ui]
-    sidebar_menu_truncate = 1300
+    sidebar_menu_truncate = 100
     # Enable or disable language selector in the UI
     language_selector_enable = false
     # Footer about section toggle
@@ -49,6 +53,14 @@ minify = true
   url = "https://ukspace.org"
   icon = "fas fa-globe"
 
+# Menu configuration for Docsy navigation
+[menu]
+
+  [[menu.main]]
+  identifier = "docs"
+  name = "Documentation"
+  url = "/docs/"
+  weight = 1
 
 # Internationalization (i18n) settings if needed
 [languages]
