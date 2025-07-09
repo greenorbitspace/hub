@@ -35,6 +35,5 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        npx gh-pages --dotfiles --branch=gh-pages --message "🚀 Deploy $(date)" \
-          --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" \
-          public
+        npx gh-pages --dotfiles --dist public --branch=gh-pages --message "🚀 Deploy $(date)" \
+          --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
