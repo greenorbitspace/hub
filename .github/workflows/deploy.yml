@@ -26,7 +26,7 @@ jobs:
         extended: true
 
     - name: Install PostCSS and dependencies
-      run: npm install --save-dev postcss postcss-cli autoprefixer
+      run: npm install --save-dev postcss postcss-cli autoprefixer gh-pages
 
     - name: Build Hugo site
       run: hugo --minify
