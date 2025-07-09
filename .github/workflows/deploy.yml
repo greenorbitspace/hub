@@ -2,7 +2,7 @@ name: Deploy Docsy with gh-pages
 
 on:
   push:
-    branches: [main]  # Change if your default branch is different
+    branches: [main]
 
 jobs:
   deploy:
@@ -25,16 +25,16 @@ jobs:
         hugo-version: '0.148.0'
         extended: true
 
-    - name: Install gh-pages CLI
-      run: npm install -g gh-pages
+    - name: Install PostCSS and dependencies
+      run: npm install --save-dev postcss postcss-cli autoprefixer
 
     - name: Build Hugo site
       run: hugo --minify
 
-    - name: Deploy to gh-pages
+    - name: Deploy using gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        gh-pages --dotfiles --branch=gh-pages --message "🚀 Deploy $(date)" \
+        npx gh-pages --dotfiles --branch=gh-pages --message "🚀 Deploy $(date)" \
           --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" \
           public
