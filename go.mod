@@ -1,4 +1,4 @@
-module github.com/greenorbitspace/docsy
+module github.com/greenorbitspace/hub
 
 go 1.20
 
