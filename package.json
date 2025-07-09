@@ -38,7 +38,8 @@
     "test": "npm run check && npm run cd:docs test",
     "update:dep": "npm install --save-exact @fortawesome/fontawesome-free@latest bootstrap@latest",
     "update:hugo": "npm install --save-exact -D hugo-extended@latest",
-    "update:pkgs": "npx npm-check-updates --dep 'prod,dev,optional,peer' -u && npm run cd:docs update:pkgs"
+    "update:pkgs": "npx npm-check-updates --dep 'prod,dev,optional,peer' -u && npm run cd:docs update:pkgs",
+    "deploy": "gh-pages --dist public --branch gh-pages"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "6.7.2",
@@ -47,6 +48,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "cpy-cli": "^5.0.0",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.5",
     "postcss-cli": "^11.0.1",
     "prettier": "^3.5.3"
