@@ -2,8 +2,7 @@ name: Deploy Docsy with gh-pages
 
 on:
   push:
-    branches:
-      - main  # or 'master' if that’s your default
+    branches: [main]  # Change if your default branch is different
 
 jobs:
   deploy:
@@ -15,25 +14,27 @@ jobs:
       with:
         submodules: recursive
 
-    - name: Set up Node.js
+    - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
 
-    - name: Set up Hugo
+    - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: '0.123.8' # Replace with your version
+        hugo-version: '0.123.8' # replace with your version
         extended: true
 
-    - name: Install gh-pages
+    - name: Install gh-pages CLI
       run: npm install -g gh-pages
 
-    - name: Build site with Hugo
+    - name: Build Hugo site
       run: hugo --minify
 
-    - name: Deploy using gh-pages
+    - name: Deploy to gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        gh-pages --dotfiles --branch=gh-pages --message "Deploy $(date)" --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" public
+        gh-pages --dotfiles --branch=gh-pages --message "🚀 Deploy $(date)" \
+          --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" \
+          public
