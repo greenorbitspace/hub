@@ -1,7 +1,6 @@
 {
   "name": "docsy",
   "version": "0.12.1-dev-unreleased",
-  "version.next": "0.12.2-dev-unreleased",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/google/docsy.git"
@@ -10,36 +9,13 @@
   "license": "Apache-2.0",
   "scripts": {
     "build": "hugo --cleanDestinationDir --minify",
-    "_cd:docs": "cd userguide &&",
-    "_check:format": "npx prettier --check *.md",
-    "_commit:public": "npm run cd:docs -- _commit:public",
-    "_cp:bs-rfs": "npx cpy 'node_modules/bootstrap/scss/vendor/*' assets/_vendor/bootstrap/scss/",
-    "_diff:check": "git diff --name-only --exit-code",
-    "_gen-chroma-styles": "bash -c tools/gen-chroma-styles.sh && bash -c 'tools/gen-chroma-styles.sh -s onedark -o _dark.scss'",
-    "_mkdir:hugo-mod": "node tools/mkdirp-hugo-mod.js ..",
-    "_prepare": "npm run _cp:bs-rfs && npm run _refresh-forward-sass-var && npm run _gen-chroma-styles && npm run get:hugo-modules",
-    "_refresh-forward-sass-var": "bash -c tools/refresh-sass-variables.pl",
-    "build:preview": "npm run cd:docs -- build:preview --",
-    "build:production": "npm run cd:docs -- build:production --",
-    "build": "npm run cd:docs -- build --",
-    "cd:docs": "npm run _cd:docs -- npm run",
-    "check:format": "npm run _check:format || (echo '[help] Run: npm run fix:format'; exit 1)",
-    "check:links:internal": "npm run cd:docs check:links:internal",
-    "check:links": "npm run cd:docs check:links",
-    "check": "npm run check:format",
-    "ci:post": "npm run fix:format && npm run _diff:check",
-    "ci:prepare": "npm run docs-install && npm run _prepare && npm run _diff:check",
-    "docs-install": "npm run _cd:docs -- npm install",
-    "fix:format": "npm run _check:format -- --write && npm run cd:docs fix:format",
-    "get:hugo-modules": "node tools/getHugoModules/index.mjs",
-    "postinstall": "npm run _mkdir:hugo-mod",
-    "serve": "npm run cd:docs serve",
-    "test:all": "npm run ci:prepare && npm run check && npm run cd:docs test && npm run ci:post",
-    "test": "npm run check && npm run cd:docs test",
+    "serve": "hugo server -D --minify",
+    "deploy": "gh-pages --dist public --branch gh-pages",
+    "check:format": "npx prettier --check \"**/*.md\"",
+    "fix:format": "npx prettier --write \"**/*.md\"",
     "update:dep": "npm install --save-exact @fortawesome/fontawesome-free@latest bootstrap@latest",
     "update:hugo": "npm install --save-exact -D hugo-extended@latest",
-    "update:pkgs": "npx npm-check-updates --dep 'prod,dev,optional,peer' -u && npm run cd:docs update:pkgs",
-    "deploy": "gh-pages --dist public --branch gh-pages"
+    "update:pkgs": "npx npm-check-updates -u"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "6.7.2",
@@ -67,7 +43,7 @@
     "node": ">=22"
   },
   "spelling": "cSpell:ignore docsy hugo fortawesome fontawesome onedark twbs netlify pkgs userguide -",
-  "description": "> **🚧 WARNING 🚧 : `main` is under development and potentially unstable! Use > official Docsy [releases].**",
+  "description": "> **🚧 WARNING 🚧 : `main` is under development and potentially unstable! Use official Docsy [releases].**",
   "main": "postcss.config.js",
   "keywords": [],
   "author": "",

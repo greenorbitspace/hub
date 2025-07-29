@@ -11,25 +11,23 @@ enableRobotsTXT = true
 # Enable minify to reduce file sizes on build
 minify = true
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
 
   [params.ui]
     sidebar_menu_truncate = 100
-    # Enable or disable language selector in the UI
     language_selector_enable = false
-    # Footer about section toggle
     footer_about_enable = true
 
-  # Google Analytics configuration
   googleAnalytics = "UA-XXXXXXXXX-X"
 
-  # Site copyright info
   copyright = { from_year = 2025, to_year = "", authors = "Green Orbit Digital" }
 
-  # Footer privacy policy link (relative or absolute URL)
   privacy_policy = "/privacy-policy/"
 
-  # Social / developer links for footer or header
   [params.links]
 
     [[params.links.developer]]
@@ -47,13 +45,12 @@ minify = true
     url = "https://twitter.com/greenorbitspace"
     icon = "fab fa-twitter"
 
-  # Community links (example)
   [[params.links.community]]
   name = "UKspace"
   url = "https://ukspace.org"
   icon = "fas fa-globe"
 
-# Menu configuration for Docsy navigation
+# Main navigation menu
 [menu]
 
   [[menu.main]]
@@ -62,18 +59,16 @@ minify = true
   url = "/docs/"
   weight = 1
 
-# Internationalization (i18n) settings if needed
 [languages]
 
   [languages.en]
   languageName = "English"
   weight = 1
-  contentDir = "content/en"
+  contentDir = "content/en/"
   title = "Green Orbit Digital Documentation"
   params.time_format_default = "Jan 2, 2006"
   params.time_format_blog = "Jan 2, 2006"
 
-# Enable syntax highlighting with Chroma (optional)
 [markup]
   [markup.highlight]
   noClasses = false
@@ -81,15 +76,12 @@ minify = true
   lineNos = true
   guessSyntax = true
 
-# Enable RSS feeds
 [outputs]
   home = ["HTML", "RSS"]
 
-# Build options
 [build]
   writeStats = true
 
-# Sitemap configuration
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
