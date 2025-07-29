@@ -31,6 +31,11 @@ jobs:
     - name: Build Hugo site
       run: hugo --minify
 
+    - name: Configure Git user for deployment
+      run: |
+        git config --global user.email "github-actions@greenorbit.space"
+        git config --global user.name "Green Orbit GitHub Actions"
+
     - name: Deploy using gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
