@@ -34,6 +34,10 @@
     "deploy": "gh-pages --dist public --branch gh-pages",
     "check:format": "npx prettier --check \"**/*.md\"",
     "fix:format": "npx prettier --write \"**/*.md\"",
+    "lint:js": "eslint '**/*.{js,json,md,css}' --max-warnings=0",
+    "lint:style": "stylelint '**/*.{css,scss}' --max-warnings=0",
+    "lint": "npm run lint:js && npm run lint:style",
+    "test:all": "npm run lint && npm run build",
     "update:dep": "npm install --save-exact @fortawesome/fontawesome-free@latest bootstrap@latest",
     "update:hugo": "npm install --save-exact -D hugo-extended@latest",
     "update:pkgs": "npx npm-check-updates -u"

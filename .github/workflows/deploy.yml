@@ -9,36 +9,51 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-      with:
-        submodules: recursive
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'  # Match package.json engines
 
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v3
-      with:
-        hugo-version: '0.148.0'
-        extended: true
+      - name: Cache npm modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
 
-    - name: Install PostCSS and dependencies
-      run: npm install --save-dev postcss postcss-cli autoprefixer gh-pages
+      - name: Install npm dependencies
+        run: npm ci
 
-    - name: Build Hugo site
-      run: hugo --minify
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.148.0'
+          extended: true
 
-    - name: Configure Git user for deployment
-      run: |
-        git config --global user.email "github-actions@greenorbit.space"
-        git config --global user.name "Green Orbit GitHub Actions"
+      # Optional: Lint and test steps
+      # - name: Run lint
+      #   run: npm run lint
+      #
+      # - name: Run tests
+      #   run: npm run test:all
 
-    - name: Deploy using gh-pages
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        npx gh-pages --dotfiles --dist public --branch=gh-pages --message "🚀 Deploy $(date)" \
-          --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+      - name: Build Hugo site
+        run: hugo --minify
+
+      - name: Configure Git user for deployment
+        run: |
+          git config --global user.email "github-actions@greenorbit.space"
+          git config --global user.name "Green Orbit GitHub Actions"
+
+      - name: Deploy to GitHub Pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx gh-pages --dotfiles --dist public --branch=gh-pages --message "🚀 Deploy $(date)" \
+            --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
