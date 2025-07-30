@@ -26,6 +26,9 @@
   },
   "spelling": "cSpell:ignore docsy hugo fortawesome fontawesome onedark twbs netlify pkgs userguide -",
   "scripts": {
+    "ci:prepare": "echo 'Preparing CI environment...'",
+    "cd:docs": "npm run build",
+    "ci:post": "echo 'Post CI steps done.'",
     "build": "hugo --cleanDestinationDir --minify",
     "serve": "hugo server -D --minify",
     "deploy": "gh-pages --dist public --branch gh-pages",
