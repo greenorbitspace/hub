@@ -1,0 +1,16 @@
+# Ignore third-party or compiled code
+node_modules/
+dist/
+build/
+public/
+.temp/
+.cache/
+
+# Optional: Ignore specific folders or vendor JS files
+assets/vendor/
+assets/js/*.min.js
+
+# Ignore config files themselves
+.eslintrc.*
+vite.config.*
+astro.config.*

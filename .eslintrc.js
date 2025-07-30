@@ -27,7 +27,7 @@ module.exports = {
   },
   overrides: [
     {
-      files: ['.eslintrc.js', 'tools/**/*.js'],  // Add any Node-only config/tooling files here
+      files: ['.eslintrc.js', 'tools/**/*.js', 'postcss.config.js'], // added postcss config
       env: {
         node: true,
         browser: false,
@@ -39,7 +39,16 @@ module.exports = {
         __dirname: 'readonly',
       },
       rules: {
-        'no-undef': 'off',  // Allow module, require, etc in config files
+        'no-undef': 'off',
+      },
+    },
+    {
+      files: ['assets/js/prism.js', 'assets/js/mkdirp-hugo-mod.js', 'assets/js/plantuml.js', 'assets/js/markmap.js', 'assets/js/drawio.js'], // known legacy or third-party scripts
+      rules: {
+        'no-undef': 'off',      // suppress undefined globals for legacy scripts
+        'no-unused-vars': 'warn', 
+        'no-empty': 'warn',
+        'no-useless-escape': 'warn',
       },
     },
   ],
