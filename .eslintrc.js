@@ -8,9 +8,9 @@ module.exports = {
     jQuery: 'readonly',
     bootstrap: 'readonly',
     lunr: 'readonly',
-    WorkerGlobalScope: 'readonly',
-    deflate: 'readonly',
-    zip_deflate_end: 'readonly',
+    WorkerGlobalScope: 'readonly', // Web Worker global scope
+    deflate: 'readonly',            // Used in deflate.js
+    zip_deflate_end: 'readonly',   // Used in deflate.js
     global: 'readonly',
   },
   parserOptions: {
@@ -18,16 +18,16 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
+    'no-unused-vars': ['error', { argsIgnorePattern: '^_' }], // Ignore unused vars starting with _
     'no-undef': 'error',
     'no-empty': 'warn',
-    'no-prototype-builtins': 'off',
+    'no-prototype-builtins': 'off', // Allow direct hasOwnProperty calls to suppress those warnings
     'no-cond-assign': ['error', 'except-parens'],
     'no-useless-escape': 'warn',
   },
   overrides: [
     {
-      // Node-specific config files (ESLint config, tooling, postcss)
+      // Node config files override
       files: ['.eslintrc.js', 'tools/**/*.js', 'postcss.config.js'],
       env: {
         node: true,
@@ -44,7 +44,7 @@ module.exports = {
       },
     },
     {
-      // Legacy or third-party scripts with known issues
+      // Third-party legacy scripts with common ESLint issues
       files: [
         'assets/js/prism.js',
         'assets/js/mkdirp-hugo-mod.js',
@@ -57,6 +57,14 @@ module.exports = {
         'no-unused-vars': 'warn',
         'no-empty': 'warn',
         'no-useless-escape': 'warn',
+      },
+    },
+    {
+      // Deflate.js specific overrides to address unused vars & empty blocks
+      files: ['static/js/deflate.js'],
+      rules: {
+        'no-unused-vars': ['warn', { varsIgnorePattern: '^(deflate|zip_deflate_end)$' }],
+        'no-empty': ['warn', { allowEmptyCatch: true }],
       },
     },
   ],
