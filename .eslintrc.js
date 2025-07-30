@@ -14,16 +14,16 @@ module.exports = {
     global: 'readonly',
   },
   parserOptions: {
-    ecmaVersion: 12,
+    ecmaVersion: 2021,
     sourceType: 'module',
   },
   rules: {
-    'no-unused-vars': ['error', { argsIgnorePattern: '^_' }], // Allow unused vars starting with _
+    'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     'no-undef': 'error',
     'no-empty': 'warn',
-    'no-prototype-builtins': 'off', // Disable to allow Object.prototype.hasOwnProperty calls
-    'no-cond-assign': ['error', 'except-parens'], // Allow assignments inside parentheses
-    'no-useless-escape': 'warn', // Warn on unnecessary escapes
+    'no-prototype-builtins': 'off',
+    'no-cond-assign': ['error', 'except-parens'],
+    'no-useless-escape': 'warn',
   },
   overrides: [
     {
@@ -40,7 +40,7 @@ module.exports = {
         __dirname: 'readonly',
       },
       rules: {
-        'no-undef': 'off', // Node globals allowed, ignore no-undef here
+        'no-undef': 'off',
       },
     },
     {
@@ -53,8 +53,8 @@ module.exports = {
         'assets/js/drawio.js',
       ],
       rules: {
-        'no-undef': 'off',      // Suppress undefined global errors
-        'no-unused-vars': 'warn', 
+        'no-undef': 'off',
+        'no-unused-vars': 'warn',
         'no-empty': 'warn',
         'no-useless-escape': 'warn',
       },

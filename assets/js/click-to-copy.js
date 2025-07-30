@@ -1,46 +1,54 @@
-let codeListings = document.querySelectorAll('.highlight > pre');
+/* global bootstrap */
 
-for (let index = 0; index < codeListings.length; index++) {
-  const codeSample = codeListings[index].querySelector('code');
-  const copyButton = document.createElement('button');
-  const buttonAttributes = {
-    type: 'button',
-    title: 'Copy to clipboard',
-    'data-bs-toggle': 'tooltip',
-    'data-bs-placement': 'top',
-    'data-bs-container': 'body',
+(() => {
+  const codeListings = document.querySelectorAll('.highlight > pre');
+
+  const copyCode = (codeSample) => {
+    navigator.clipboard.writeText(codeSample.textContent.trim() + '\n');
   };
 
-  Object.keys(buttonAttributes).forEach((key) => {
-    copyButton.setAttribute(key, buttonAttributes[key]);
+  codeListings.forEach((pre) => {
+    const codeSample = pre.querySelector('code');
+    if (!codeSample) return;
+
+    const copyButton = document.createElement('button');
+    const buttonAttributes = {
+      type: 'button',
+      title: 'Copy to clipboard',
+      'data-bs-toggle': 'tooltip',
+      'data-bs-placement': 'top',
+      'data-bs-container': 'body',
+    };
+
+    Object.entries(buttonAttributes).forEach(([key, value]) => {
+      copyButton.setAttribute(key, value);
+    });
+
+    copyButton.classList.add(
+      'fas',
+      'fa-copy',
+      'btn',
+      'btn-sm',
+      'td-click-to-copy'
+    );
+
+    const tooltip = new bootstrap.Tooltip(copyButton);
+
+    copyButton.addEventListener('click', () => {
+      copyCode(codeSample);
+      copyButton.setAttribute('data-bs-original-title', 'Copied!');
+      tooltip.show();
+    });
+
+    copyButton.addEventListener('mouseout', () => {
+      copyButton.setAttribute('data-bs-original-title', 'Copy to clipboard');
+      tooltip.hide();
+    });
+
+    const buttonDiv = document.createElement('div');
+    buttonDiv.classList.add('click-to-copy');
+    buttonDiv.appendChild(copyButton);
+
+    pre.insertBefore(buttonDiv, codeSample);
   });
-
-  copyButton.classList.add(
-    'fas',
-    'fa-copy',
-    'btn',
-    'btn-sm',
-    'td-click-to-copy'
-  );
-  const tooltip = new bootstrap.Tooltip(copyButton);
-
-  copyButton.onclick = () => {
-    copyCode(codeSample);
-    copyButton.setAttribute('data-bs-original-title', 'Copied!');
-    tooltip.show();
-  };
-
-  copyButton.onmouseout = () => {
-    copyButton.setAttribute('data-bs-original-title', 'Copy to clipboard');
-    tooltip.hide();
-  };
-
-  const buttonDiv = document.createElement('div');
-  buttonDiv.classList.add('click-to-copy');
-  buttonDiv.append(copyButton);
-  codeListings[index].insertBefore(buttonDiv, codeSample);
-}
-
-const copyCode = (codeSample) => {
-  navigator.clipboard.writeText(codeSample.textContent.trim() + '\n');
-};
+})();
