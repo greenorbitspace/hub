@@ -1,12 +1,30 @@
 {
   "name": "docsy",
   "version": "0.12.1-dev-unreleased",
+  "description": "> **🚧 WARNING 🚧 : `main` is under development and potentially unstable! Use official Docsy [releases].**",
+  "main": "postcss.config.js",
+  "type": "commonjs",
+  "keywords": [
+    "hugo",
+    "docsy",
+    "documentation",
+    "static-site",
+    "theme"
+  ],
+  "author": "Google",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/google/docsy.git"
   },
   "homepage": "https://www.docsy.dev",
+  "bugs": {
+    "url": "https://github.com/google/docsy/issues"
+  },
   "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "spelling": "cSpell:ignore docsy hugo fortawesome fontawesome onedark twbs netlify pkgs userguide -",
   "scripts": {
     "build": "hugo --cleanDestinationDir --minify",
     "serve": "hugo server -D --minify",
@@ -30,7 +48,10 @@
     "globals": "^16.3.0",
     "postcss": "^8.5.5",
     "postcss-cli": "^11.0.1",
-    "prettier": "^3.5.3"
+    "prettier": "^3.5.3",
+    "stylelint": "^14.16.1",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-config-standard": "^28.0.0"
   },
   "peerDependencies": {
     "hugo-extended": "0.147.8",
@@ -41,17 +62,5 @@
     "netlify-cli": {
       "optional": true
     }
-  },
-  "engines": {
-    "node": ">=22"
-  },
-  "spelling": "cSpell:ignore docsy hugo fortawesome fontawesome onedark twbs netlify pkgs userguide -",
-  "description": "> **🚧 WARNING 🚧 : `main` is under development and potentially unstable! Use official Docsy [releases].**",
-  "main": "postcss.config.js",
-  "keywords": [],
-  "author": "",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/google/docsy/issues"
   }
 }
