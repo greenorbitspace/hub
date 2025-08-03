@@ -1,106 +1,116 @@
-{{with .Site.Params.drawio}}
-{{if .enable }}
+{{ with .Site.Params.drawio }}
+{{ if .enable }}
 (function () {
-  var shade;
-  var iframe;
+  'use strict';
 
-  var insertFrame = function () {
+  let shade;
+  let iframe;
+
+  const insertFrame = () => {
     shade = document.createElement('div');
     shade.classList.add('drawioframe');
     iframe = document.createElement('iframe');
     shade.appendChild(iframe);
     document.body.appendChild(shade);
-  }
+  };
 
-  var closeFrame = function () {
+  const closeFrame = () => {
     if (shade) {
       document.body.removeChild(shade);
       shade = undefined;
       iframe = undefined;
     }
-  }
+  };
 
-  var imghandler = function (img, imgdata) {
-    var url = {{ .drawio_server | default "https://embed.diagrams.net/" | jsonify }};
-    url += '?embed=1&ui=atlas&spin=1&modified=unsavedChanges&proto=json&saveAndEdit=1&noSaveBtn=1';
+  const imghandler = (img, imgdata) => {
+    const baseUrl = {{ .drawio_server | default "https://embed.diagrams.net/" | jsonify }};
+    const url = `${baseUrl}?embed=1&ui=atlas&spin=1&modified=unsavedChanges&proto=json&saveAndEdit=1&noSaveBtn=1`;
 
-    var wrapper = document.createElement('div');
+    const wrapper = document.createElement('div');
     wrapper.classList.add('drawio');
     img.parentNode.insertBefore(wrapper, img);
     wrapper.appendChild(img);
 
-    var btn = document.createElement('button');
+    const btn = document.createElement('button');
     btn.classList.add('drawiobtn');
-    btn.insertAdjacentHTML('beforeend', '<i class="fas fa-edit"></i>');
+    btn.innerHTML = '<i class="fas fa-edit"></i>';
     wrapper.appendChild(btn);
 
-    btn.addEventListener('click', function (evt) {
-      if (iframe) return;
+    btn.addEventListener('click', () => {
+      if (iframe) return; // Prevent multiple iframes
+
       insertFrame();
-      var handler = function (evt) {
-        var wind = iframe.contentWindow;
-        if (evt.data.length > 0 && evt.source == wind) {
-          var msg = JSON.parse(evt.data);
 
-          if (msg.event == 'init') {
-            wind.postMessage(JSON.stringify({action: 'load', xml: imgdata}), '*');
+      const messageHandler = (evt) => {
+        const wind = iframe.contentWindow;
 
-          } else if (msg.event == 'save') {
-            var fmt = imgdata.indexOf('data:image/png') == 0 ? 'xmlpng' : 'xmlsvg';
-            wind.postMessage(JSON.stringify({action: 'export', format: fmt}), '*');
+        if (evt.source !== wind || !evt.data) return;
 
-          } else if (msg.event == 'export') {
-            const fn = img.src.replace(/^.*?([^/]+)$/, '$1');
+        let msg;
+        try {
+          msg = JSON.parse(evt.data);
+        } catch {
+          return; // Ignore invalid JSON
+        }
+
+        switch (msg.event) {
+          case 'init':
+            wind.postMessage(JSON.stringify({ action: 'load', xml: imgdata }), '*');
+            break;
+          case 'save':
+            const fmt = imgdata.startsWith('data:image/png') ? 'xmlpng' : 'xmlsvg';
+            wind.postMessage(JSON.stringify({ action: 'export', format: fmt }), '*');
+            break;
+          case 'export':
+            const filename = img.src.replace(/^.*?([^/]+)$/, '$1');
             const dl = document.createElement('a');
-            dl.setAttribute('href', msg.data);
-            dl.setAttribute('download', fn);
+            dl.href = msg.data;
+            dl.download = filename;
             document.body.appendChild(dl);
             dl.click();
-            dl.parentNode.removeChild(dl);
-          }
-
-          if (msg.event == 'exit' || msg.event == 'export') {
-            window.removeEventListener('message', handler);
+            dl.remove();
+            break;
+          case 'exit':
+          case 'export':
+            window.removeEventListener('message', messageHandler);
             closeFrame();
-          }
+            break;
         }
       };
 
-      window.addEventListener('message', handler);
-      iframe.setAttribute('src', url);
+      window.addEventListener('message', messageHandler);
+      iframe.src = url;
     });
   };
 
+  document.addEventListener('DOMContentLoaded', () => {
+    // Process all png and svg images for embedded mxfile xml diagrams
+    const images = Array.from(document.getElementsByTagName('img'));
+    images.forEach((img) => {
+      const src = img.getAttribute('src');
+      if (!src || (!src.endsWith('.svg') && !src.endsWith('.png'))) {
+        return;
+      }
 
-document.addEventListener('DOMContentLoaded', function () {
-  // find all the png and svg images that may have embedded xml diagrams
-  for (const el of document.getElementsByTagName('img')) {
-    const img = el;
-    const src = img.getAttribute('src');
-    if (!src.endsWith('.svg') && !src.endsWith('.png')) {
-      continue;
-    }
-
-    const xhr = new XMLHttpRequest();
-    xhr.responseType = 'blob';
-    xhr.open("GET", src);
-    xhr.addEventListener("load", function () {
-      const fr = new FileReader();
-      fr.addEventListener('load', function () {
-        if (fr.result.indexOf('mxfile') != -1) {
-          const fr = new FileReader();
-          fr.addEventListener('load', function () {
-            const imgdata = fr.result;
-            imghandler(img, imgdata);
-          });
-          fr.readAsDataURL(xhr.response);
-        }
-      });
-      fr.readAsBinaryString(xhr.response);
+      const xhr = new XMLHttpRequest();
+      xhr.responseType = 'blob';
+      xhr.open('GET', src);
+      xhr.onload = () => {
+        const reader = new FileReader();
+        reader.onload = () => {
+          if (reader.result.includes('mxfile')) {
+            const dataUrlReader = new FileReader();
+            dataUrlReader.onload = () => {
+              imghandler(img, dataUrlReader.result);
+            };
+            dataUrlReader.readAsDataURL(xhr.response);
+          }
+        };
+        reader.readAsBinaryString(xhr.response);
+      };
+      xhr.send();
     });
-    xhr.send();
-  };
-});
-}());
-{{end}}
-{{end}}
+  });
+})();
+{{ end }}
+{{ end }}

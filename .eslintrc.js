@@ -8,9 +8,9 @@ module.exports = {
     jQuery: 'readonly',
     bootstrap: 'readonly',
     lunr: 'readonly',
-    WorkerGlobalScope: 'readonly', // Web Worker global scope
-    deflate: 'readonly',            // Used in deflate.js
-    zip_deflate_end: 'readonly',   // Used in deflate.js
+    WorkerGlobalScope: 'readonly',  // Web Worker global scope
+    deflate: 'readonly',             // Used in deflate.js
+    zip_deflate_end: 'readonly',    // Used in deflate.js
     global: 'readonly',
   },
   parserOptions: {
@@ -18,16 +18,17 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    'no-unused-vars': ['error', { argsIgnorePattern: '^_' }], // Ignore unused vars starting with _
+    // Allow unused function arguments if prefixed with underscore
+    'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     'no-undef': 'error',
-    'no-empty': 'warn',
-    'no-prototype-builtins': 'off', // Allow direct hasOwnProperty calls to suppress those warnings
+    'no-empty': 'warn',               // Warn on empty blocks, allow empty catch (overridden below)
+    'no-prototype-builtins': 'off',  // Allow direct calls like obj.hasOwnProperty()
     'no-cond-assign': ['error', 'except-parens'],
     'no-useless-escape': 'warn',
   },
   overrides: [
     {
-      // Node config files override
+      // Node.js config and tool scripts
       files: ['.eslintrc.js', 'tools/**/*.js', 'postcss.config.js'],
       env: {
         node: true,
@@ -40,11 +41,12 @@ module.exports = {
         __dirname: 'readonly',
       },
       rules: {
+        // Allow Node globals without 'no-undef' errors
         'no-undef': 'off',
       },
     },
     {
-      // Third-party legacy scripts with common ESLint issues
+      // Legacy or third-party front-end scripts with known ESLint exceptions
       files: [
         'assets/js/prism.js',
         'assets/js/mkdirp-hugo-mod.js',
@@ -53,14 +55,14 @@ module.exports = {
         'assets/js/drawio.js',
       ],
       rules: {
-        'no-undef': 'off',
-        'no-unused-vars': 'warn',
-        'no-empty': 'warn',
+        'no-undef': 'off',        // Allow undefined globals typical in legacy scripts
+        'no-unused-vars': 'warn', // Warn on unused vars instead of error
+        'no-empty': 'warn',       // Warn on empty blocks
         'no-useless-escape': 'warn',
       },
     },
     {
-      // Deflate.js specific overrides to address unused vars & empty blocks
+      // deflate.js requires special handling due to unused vars and empty catch blocks
       files: ['static/js/deflate.js'],
       rules: {
         'no-unused-vars': ['warn', { varsIgnorePattern: '^(deflate|zip_deflate_end)$' }],

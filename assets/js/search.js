@@ -14,6 +14,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
+/* global jQuery */
+
 (function ($) {
   'use strict';
 
@@ -21,13 +23,13 @@ limitations under the License.
     init: function () {
       $(document).ready(function () {
         $(document).on('keypress', '.td-search input', function (e) {
-          if (e.keyCode !== 13) {
+          if (e.key !== 'Enter') {  // better than keyCode for modern browsers
             return;
           }
 
           var query = $(this).val();
-          var searchPage = '{{ "search/" | absURL }}?q=' + query;
-          document.location = searchPage;
+          var searchPage = '{{ "search/" | absURL }}?q=' + encodeURIComponent(query);
+          window.location.href = searchPage;
 
           return false;
         });
