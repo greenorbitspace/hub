@@ -2,7 +2,6 @@ baseURL = "https://greenorbitspace.github.io/hub/"
 title = "Green Orbit User Guide"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-theme = "docsy"
 enableRobotsTXT = true
 minify = true
 
