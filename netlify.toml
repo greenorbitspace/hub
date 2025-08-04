@@ -1,21 +1,20 @@
-# Netlify build configuration for Hugo site using Docsy theme
+# Netlify build config for Hugo + Docsy with modules
 
 [build]
   command = "npm install && npm run build"
   publish = "public"
 
 [build.environment]
-GO_VERSION = "1.22.3"
-NODE_VERSION = "22"
-HUGO_VERSION = "0.125.4"  
-HUGO_ENABLEGITINFO = "true"
-HUGO_THEME = "repo"
+  GO_VERSION = "1.22.3"
+  NODE_VERSION = "22"
+  HUGO_VERSION = "0.147.8"            
+  HUGO_ENABLEGITINFO = "true"
 
 [context.production]
-command = "npm install && npm run build"
+  command = "npm install && npm run build"
 
 [context.deploy-preview]
-command = "npm install && hugo --buildDrafts --buildFuture --minify"
+  command = "npm install && npm run build"
 
 [context.branch-deploy]
-command = "npm install && npm run preview"
+  command = "npm install && npm run preview"
