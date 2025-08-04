@@ -1,13 +1,21 @@
-# Hugo build configuration for Netlify
-# (https://gohugo.io/hosting-and-deployment/hosting-on-netlify/#configure-hugo-version-in-netlify)
+# Netlify build configuration for Hugo + npm-based workflow
 
 [build]
 publish = "public"
-command = "npm run docs-install && npm run build:preview"
+command = "npm install && npm run preview"
 
 [build.environment]
 GO_VERSION = "1.22.3"
+HUGO_VERSION = "0.125.4"  # Match your local version, update as needed
+HUGO_ENABLEGITINFO = "true"
+NODE_VERSION = "20"
 HUGO_THEME = "repo"
 
 [context.production]
-command = "npm run docs-install && npm run build:production"
+command = "npm install && npm run build"
+
+[context.deploy-preview]
+command = "npm install && npm run preview"
+
+[context.branch-deploy]
+command = "npm install && npm run preview"
