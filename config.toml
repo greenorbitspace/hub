@@ -22,13 +22,13 @@ minify = true
     showSidebar = true
     sidebarSearch = true
 
-# Goldmark settings to allow raw HTML rendering
+# Goldmark settings to allow raw HTML rendering (to suppress omitted raw HTML warnings)
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-# Output formats
+# Output formats for homepage and sections
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML"]
@@ -38,7 +38,7 @@ minify = true
   docs = "/docs/:slug/"
   about = "/about/:slug/"
 
-# Main navigation menu
+# Main navigation menu structure
 [menu]
   [[menu.main]]
     identifier = "handbook"
@@ -58,16 +58,13 @@ minify = true
     url = "/about/"
     weight = 30
 
-# Google Analytics placeholder (empty, update if needed)
+# Google Analytics placeholder (leave empty or add your tracking ID)
 [services]
   [services.googleAnalytics]
     id = ""
 
-# Minimal languages config for single language site
+# Minimal language configuration for a single-language site
 [languages]
   [languages.en]
     title = "Green Orbit User Guide"
     weight = 1
-
-# Suppress warnings about raw HTML in Markdown rendering (set via CLI or config if supported)
-# Note: Hugo may not support ignoreLogs in TOML; you can suppress warnings with CLI flag
