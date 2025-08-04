@@ -1,3 +1,4 @@
+/* eslint-env node */
 /*
 Copyright 2018 Google LLC
 
@@ -18,4 +19,4 @@ module.exports = {
     plugins: {
         autoprefixer: {}
     },
-}
+};

@@ -31,6 +31,7 @@
     "ci:post": "echo 'Post CI steps done.'",
     "build": "hugo --cleanDestinationDir --minify",
     "serve": "hugo server -D --minify",
+    "preview": "hugo server -D --disableFastRender",
     "deploy": "gh-pages --dist public --branch gh-pages",
     "check:format": "npx prettier --check \"**/*.md\"",
     "fix:format": "npx prettier --write \"**/*.md\"",
