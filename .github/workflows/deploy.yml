@@ -1,59 +1,62 @@
-name: Deploy Docsy with gh-pages
+name: Deploy Docsy site to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main  # deploy on pushes to main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      # Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'  # Match package.json engines
-
-      - name: Cache npm modules
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Install npm dependencies
-        run: npm ci
-
+      # Install Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.148.0'
+          hugo-version: "0.115.0"  # adjust as needed
           extended: true
 
-      # Optional: Lint and test steps
-      # - name: Run lint
-      #   run: npm run lint
-      #
-      # - name: Run tests
-      #   run: npm run test:all
-
-      - name: Build Hugo site
-        run: hugo --minify
-
-      - name: Configure Git user for deployment
+      # Install npm dependencies if Docsy uses npm for assets
+      - name: Install npm dependencies
         run: |
-          git config --global user.email "github-actions@greenorbit.space"
-          git config --global user.name "Green Orbit GitHub Actions"
+          if [ -f package.json ]; then
+            npm ci
+          fi
 
+      # Build the Hugo site
+      - name: Build site
+        run: hugo --minify --gc
+
+      # Add CNAME for custom domain
+      - name: Add CNAME
+        run: echo "hub.greenorbit.space" > ./public/CNAME
+
+      # Upload build output for Pages
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    steps:
       - name: Deploy to GitHub Pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          npx gh-pages --dotfiles --dist public --branch=gh-pages --message "🚀 Deploy $(date)" \
-            --repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+        uses: actions/deploy-pages@v4
