@@ -1,63 +1,71 @@
-# Docsy config
-#
-# cSpell:ignore docsy fortawesome fontawesome webfonts
+baseURL: "https://greenorbitspace.github.io/hub/"
+title: "Green Orbit User Guide"
+enableRobotsTXT: true
+enableGitInfo: true
 
-params:
-  time_format_blog: Monday, January 02, 2006
-  time_format_default: January 2, 2006
-  rss_sections: [blog]
+outputs:
+  home: ["HTML", "RSS", "JSON"]
+  section: ["HTML"]
 
-outputFormats:
-  PRINT:
-    baseName: index
-    isHTML: true
-    mediaType: text/html
-    path: _print
-    permalinkable: false
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    renderer:
+      unsafe: true
 
 module:
   hugoVersion:
     extended: true
     min: 0.146.0
   mounts:
-    - source: assets
-      target: assets
+    - source: content
+      target: content
+    # Mount Bootstrap assets from node_modules if needed (optional)
     - source: node_modules/bootstrap
       target: assets/vendor/bootstrap
-    - source: node_modules/@fortawesome/fontawesome-free
-      target: assets/vendor/Font-Awesome
-    - source: i18n
-      target: i18n
-    - source: layouts
-      target: layouts
-    - source: static
-      target: static
+    # Mount Font Awesome SCSS files
+    - source: node_modules/@fortawesome/fontawesome-free/scss
+      target: assets/vendor/Font-Awesome/scss
+    # Mount Font Awesome webfonts
     - source: node_modules/@fortawesome/fontawesome-free/webfonts
       target: static/webfonts
-    # Mounts for projects using Docsy as an NPM package. The source path prefix
-    # "../.." moves out of themes/docsy so that Docsy can find its dependencies.
-    - source: ../../node_modules/bootstrap
-      target: assets/vendor/bootstrap
-    - source: ../../node_modules/@fortawesome/fontawesome-free
-      target: assets/vendor/Font-Awesome
-    - source: ../../node_modules/@fortawesome/fontawesome-free/webfonts
-      target: static/webfonts
-    # Mounts for module installations,
-    # needed to work around a known bug in Go’s module management.
-    - source: assets/_vendor/bootstrap/scss
-      target: assets/vendor/bootstrap/scss/vendor
+    # Optional mounts for project docs if you want
+    # - source: ../README.md
+    #   target: content/project/readme.md
+    # - source: ../CHANGELOG.md
+    #   target: content/project/changelog.md
+    # - source: ../CONTRIBUTING.md
+    #   target: content/project/contributing.md
   imports:
-    - path: github.com/twbs/bootstrap
-      disable: false
-      mounts:
-        - source: scss
-          target: assets/vendor/bootstrap/scss
-        - source: dist/js
-          target: assets/vendor/bootstrap/dist/js
-    - path: github.com/FortAwesome/Font-Awesome
-      disable: false
-      mounts:
-        - source: scss
-          target: assets/vendor/Font-Awesome/scss
-        - source: webfonts
-          target: static/webfonts
+    - path: github.com/google/docsy
+
+params:
+  copyright:
+    authors: "Green Orbit Digital"
+    from_year: 2023
+    privacy_policy: "https://greenorbit.space/privacy-policy/"
+  ui:
+    showSidebar: true
+    showMenu: true
+    showLightDarkModeMenu: true
+    sidebar_cache_limit: 10
+    sidebar_menu_compact: true
+    sidebar_menu_foldable: false
+    sidebar_search_disable: false
+    feedback:
+      enable: true
+  plantuml:
+    enable: true
+    theme: default
+    svg_image_url: https://www.plantuml.com/plantuml/svg/
+    svg: false
+  markmap:
+    enable: true
+  drawio:
+    enable: true
+
+taxonomies:
+  tag: tags
+  category: categories

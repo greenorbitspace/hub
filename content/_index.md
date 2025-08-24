@@ -24,11 +24,11 @@ From SEO and email automation to digital sustainability audits and reporting fra
 
 {{% blocks/section color="dark" type="row" %}}
 
-{{% blocks/feature icon="fa-rocket" title="Sustainability at the Core" url="/marketing-communications/sustainability-framework/" %}}
+{{% blocks/feature icon="fa-rocket" title="Sustainability at the Core" url="docs/marketing-communications/" %}}
 We embed environmental responsibility into every strategy, from eco-hosting to lifecycle-aware campaigns.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-chart-line" title="Data-Driven, People-Centric" url="/marketing-communications/analytics-reporting/" %}}
+{{% blocks/feature icon="fa-chart-line" title="Data-Driven, People-Centric" url="docs/marketing-communications/" %}}
 Our frameworks turn metrics into insight. Track performance while aligning with the UN SDGs and ethical KPIs.
 {{% /blocks/feature %}}
 

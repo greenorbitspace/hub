@@ -1,4 +1,8 @@
-/*
-Projects can override this file. For details, see:
-https://www.docsy.dev/docs/adding-content/lookandfeel/#project-style-files
-*/
+// Example: override primary brand colour
+$primary: #007B55;
+
+// Optional: override other theme colours
+$body-bg: #f5f5f5;
+$body-color: #333333;
+$link-color: #00695c;
+$code-bg: #e8f5e9;

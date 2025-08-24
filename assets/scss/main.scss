@@ -6,6 +6,8 @@
 @import "variables_project";
 @import "variables";
 @import "support/mixins";
+@import "variables_project";
+@import "variables_project_after_bs";
 
 @import "../vendor/bootstrap/scss/bootstrap";
 @import "support/bootstrap_vers_test";
