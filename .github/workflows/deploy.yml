@@ -22,14 +22,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Install Hugo (extended version for SCSS/SASS support)
+      # Install Hugo (extended version for SCSS/SASS support, required by Docsy)
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
           extended: true
 
-      # Setup Node for PostCSS / npm dependencies
+      # (Optional) Setup Node for PostCSS if your Docsy config uses it
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -43,7 +43,7 @@ jobs:
           fi
 
       - name: Build Hugo site
-        run: hugo --minify --baseURL "https://hub.greenorbit.space/"
+        run: hugo --minify --baseURL "https://greenorbitspace.github.io/hub/"
 
       - name: Add CNAME for custom domain
         run: echo "hub.greenorbit.space" > ./public/CNAME
