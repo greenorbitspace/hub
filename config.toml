@@ -6,8 +6,8 @@ enableRobotsTXT = true
 minify = true
 
 # Enable relative URLs to help with subpath deployment (GitHub Pages /hub/)
-relativeURLs = true
-canonifyURLs = false
+relativeURLs = false
+canonifyURLs = true
 
 # Site-wide parameters
 [params]

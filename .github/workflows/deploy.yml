@@ -22,32 +22,45 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Install Hugo (extended version for SCSS/SASS support, required by Docsy)
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      # (Optional) Setup Node for PostCSS if your Docsy config uses it
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
 
-      - name: Install dependencies
-        run: npm ci
+      - name: Install Node dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          fi
 
-      - name: Build Docsy site
-        run: npm run build   # ensure "build" script exists
+      - name: Build Hugo site
+        run: hugo --minify --baseURL "https://greenorbitspace.github.io/hub/"
 
       - name: Add CNAME for custom domain
-        run: echo "hub.greenorbit.space" > ./dist/CNAME
+        run: echo "hub.greenorbit.space" > ./public/CNAME
 
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: ./public
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
