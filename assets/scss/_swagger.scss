@@ -1,3 +1,8 @@
+/* Swagger UI title pre formatting */
 .swagger-ui .info .title small pre {
-   background: #7d8492;
+    background-color: #0c4d53;  /* Deep Space Green-Blue */
+    color: #e6f3f4;             /* Light text for contrast */
+    padding: 2px 6px;           /* Optional: a little spacing */
+    border-radius: 4px;         /* Optional: subtle rounded corners */
+    font-weight: 500;           /* Optional: make it stand out */
 }

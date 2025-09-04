@@ -1,8 +1,19 @@
-// Example: override primary brand colour
-$primary: #007B55;
+// ✅ Brand colours (replacing Docsy defaults)
+$primary: #0c4d53;       // Deep teal
+$secondary: #127780;     // Sea green
+$success: #0fc083;       // Aqua green
+$warning: #facc15;       // Amber
+$info: #5ea9bb;          // Muted cyan
+$dark: #041f25;          // Near-black teal
+$light: #e6f3f4;         // Pale teal
+$gray-200: #e5e7eb;      // Soft grey
 
-// Optional: override other theme colours
-$body-bg: #f5f5f5;
-$body-color: #333333;
-$link-color: #00695c;
-$code-bg: #e8f5e9;
+// ✅ Site-wide overrides
+$body-bg: #e6f3f4;
+$body-color: #041f25;
+$link-color: $primary;
+$code-bg: lighten($primary, 48%);
+
+// ✅ Docsy-specific overrides
+$td-enable-google-fonts: false;
+$td-container-max-width: 1200px;

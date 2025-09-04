@@ -1,7 +1,14 @@
-/*
+// assets/scss/_styles_project.scss
 
-Nothing defined here. The Hugo project that uses this theme can override Bootstrap by adding a file to:
+body {
+  background-color: $body-bg;
+  color: $body-color;
+}
 
-assets/scss/_styles_project.scss
+a {
+  color: $link-color;
 
-*/
+  &:hover {
+    color: darken($link-color, 10%);
+  }
+}

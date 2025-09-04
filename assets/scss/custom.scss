@@ -1,20 +1,43 @@
-// custom.scss
+// ==============================
+// Navbar Dark Mode Overrides
+// ==============================
 
-// Override Bootstrap color system
-$primary: #0c4d53;
-$secondary: #127780;
-$success: #0fc083;
-$warning: #facc15;
-$info: #5ea9bb;
-$dark: #041f25;
-$light: #e6f3f4;
-$gray-200: #e5e7eb;
+// Detect dark background and switch colors
+.navbar {
+  &.navbar-dark,
+  &[data-theme="dark"] {
+    background-color: $dark;
 
-// Optional: override font or other variables
-$body-bg: #e6f3f4;
-$body-color: #041f25;
-$link-color: $primary;
+    // Brand SVG
+    .navbar-brand svg {
+      fill: currentColor;
+      color: $light;  // Light color for dark background
+    }
 
-// Docsy-specific overrides (optional)
-$td-enable-google-fonts: false;
-$td-container-max-width: 1200px;
+    // Nav link SVGs
+    .nav-link svg {
+      fill: currentColor;
+      color: $light;
+      transition: fill 0.3s ease, color 0.3s ease;
+    }
+
+    // Nav link text
+    .nav-link {
+      color: $light;
+      &:hover,
+      &:focus {
+        color: $secondary;
+      }
+    }
+
+    // Dropdown menu items
+    .dropdown-menu .dropdown-item {
+      color: $light;
+      &:hover,
+      &:focus {
+        color: $secondary;
+        background-color: darken($dark, 5%);
+      }
+    }
+  }
+}
