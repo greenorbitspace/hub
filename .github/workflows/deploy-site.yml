@@ -34,6 +34,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
+        working-directory: ${{ inputs.site_dir }}
         run: npm ci
 
       - name: Build site
@@ -46,6 +47,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GHPAT_RL }} # or GITHUB_TOKEN if same repo
           publish_branch: ${{ inputs.branch }}
           publish_dir: ${{ inputs.site_dir }}/dist
+          force_orphan: true
