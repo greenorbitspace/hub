@@ -10,7 +10,7 @@ description: Sustainable marketing for the space sector and beyond.
 We help purpose-driven space and tech organisations grow with sustainable, data-driven marketing that makes an impact.
 
 <a class="btn btn-lg btn-primary me-3" href="about/">Learn More</a>
-<a class="btn btn-lg btn-secondary" href="get-started/">Get started</a>
+<a class="btn btn-lg btn-secondary" href="docs/">Get started</a>
 {.p-initial .my-5}
 
 {{% blocks/link-down color="info" %}}

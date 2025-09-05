@@ -1,43 +1,144 @@
-// ==============================
-// Navbar Dark Mode Overrides
-// ==============================
+// ==================================================
+// 1. Bootstrap color variables
+// ==================================================
+$primary: #0c4d53 !default;
+$secondary: #127780 !default;
+$success: #0fc083 !default;
+$warning: #facc15 !default;
+$info: #5ea9bb !default;
+$dark: #041f25 !default;
+$light: #e6f3f4 !default;
+$gray-200: #e5e7eb !default;
 
-// Detect dark background and switch colors
-.navbar {
-  &.navbar-dark,
-  &[data-theme="dark"] {
-    background-color: $dark;
+// Typography
+$body-bg: #e6f3f4 !default;
+$body-color: #041f25 !default;
+$link-color: $primary !default;
 
-    // Brand SVG
-    .navbar-brand svg {
-      fill: currentColor;
-      color: $light;  // Light color for dark background
-    }
+// Buttons
+$btn-border-radius: 0.375rem !default;
+$btn-font-weight: 600 !default;
+$btn-padding-y: 0.625rem !default;
 
-    // Nav link SVGs
-    .nav-link svg {
-      fill: currentColor;
-      color: $light;
-      transition: fill 0.3s ease, color 0.3s ease;
-    }
+// ==================================================
+// 2. Docsy-specific variables
+// ==================================================
+$td-enable-google-fonts: false !default;
+$td-container-max-width: 1200px !default;
 
-    // Nav link text
-    .nav-link {
-      color: $light;
-      &:hover,
-      &:focus {
-        color: $secondary;
-      }
-    }
+// ==================================================
+// 3. Code / Markmap / Highlights
+// ==================================================
+$markmap-a-color: #0097e6 !default;
+$markmap-a-hover-color: #00a8ff !default;
+$markmap-code-bg: #f0f0f0 !default;
+$markmap-code-color: #555 !default;
+$markmap-highlight-bg: #ffeaa7 !default;
+$markmap-highlight-node-bg: #ff02 !default;
+$markmap-text-color: #333 !default;
 
-    // Dropdown menu items
-    .dropdown-menu .dropdown-item {
-      color: $light;
-      &:hover,
-      &:focus {
-        color: $secondary;
-        background-color: darken($dark, 5%);
-      }
+// ==================================================
+// 4. Custom cover block backgrounds
+// ==================================================
+$cover-bg-small: "/hub/my-new-image-small.jpg";
+$cover-bg-large: "/hub/my-new-image-large.jpg";
+
+// ==================================================
+// 5. CSS rules to override Docsy / Bootstrap
+// ==================================================
+
+// ------------------------
+// Cover block
+// ------------------------
+#td-cover-block-0 {
+  background-image: url(#{$cover-bg-small}) !important;
+  background-size: cover;
+  background-position: center;
+  height: 500px; // adjust as needed
+}
+
+@media only screen and (min-width: 1200px) {
+  #td-cover-block-0 {
+    background-image: url(#{$cover-bg-large}) !important;
+  }
+}
+
+// ------------------------
+// Buttons
+// ------------------------
+.btn-primary {
+  background-color: $primary !important;
+  border-color: $primary !important;
+  color: $light !important;
+
+  &:hover,
+  &:focus {
+    background-color: darken($primary, 10%) !important;
+    border-color: darken($primary, 10%) !important;
+    color: $light !important;
+  }
+}
+
+.btn-secondary {
+  background-color: $secondary !important;
+  border-color: $secondary !important;
+  color: $light !important;
+
+  &:hover,
+  &:focus {
+    background-color: darken($secondary, 10%) !important;
+    border-color: darken($secondary, 10%) !important;
+    color: $light !important;
+  }
+}
+
+// ------------------------
+// Links
+// ------------------------
+a {
+  color: $primary !important;
+
+  &:hover,
+  &:focus {
+    color: darken($primary, 10%) !important;
+  }
+}
+
+// ------------------------
+// Markmap
+// ------------------------
+.markmap {
+  color: $markmap-text-color !important;
+
+  a {
+    color: $markmap-a-color !important;
+
+    &:hover {
+      color: $markmap-a-hover-color !important;
     }
   }
+
+  code {
+    background-color: $markmap-code-bg !important;
+    color: $markmap-code-color !important;
+  }
+
+  .markmap-highlight rect {
+    fill: $markmap-highlight-node-bg !important;
+  }
+}
+
+// ------------------------
+// Body
+// ------------------------
+body {
+  background-color: $body-bg !important;
+  color: $body-color !important;
+}
+
+// ------------------------
+// Docsy container width
+// ------------------------
+.td-container {
+  max-width: $td-container-max-width !important;
 }

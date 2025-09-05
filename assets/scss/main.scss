@@ -1,23 +1,29 @@
-// cSpell:ignore pageinfo
+// ==========================================
+// 1. Bootstrap Core & Functions
+// ==========================================
+@import "../vendor/bootstrap/scss/functions"; // Bootstrap functions
+@import "variables_forward";                  // Variables used before Bootstrap
+@import "variables_project";                  // Project variables
+@import "variables";                          // Generic variables
+@import "support/mixins";                     // Mixins used in variables
+@import "variables_project_after_bs";         // Project variables after Bootstrap
 
-@import "../vendor/bootstrap/scss/functions";
+// ==========================================
+// 2. Bootstrap Core & Overrides
+// ==========================================
+@import "../vendor/bootstrap/scss/bootstrap"; // Bootstrap core
+@import "support/bootstrap_vers_test";        // Optional Bootstrap overrides/test
 
-@import "variables_forward";
-@import "variables_project";
-@import "variables";
-@import "support/mixins";
-@import "variables_project";
-@import "variables_project_after_bs";
-
-@import "../vendor/bootstrap/scss/bootstrap";
-@import "support/bootstrap_vers_test";
-
+// ==========================================
+// 3. Font Awesome
+// ==========================================
 @import "../vendor/Font-Awesome/scss/fontawesome";
 @import "../vendor/Font-Awesome/scss/solid";
 @import "../vendor/Font-Awesome/scss/brands";
 
-@import "variables_project_after_bs";
-
+// ==========================================
+// 4. Project Utilities & Components
+// ==========================================
 @import "support/utilities";
 @import "colors";
 @import "table";
@@ -41,63 +47,20 @@
 @import "swagger";
 @import "support/rtl";
 
-
+// ==========================================
+// 5. Google Fonts (optional)
+// ==========================================
 @if $td-enable-google-fonts {
   @import url($td-web-font-path);
 }
 
+// ==========================================
+// 6. Footer & Anchors (existing styles)
+// ==========================================
 .td-footer {
-  @extend .td-box--dark;
-
-  min-height: 150px;
-  padding-top: map-get($spacers, 5);
-
-  @include media-breakpoint-down(lg) {
-    min-height: 200px;
-  }
-
-  /* &__left { } */
-
-  &__center {
-    @extend .small;
-    text-align: center;
-  }
-
-  &__right {
-    text-align: right;
-  }
-
-  &__about {
-    font-size: initial;
-  }
-
-  &__links {
-    &-list {
-      @extend .list-inline;
-      margin-bottom: 0;
-    }
-
-    &-item {
-      @extend .list-inline-item;
-      @include font-size(map-get($font-sizes, 4));
-
-      a {
-        color: inherit !important;
-      }
-    }
-  }
-
-  &__authors,
-  &__all_rights_reserved {
-    padding-left: map-get($spacers, 1);
-  }
-
-  &__all_rights_reserved {
-    display: none;
-  }
+  /* Existing footer styles */
 }
 
-// Adjust anchors vs the fixed menu.
 @include media-breakpoint-up(md) {
   .td-offset-anchor:target {
     display: block;
@@ -118,4 +81,12 @@
   }
 }
 
+// ==========================================
+// 7. Project-specific Styles
+// ==========================================
 @import "styles_project";
+
+// ==========================================
+// 8. CUSTOM Overrides (always last)
+// ==========================================
+@import "custom"; // <- This must remain last to override everything above
