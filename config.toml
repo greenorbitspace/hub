@@ -30,6 +30,9 @@ canonifyURLs = true
     showBanner = true
     sidebarSearch = true
     sidebar_menu_truncate = 250
+    sidebar_cache_limit = 2000
+    ul_show = 1
+    sidebar_menu_foldable = true
 
 # ----------------------------
 # Theme modules
