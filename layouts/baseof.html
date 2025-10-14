@@ -1,21 +1,39 @@
 <!doctype html>
 <html itemscope itemtype="http://schema.org/WebPage"
-    {{- with .Site.Language.LanguageDirection }} dir="{{ . }}" {{- end -}}
-    {{ with .Site.Language.Lang }} lang="{{ . }}" {{- end }} {{/**/ -}}
-    class="no-js">
+      {{- with .Site.Language.LanguageDirection }} dir="{{ . }}" {{- end -}}
+      {{- with .Site.Language.Lang }} lang="{{ . }}" {{- end -}}
+      class="no-js">
   <head>
     {{ partial "head.html" . }}
   </head>
   <body class="td-{{ .Kind }}{{ with .Page.Params.body_class }} {{ . }}{{ end }}">
+
+    <!-- Header / Navbar -->
     <header>
       {{ partial "navbar.html" . }}
     </header>
-    <div class="container-fluid td-default td-outer">
-      <main role="main" class="td-main">
-        {{ block "main" . }}{{ end }}
+
+    <!-- Outer container -->
+    <div class="container-fluid td-default td-outer d-flex flex-wrap">
+
+      <!-- Sidebar -->
+      <aside class="td-sidebar flex-shrink-0">
+        {{ partial "sidebar-tree.html" . }}
+      </aside>
+
+      <!-- Main content -->
+      <main role="main" class="td-main flex-fill">
+        {{ block "main" . }}
+        {{ end }}
       </main>
-      {{ partial "footer.html" . }}
+
     </div>
+
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+
+    <!-- Scripts -->
     {{ partialCached "scripts.html" . }}
+
   </body>
 </html>
