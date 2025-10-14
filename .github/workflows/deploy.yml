@@ -43,12 +43,13 @@ jobs:
           fi
 
       - name: Build Hugo site
-        run: hugo --minify --baseURL "https://greenorbitspace.github.io/hub/"
-        # Ignore ESLint errors to avoid Ubuntu build failure
-        npx eslint . || true
+        run: |
+          hugo --minify --baseURL "https://docs.greenorbit.space"
+          # Ignore ESLint errors to avoid Ubuntu build failure
+          npx eslint . || true
 
       - name: Add CNAME for custom domain
-        run: echo "hub.greenorbit.space" > ./public/CNAME
+        run: echo "docs.greenorbit.space" > ./public/CNAME
 
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
