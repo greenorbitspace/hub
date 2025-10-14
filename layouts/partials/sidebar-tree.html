@@ -1,8 +1,7 @@
-{{/* 
-  Green Orbit Docs Sidebar
-  - Uses params.mainSections
-  - Fallbacks to .FirstSection
-  - Icons via front matter (`Icon` param)
+{{/*
+  Sidebar navigation for Green Orbit Docs
+  Uses .Site.Params.mainSections to build the top-level sidebar
+  Handles icons via front matter `Icon`
 */}}
 
 {{ $sidebarCacheLimit := .Site.Params.ui.sidebar_cache_limit | default 2000 -}}
@@ -33,16 +32,17 @@
     </div>
     {{ end -}}
 
-    {{/* Determine top-level section */}}
+    {{/* Determine top-level sections */}}
     {{ $mainSections := .Site.Params.mainSections | default (slice "handbook" "glossary" "ims" "tech" "marketing" "legal" "about") -}}
     {{ $currentPage := . }}
-    {{ $currentSection := .Section | default . }}
     {{ $navRoot := slice }}
 
-    {{ range $s := $mainSections }}
-      {{ with index .Site.Sections $s }}
-        {{ if or (eq . $currentSection) ($currentSection.IsDescendant .) }}
-          {{ $navRoot = . }}
+    {{ range $sName := $mainSections }}
+      {{ $found := first 1 (where .Site.Sections "Section" $sName) }}
+      {{ if gt (len $found) 0 }}
+        {{ $section := index $found 0 }}
+        {{ if or (eq $section $currentPage) ($currentPage.IsDescendant $section) }}
+          {{ $navRoot = $section }}
         {{ end }}
       {{ end }}
     {{ end }}

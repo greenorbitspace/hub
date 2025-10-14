@@ -1,39 +1,115 @@
-<!doctype html>
-<html itemscope itemtype="http://schema.org/WebPage"
-      {{- with .Site.Language.LanguageDirection }} dir="{{ . }}" {{- end -}}
-      {{- with .Site.Language.Lang }} lang="{{ . }}" {{- end -}}
-      class="no-js">
-  <head>
-    {{ partial "head.html" . }}
-  </head>
-  <body class="td-{{ .Kind }}{{ with .Page.Params.body_class }} {{ . }}{{ end }}">
+{{/* 
+  Green Orbit Docs Sidebar
+  - Uses params.mainSections
+  - Fallbacks to .FirstSection
+  - Icons via front matter (`Icon` param)
+*/}}
 
-    <!-- Header / Navbar -->
-    <header>
-      {{ partial "navbar.html" . }}
-    </header>
+{{ $sidebarCacheLimit := .Site.Params.ui.sidebar_cache_limit | default 2000 -}}
+{{ $shouldDelayActive := ge (len .Site.Pages) $sidebarCacheLimit -}}
 
-    <!-- Outer container -->
-    <div class="container-fluid td-default td-outer d-flex flex-wrap">
+<div id="td-sidebar-menu" class="td-sidebar__inner{{ if $shouldDelayActive }} d-none{{ end }}">
 
-      <!-- Sidebar -->
-      <aside class="td-sidebar flex-shrink-0">
-        {{ partial "sidebar-tree.html" . }}
-      </aside>
+  {{ if not .Site.Params.ui.sidebar_search_disable -}}
+  <form class="td-sidebar__search d-flex align-items-center">
+    {{ partial "search-input.html" . }}
+    <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ms-3 fas fa-bars" type="button"
+      data-bs-toggle="collapse" data-bs-target="#td-section-nav"
+      aria-controls="td-section-nav" aria-expanded="false"
+      aria-label="Toggle section navigation">
+    </button>
+  </form>
+  {{ end -}}
 
-      <!-- Main content -->
-      <main role="main" class="td-main flex-fill">
-        {{ block "main" . }}
-        {{ end }}
-      </main>
+  <nav class="td-sidebar-nav collapse
+      {{- if .Site.Params.ui.sidebar_search_disable }} td-sidebar-nav--search-disabled{{ end -}}
+      {{- if .Site.Params.ui.sidebar_menu_foldable }} foldable-nav{{ end -}}"
+      id="td-section-nav">
 
+    {{/* Optional language selector */}}
+    {{ if gt (len .Site.Home.Translations) 0 -}}
+    <div class="td-sidebar-nav__section nav-item dropdown d-block d-lg-none">
+      {{ partial "navbar-lang-selector.html" . }}
     </div>
+    {{ end -}}
 
-    <!-- Footer -->
-    {{ partial "footer.html" . }}
+    {{/* Determine top-level section */}}
+    {{ $mainSections := .Site.Params.mainSections | default (slice "handbook" "glossary" "ims" "tech" "marketing" "legal" "about") -}}
+    {{ $currentPage := . }}
+    {{ $currentSection := .Section | default . }}
+    {{ $navRoot := slice }}
 
-    <!-- Scripts -->
-    {{ partialCached "scripts.html" . }}
+    {{ range $s := $mainSections }}
+      {{ $found := first 1 (where $.Site.Sections "File.Dir" (printf "%s/" $s)) }}
+      {{ if gt (len $found) 0 }}
+        {{ $section := index $found 0 }}
+        {{ if or (eq $section $currentSection) ($currentSection.IsDescendant $section) }}
+          {{ $navRoot = $section }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
 
-  </body>
-</html>
+    {{ if not $navRoot }}
+      {{ $navRoot = $.Site.FirstSection }}
+    {{ end }}
+
+    {{ $ulNr := 0 -}}
+    {{ $ulShow := .Site.Params.ui.ul_show | default 1 -}}
+    {{ $sidebarMenuTruncate := .Site.Params.ui.sidebar_menu_truncate | default 100 -}}
+
+    <ul class="td-sidebar-nav__section pe-md-3 ul-{{ $ulNr }}">
+      {{ template "section-tree-nav-section" (dict
+        "page" $currentPage
+        "section" $navRoot
+        "shouldDelayActive" $shouldDelayActive
+        "sidebarMenuTruncate" $sidebarMenuTruncate
+        "ulNr" $ulNr
+        "ulShow" (add $ulShow 1)
+      ) }}
+    </ul>
+  </nav>
+</div>
+
+{{/* Recursive template */}}
+{{ define "section-tree-nav-section" -}}
+  {{ $s := .section -}}
+  {{ $p := .page -}}
+  {{ $shouldDelayActive := .shouldDelayActive -}}
+  {{ $sidebarMenuTruncate := .sidebarMenuTruncate -}}
+  {{ $ulNr := .ulNr -}}
+  {{ $ulShow := .ulShow -}}
+
+  {{ $activePath := and (not $shouldDelayActive) (or (eq $p $s) ($p.IsDescendant $s)) -}}
+  {{ $mid := printf "m-%s" ($s.RelPermalink | anchorize) -}}
+
+  {{ $pagesTmp := where (union $s.Pages $s.Sections).ByWeight ".Params.toc_hide" "!=" true -}}
+  {{ $pages := $pagesTmp | first $sidebarMenuTruncate -}}
+
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section{{ if gt (len $pages) 0 }} with-child{{ else }} without-child{{ end }}{{ if $activePath }} active-path{{ end }}"
+      id="{{ $mid }}-li">
+    <a href="{{ $s.RelPermalink }}"
+       class="align-left ps-0 td-sidebar-link{{ if eq $p $s }} active{{ end }}{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}"
+       id="{{ $mid }}">
+      {{ with $s.Params.Icon }}<i class="{{ . }}"></i>{{ end }}
+      <span class="{{ if eq $p $s }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle | default $s.Title }}</span>
+    </a>
+
+    {{ if gt (len $pages) 0 }}
+      {{ $ulNrNext := add $ulNr 1 }}
+      <ul class="ul-{{ $ulNrNext }}{{ if gt $ulNrNext 1 }} foldable{{ end }}">
+        {{ range $pages }}
+          {{ if not (and (eq $s $p.Site.Home) (eq .Params.toc_root true)) }}
+            {{ template "section-tree-nav-section" (dict
+              "page" $p
+              "section" .
+              "shouldDelayActive" $shouldDelayActive
+              "sidebarMenuTruncate" $sidebarMenuTruncate
+              "ulNr" $ulNrNext
+              "ulShow" $ulShow
+            ) }}
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
+  </li>
+{{- end -}}
