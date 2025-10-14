@@ -1,12 +1,13 @@
 {{/* 
   Custom sidebar for Green Orbit Docs
   This version removes the hardcoded "docs" root assumption from Docsy.
-  It builds the sidebar dynamically from any of the top-level sections 
+  It dynamically builds the sidebar from any top-level section 
   defined in `params.mainSections` (e.g. handbook, glossary, tech, etc.)
 */}}
 
 {{ $sidebarCacheLimit := .Site.Params.ui.sidebar_cache_limit | default 2000 -}}
 {{ $shouldDelayActive := ge (len .Site.Pages) $sidebarCacheLimit -}}
+
 <div id="td-sidebar-menu" class="td-sidebar__inner{{ if $shouldDelayActive }} d-none{{ end }}">
 
   {{ if not .Site.Params.ui.sidebar_search_disable -}}
@@ -35,11 +36,13 @@
     {{ $mainSections := .Site.Params.mainSections | default (slice "handbook" "glossary" "ims" "tech" "marketing" "legal" "about") -}}
     {{ $section := .Section -}}
     {{ if not (in $mainSections $section) }}
-      {{/* If the current page isn't in a defined section, fallback to home */}}
       {{ $section = .Site.Home.Section }}
     {{ end -}}
 
-    {{ $navRoot := index .Site.Sections $section | default .FirstSection -}}
+    {{/* Find the top-level section safely (no indexing into array) */}}
+    {{ $navRootCandidates := where .Site.Sections "Section" $section }}
+    {{ $navRoot := cond (gt (len $navRootCandidates) 0) (index $navRootCandidates 0) .FirstSection -}}
+
     {{ $ulNr := 0 -}}
     {{ $ulShow := .Site.Params.ui.ul_show | default 1 -}}
     {{ $sidebarMenuTruncate := .Site.Params.ui.sidebar_menu_truncate | default 100 -}}
