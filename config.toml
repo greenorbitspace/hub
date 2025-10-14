@@ -5,11 +5,13 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 minify = true
 
-# Enable relative URLs to help with subpath deployment (GitHub Pages /hub/)
+# URL handling
 relativeURLs = false
 canonifyURLs = true
 
-# Site-wide parameters
+# ----------------------------
+# Site parameters
+# ----------------------------
 [params]
   copyright = "Green Orbit Digital"
   privacy_policy = "https://greenorbit.space/privacy-policy/"
@@ -18,30 +20,42 @@ canonifyURLs = true
   disableBreadcrumbs = false
   disableSearch = false
 
+  # Define your main top-level sections (replaces 'docs/')
+  mainSections = ["handbook", "ims", "legal", "marketing", "glossary", "tech", "about"]
+
   # UI customization for Docsy theme
   [params.ui]
     showSidebar = true
-    showMenu = true            # Ensure main nav menu shows
+    showMenu = true
     showBanner = true
     sidebarSearch = true
     sidebar_menu_truncate = 250
 
+# ----------------------------
+# Theme modules
+# ----------------------------
 [module]
   [[module.imports]]
     path = "github.com/google/docsy"
 
-# Goldmark settings to allow raw HTML rendering (to suppress omitted raw HTML warnings)
+# ----------------------------
+# Markdown / Goldmark rendering
+# ----------------------------
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-# Output formats for homepage and sections
+# ----------------------------
+# Output formats
+# ----------------------------
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML"]
 
-# Clean permalinks for main content sections
+# ----------------------------
+# Permalink structure
+# ----------------------------
 [permalinks]
   handbook = "/handbook/:slug/"
   ims = "/ims/:slug/"
@@ -51,7 +65,9 @@ canonifyURLs = true
   tech = "/tech/:slug/"
   about = "/about/:slug/"
 
-# Main navigation menu structure
+# ----------------------------
+# Main navigation menu
+# ----------------------------
 [menu]
   [[menu.main]]
     identifier = "handbook"
@@ -66,17 +82,45 @@ canonifyURLs = true
     weight = 20
 
   [[menu.main]]
+    identifier = "ims"
+    name = "IMS"
+    url = "/ims/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "marketing"
+    name = "Marketing"
+    url = "/marketing/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "tech"
+    name = "Tech"
+    url = "/tech/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "legal"
+    name = "Legal"
+    url = "/legal/"
+    weight = 60
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 30
+    weight = 70
 
-# Google Analytics placeholder (leave empty or add your tracking ID)
+# ----------------------------
+# Google Analytics (optional)
+# ----------------------------
 [services]
   [services.googleAnalytics]
     id = ""
 
-# Minimal language configuration for a single-language site
+# ----------------------------
+# Language configuration
+# ----------------------------
 [languages]
   [languages.en]
     title = "Green Orbit User Guide"
