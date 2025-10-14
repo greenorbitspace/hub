@@ -1,8 +1,7 @@
 {{/* 
   Custom sidebar for Green Orbit Docs
-  This version removes the hardcoded "docs" root assumption from Docsy.
-  It dynamically builds the sidebar from any top-level section 
-  defined in `params.mainSections` (e.g. handbook, glossary, tech, etc.)
+  - Dynamic top-level sections from params.mainSections
+  - Fallback to .FirstSection if current page isn't in a main section
 */}}
 
 {{ $sidebarCacheLimit := .Site.Params.ui.sidebar_cache_limit | default 2000 -}}
@@ -26,22 +25,21 @@
       {{- if .Site.Params.ui.sidebar_menu_foldable }} foldable-nav{{ end -}}"
       id="td-section-nav">
 
-    {{ if  (gt (len .Site.Home.Translations) 0) -}}
+    {{ if (gt (len .Site.Home.Translations) 0) -}}
     <div class="td-sidebar-nav__section nav-item dropdown d-block d-lg-none">
       {{ partial "navbar-lang-selector.html" . }}
     </div>
     {{ end -}}
 
-    {{/* Determine which section to render based on top-level section */}}
+    {{/* Determine the current top-level section */}}
     {{ $mainSections := .Site.Params.mainSections | default (slice "handbook" "glossary" "ims" "tech" "marketing" "legal" "about") -}}
-    {{ $section := .Section -}}
-    {{ if not (in $mainSections $section) }}
-      {{ $section = .Site.Home.Section }}
-    {{ end -}}
+    {{ $currentSection := .Section }}
+    {{ $navRoot := .Site.Sections | where "Section" "eq" $currentSection | first }}
 
-    {{/* Find the top-level section safely (no indexing into array) */}}
-    {{ $navRootCandidates := where .Site.Sections "Section" $section }}
-    {{ $navRoot := cond (gt (len $navRootCandidates) 0) (index $navRootCandidates 0) .FirstSection -}}
+    {{/* Fallback if page is not in a main section */}}
+    {{ if not $navRoot }}
+      {{ $navRoot = .FirstSection }}
+    {{ end }}
 
     {{ $ulNr := 0 -}}
     {{ $ulShow := .Site.Params.ui.ul_show | default 1 -}}
