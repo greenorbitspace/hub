@@ -15,14 +15,7 @@
 @import "support/bootstrap_vers_test";        // Optional Bootstrap overrides/test
 
 // ==========================================
-// 3. Font Awesome
-// ==========================================
-@import "../vendor/Font-Awesome/scss/fontawesome";
-@import "../vendor/Font-Awesome/scss/solid";
-@import "../vendor/Font-Awesome/scss/brands";
-
-// ==========================================
-// 4. Project Utilities & Components
+// 3. Project Utilities & Components (No Font Awesome SCSS)
 // ==========================================
 @import "support/utilities";
 @import "colors";
@@ -48,14 +41,14 @@
 @import "support/rtl";
 
 // ==========================================
-// 5. Google Fonts (optional)
+// 4. Google Fonts (optional)
 // ==========================================
 @if $td-enable-google-fonts {
   @import url($td-web-font-path);
 }
 
 // ==========================================
-// 6. Footer & Anchors (existing styles)
+// 5. Footer & Anchors
 // ==========================================
 .td-footer {
   /* Existing footer styles */
@@ -82,11 +75,11 @@
 }
 
 // ==========================================
-// 7. Project-specific Styles
+// 6. Project-specific Styles
 // ==========================================
 @import "styles_project";
 
 // ==========================================
-// 8. CUSTOM Overrides (always last)
+// 7. CUSTOM Overrides (always last)
 // ==========================================
-@import "custom"; // <- This must remain last to override everything above
+@import "custom";
