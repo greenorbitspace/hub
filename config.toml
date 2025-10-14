@@ -43,7 +43,12 @@ canonifyURLs = true
 
 # Clean permalinks for main content sections
 [permalinks]
-  docs = "/:slug/"
+  handbook = "/handbook/:slug/"
+  ims = "/ims/:slug/"
+  legal = "/legal/:slug/"
+  marketing = "/marketing/:slug/"
+  glossary = "/glossary/:slug/"
+  tech = "/tech/:slug/"
   about = "/about/:slug/"
 
 # Main navigation menu structure
