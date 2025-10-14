@@ -43,7 +43,7 @@ canonifyURLs = true
 
 # Clean permalinks for main content sections
 [permalinks]
-  docs = "/docs/:slug/"
+  docs = "/:slug/"
   about = "/about/:slug/"
 
 # Main navigation menu structure
@@ -51,13 +51,13 @@ canonifyURLs = true
   [[menu.main]]
     identifier = "handbook"
     name = "Handbook"
-    url = "/docs/handbook/"
+    url = "/handbook/"
     weight = 10
 
   [[menu.main]]
     identifier = "glossary"
     name = "Glossary"
-    url = "/docs/glossary/"
+    url = "/glossary/"
     weight = 20
 
   [[menu.main]]
