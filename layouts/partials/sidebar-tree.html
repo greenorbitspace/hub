@@ -35,17 +35,20 @@
 
     {{/* Determine top-level section */}}
     {{ $mainSections := .Site.Params.mainSections | default (slice "handbook" "glossary" "ims" "tech" "marketing" "legal" "about") -}}
-    {{ $currentSection := .Section }}
+    {{ $currentPage := . }}
+    {{ $currentSection := .Section | default . }}
     {{ $navRoot := slice }}
+
     {{ range $s := $mainSections }}
-      {{ with index .Site.Sections $s }} 
-        {{ if eq .File.Path $currentSection.File.Path }} 
-          {{ $navRoot = . }} 
-        {{ end }} 
+      {{ with index .Site.Sections $s }}
+        {{ if or (eq . $currentSection) ($currentSection.IsDescendant .) }}
+          {{ $navRoot = . }}
+        {{ end }}
       {{ end }}
     {{ end }}
-    {{ if not $navRoot }} 
-      {{ $navRoot = .FirstSection }} 
+
+    {{ if not $navRoot }}
+      {{ $navRoot = .FirstSection }}
     {{ end }}
 
     {{ $ulNr := 0 -}}
@@ -53,14 +56,14 @@
     {{ $sidebarMenuTruncate := .Site.Params.ui.sidebar_menu_truncate | default 100 -}}
 
     <ul class="td-sidebar-nav__section pe-md-3 ul-{{ $ulNr }}">
-      {{ template "section-tree-nav-section" (dict 
-        "page" . 
-        "section" $navRoot 
-        "shouldDelayActive" $shouldDelayActive 
-        "sidebarMenuTruncate" $sidebarMenuTruncate 
-        "ulNr" $ulNr 
-        "ulShow" (add $ulShow 1)) 
-      }}
+      {{ template "section-tree-nav-section" (dict
+        "page" $currentPage
+        "section" $navRoot
+        "shouldDelayActive" $shouldDelayActive
+        "sidebarMenuTruncate" $sidebarMenuTruncate
+        "ulNr" $ulNr
+        "ulShow" (add $ulShow 1)
+      ) }}
     </ul>
   </nav>
 </div>
@@ -86,7 +89,7 @@
        class="align-left ps-0 td-sidebar-link{{ if eq $p $s }} active{{ end }}{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}"
        id="{{ $mid }}">
       {{ with $s.Params.Icon }}<i class="{{ . }}"></i>{{ end }}
-      <span class="{{ if eq $p $s }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle }}</span>
+      <span class="{{ if eq $p $s }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle | default $s.Title }}</span>
     </a>
 
     {{ if gt (len $pages) 0 }}
@@ -94,13 +97,14 @@
       <ul class="ul-{{ $ulNrNext }}{{ if (gt $ulNrNext 1) }} foldable{{ end }}">
         {{ range $pages }}
           {{ if not (and (eq $s $p.Site.Home) (eq .Params.toc_root true)) }}
-            {{ template "section-tree-nav-section" (dict 
-              "page" $p 
-              "section" . 
-              "shouldDelayActive" $shouldDelayActive 
-              "sidebarMenuTruncate" $sidebarMenuTruncate 
-              "ulNr" $ulNrNext 
-              "ulShow" $ulShow) }}
+            {{ template "section-tree-nav-section" (dict
+              "page" $p
+              "section" .
+              "shouldDelayActive" $shouldDelayActive
+              "sidebarMenuTruncate" $sidebarMenuTruncate
+              "ulNr" $ulNrNext
+              "ulShow" $ulShow
+            ) }}
           {{ end }}
         {{ end }}
       </ul>
