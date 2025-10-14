@@ -27,7 +27,7 @@
       id="td-section-nav">
 
     {{/* Optional language selector */}}
-    {{ if (gt (len .Site.Home.Translations) 0) -}}
+    {{ if gt (len .Site.Home.Translations) 0 -}}
     <div class="td-sidebar-nav__section nav-item dropdown d-block d-lg-none">
       {{ partial "navbar-lang-selector.html" . }}
     </div>
@@ -94,7 +94,7 @@
 
     {{ if gt (len $pages) 0 }}
       {{ $ulNrNext := add $ulNr 1 }}
-      <ul class="ul-{{ $ulNrNext }}{{ if (gt $ulNrNext 1) }} foldable{{ end }}">
+      <ul class="ul-{{ $ulNrNext }}{{ if gt $ulNrNext 1 }} foldable{{ end }}">
         {{ range $pages }}
           {{ if not (and (eq $s $p.Site.Home) (eq .Params.toc_root true)) }}
             {{ template "section-tree-nav-section" (dict
