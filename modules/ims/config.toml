@@ -1,0 +1,20 @@
+baseURL = "https://ims.greenorbit.space"
+title = "Green Orbit Employee ims"
+enableGitInfo = true
+languageCode = "en-us"
+
+[params]
+  docsVersion = "v1.0"
+  highlightStyle = "monokai"
+  favicon = "/images/favicon.png"
+
+[menu]
+  [[menu.main]]
+    name = "Policies"
+    url = "/policies/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Procedures"
+    url = "/procedures/"
+    weight = 2

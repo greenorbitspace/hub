@@ -24,10 +24,10 @@ module:
       target: content
     # Mount Bootstrap assets from node_modules if needed (optional)
     - source: node_modules/bootstrap
-      target: assets/vendor/bootstrap
+      target: shared-theme/assets/vendor/bootstrap
     # Mount Font Awesome SCSS files
     - source: node_modules/@fortawesome/fontawesome-free/scss
-      target: assets/vendor/Font-Awesome/scss
+      target: shared-theme/assets/vendor/Font-Awesome/scss
     # Mount Font Awesome webfonts
     - source: node_modules/@fortawesome/fontawesome-free/webfonts
       target: static/webfonts

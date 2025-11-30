@@ -1,9 +1,0 @@
-[
-  {{- range $i, $p := site.RegularPages -}}
-    {{- if $i }},{{ end }}
-    {
-      "title": {{ $p.Title | jsonify }},
-      "url": {{ $p.Permalink | jsonify }}
-    }
-  {{- end -}}
-]

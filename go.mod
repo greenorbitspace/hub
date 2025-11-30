@@ -1,11 +1,9 @@
-module github.com/greenorbitspace/hub
+module github.com/greenorbitspace/docs
 
-go 1.20
-
-replace github.com/google/docsy => github.com/google/docsy v0.12.0
+go 1.24.4
 
 require (
-	github.com/FortAwesome/Font-Awesome v4.7.0+incompatible // indirect
+	github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3 // indirect
 	github.com/google/docsy v0.12.0 // indirect
-	github.com/twbs/bootstrap v5.3.7+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 )
